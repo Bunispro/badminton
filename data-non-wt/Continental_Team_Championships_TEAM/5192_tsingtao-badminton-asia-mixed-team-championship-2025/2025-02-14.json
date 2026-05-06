@@ -1,0 +1,2788 @@
+[
+  {
+    "id": 1415250,
+    "code": "71",
+    "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+    "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 1414,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 1409,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-14 09:30:00",
+    "matchTimeUtc": "2025-02-14 01:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Mixed Team",
+    "roundName": "QF",
+    "drawName": "Mixed Team - Knock Out Stage",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Qingdao Conson Sports Centre",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1415348,
+        "code": "140",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 1414,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "73936",
+              "nameDisplay": "Supak JOMKOH",
+              "nameType": 0,
+              "firstName": "Supak",
+              "lastName": "JOMKOH",
+              "initials": "SJ",
+              "nameShort": "S JOMKOH",
+              "nameShort2": "JOMKOH",
+              "slug": "supak-jomkoh",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Supak JOMKOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631017/assets/players/thumbnail/73936.jpg"
+              }
+            },
+            {
+              "id": "67158",
+              "nameDisplay": "Sapsiree TAERATTANACHAI",
+              "nameType": 0,
+              "firstName": "Sapsiree",
+              "lastName": "TAERATTANACHAI",
+              "initials": "ST",
+              "nameShort": "S TAERATTANACHAI",
+              "nameShort2": "TAERATTANACHAI",
+              "slug": "sapsiree-taerattanachai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Sapsiree TAERATTANACHAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447113/assets/players/thumbnail/67158.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1409,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "62804",
+              "nameDisplay": "LEE JONGMIN",
+              "nameType": 1,
+              "firstName": "JONGMIN",
+              "lastName": "LEE",
+              "initials": "LJ",
+              "nameShort": "LEE J",
+              "nameShort2": "LEE",
+              "slug": "jongmin-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "JONGMIN LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "99778",
+              "nameDisplay": "JEONG Na Eun",
+              "nameType": 1,
+              "firstName": "Na Eun",
+              "lastName": "JEONG",
+              "initials": "JN",
+              "nameShort": "JEONG N E ",
+              "nameShort2": "JEONG",
+              "slug": "na-eun-jeong",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Na Eun JEONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657779153/assets/players/thumbnail/99778.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 09:30:00",
+        "matchTimeUtc": "2025-02-14 01:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415333,
+        "code": "136",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 1414,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "85845",
+              "nameDisplay": "Panitchaphon TEERARATSAKUL",
+              "nameType": 0,
+              "firstName": "Panitchaphon",
+              "lastName": "TEERARATSAKUL",
+              "initials": "PT",
+              "nameShort": "P TEERARATSAKUL",
+              "nameShort2": "TEERARATSAKUL",
+              "slug": "panitchaphon-teeraratsakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Panitchaphon TEERARATSAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175084/assets/players/thumbnail/85845.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1409,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "79686",
+              "nameDisplay": "LEE Yun Gyu",
+              "nameType": 1,
+              "firstName": "Yun Gyu",
+              "lastName": "LEE",
+              "initials": "LY",
+              "nameShort": "LEE Y G ",
+              "nameShort2": "LEE",
+              "slug": "yun-gyu-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yun Gyu LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689665469/assets/players/thumbnail/79686.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 10:25:00",
+        "matchTimeUtc": "2025-02-14 02:25:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 63,
+        "time": "01:03",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415331,
+        "code": "137",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 1414,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "84062",
+              "nameDisplay": "Pornpawee CHOCHUWONG",
+              "nameType": 0,
+              "firstName": "Pornpawee",
+              "lastName": "CHOCHUWONG",
+              "initials": "PC",
+              "nameShort": "P CHOCHUWONG",
+              "nameShort2": "CHOCHUWONG",
+              "slug": "pornpawee-chochuwong",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Pornpawee CHOCHUWONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697765882/assets/players/thumbnail/84062.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1409,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "99069",
+              "nameDisplay": "SIM Yu Jin",
+              "nameType": 1,
+              "firstName": "Yu Jin",
+              "lastName": "SIM",
+              "initials": "SY",
+              "nameShort": "SIM Y J ",
+              "nameShort2": "SIM",
+              "slug": "yu-jin-sim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yu Jin SIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636594223/assets/players/thumbnail/99069.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 11:30:00",
+        "matchTimeUtc": "2025-02-14 03:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 70,
+        "time": "01:10",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415326,
+        "code": "138",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 1414,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "84102",
+              "nameDisplay": "Peeratchai SUKPHUN",
+              "nameType": 0,
+              "firstName": "Peeratchai",
+              "lastName": "SUKPHUN",
+              "initials": "PS",
+              "nameShort": "P SUKPHUN",
+              "nameShort2": "SUKPHUN",
+              "slug": "peeratchai-sukphun",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Peeratchai SUKPHUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65674",
+              "nameDisplay": "Pakkapon TEERARATSAKUL",
+              "nameType": 0,
+              "firstName": "Pakkapon",
+              "lastName": "TEERARATSAKUL",
+              "initials": "PT",
+              "nameShort": "P TEERARATSAKUL",
+              "nameShort2": "TEERARATSAKUL",
+              "slug": "pakkapon-teeraratsakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Pakkapon TEERARATSAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1409,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "74816",
+              "nameDisplay": "JIN Yong",
+              "nameType": 1,
+              "firstName": "Yong",
+              "lastName": "JIN",
+              "initials": "JY",
+              "nameShort": "JIN Y",
+              "nameShort2": "JIN",
+              "slug": "yong-jin",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yong JIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1732493766/assets/players/thumbnail/74816.jpg"
+              }
+            },
+            {
+              "id": "82502",
+              "nameDisplay": "NA Sung Seung",
+              "nameType": 1,
+              "firstName": "Sung Seung",
+              "lastName": "NA",
+              "initials": "NS",
+              "nameShort": "NA S S ",
+              "nameShort2": "NA",
+              "slug": "sung-seung-na",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sung Seung NA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897813/assets/players/thumbnail/82502.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 12:50:00",
+        "matchTimeUtc": "2025-02-14 04:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 61,
+        "time": "01:01",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415325,
+        "code": "139",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 1414,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "80871",
+              "nameDisplay": "Benyapa AIMSAARD",
+              "nameType": 0,
+              "firstName": "Benyapa",
+              "lastName": "AIMSAARD",
+              "initials": "BA",
+              "nameShort": "B AIMSAARD",
+              "nameShort2": "AIMSAARD",
+              "slug": "benyapa-aimsaard",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Benyapa AIMSAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708349/assets/players/thumbnail/80871.tif"
+              }
+            },
+            {
+              "id": "79198",
+              "nameDisplay": "Nuntakarn AIMSAARD",
+              "nameType": 0,
+              "firstName": "Nuntakarn",
+              "lastName": "AIMSAARD",
+              "initials": "NA",
+              "nameShort": "N AIMSAARD",
+              "nameShort2": "AIMSAARD",
+              "slug": "nuntakarn-aimsaard",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nuntakarn AIMSAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708562/assets/players/thumbnail/79198.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1409,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "99778",
+              "nameDisplay": "JEONG Na Eun",
+              "nameType": 1,
+              "firstName": "Na Eun",
+              "lastName": "JEONG",
+              "initials": "JN",
+              "nameShort": "JEONG N E ",
+              "nameShort2": "JEONG",
+              "slug": "na-eun-jeong",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Na Eun JEONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657779153/assets/players/thumbnail/99778.jpg"
+              }
+            },
+            {
+              "id": "80005",
+              "nameDisplay": "LEE Yeon Woo",
+              "nameType": 1,
+              "firstName": "Yeon Woo",
+              "lastName": "LEE",
+              "initials": "LY",
+              "nameShort": "LEE Y W ",
+              "nameShort2": "LEE",
+              "slug": "yeon-woo-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yeon Woo LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 13:55:00",
+        "matchTimeUtc": "2025-02-14 05:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 84,
+        "time": "01:24",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1415259,
+    "code": "68",
+    "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+    "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 1402,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "HKG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+      "teamId": 1404,
+      "teamName": "Hong Kong China",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-14 17:00:00",
+    "matchTimeUtc": "2025-02-14 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Mixed Team",
+    "roundName": "QF",
+    "drawName": "Mixed Team - Knock Out Stage",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Qingdao Conson Sports Centre",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1415270,
+        "code": "125",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1402,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "23006",
+              "nameDisplay": "LI Hong Yi",
+              "nameType": 1,
+              "firstName": "Hong Yi",
+              "lastName": "LI",
+              "initials": "LH",
+              "nameShort": "LI H Y ",
+              "nameShort2": "LI",
+              "slug": "hong-yi-li",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Hong Yi LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "62277",
+              "nameDisplay": "BAO Li Jing",
+              "nameType": 1,
+              "firstName": "Li Jing",
+              "lastName": "BAO",
+              "initials": "BL",
+              "nameShort": "BAO L J ",
+              "nameShort2": "BAO",
+              "slug": "li-jing-bao",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Li Jing BAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 1404,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "77689",
+              "nameDisplay": "TANG Chun Man",
+              "nameType": 1,
+              "firstName": "Chun Man",
+              "lastName": "TANG",
+              "initials": "TC",
+              "nameShort": "TANG C M ",
+              "nameShort2": "TANG",
+              "slug": "chun-man-tang",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Chun Man TANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658733477/assets/players/thumbnail/77689.jpg"
+              }
+            },
+            {
+              "id": "61986",
+              "nameDisplay": "NG Tsz Yau",
+              "nameType": 1,
+              "firstName": "Tsz Yau",
+              "lastName": "NG",
+              "initials": "NT",
+              "nameShort": "NG T Y ",
+              "nameShort2": "NG",
+              "slug": "tsz-yau-ng",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Tsz Yau NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658731805/assets/players/thumbnail/61986.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 17:05:00",
+        "matchTimeUtc": "2025-02-14 09:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415286,
+        "code": "122",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1402,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "78778",
+              "nameDisplay": "CHEN Yu Fei",
+              "nameType": 1,
+              "firstName": "Yu Fei",
+              "lastName": "CHEN",
+              "initials": "CY",
+              "nameShort": "CHEN Y F ",
+              "nameShort2": "CHEN",
+              "slug": "yu-fei-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yu Fei CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689647649/assets/players/thumbnail/78778.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 1404,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "73746",
+              "nameDisplay": "Saloni Samirbhai MEHTA",
+              "nameType": 0,
+              "firstName": "Saloni Samirbhai",
+              "lastName": "MEHTA",
+              "initials": "SM",
+              "nameShort": "S MEHTA",
+              "nameShort2": "MEHTA",
+              "slug": "saloni-samirbhai-mehta",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Saloni Samirbhai MEHTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 17:45:00",
+        "matchTimeUtc": "2025-02-14 09:45:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415288,
+        "code": "121",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1402,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "73591",
+              "nameDisplay": "HU Zhe An",
+              "nameType": 1,
+              "firstName": "Zhe An",
+              "lastName": "HU",
+              "initials": "HZ",
+              "nameShort": "HU Z A ",
+              "nameShort2": "HU",
+              "slug": "zhe-an-hu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Zhe An HU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696904133/assets/players/thumbnail/73591.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 1404,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "94780",
+              "nameDisplay": "LEE Cheuk Yiu",
+              "nameType": 1,
+              "firstName": "Cheuk Yiu",
+              "lastName": "LEE",
+              "initials": "LC",
+              "nameShort": "LEE C Y ",
+              "nameShort2": "LEE",
+              "slug": "cheuk-yiu-lee",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Cheuk Yiu LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636512114/assets/players/thumbnail/94780.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 18:25:00",
+        "matchTimeUtc": "2025-02-14 10:25:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 70,
+        "time": "01:10",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415283,
+        "code": "124",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1402,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "63493",
+              "nameDisplay": "KENG Shu Liang",
+              "nameType": 1,
+              "firstName": "Shu Liang",
+              "lastName": "KENG",
+              "initials": "KS",
+              "nameShort": "KENG S L ",
+              "nameShort2": "KENG",
+              "slug": "shu-liang-keng",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Shu Liang KENG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "62035",
+              "nameDisplay": "WANG Ting Ge",
+              "nameType": 1,
+              "firstName": "Ting Ge",
+              "lastName": "WANG",
+              "initials": "WT",
+              "nameShort": "WANG T G ",
+              "nameShort2": "WANG",
+              "slug": "ting-ge-wang",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Ting Ge WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667177024/assets/players/thumbnail/62035.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 1404,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "68015",
+              "nameDisplay": "YEUNG Nga Ting",
+              "nameType": 1,
+              "firstName": "Nga Ting",
+              "lastName": "YEUNG",
+              "initials": "YN",
+              "nameShort": "YEUNG N T ",
+              "nameShort2": "YEUNG",
+              "slug": "nga-ting-yeung",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Nga Ting YEUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895439/assets/players/thumbnail/68015.jpg"
+              }
+            },
+            {
+              "id": "75864",
+              "nameDisplay": "YEUNG Pui Lam",
+              "nameType": 1,
+              "firstName": "Pui Lam",
+              "lastName": "YEUNG",
+              "initials": "YP",
+              "nameShort": "YEUNG P L ",
+              "nameShort2": "YEUNG",
+              "slug": "pui-lam-yeung",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Pui Lam YEUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690356623/assets/players/thumbnail/75864.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 19:45:00",
+        "matchTimeUtc": "2025-02-14 11:45:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 90,
+        "time": "01:30",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415284,
+        "code": "123",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1402,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "67527",
+              "nameDisplay": "CHEN Xu Jun",
+              "nameType": 1,
+              "firstName": "Xu Jun",
+              "lastName": "CHEN",
+              "initials": "CX",
+              "nameShort": "CHEN X J ",
+              "nameShort2": "CHEN",
+              "slug": "xu-jun-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Xu Jun CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65491",
+              "nameDisplay": "HUANG Di",
+              "nameType": 1,
+              "firstName": "Di",
+              "lastName": "HUANG",
+              "initials": "HD",
+              "nameShort": "HUANG D",
+              "nameShort2": "HUANG",
+              "slug": "huang-di",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "HUANG Di",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 1404,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "62282",
+              "nameDisplay": "LAW Cheuk Him",
+              "nameType": 1,
+              "firstName": "Cheuk Him",
+              "lastName": "LAW",
+              "initials": "LC",
+              "nameShort": "LAW C H ",
+              "nameShort2": "LAW",
+              "slug": "cheuk-him-law",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Cheuk Him LAW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895365/assets/players/thumbnail/62282.jpg"
+              }
+            },
+            {
+              "id": "68061",
+              "nameDisplay": "YEUNG Shing Choi",
+              "nameType": 1,
+              "firstName": "Shing Choi",
+              "lastName": "YEUNG",
+              "initials": "YS",
+              "nameShort": "YEUNG S C ",
+              "nameShort2": "YEUNG",
+              "slug": "shing-choi-yeung",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Shing Choi YEUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 21:20:00",
+        "matchTimeUtc": "2025-02-14 13:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1415260,
+    "code": "69",
+    "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+    "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 1407,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IND",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+      "teamId": 1405,
+      "teamName": "India",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-14 09:30:00",
+    "matchTimeUtc": "2025-02-14 01:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Mixed Team",
+    "roundName": "QF",
+    "drawName": "Mixed Team - Knock Out Stage",
+    "drawCode": "5",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Qingdao Conson Sports Centre",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1415338,
+        "code": "130",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1407,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "64944",
+              "nameDisplay": "Hiroki MIDORIKAWA",
+              "nameType": 0,
+              "firstName": "Hiroki",
+              "lastName": "MIDORIKAWA",
+              "initials": "HM",
+              "nameShort": "H MIDORIKAWA",
+              "nameShort2": "MIDORIKAWA",
+              "slug": "hiroki-midorikawa",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Hiroki MIDORIKAWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896575/assets/players/thumbnail/64944.jpg"
+              }
+            },
+            {
+              "id": "55417",
+              "nameDisplay": "Natsu SAITO",
+              "nameType": 0,
+              "firstName": "Natsu",
+              "lastName": "SAITO",
+              "initials": "NS",
+              "nameShort": "N SAITO",
+              "nameShort2": "SAITO",
+              "slug": "natsu-saito",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Natsu SAITO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896443/assets/players/thumbnail/55417.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 1405,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "57372",
+              "nameDisplay": "DHRUV KAPILA",
+              "nameType": 0,
+              "firstName": "DHRUV",
+              "lastName": "KAPILA",
+              "initials": "DK",
+              "nameShort": "D KAPILA",
+              "nameShort2": "KAPILA",
+              "slug": "dhruv-kapila",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "DHRUV KAPILA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895867/assets/players/thumbnail/57372.jpg"
+              }
+            },
+            {
+              "id": "94165",
+              "nameDisplay": "Tanisha CRASTO",
+              "nameType": 0,
+              "firstName": "Tanisha",
+              "lastName": "CRASTO",
+              "initials": "TC",
+              "nameShort": "T CRASTO",
+              "nameShort2": "CRASTO",
+              "slug": "tanisha-crasto",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Tanisha CRASTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631181/assets/players/thumbnail/94165.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 09:35:00",
+        "matchTimeUtc": "2025-02-14 01:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 61,
+        "time": "01:01",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415287,
+        "code": "127",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1407,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "82070",
+              "nameDisplay": "Tomoka MIYAZAKI",
+              "nameType": 0,
+              "firstName": "Tomoka",
+              "lastName": "MIYAZAKI",
+              "initials": "TM",
+              "nameShort": "T MIYAZAKI",
+              "nameShort2": "MIYAZAKI",
+              "slug": "tomoka-miyazaki",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Tomoka MIYAZAKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175143/assets/players/thumbnail/82070.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 1405,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "88471",
+              "nameDisplay": "Malvika BANSOD",
+              "nameType": 0,
+              "firstName": "Malvika",
+              "lastName": "BANSOD",
+              "initials": "MB",
+              "nameShort": "M BANSOD",
+              "nameShort2": "BANSOD",
+              "slug": "malvika-bansod",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Malvika BANSOD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896460/assets/players/thumbnail/88471.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 10:40:00",
+        "matchTimeUtc": "2025-02-14 02:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415271,
+        "code": "126",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1407,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "85394",
+              "nameDisplay": "Kenta NISHIMOTO",
+              "nameType": 0,
+              "firstName": "Kenta",
+              "lastName": "NISHIMOTO",
+              "initials": "KN",
+              "nameShort": "K NISHIMOTO",
+              "nameShort2": "NISHIMOTO",
+              "slug": "kenta-nishimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenta NISHIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897462/assets/players/thumbnail/85394.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 1405,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "83950",
+              "nameDisplay": "PRANNOY H. S.",
+              "nameType": 1,
+              "firstName": "H. S.",
+              "lastName": "PRANNOY",
+              "initials": "PH",
+              "nameShort": "PRANNOY H S ",
+              "nameShort2": "PRANNOY",
+              "slug": "h-s-prannoy",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "H. S. PRANNOY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773756/assets/players/thumbnail/83950.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 11:25:00",
+        "matchTimeUtc": "2025-02-14 03:25:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 77,
+        "time": "01:17",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415269,
+        "code": "129",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1407,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "79558",
+              "nameDisplay": "Arisa IGARASHI",
+              "nameType": 0,
+              "firstName": "Arisa",
+              "lastName": "IGARASHI",
+              "initials": "AI",
+              "nameShort": "A IGARASHI",
+              "nameShort2": "IGARASHI",
+              "slug": "arisa-igarashi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Arisa IGARASHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627952966/assets/players/thumbnail/79558.jpg"
+              }
+            },
+            {
+              "id": "83211",
+              "nameDisplay": "Ayako SAKURAMOTO",
+              "nameType": 0,
+              "firstName": "Ayako",
+              "lastName": "SAKURAMOTO",
+              "initials": "AS",
+              "nameShort": "A SAKURAMOTO",
+              "nameShort2": "SAKURAMOTO",
+              "slug": "ayako-sakuramoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Ayako SAKURAMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896000/assets/players/thumbnail/83211.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 1405,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "71612",
+              "nameDisplay": "Treesa JOLLY",
+              "nameType": 0,
+              "firstName": "Treesa",
+              "lastName": "JOLLY",
+              "initials": "TJ",
+              "nameShort": "T JOLLY",
+              "nameShort2": "JOLLY",
+              "slug": "treesa-jolly",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Treesa JOLLY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1648717096/assets/players/thumbnail/71612.jpg"
+              }
+            },
+            {
+              "id": "59966",
+              "nameDisplay": "GAYATRI GOPICHAND PULLELA",
+              "nameType": 0,
+              "firstName": "GAYATRI GOPICHAND",
+              "lastName": "PULLELA",
+              "initials": "GP",
+              "nameShort": "G PULLELA",
+              "nameShort2": "PULLELA",
+              "slug": "gayatri-gopichand-pullela",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "GAYATRI GOPICHAND PULLELA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896462/assets/players/thumbnail/59966.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 12:15:00",
+        "matchTimeUtc": "2025-02-14 04:15:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1415285,
+        "code": "128",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1407,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "78839",
+              "nameDisplay": "Takumi NOMURA",
+              "nameType": 0,
+              "firstName": "Takumi",
+              "lastName": "NOMURA",
+              "initials": "TN",
+              "nameShort": "T NOMURA",
+              "nameShort2": "NOMURA",
+              "slug": "takumi-nomura",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Takumi NOMURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "79501",
+              "nameDisplay": "Yuichi SHIMOGAMI",
+              "nameType": 0,
+              "firstName": "Yuichi",
+              "lastName": "SHIMOGAMI",
+              "initials": "YS",
+              "nameShort": "Y SHIMOGAMI",
+              "nameShort2": "SHIMOGAMI",
+              "slug": "yuichi-shimogami",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yuichi SHIMOGAMI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 1405,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "72435",
+              "nameDisplay": "Satwiksairaj RANKIREDDY",
+              "nameType": 0,
+              "firstName": "Satwiksairaj",
+              "lastName": "RANKIREDDY",
+              "initials": "SR",
+              "nameShort": "S RANKIREDDY",
+              "nameShort2": "RANKIREDDY",
+              "slug": "satwiksairaj-rankireddy",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Satwiksairaj RANKIREDDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697771308/assets/players/thumbnail/72435.jpg"
+              }
+            },
+            {
+              "id": "70500",
+              "nameDisplay": "Chirag SHETTY",
+              "nameType": 0,
+              "firstName": "Chirag",
+              "lastName": "SHETTY",
+              "initials": "CS",
+              "nameShort": "C SHETTY",
+              "nameShort2": "SHETTY",
+              "slug": "chirag-shetty",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Chirag SHETTY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697771565/assets/players/thumbnail/70500.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 12:50:00",
+        "matchTimeUtc": "2025-02-14 04:50:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1415255,
+    "code": "70",
+    "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+    "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 1403,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 1406,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-14 17:00:00",
+    "matchTimeUtc": "2025-02-14 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Mixed Team",
+    "roundName": "QF",
+    "drawName": "Mixed Team - Knock Out Stage",
+    "drawCode": "5",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Qingdao Conson Sports Centre",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1415324,
+        "code": "135",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1403,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "76275",
+              "nameDisplay": "YANG Po-Hsuan",
+              "nameType": 1,
+              "firstName": "Po-Hsuan",
+              "lastName": "YANG",
+              "initials": "YP",
+              "nameShort": "YANG P H ",
+              "nameShort2": "YANG",
+              "slug": "po-hsuan-yang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Po-Hsuan YANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773412/assets/players/thumbnail/76275.jpg"
+              }
+            },
+            {
+              "id": "87176",
+              "nameDisplay": "HU Ling Fang",
+              "nameType": 1,
+              "firstName": "Ling Fang",
+              "lastName": "HU",
+              "initials": "HL",
+              "nameShort": "HU L F ",
+              "nameShort2": "HU",
+              "slug": "ling-fang-hu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ling Fang HU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773544/assets/players/thumbnail/87176.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 1406,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "81458",
+              "nameDisplay": "Dejan FERDINANSYAH",
+              "nameType": 0,
+              "firstName": "Dejan",
+              "lastName": "FERDINANSYAH",
+              "initials": "DF",
+              "nameShort": "D FERDINANSYAH",
+              "nameShort2": "FERDINANSYAH",
+              "slug": "dejan-ferdinansyah",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Dejan FERDINANSYAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1675034489/assets/players/thumbnail/81458.jpg"
+              }
+            },
+            {
+              "id": "88097",
+              "nameDisplay": "Siti Fadia Silva RAMADHANTI",
+              "nameType": 0,
+              "firstName": "Siti Fadia Silva",
+              "lastName": "RAMADHANTI",
+              "initials": "SR",
+              "nameShort": "S RAMADHANTI",
+              "nameShort2": "RAMADHANTI",
+              "slug": "siti-fadia-silva-ramadhanti",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Siti Fadia Silva RAMADHANTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636509375/assets/players/thumbnail/88097.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 17:05:00",
+        "matchTimeUtc": "2025-02-14 09:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 58,
+        "time": "00:58",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415344,
+        "code": "131",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1403,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "59322",
+              "nameDisplay": "LEE Chia Hao",
+              "nameType": 1,
+              "firstName": "Chia Hao",
+              "lastName": "LEE",
+              "initials": "CL",
+              "nameShort": "C LEE",
+              "nameShort2": "LEE",
+              "slug": "chia-hao-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chia Hao LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689649583/assets/players/thumbnail/59322.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 1406,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "58089",
+              "nameDisplay": "Alwi FARHAN",
+              "nameType": 0,
+              "firstName": "Alwi",
+              "lastName": "FARHAN",
+              "initials": "AF",
+              "nameShort": "A FARHAN",
+              "nameShort2": "FARHAN",
+              "slug": "alwi-farhan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Alwi FARHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693964609/assets/players/thumbnail/58089.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 18:10:00",
+        "matchTimeUtc": "2025-02-14 10:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 70,
+        "time": "01:10",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415323,
+        "code": "132",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1403,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "88807",
+              "nameDisplay": "SUNG Shuo Yun",
+              "nameType": 1,
+              "firstName": "Shuo Yun",
+              "lastName": "SUNG",
+              "initials": "SS",
+              "nameShort": "SUNG S Y ",
+              "nameShort2": "SUNG",
+              "slug": "shuo-yun-sung",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Shuo Yun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658730956/assets/players/thumbnail/88807.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 1406,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "76890",
+              "nameDisplay": "Putri Kusuma WARDANI",
+              "nameType": 0,
+              "firstName": "Putri Kusuma",
+              "lastName": "WARDANI",
+              "initials": "PW",
+              "nameShort": "P WARDANI",
+              "nameShort2": "WARDANI",
+              "slug": "putri-kusuma-wardani",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Putri Kusuma WARDANI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1766038573/assets/players/thumbnail/76890.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 19:25:00",
+        "matchTimeUtc": "2025-02-14 11:25:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1415322,
+        "code": "133",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1403,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "59609",
+              "nameDisplay": "LIU Kuang Heng",
+              "nameType": 1,
+              "firstName": "Kuang Heng",
+              "lastName": "LIU",
+              "initials": "LK",
+              "nameShort": "LIU K H ",
+              "nameShort2": "LIU",
+              "slug": "liu-kuang-heng",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "LIU Kuang Heng",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "96514",
+              "nameDisplay": "WANG Chi-Lin",
+              "nameType": 1,
+              "firstName": "Chi-Lin",
+              "lastName": "WANG",
+              "initials": "WC",
+              "nameShort": "WANG C L ",
+              "nameShort2": "WANG",
+              "slug": "chi-lin-wang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chi-Lin WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949747/assets/players/thumbnail/96514.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 1406,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "91440",
+              "nameDisplay": "Muhammad Shohibul FIKRI",
+              "nameType": 0,
+              "firstName": "Muhammad Shohibul",
+              "lastName": "FIKRI",
+              "initials": "MF",
+              "nameShort": "M FIKRI",
+              "nameShort2": "FIKRI",
+              "slug": "muhammad-shohibul-fikri",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Muhammad Shohibul FIKRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895889/assets/players/thumbnail/91440.jpg"
+              }
+            },
+            {
+              "id": "84786",
+              "nameDisplay": "Daniel MARTHIN",
+              "nameType": 0,
+              "firstName": "Daniel",
+              "lastName": "MARTHIN",
+              "initials": "DM",
+              "nameShort": "D MARTHIN",
+              "nameShort2": "MARTHIN",
+              "slug": "daniel-marthin",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Daniel MARTHIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896456/assets/players/thumbnail/84786.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 20:15:00",
+        "matchTimeUtc": "2025-02-14 12:15:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1415341,
+        "code": "134",
+        "tournamentCode": "229A4018-0E5D-4767-9C7E-E6AF02B8020A",
+        "tournamentName": "TSINGTAO Badminton Asia Mixed Team Championship 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1403,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "62639",
+              "nameDisplay": "HUNG En-Tzu",
+              "nameType": 1,
+              "firstName": "En-Tzu",
+              "lastName": "HUNG",
+              "initials": "HE",
+              "nameShort": "HUNG E T ",
+              "nameShort2": "HUNG",
+              "slug": "en-tzu-hung",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "En-Tzu HUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696987097/assets/players/thumbnail/62639.jpg"
+              }
+            },
+            {
+              "id": "80299",
+              "nameDisplay": "TENG Chun Hsun",
+              "nameType": 1,
+              "firstName": "Chun Hsun",
+              "lastName": "TENG",
+              "initials": "TC",
+              "nameShort": "TENG C H ",
+              "nameShort2": "TENG",
+              "slug": "chun-hsun-teng",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chun Hsun TENG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690356333/assets/players/thumbnail/80299.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 1406,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "57560",
+              "nameDisplay": "Lanny Tria MAYASARI",
+              "nameType": 0,
+              "firstName": "Lanny Tria",
+              "lastName": "MAYASARI",
+              "initials": "LM",
+              "nameShort": "L MAYASARI",
+              "nameShort2": "MAYASARI",
+              "slug": "lanny-tria-mayasari",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Lanny Tria MAYASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690186369/assets/players/thumbnail/57560.jpg"
+              }
+            },
+            {
+              "id": "88097",
+              "nameDisplay": "Siti Fadia Silva RAMADHANTI",
+              "nameType": 0,
+              "firstName": "Siti Fadia Silva",
+              "lastName": "RAMADHANTI",
+              "initials": "SR",
+              "nameShort": "S RAMADHANTI",
+              "nameShort2": "RAMADHANTI",
+              "slug": "siti-fadia-silva-ramadhanti",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Siti Fadia Silva RAMADHANTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636509375/assets/players/thumbnail/88097.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-14 20:20:00",
+        "matchTimeUtc": "2025-02-14 12:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Mixed Team",
+        "roundName": "QF",
+        "drawName": "Mixed Team - Knock Out Stage",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Sports Centre",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

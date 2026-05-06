@@ -1,0 +1,666 @@
+[
+  {
+    "id": 154317,
+    "code": "88",
+    "tournamentCode": "75987977-C3DC-4A67-8D3C-1FB9835D5518",
+    "tournamentName": "PROTON BWF THOMAS & UBER CUP FINALS 2010",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 1,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2010-05-15 14:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Uber Cup",
+    "roundName": "Final",
+    "drawName": "Uber Cup",
+    "drawCode": "10",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "STADIUM PUTRA",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 154318,
+        "code": "186",
+        "tournamentCode": "75987977-C3DC-4A67-8D3C-1FB9835D5518",
+        "tournamentName": "PROTON BWF THOMAS & UBER CUP FINALS 2010",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "53938",
+              "nameDisplay": "WANG Yihan",
+              "nameType": 1,
+              "firstName": "Yihan",
+              "lastName": "WANG",
+              "initials": "WY",
+              "nameShort": "WANG Y",
+              "nameShort2": "WANG",
+              "slug": "wang-yihan",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "WANG Yihan",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894485/assets/players/thumbnail/53938.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51396",
+              "nameDisplay": "BAE Seung Hee",
+              "nameType": 1,
+              "firstName": "Seung Hee",
+              "lastName": "BAE",
+              "initials": "BS",
+              "nameShort": "BAE S H ",
+              "nameShort2": "BAE",
+              "slug": "bae-seung-hee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "BAE Seung Hee",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-05-15 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "STADIUM PUTRA",
+        "duration": 49,
+        "time": "00:49",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 154319,
+        "code": "189",
+        "tournamentCode": "75987977-C3DC-4A67-8D3C-1FB9835D5518",
+        "tournamentName": "PROTON BWF THOMAS & UBER CUP FINALS 2010",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "95281",
+              "nameDisplay": "MA Jin",
+              "nameType": 1,
+              "firstName": "Jin",
+              "lastName": "MA",
+              "initials": "MJ",
+              "nameShort": "MA J",
+              "nameShort2": "MA",
+              "slug": "ma-jin",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "MA Jin",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604893710/assets/players/thumbnail/95281.jpg"
+              }
+            },
+            {
+              "id": "14393",
+              "nameDisplay": "WANG Xiaoli",
+              "nameType": 1,
+              "firstName": "Xiaoli",
+              "lastName": "WANG",
+              "initials": "WX",
+              "nameShort": "WANG X",
+              "nameShort2": "WANG",
+              "slug": "wang-xiaoli",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "WANG Xiaoli",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894314/assets/players/thumbnail/14393.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "53333",
+              "nameDisplay": "KIM Min Jung",
+              "nameType": 1,
+              "firstName": "Min Jung",
+              "lastName": "KIM",
+              "initials": "KM",
+              "nameShort": "KIM M J ",
+              "nameShort2": "KIM",
+              "slug": "kim-min-jung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "KIM Min Jung",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "12193",
+              "nameDisplay": "LEE Hyo Jung",
+              "nameType": 1,
+              "firstName": "Hyo Jung",
+              "lastName": "LEE",
+              "initials": "LH",
+              "nameShort": "LEE H J ",
+              "nameShort2": "LEE",
+              "slug": "lee-hyo-jung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "LEE Hyo Jung",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896867/assets/players/thumbnail/12193.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-05-15 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": "Final",
+        "drawName": "Uber Cup",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "STADIUM PUTRA",
+        "duration": 66,
+        "time": "01:06",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 154320,
+        "code": "187",
+        "tournamentCode": "75987977-C3DC-4A67-8D3C-1FB9835D5518",
+        "tournamentName": "PROTON BWF THOMAS & UBER CUP FINALS 2010",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51520",
+              "nameDisplay": "WANG Xin",
+              "nameType": 1,
+              "firstName": "Xin",
+              "lastName": "WANG",
+              "initials": "WX",
+              "nameShort": "WANG X",
+              "nameShort2": "WANG",
+              "slug": "wang-xin",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "WANG Xin",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894361/assets/players/thumbnail/51520.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "76594",
+              "nameDisplay": "SUNG Jihyun",
+              "nameType": 1,
+              "firstName": "Jihyun",
+              "lastName": "SUNG",
+              "initials": "SJ",
+              "nameShort": "SUNG J",
+              "nameShort2": "SUNG",
+              "slug": "jihyun-sung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Jihyun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897520/assets/players/thumbnail/76594.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-05-15 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "STADIUM PUTRA",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 154321,
+        "code": "190",
+        "tournamentCode": "75987977-C3DC-4A67-8D3C-1FB9835D5518",
+        "tournamentName": "PROTON BWF THOMAS & UBER CUP FINALS 2010",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14624",
+              "nameDisplay": "DU Jing",
+              "nameType": 1,
+              "firstName": "Jing",
+              "lastName": "DU",
+              "initials": "DJ",
+              "nameShort": "DU J",
+              "nameShort2": "DU",
+              "slug": "du-jing",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "DU Jing",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894320/assets/players/thumbnail/14624.jpg"
+              }
+            },
+            {
+              "id": "51667",
+              "nameDisplay": "YU Yang (F)",
+              "nameType": 1,
+              "firstName": "Yang (F)",
+              "lastName": "YU",
+              "initials": "YY",
+              "nameShort": "YU Y ( ",
+              "nameShort2": "YU",
+              "slug": "yu-yang-f",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "YU Yang (F)",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894367/assets/players/thumbnail/51667.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "15412",
+              "nameDisplay": "HA Jung Eun",
+              "nameType": 1,
+              "firstName": "Jung Eun",
+              "lastName": "HA",
+              "initials": "HJ",
+              "nameShort": "HA J E ",
+              "nameShort2": "HA",
+              "slug": "ha-jung-eun",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "HA Jung Eun",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896935/assets/players/thumbnail/15412.jpg"
+              }
+            },
+            {
+              "id": "8245",
+              "nameDisplay": "LEE Kyung Won",
+              "nameType": 1,
+              "firstName": "Kyung Won",
+              "lastName": "LEE",
+              "initials": "LK",
+              "nameShort": "LEE K W ",
+              "nameShort2": "LEE",
+              "slug": "lee-kyung-won",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "LEE Kyung Won",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896827/assets/players/thumbnail/8245.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-05-15 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": "Final",
+        "drawName": "Uber Cup",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "STADIUM PUTRA",
+        "duration": 79,
+        "time": "01:19",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 154322,
+        "code": "188",
+        "tournamentCode": "75987977-C3DC-4A67-8D3C-1FB9835D5518",
+        "tournamentName": "PROTON BWF THOMAS & UBER CUP FINALS 2010",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14874",
+              "nameDisplay": "JIANG Yanjiao",
+              "nameType": 1,
+              "firstName": "Yanjiao",
+              "lastName": "JIANG",
+              "initials": "JY",
+              "nameShort": "JIANG Y",
+              "nameShort2": "JIANG",
+              "slug": "jiang-yanjiao",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "JIANG Yanjiao",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "22455",
+              "nameDisplay": "BAE Yeon Ju",
+              "nameType": 1,
+              "firstName": "Yeon Ju",
+              "lastName": "BAE",
+              "initials": "BY",
+              "nameShort": "BAE Y J ",
+              "nameShort2": "BAE",
+              "slug": "bae-yeon-ju",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "BAE Yeon Ju",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896965/assets/players/thumbnail/22455.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-05-15 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "STADIUM PUTRA",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,2806 @@
+[
+  {
+    "id": 1450882,
+    "code": "44",
+    "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+    "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "NEP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+      "teamId": 1965,
+      "teamName": "Nepal",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PAK",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+      "teamId": 1967,
+      "teamName": "Pakistan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-08-15 11:00:00",
+    "matchTimeUtc": "2025-08-15 05:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Under 23",
+    "roundName": "R1",
+    "drawName": "Under 23 - Regional Under 23",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "BHUTAN BADMINTON FEDERATION",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1450919,
+        "code": "75",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1965,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "90978",
+              "nameDisplay": "Prince DAHAL",
+              "nameType": 0,
+              "firstName": "Prince",
+              "lastName": "DAHAL",
+              "initials": "PD",
+              "nameShort": "P DAHAL",
+              "nameShort2": "DAHAL",
+              "slug": "prince-dahal",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Prince DAHAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719888265/assets/players/thumbnail/90978.jpg"
+              }
+            },
+            {
+              "id": "90039",
+              "nameDisplay": "Rasila MAHARJAN",
+              "nameType": 0,
+              "firstName": "Rasila",
+              "lastName": "MAHARJAN",
+              "initials": "RM",
+              "nameShort": "R MAHARJAN",
+              "nameShort2": "MAHARJAN",
+              "slug": "rasila-maharjan",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Rasila MAHARJAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1967,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "11414",
+              "nameDisplay": "Raja Hassan MUJTABA",
+              "nameType": 0,
+              "firstName": "Raja Hassan",
+              "lastName": "MUJTABA",
+              "initials": "RM",
+              "nameShort": "R MUJTABA",
+              "nameShort2": "MUJTABA",
+              "slug": "raja-hassan-mujtaba",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Raja Hassan MUJTABA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "25759",
+              "nameDisplay": "Umama USMAN",
+              "nameType": 0,
+              "firstName": "Umama",
+              "lastName": "USMAN",
+              "initials": "UU",
+              "nameShort": "U USMAN",
+              "nameShort2": "USMAN",
+              "slug": "umama-usman",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Umama USMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 11:00:00",
+        "matchTimeUtc": "2025-08-15 05:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450913,
+        "code": "72",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1965,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "90039",
+              "nameDisplay": "Rasila MAHARJAN",
+              "nameType": 0,
+              "firstName": "Rasila",
+              "lastName": "MAHARJAN",
+              "initials": "RM",
+              "nameShort": "R MAHARJAN",
+              "nameShort2": "MAHARJAN",
+              "slug": "rasila-maharjan",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Rasila MAHARJAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1967,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "55947",
+              "nameDisplay": "Ammarah ISHTIAQ",
+              "nameType": 0,
+              "firstName": "Ammarah",
+              "lastName": "ISHTIAQ",
+              "initials": "AI",
+              "nameShort": "A ISHTIAQ",
+              "nameShort2": "ISHTIAQ",
+              "slug": "ammarah-ishtiaq",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Ammarah ISHTIAQ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 11:30:00",
+        "matchTimeUtc": "2025-08-15 05:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450914,
+        "code": "71",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1965,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "90978",
+              "nameDisplay": "Prince DAHAL",
+              "nameType": 0,
+              "firstName": "Prince",
+              "lastName": "DAHAL",
+              "initials": "PD",
+              "nameShort": "P DAHAL",
+              "nameShort2": "DAHAL",
+              "slug": "prince-dahal",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Prince DAHAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719888265/assets/players/thumbnail/90978.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1967,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "74863",
+              "nameDisplay": "Muhammad ADNAN",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "ADNAN",
+              "initials": "MA",
+              "nameShort": "M ADNAN",
+              "nameShort2": "ADNAN",
+              "slug": "muhammad-adnan",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Muhammad ADNAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 12:00:00",
+        "matchTimeUtc": "2025-08-15 06:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450909,
+        "code": "74",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1965,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "90039",
+              "nameDisplay": "Rasila MAHARJAN",
+              "nameType": 0,
+              "firstName": "Rasila",
+              "lastName": "MAHARJAN",
+              "initials": "RM",
+              "nameShort": "R MAHARJAN",
+              "nameShort2": "MAHARJAN",
+              "slug": "rasila-maharjan",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Rasila MAHARJAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "18707",
+              "nameDisplay": "Ayushma NEPAL",
+              "nameType": 0,
+              "firstName": "Ayushma",
+              "lastName": "NEPAL",
+              "initials": "AN",
+              "nameShort": "A NEPAL",
+              "nameShort2": "NEPAL",
+              "slug": "ayushma-nepal",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Ayushma NEPAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1967,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "55947",
+              "nameDisplay": "Ammarah ISHTIAQ",
+              "nameType": 0,
+              "firstName": "Ammarah",
+              "lastName": "ISHTIAQ",
+              "initials": "AI",
+              "nameShort": "A ISHTIAQ",
+              "nameShort2": "ISHTIAQ",
+              "slug": "ammarah-ishtiaq",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Ammarah ISHTIAQ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "25759",
+              "nameDisplay": "Umama USMAN",
+              "nameType": 0,
+              "firstName": "Umama",
+              "lastName": "USMAN",
+              "initials": "UU",
+              "nameShort": "U USMAN",
+              "nameShort2": "USMAN",
+              "slug": "umama-usman",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Umama USMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 12:30:00",
+        "matchTimeUtc": "2025-08-15 06:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450912,
+        "code": "73",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1965,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "90978",
+              "nameDisplay": "Prince DAHAL",
+              "nameType": 0,
+              "firstName": "Prince",
+              "lastName": "DAHAL",
+              "initials": "PD",
+              "nameShort": "P DAHAL",
+              "nameShort2": "DAHAL",
+              "slug": "prince-dahal",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Prince DAHAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719888265/assets/players/thumbnail/90978.jpg"
+              }
+            },
+            {
+              "id": "89272",
+              "nameDisplay": "Kshitiz KHANAL",
+              "nameType": 0,
+              "firstName": "Kshitiz",
+              "lastName": "KHANAL",
+              "initials": "KK",
+              "nameShort": "K KHANAL",
+              "nameShort2": "KHANAL",
+              "slug": "kshitiz-khanal",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Kshitiz KHANAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1967,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "74863",
+              "nameDisplay": "Muhammad ADNAN",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "ADNAN",
+              "initials": "MA",
+              "nameShort": "M ADNAN",
+              "nameShort2": "ADNAN",
+              "slug": "muhammad-adnan",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Muhammad ADNAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "11414",
+              "nameDisplay": "Raja Hassan MUJTABA",
+              "nameType": 0,
+              "firstName": "Raja Hassan",
+              "lastName": "MUJTABA",
+              "initials": "RM",
+              "nameShort": "R MUJTABA",
+              "nameShort2": "MUJTABA",
+              "slug": "raja-hassan-mujtaba",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Raja Hassan MUJTABA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 13:00:00",
+        "matchTimeUtc": "2025-08-15 07:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 48,
+        "time": "00:48",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1450888,
+    "code": "46",
+    "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+    "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SRI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+      "teamId": 1968,
+      "teamName": "Sri Lanka",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BHU",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+      "teamId": 1966,
+      "teamName": "Bhutan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-08-15 15:00:00",
+    "matchTimeUtc": "2025-08-15 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Under 23",
+    "roundName": "R1",
+    "drawName": "Under 23 - Regional Under 23",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "BHUTAN BADMINTON FEDERATION",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1450923,
+        "code": "76",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1968,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "87857",
+              "nameDisplay": "Dumindu ABEYWICKRAMA",
+              "nameType": 0,
+              "firstName": "Dumindu",
+              "lastName": "ABEYWICKRAMA",
+              "initials": "DA",
+              "nameShort": "D ABEYWICKRAMA",
+              "nameShort2": "ABEYWICKRAMA",
+              "slug": "dumindu-abeywickrama",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Dumindu ABEYWICKRAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1966,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "69285",
+              "nameDisplay": "Avik BALAMPAKI",
+              "nameType": 0,
+              "firstName": "Avik",
+              "lastName": "BALAMPAKI",
+              "initials": "AB",
+              "nameShort": "A BALAMPAKI",
+              "nameShort2": "BALAMPAKI",
+              "slug": "avik-balampaki",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Avik BALAMPAKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 15:00:00",
+        "matchTimeUtc": "2025-08-15 09:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450898,
+        "code": "77",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1968,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "86700",
+              "nameDisplay": "Ranithma LIYANAGE",
+              "nameType": 0,
+              "firstName": "Ranithma",
+              "lastName": "LIYANAGE",
+              "initials": "RL",
+              "nameShort": "R LIYANAGE",
+              "nameShort2": "LIYANAGE",
+              "slug": "ranithma-liyanage",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Ranithma LIYANAGE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728457306/assets/players/thumbnail/86700.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1966,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "29278",
+              "nameDisplay": "Kritty GURUNG",
+              "nameType": 0,
+              "firstName": "Kritty",
+              "lastName": "GURUNG",
+              "initials": "KG",
+              "nameShort": "K GURUNG",
+              "nameShort2": "GURUNG",
+              "slug": "kritty-gurung",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Kritty GURUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 15:30:00",
+        "matchTimeUtc": "2025-08-15 09:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450895,
+        "code": "78",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1968,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "87857",
+              "nameDisplay": "Dumindu ABEYWICKRAMA",
+              "nameType": 0,
+              "firstName": "Dumindu",
+              "lastName": "ABEYWICKRAMA",
+              "initials": "DA",
+              "nameShort": "D ABEYWICKRAMA",
+              "nameShort2": "ABEYWICKRAMA",
+              "slug": "dumindu-abeywickrama",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Dumindu ABEYWICKRAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "64666",
+              "nameDisplay": "Viren NETTASINGHE",
+              "nameType": 0,
+              "firstName": "Viren",
+              "lastName": "NETTASINGHE",
+              "initials": "VN",
+              "nameShort": "V NETTASINGHE",
+              "nameShort2": "NETTASINGHE",
+              "slug": "viren-nettasinghe",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Viren NETTASINGHE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719896444/assets/players/thumbnail/64666.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1966,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "69285",
+              "nameDisplay": "Avik BALAMPAKI",
+              "nameType": 0,
+              "firstName": "Avik",
+              "lastName": "BALAMPAKI",
+              "initials": "AB",
+              "nameShort": "A BALAMPAKI",
+              "nameShort2": "BALAMPAKI",
+              "slug": "avik-balampaki",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Avik BALAMPAKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "19014",
+              "nameDisplay": "Ngawang Rigsel JURMEY",
+              "nameType": 0,
+              "firstName": "Ngawang Rigsel",
+              "lastName": "JURMEY",
+              "initials": "NJ",
+              "nameShort": "N JURMEY",
+              "nameShort2": "JURMEY",
+              "slug": "ngawang-rigsel-jurmey",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Ngawang Rigsel JURMEY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 16:00:00",
+        "matchTimeUtc": "2025-08-15 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450902,
+        "code": "79",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1968,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "86700",
+              "nameDisplay": "Ranithma LIYANAGE",
+              "nameType": 0,
+              "firstName": "Ranithma",
+              "lastName": "LIYANAGE",
+              "initials": "RL",
+              "nameShort": "R LIYANAGE",
+              "nameShort2": "LIYANAGE",
+              "slug": "ranithma-liyanage",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Ranithma LIYANAGE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728457306/assets/players/thumbnail/86700.jpg"
+              }
+            },
+            {
+              "id": "99201",
+              "nameDisplay": "Rashmi MUDALIGE",
+              "nameType": 0,
+              "firstName": "Rashmi",
+              "lastName": "MUDALIGE",
+              "initials": "RM",
+              "nameShort": "R MUDALIGE",
+              "nameShort2": "MUDALIGE",
+              "slug": "rashmi-mudalige",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Rashmi MUDALIGE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728457117/assets/players/thumbnail/99201.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1966,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "73577",
+              "nameDisplay": "Phuntsho DEMA",
+              "nameType": 0,
+              "firstName": "Phuntsho",
+              "lastName": "DEMA",
+              "initials": "PD",
+              "nameShort": "P DEMA",
+              "nameShort2": "DEMA",
+              "slug": "phuntsho-dema",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Phuntsho DEMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "29278",
+              "nameDisplay": "Kritty GURUNG",
+              "nameType": 0,
+              "firstName": "Kritty",
+              "lastName": "GURUNG",
+              "initials": "KG",
+              "nameShort": "K GURUNG",
+              "nameShort2": "GURUNG",
+              "slug": "kritty-gurung",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Kritty GURUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 16:30:00",
+        "matchTimeUtc": "2025-08-15 10:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450904,
+        "code": "80",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1968,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "87857",
+              "nameDisplay": "Dumindu ABEYWICKRAMA",
+              "nameType": 0,
+              "firstName": "Dumindu",
+              "lastName": "ABEYWICKRAMA",
+              "initials": "DA",
+              "nameShort": "D ABEYWICKRAMA",
+              "nameShort2": "ABEYWICKRAMA",
+              "slug": "dumindu-abeywickrama",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Dumindu ABEYWICKRAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "99201",
+              "nameDisplay": "Rashmi MUDALIGE",
+              "nameType": 0,
+              "firstName": "Rashmi",
+              "lastName": "MUDALIGE",
+              "initials": "RM",
+              "nameShort": "R MUDALIGE",
+              "nameShort2": "MUDALIGE",
+              "slug": "rashmi-mudalige",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Rashmi MUDALIGE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728457117/assets/players/thumbnail/99201.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1966,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "19014",
+              "nameDisplay": "Ngawang Rigsel JURMEY",
+              "nameType": 0,
+              "firstName": "Ngawang Rigsel",
+              "lastName": "JURMEY",
+              "initials": "NJ",
+              "nameShort": "N JURMEY",
+              "nameShort2": "JURMEY",
+              "slug": "ngawang-rigsel-jurmey",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Ngawang Rigsel JURMEY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "73577",
+              "nameDisplay": "Phuntsho DEMA",
+              "nameType": 0,
+              "firstName": "Phuntsho",
+              "lastName": "DEMA",
+              "initials": "PD",
+              "nameShort": "P DEMA",
+              "nameShort2": "DEMA",
+              "slug": "phuntsho-dema",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Phuntsho DEMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 17:00:00",
+        "matchTimeUtc": "2025-08-15 11:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 23",
+        "roundName": "R1",
+        "drawName": "Under 23 - Regional Under 23",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1450886,
+    "code": "30",
+    "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+    "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SRI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+      "teamId": 1964,
+      "teamName": "Sri Lanka",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PAK",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+      "teamId": 1963,
+      "teamName": "Pakistan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-08-15 11:00:00",
+    "matchTimeUtc": "2025-08-15 05:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Under 17",
+    "roundName": "R1",
+    "drawName": "Under 17 - Regional Under 17",
+    "drawCode": "2",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "BHUTAN BADMINTON FEDERATION",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1450897,
+        "code": "50",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1964,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "19263",
+              "nameDisplay": "Keneth ARUGGODA",
+              "nameType": 0,
+              "firstName": "Keneth",
+              "lastName": "ARUGGODA",
+              "initials": "KA",
+              "nameShort": "K ARUGGODA",
+              "nameShort2": "ARUGGODA",
+              "slug": "keneth-aruggoda",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Keneth ARUGGODA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "69644",
+              "nameDisplay": "Nethmi RATNAYAKE",
+              "nameType": 0,
+              "firstName": "Nethmi",
+              "lastName": "RATNAYAKE",
+              "initials": "NR",
+              "nameShort": "N RATNAYAKE",
+              "nameShort2": "RATNAYAKE",
+              "slug": "nethmi-ratnayake",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Nethmi RATNAYAKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1963,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "37580",
+              "nameDisplay": "Hamd Ullah KHALIL",
+              "nameType": 0,
+              "firstName": "Hamd Ullah",
+              "lastName": "KHALIL",
+              "initials": "HK",
+              "nameShort": "H KHALIL",
+              "nameShort2": "KHALIL",
+              "slug": "hamd-ullah-khalil",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Hamd Ullah KHALIL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "40021",
+              "nameDisplay": "Humna IRSHAD",
+              "nameType": 0,
+              "firstName": "Humna",
+              "lastName": "IRSHAD",
+              "initials": "HI",
+              "nameShort": "H IRSHAD",
+              "nameShort2": "IRSHAD",
+              "slug": "humna-irshad",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Humna IRSHAD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 11:00:00",
+        "matchTimeUtc": "2025-08-15 05:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450916,
+        "code": "46",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1964,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "49339",
+              "nameDisplay": "Senuth Sethmitha PERERA",
+              "nameType": 0,
+              "firstName": "Senuth Sethmitha",
+              "lastName": "PERERA",
+              "initials": "SP",
+              "nameShort": "S PERERA",
+              "nameShort2": "PERERA",
+              "slug": "senuth-sethmitha-perera",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Senuth Sethmitha PERERA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1963,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "22708",
+              "nameDisplay": "Muhammad SULEMAN",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "SULEMAN",
+              "initials": "MS",
+              "nameShort": "M SULEMAN",
+              "nameShort2": "SULEMAN",
+              "slug": "muhammad-suleman",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Muhammad SULEMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 11:30:00",
+        "matchTimeUtc": "2025-08-15 05:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450910,
+        "code": "47",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1964,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "71718",
+              "nameDisplay": "Vishwanie WANNIARACHCHI",
+              "nameType": 0,
+              "firstName": "Vishwanie",
+              "lastName": "WANNIARACHCHI",
+              "initials": "VW",
+              "nameShort": "V WANNIARACHCHI",
+              "nameShort2": "WANNIARACHCHI",
+              "slug": "vishwanie-wanniarachchi",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Vishwanie WANNIARACHCHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1963,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "37403",
+              "nameDisplay": "Sameen FAISAL",
+              "nameType": 0,
+              "firstName": "Sameen",
+              "lastName": "FAISAL",
+              "initials": "SF",
+              "nameShort": "S FAISAL",
+              "nameShort2": "FAISAL",
+              "slug": "sameen-faisal",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Sameen FAISAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 12:00:00",
+        "matchTimeUtc": "2025-08-15 06:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450915,
+        "code": "48",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1964,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "19263",
+              "nameDisplay": "Keneth ARUGGODA",
+              "nameType": 0,
+              "firstName": "Keneth",
+              "lastName": "ARUGGODA",
+              "initials": "KA",
+              "nameShort": "K ARUGGODA",
+              "nameShort2": "ARUGGODA",
+              "slug": "keneth-aruggoda",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Keneth ARUGGODA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "49339",
+              "nameDisplay": "Senuth Sethmitha PERERA",
+              "nameType": 0,
+              "firstName": "Senuth Sethmitha",
+              "lastName": "PERERA",
+              "initials": "SP",
+              "nameShort": "S PERERA",
+              "nameShort2": "PERERA",
+              "slug": "senuth-sethmitha-perera",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Senuth Sethmitha PERERA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1963,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "37580",
+              "nameDisplay": "Hamd Ullah KHALIL",
+              "nameType": 0,
+              "firstName": "Hamd Ullah",
+              "lastName": "KHALIL",
+              "initials": "HK",
+              "nameShort": "H KHALIL",
+              "nameShort2": "KHALIL",
+              "slug": "hamd-ullah-khalil",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Hamd Ullah KHALIL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "22708",
+              "nameDisplay": "Muhammad SULEMAN",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "SULEMAN",
+              "initials": "MS",
+              "nameShort": "M SULEMAN",
+              "nameShort2": "SULEMAN",
+              "slug": "muhammad-suleman",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Muhammad SULEMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 12:30:00",
+        "matchTimeUtc": "2025-08-15 06:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450918,
+        "code": "49",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 1964,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "69644",
+              "nameDisplay": "Nethmi RATNAYAKE",
+              "nameType": 0,
+              "firstName": "Nethmi",
+              "lastName": "RATNAYAKE",
+              "initials": "NR",
+              "nameShort": "N RATNAYAKE",
+              "nameShort2": "RATNAYAKE",
+              "slug": "nethmi-ratnayake",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Nethmi RATNAYAKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "71718",
+              "nameDisplay": "Vishwanie WANNIARACHCHI",
+              "nameType": 0,
+              "firstName": "Vishwanie",
+              "lastName": "WANNIARACHCHI",
+              "initials": "VW",
+              "nameShort": "V WANNIARACHCHI",
+              "nameShort2": "WANNIARACHCHI",
+              "slug": "vishwanie-wanniarachchi",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Vishwanie WANNIARACHCHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PAK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+          "teamId": 1963,
+          "teamName": "Pakistan",
+          "players": [
+            {
+              "id": "37403",
+              "nameDisplay": "Sameen FAISAL",
+              "nameType": 0,
+              "firstName": "Sameen",
+              "lastName": "FAISAL",
+              "initials": "SF",
+              "nameShort": "S FAISAL",
+              "nameShort2": "FAISAL",
+              "slug": "sameen-faisal",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Sameen FAISAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "40021",
+              "nameDisplay": "Humna IRSHAD",
+              "nameType": 0,
+              "firstName": "Humna",
+              "lastName": "IRSHAD",
+              "initials": "HI",
+              "nameShort": "H IRSHAD",
+              "nameShort2": "IRSHAD",
+              "slug": "humna-irshad",
+              "countryCode": "PAK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAK.png",
+              "avatar": {
+                "title": "Humna IRSHAD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 13:00:00",
+        "matchTimeUtc": "2025-08-15 07:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1450890,
+    "code": "28",
+    "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+    "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "NEP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+      "teamId": 1961,
+      "teamName": "Nepal",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BHU",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+      "teamId": 1962,
+      "teamName": "Bhutan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-08-15 15:00:00",
+    "matchTimeUtc": "2025-08-15 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Under 17",
+    "roundName": "R1",
+    "drawName": "Under 17 - Regional Under 17",
+    "drawCode": "2",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "BHUTAN BADMINTON FEDERATION",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1450951,
+        "code": "41",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1961,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "14608",
+              "nameDisplay": "Subin SHRESTHA (B)",
+              "nameType": 0,
+              "firstName": "Subin",
+              "lastName": "SHRESTHA (B)",
+              "initials": "SS",
+              "nameShort": "S SHRESTHA (B)",
+              "nameShort2": "SHRESTHA (B)",
+              "slug": "subin-shrestha-b",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Subin SHRESTHA (B)",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1962,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "48486",
+              "nameDisplay": "Pema TENZIN",
+              "nameType": 0,
+              "firstName": "Pema",
+              "lastName": "TENZIN",
+              "initials": "PT",
+              "nameShort": "P TENZIN",
+              "nameShort2": "TENZIN",
+              "slug": "pema-tenzin",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Pema TENZIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 15:00:00",
+        "matchTimeUtc": "2025-08-15 09:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450960,
+        "code": "42",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1961,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "63845",
+              "nameDisplay": "Rihanna SHERCHAN",
+              "nameType": 0,
+              "firstName": "Rihanna",
+              "lastName": "SHERCHAN",
+              "initials": "RS",
+              "nameShort": "R SHERCHAN",
+              "nameShort2": "SHERCHAN",
+              "slug": "rihanna-sherchan",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Rihanna SHERCHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1962,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "58259",
+              "nameDisplay": "Yangchen DOLKAR",
+              "nameType": 0,
+              "firstName": "Yangchen",
+              "lastName": "DOLKAR",
+              "initials": "YD",
+              "nameShort": "Y DOLKAR",
+              "nameShort2": "DOLKAR",
+              "slug": "yangchen-dolkar",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Yangchen DOLKAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 15:30:00",
+        "matchTimeUtc": "2025-08-15 09:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450957,
+        "code": "43",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1961,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "31085",
+              "nameDisplay": "Sadip RAI",
+              "nameType": 0,
+              "firstName": "Sadip",
+              "lastName": "RAI",
+              "initials": "SR",
+              "nameShort": "S RAI",
+              "nameShort2": "RAI",
+              "slug": "sadip-rai",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Sadip RAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "14608",
+              "nameDisplay": "Subin SHRESTHA (B)",
+              "nameType": 0,
+              "firstName": "Subin",
+              "lastName": "SHRESTHA (B)",
+              "initials": "SS",
+              "nameShort": "S SHRESTHA (B)",
+              "nameShort2": "SHRESTHA (B)",
+              "slug": "subin-shrestha-b",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Subin SHRESTHA (B)",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1962,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "45723",
+              "nameDisplay": "Tshering DORJI",
+              "nameType": 0,
+              "firstName": "Tshering",
+              "lastName": "DORJI",
+              "initials": "TD",
+              "nameShort": "T DORJI",
+              "nameShort2": "DORJI",
+              "slug": "tshering-dorji",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Tshering DORJI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "48486",
+              "nameDisplay": "Pema TENZIN",
+              "nameType": 0,
+              "firstName": "Pema",
+              "lastName": "TENZIN",
+              "initials": "PT",
+              "nameShort": "P TENZIN",
+              "nameShort2": "TENZIN",
+              "slug": "pema-tenzin",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Pema TENZIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 16:00:00",
+        "matchTimeUtc": "2025-08-15 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450941,
+        "code": "44",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1961,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "27414",
+              "nameDisplay": "Dilasha RANA",
+              "nameType": null,
+              "firstName": "Dilasha",
+              "lastName": "RANA",
+              "initials": "DR",
+              "nameShort": "D RANA",
+              "nameShort2": "RANA",
+              "slug": "dilasha-rana",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Dilasha RANA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "63845",
+              "nameDisplay": "Rihanna SHERCHAN",
+              "nameType": 0,
+              "firstName": "Rihanna",
+              "lastName": "SHERCHAN",
+              "initials": "RS",
+              "nameShort": "R SHERCHAN",
+              "nameShort2": "SHERCHAN",
+              "slug": "rihanna-sherchan",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Rihanna SHERCHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1962,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "31604",
+              "nameDisplay": "Tshering CHOKEY",
+              "nameType": 0,
+              "firstName": "Tshering",
+              "lastName": "CHOKEY",
+              "initials": "TC",
+              "nameShort": "T CHOKEY",
+              "nameShort2": "CHOKEY",
+              "slug": "tshering-chokey",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Tshering CHOKEY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "58259",
+              "nameDisplay": "Yangchen DOLKAR",
+              "nameType": 0,
+              "firstName": "Yangchen",
+              "lastName": "DOLKAR",
+              "initials": "YD",
+              "nameShort": "Y DOLKAR",
+              "nameShort2": "DOLKAR",
+              "slug": "yangchen-dolkar",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Yangchen DOLKAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 16:30:00",
+        "matchTimeUtc": "2025-08-15 10:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1450939,
+        "code": "45",
+        "tournamentCode": "FDB2FA10-51A3-4271-9BA2-9A967EBAD7D0",
+        "tournamentName": "Badminton Asia South Asia Regional Championships 2025 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NEP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+          "teamId": 1961,
+          "teamName": "Nepal",
+          "players": [
+            {
+              "id": "14608",
+              "nameDisplay": "Subin SHRESTHA (B)",
+              "nameType": 0,
+              "firstName": "Subin",
+              "lastName": "SHRESTHA (B)",
+              "initials": "SS",
+              "nameShort": "S SHRESTHA (B)",
+              "nameShort2": "SHRESTHA (B)",
+              "slug": "subin-shrestha-b",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Subin SHRESTHA (B)",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "63845",
+              "nameDisplay": "Rihanna SHERCHAN",
+              "nameType": 0,
+              "firstName": "Rihanna",
+              "lastName": "SHERCHAN",
+              "initials": "RS",
+              "nameShort": "R SHERCHAN",
+              "nameShort2": "SHERCHAN",
+              "slug": "rihanna-sherchan",
+              "countryCode": "NEP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NEP.png",
+              "avatar": {
+                "title": "Rihanna SHERCHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BHU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+          "teamId": 1962,
+          "teamName": "Bhutan",
+          "players": [
+            {
+              "id": "48486",
+              "nameDisplay": "Pema TENZIN",
+              "nameType": 0,
+              "firstName": "Pema",
+              "lastName": "TENZIN",
+              "initials": "PT",
+              "nameShort": "P TENZIN",
+              "nameShort2": "TENZIN",
+              "slug": "pema-tenzin",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Pema TENZIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "58259",
+              "nameDisplay": "Yangchen DOLKAR",
+              "nameType": 0,
+              "firstName": "Yangchen",
+              "lastName": "DOLKAR",
+              "initials": "YD",
+              "nameShort": "Y DOLKAR",
+              "nameShort2": "DOLKAR",
+              "slug": "yangchen-dolkar",
+              "countryCode": "BHU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BHU.png",
+              "avatar": {
+                "title": "Yangchen DOLKAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-08-15 17:00:00",
+        "matchTimeUtc": "2025-08-15 11:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R1",
+        "drawName": "Under 17 - Regional Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "BHUTAN BADMINTON FEDERATION",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

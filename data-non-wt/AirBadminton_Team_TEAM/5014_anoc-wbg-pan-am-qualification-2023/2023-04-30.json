@@ -1,0 +1,4318 @@
+[
+  {
+    "id": 1458653,
+    "code": "75",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 1229,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 1230,
+      "teamName": "CANADA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 10:00:00",
+    "matchTimeUtc": "2023-04-30 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R1",
+    "drawName": "Men's Triples - Group B",
+    "drawCode": "6",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458654,
+        "code": "63",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1229,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "69960",
+              "nameDisplay": "Deivid SILVA",
+              "nameType": 0,
+              "firstName": "Deivid",
+              "lastName": "SILVA",
+              "initials": "DS",
+              "nameShort": "D SILVA",
+              "nameShort2": "SILVA",
+              "slug": "deivid-silva",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Deivid SILVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85056",
+              "nameDisplay": "Matheus VOIGT",
+              "nameType": 0,
+              "firstName": "Matheus",
+              "lastName": "VOIGT",
+              "initials": "MV",
+              "nameShort": "M VOIGT",
+              "nameShort2": "VOIGT",
+              "slug": "matheus-voigt",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Matheus VOIGT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1230,
+          "teamName": "CANADA",
+          "players": [
+            {
+              "id": "88298",
+              "nameDisplay": "Kevin BARKMAN",
+              "nameType": 0,
+              "firstName": "Kevin",
+              "lastName": "BARKMAN",
+              "initials": "KB",
+              "nameShort": "K BARKMAN",
+              "nameShort2": "BARKMAN",
+              "slug": "kevin-barkman",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Kevin BARKMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "90927",
+              "nameDisplay": "John LI",
+              "nameType": 0,
+              "firstName": "John",
+              "lastName": "LI",
+              "initials": "JL",
+              "nameShort": "J LI",
+              "nameShort2": "LI",
+              "slug": "john-li",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "John LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 10:00:00",
+        "matchTimeUtc": "2023-04-30 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "R1",
+        "drawName": "Men's Triples - Group B",
+        "drawCode": "6",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 10,
+        "time": "00:10",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458647,
+    "code": "48",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 1235,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+      "teamId": 1232,
+      "teamName": "JAMAICA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 10:30:00",
+    "matchTimeUtc": "2023-04-30 15:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R3",
+    "drawName": "Men's Triples - Group A",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1458671,
+    "code": "85",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 2026,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 2034,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 11:00:00",
+    "matchTimeUtc": "2023-04-30 16:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "R3",
+    "drawName": "Women's Triples  - Group A",
+    "drawCode": "8",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458672,
+        "code": "67",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "VEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+          "teamId": 2026,
+          "teamName": "VENEZUELA",
+          "players": [
+            {
+              "id": "63104",
+              "nameDisplay": "MENDOZA Daibelis",
+              "nameType": 1,
+              "firstName": "Daibelis",
+              "lastName": "MENDOZA",
+              "initials": "MD",
+              "nameShort": "MENDOZA D",
+              "nameShort2": "MENDOZA",
+              "slug": "daibelis-mendoza",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Daibelis MENDOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98094",
+              "nameDisplay": "Damaris Mercedes ORTIZ PARADA",
+              "nameType": 0,
+              "firstName": "Damaris Mercedes",
+              "lastName": "ORTIZ PARADA",
+              "initials": "DO",
+              "nameShort": "D ORTIZ PARADA",
+              "nameShort2": "ORTIZ PARADA",
+              "slug": "damaris-mercedes-ortiz-parada",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Damaris Mercedes ORTIZ PARADA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 2034,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "79258",
+              "nameDisplay": "Ines Lucia CASTILLO",
+              "nameType": 0,
+              "firstName": "Ines Lucia",
+              "lastName": "CASTILLO",
+              "initials": "IC",
+              "nameShort": "I CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "ines-lucia-castillo",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Ines Lucia CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899604/assets/players/thumbnail/79258.jpg"
+              }
+            },
+            {
+              "id": "95819",
+              "nameDisplay": "Paula LA TORRE",
+              "nameType": 0,
+              "firstName": "Paula",
+              "lastName": "LA TORRE",
+              "initials": "PL",
+              "nameShort": "P LA TORRE",
+              "nameShort2": "LA TORRE",
+              "slug": "paula-la-torre",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Paula LA TORRE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896374/assets/players/thumbnail/95819.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 11:00:00",
+        "matchTimeUtc": "2023-04-30 16:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "R3",
+        "drawName": "Women's Triples  - Group A",
+        "drawCode": "8",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458657,
+    "code": "76",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 1233,
+      "teamName": "MEXICO",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 1230,
+      "teamName": "CANADA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 11:30:00",
+    "matchTimeUtc": "2023-04-30 16:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R3",
+    "drawName": "Men's Triples - Group B",
+    "drawCode": "6",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458658,
+        "code": "64",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1233,
+          "teamName": "MEXICO",
+          "players": [
+            {
+              "id": "70177",
+              "nameDisplay": "Hugo GUTIERREZ",
+              "nameType": 0,
+              "firstName": "Hugo",
+              "lastName": "GUTIERREZ",
+              "initials": "HG",
+              "nameShort": "H GUTIERREZ",
+              "nameShort2": "GUTIERREZ",
+              "slug": "hugo-gutierrez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Hugo GUTIERREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "68425",
+              "nameDisplay": "Carlos Emanuelle MORALES CORZO",
+              "nameType": 0,
+              "firstName": "Carlos Emanuelle",
+              "lastName": "MORALES CORZO",
+              "initials": "CM",
+              "nameShort": "C MORALES CORZO",
+              "nameShort2": "MORALES CORZO",
+              "slug": "carlos-emanuelle-morales-corzo",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Carlos Emanuelle MORALES CORZO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1230,
+          "teamName": "CANADA",
+          "players": [
+            {
+              "id": "88298",
+              "nameDisplay": "Kevin BARKMAN",
+              "nameType": 0,
+              "firstName": "Kevin",
+              "lastName": "BARKMAN",
+              "initials": "KB",
+              "nameShort": "K BARKMAN",
+              "nameShort2": "BARKMAN",
+              "slug": "kevin-barkman",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Kevin BARKMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "83709",
+              "nameDisplay": "Gurbaksh SINGH SAINI",
+              "nameType": 0,
+              "firstName": "Gurbaksh",
+              "lastName": "SINGH SAINI",
+              "initials": "GS",
+              "nameShort": "G SINGH SAINI",
+              "nameShort2": "SINGH SAINI",
+              "slug": "gurbaksh-singh-saini",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Gurbaksh SINGH SAINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 11:30:00",
+        "matchTimeUtc": "2023-04-30 16:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "R3",
+        "drawName": "Men's Triples - Group B",
+        "drawCode": "6",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 12,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458648,
+    "code": "49",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 1231,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+      "teamId": 1232,
+      "teamName": "JAMAICA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 12:00:00",
+    "matchTimeUtc": "2023-04-30 17:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R1",
+    "drawName": "Men's Triples - Group A",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1458673,
+    "code": "86",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 2025,
+      "teamName": "MEXICO",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 2034,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 12:30:00",
+    "matchTimeUtc": "2023-04-30 17:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "R1",
+    "drawName": "Women's Triples  - Group A",
+    "drawCode": "8",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458674,
+        "code": "68",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 2025,
+          "teamName": "MEXICO",
+          "players": [
+            {
+              "id": "82069",
+              "nameDisplay": "Andrea CRUZ BARBOSA",
+              "nameType": null,
+              "firstName": "Andrea",
+              "lastName": "CRUZ BARBOSA",
+              "initials": "AC",
+              "nameShort": "A CRUZ BARBOSA",
+              "nameShort2": "CRUZ BARBOSA",
+              "slug": "andrea-cruz-barbosa",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Andrea CRUZ BARBOSA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "58684",
+              "nameDisplay": "Dafne HERNANDEZ",
+              "nameType": 0,
+              "firstName": "Dafne",
+              "lastName": "HERNANDEZ",
+              "initials": "DH",
+              "nameShort": "D HERNANDEZ",
+              "nameShort2": "HERNANDEZ",
+              "slug": "dafne-hernandez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Dafne HERNANDEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 2034,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "95819",
+              "nameDisplay": "Paula LA TORRE",
+              "nameType": 0,
+              "firstName": "Paula",
+              "lastName": "LA TORRE",
+              "initials": "PL",
+              "nameShort": "P LA TORRE",
+              "nameShort2": "LA TORRE",
+              "slug": "paula-la-torre",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Paula LA TORRE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896374/assets/players/thumbnail/95819.jpg"
+              }
+            },
+            {
+              "id": "78292",
+              "nameDisplay": "Namie MIYAHIRA",
+              "nameType": 0,
+              "firstName": "Namie",
+              "lastName": "MIYAHIRA",
+              "initials": "NM",
+              "nameShort": "N MIYAHIRA",
+              "nameShort2": "MIYAHIRA",
+              "slug": "namie-miyahira",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Namie MIYAHIRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 12:30:00",
+        "matchTimeUtc": "2023-04-30 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "R1",
+        "drawName": "Women's Triples  - Group A",
+        "drawCode": "8",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 2,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 6,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458659,
+    "code": "77",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 1234,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 1230,
+      "teamName": "CANADA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 13:00:00",
+    "matchTimeUtc": "2023-04-30 18:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R2",
+    "drawName": "Men's Triples - Group B",
+    "drawCode": "6",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458660,
+        "code": "65",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1234,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "88283",
+              "nameDisplay": "Sharum DURAND",
+              "nameType": 0,
+              "firstName": "Sharum",
+              "lastName": "DURAND",
+              "initials": "SD",
+              "nameShort": "S DURAND",
+              "nameShort2": "DURAND",
+              "slug": "sharum-durand",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Sharum DURAND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "58402",
+              "nameDisplay": "Jose GUEVARA",
+              "nameType": 0,
+              "firstName": "Jose",
+              "lastName": "GUEVARA",
+              "initials": "JG",
+              "nameShort": "J GUEVARA",
+              "nameShort2": "GUEVARA",
+              "slug": "jose-guevara",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Jose GUEVARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1230,
+          "teamName": "CANADA",
+          "players": [
+            {
+              "id": "88298",
+              "nameDisplay": "Kevin BARKMAN",
+              "nameType": 0,
+              "firstName": "Kevin",
+              "lastName": "BARKMAN",
+              "initials": "KB",
+              "nameShort": "K BARKMAN",
+              "nameShort2": "BARKMAN",
+              "slug": "kevin-barkman",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Kevin BARKMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "90927",
+              "nameDisplay": "John LI",
+              "nameType": 0,
+              "firstName": "John",
+              "lastName": "LI",
+              "initials": "JL",
+              "nameShort": "J LI",
+              "nameShort2": "LI",
+              "slug": "john-li",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "John LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 13:00:00",
+        "matchTimeUtc": "2023-04-30 18:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "R2",
+        "drawName": "Men's Triples - Group B",
+        "drawCode": "6",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458645,
+    "code": "46",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 1235,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 1231,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 13:30:00",
+    "matchTimeUtc": "2023-04-30 18:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R2",
+    "drawName": "Men's Triples - Group A",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458646,
+        "code": "53",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "VEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+          "teamId": 1235,
+          "teamName": "VENEZUELA",
+          "players": [
+            {
+              "id": "94963",
+              "nameDisplay": "Frank BARRIOS",
+              "nameType": 0,
+              "firstName": "Frank",
+              "lastName": "BARRIOS",
+              "initials": "FB",
+              "nameShort": "F BARRIOS",
+              "nameShort2": "BARRIOS",
+              "slug": "frank-barrios",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Frank BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55006",
+              "nameDisplay": "BARRIOS William",
+              "nameType": 1,
+              "firstName": "William",
+              "lastName": "BARRIOS",
+              "initials": "BW",
+              "nameShort": "BARRIOS W",
+              "nameShort2": "BARRIOS",
+              "slug": "william-barrios",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "William BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": 1231,
+          "teamName": "DOM REP",
+          "players": [
+            {
+              "id": "90396",
+              "nameDisplay": "Yonatan LINAREZ",
+              "nameType": 0,
+              "firstName": "Yonatan",
+              "lastName": "LINAREZ",
+              "initials": "YL",
+              "nameShort": "Y LINAREZ",
+              "nameShort2": "LINAREZ",
+              "slug": "yonatan-linarez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Yonatan LINAREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "88165",
+              "nameDisplay": "Anderson TAVERAS",
+              "nameType": 0,
+              "firstName": "Anderson",
+              "lastName": "TAVERAS",
+              "initials": "AT",
+              "nameShort": "A TAVERAS",
+              "nameShort2": "TAVERAS",
+              "slug": "anderson-taveras",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Anderson TAVERAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 13:30:00",
+        "matchTimeUtc": "2023-04-30 18:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "R2",
+        "drawName": "Men's Triples - Group A",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 1,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 5,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 8,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 5,
+            "home": 11,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458675,
+    "code": "92",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 2027,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 2023,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 14:00:00",
+    "matchTimeUtc": "2023-04-30 19:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "R2",
+    "drawName": "Women's Triples  - Group B",
+    "drawCode": "9",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458676,
+        "code": "69",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 2027,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "71746",
+              "nameDisplay": "Jeisiane ALVES",
+              "nameType": 0,
+              "firstName": "Jeisiane",
+              "lastName": "ALVES",
+              "initials": "JA",
+              "nameShort": "J ALVES",
+              "nameShort2": "ALVES",
+              "slug": "jeisiane-alves",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Jeisiane ALVES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "76507",
+              "nameDisplay": "Samia LIMA",
+              "nameType": 0,
+              "firstName": "Samia",
+              "lastName": "LIMA",
+              "initials": "SL",
+              "nameShort": "S LIMA",
+              "nameShort2": "LIMA",
+              "slug": "samia-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Samia LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897666/assets/players/thumbnail/76507.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": 2023,
+          "teamName": "DOM REP",
+          "players": [
+            {
+              "id": "98560",
+              "nameDisplay": "Alissa Juleixi ACOSTA",
+              "nameType": 0,
+              "firstName": "Alissa Juleixi",
+              "lastName": "ACOSTA",
+              "initials": "AA",
+              "nameShort": "A ACOSTA",
+              "nameShort2": "ACOSTA",
+              "slug": "alissa-juleixi-acosta",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Alissa Juleixi ACOSTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "71061",
+              "nameDisplay": "Nairoby Abigail JIMENEZ",
+              "nameType": 0,
+              "firstName": "Nairoby Abigail",
+              "lastName": "JIMENEZ",
+              "initials": "NJ",
+              "nameShort": "N JIMENEZ",
+              "nameShort2": "JIMENEZ",
+              "slug": "nairoby-abigail-jimenez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Nairoby Abigail JIMENEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 14:00:00",
+        "matchTimeUtc": "2023-04-30 19:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "R2",
+        "drawName": "Women's Triples  - Group B",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 4,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 13,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 5,
+            "home": 10,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458681,
+    "code": "100",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 2026,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 2027,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 18:00:00",
+    "matchTimeUtc": "2023-04-30 23:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "SF",
+    "drawName": "Women's Triples  - Individual Women's Triples",
+    "drawCode": "10",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458682,
+        "code": "72",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "VEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+          "teamId": 2026,
+          "teamName": "VENEZUELA",
+          "players": [
+            {
+              "id": "63104",
+              "nameDisplay": "MENDOZA Daibelis",
+              "nameType": 1,
+              "firstName": "Daibelis",
+              "lastName": "MENDOZA",
+              "initials": "MD",
+              "nameShort": "MENDOZA D",
+              "nameShort2": "MENDOZA",
+              "slug": "daibelis-mendoza",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Daibelis MENDOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98094",
+              "nameDisplay": "Damaris Mercedes ORTIZ PARADA",
+              "nameType": 0,
+              "firstName": "Damaris Mercedes",
+              "lastName": "ORTIZ PARADA",
+              "initials": "DO",
+              "nameShort": "D ORTIZ PARADA",
+              "nameShort2": "ORTIZ PARADA",
+              "slug": "damaris-mercedes-ortiz-parada",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Damaris Mercedes ORTIZ PARADA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 2027,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "76507",
+              "nameDisplay": "Samia LIMA",
+              "nameType": 0,
+              "firstName": "Samia",
+              "lastName": "LIMA",
+              "initials": "SL",
+              "nameShort": "S LIMA",
+              "nameShort2": "LIMA",
+              "slug": "samia-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Samia LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897666/assets/players/thumbnail/76507.jpg"
+              }
+            },
+            {
+              "id": "52908",
+              "nameDisplay": "Fabiana SILVA",
+              "nameType": 0,
+              "firstName": "Fabiana",
+              "lastName": "SILVA",
+              "initials": "FS",
+              "nameShort": "F SILVA",
+              "nameShort2": "SILVA",
+              "slug": "fabiana-silva",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Fabiana SILVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897149/assets/players/thumbnail/52908.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 18:00:00",
+        "matchTimeUtc": "2023-04-30 23:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "SF",
+        "drawName": "Women's Triples  - Individual Women's Triples",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 7,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 5,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 6,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458663,
+    "code": "63",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 1235,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 1234,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 18:30:00",
+    "matchTimeUtc": "2023-04-30 23:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "SF",
+    "drawName": "Men's Triples - Individual Men's Triples",
+    "drawCode": "7",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458664,
+        "code": "59",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "VEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+          "teamId": 1235,
+          "teamName": "VENEZUELA",
+          "players": [
+            {
+              "id": "94963",
+              "nameDisplay": "Frank BARRIOS",
+              "nameType": 0,
+              "firstName": "Frank",
+              "lastName": "BARRIOS",
+              "initials": "FB",
+              "nameShort": "F BARRIOS",
+              "nameShort2": "BARRIOS",
+              "slug": "frank-barrios",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Frank BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55006",
+              "nameDisplay": "BARRIOS William",
+              "nameType": 1,
+              "firstName": "William",
+              "lastName": "BARRIOS",
+              "initials": "BW",
+              "nameShort": "BARRIOS W",
+              "nameShort2": "BARRIOS",
+              "slug": "william-barrios",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "William BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1234,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "58402",
+              "nameDisplay": "Jose GUEVARA",
+              "nameType": 0,
+              "firstName": "Jose",
+              "lastName": "GUEVARA",
+              "initials": "JG",
+              "nameShort": "J GUEVARA",
+              "nameShort2": "GUEVARA",
+              "slug": "jose-guevara",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Jose GUEVARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "91469",
+              "nameDisplay": "Diego MINI",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "MINI",
+              "initials": "DM",
+              "nameShort": "D MINI",
+              "nameShort2": "MINI",
+              "slug": "diego-mini",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego MINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895887/assets/players/thumbnail/91469.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 18:30:00",
+        "matchTimeUtc": "2023-04-30 23:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "SF",
+        "drawName": "Men's Triples - Individual Men's Triples",
+        "drawCode": "7",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458679,
+    "code": "96",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 2027,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 2023,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 19:00:00",
+    "matchTimeUtc": "2023-04-30 00:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "Final",
+    "drawName": "Women's Triples  - Individual Women's Triples",
+    "drawCode": "10",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458680,
+        "code": "75",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 2027,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "76507",
+              "nameDisplay": "Samia LIMA",
+              "nameType": 0,
+              "firstName": "Samia",
+              "lastName": "LIMA",
+              "initials": "SL",
+              "nameShort": "S LIMA",
+              "nameShort2": "LIMA",
+              "slug": "samia-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Samia LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897666/assets/players/thumbnail/76507.jpg"
+              }
+            },
+            {
+              "id": "52908",
+              "nameDisplay": "Fabiana SILVA",
+              "nameType": 0,
+              "firstName": "Fabiana",
+              "lastName": "SILVA",
+              "initials": "FS",
+              "nameShort": "F SILVA",
+              "nameShort2": "SILVA",
+              "slug": "fabiana-silva",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Fabiana SILVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897149/assets/players/thumbnail/52908.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": 2023,
+          "teamName": "DOM REP",
+          "players": [
+            {
+              "id": "98560",
+              "nameDisplay": "Alissa Juleixi ACOSTA",
+              "nameType": 0,
+              "firstName": "Alissa Juleixi",
+              "lastName": "ACOSTA",
+              "initials": "AA",
+              "nameShort": "A ACOSTA",
+              "nameShort2": "ACOSTA",
+              "slug": "alissa-juleixi-acosta",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Alissa Juleixi ACOSTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "71061",
+              "nameDisplay": "Nairoby Abigail JIMENEZ",
+              "nameType": 0,
+              "firstName": "Nairoby Abigail",
+              "lastName": "JIMENEZ",
+              "initials": "NJ",
+              "nameShort": "N JIMENEZ",
+              "nameShort2": "JIMENEZ",
+              "slug": "nairoby-abigail-jimenez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Nairoby Abigail JIMENEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 19:00:00",
+        "matchTimeUtc": "2023-05-01 00:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "Final",
+        "drawName": "Women's Triples  - Individual Women's Triples",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 7,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458661,
+    "code": "59",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 1235,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 1229,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 19:30:00",
+    "matchTimeUtc": "2023-04-30 00:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "Final",
+    "drawName": "Men's Triples - Individual Men's Triples",
+    "drawCode": "7",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458662,
+        "code": "62",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "VEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+          "teamId": 1235,
+          "teamName": "VENEZUELA",
+          "players": [
+            {
+              "id": "94963",
+              "nameDisplay": "Frank BARRIOS",
+              "nameType": 0,
+              "firstName": "Frank",
+              "lastName": "BARRIOS",
+              "initials": "FB",
+              "nameShort": "F BARRIOS",
+              "nameShort2": "BARRIOS",
+              "slug": "frank-barrios",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Frank BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55006",
+              "nameDisplay": "BARRIOS William",
+              "nameType": 1,
+              "firstName": "William",
+              "lastName": "BARRIOS",
+              "initials": "BW",
+              "nameShort": "BARRIOS W",
+              "nameShort2": "BARRIOS",
+              "slug": "william-barrios",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "William BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1229,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "77228",
+              "nameDisplay": "Izak BATALHA",
+              "nameType": 0,
+              "firstName": "Izak",
+              "lastName": "BATALHA",
+              "initials": "IB",
+              "nameShort": "I BATALHA",
+              "nameShort2": "BATALHA",
+              "slug": "izak-batalha",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Izak BATALHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "69960",
+              "nameDisplay": "Deivid SILVA",
+              "nameType": 0,
+              "firstName": "Deivid",
+              "lastName": "SILVA",
+              "initials": "DS",
+              "nameShort": "D SILVA",
+              "nameShort2": "SILVA",
+              "slug": "deivid-silva",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Deivid SILVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 19:30:00",
+        "matchTimeUtc": "2023-05-01 00:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "Final",
+        "drawName": "Men's Triples - Individual Men's Triples",
+        "drawCode": "7",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "GC Fosters College",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 6,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 6,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458655,
+    "code": "58",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 1233,
+      "teamName": "MEXICO",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 1234,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 10:00:00",
+    "matchTimeUtc": "2023-04-30 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R1",
+    "drawName": "Men's Triples - Group B",
+    "drawCode": "6",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458656,
+        "code": "58",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1233,
+          "teamName": "MEXICO",
+          "players": [
+            {
+              "id": "70177",
+              "nameDisplay": "Hugo GUTIERREZ",
+              "nameType": 0,
+              "firstName": "Hugo",
+              "lastName": "GUTIERREZ",
+              "initials": "HG",
+              "nameShort": "H GUTIERREZ",
+              "nameShort2": "GUTIERREZ",
+              "slug": "hugo-gutierrez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Hugo GUTIERREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "68425",
+              "nameDisplay": "Carlos Emanuelle MORALES CORZO",
+              "nameType": 0,
+              "firstName": "Carlos Emanuelle",
+              "lastName": "MORALES CORZO",
+              "initials": "CM",
+              "nameShort": "C MORALES CORZO",
+              "nameShort2": "MORALES CORZO",
+              "slug": "carlos-emanuelle-morales-corzo",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Carlos Emanuelle MORALES CORZO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1234,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "58402",
+              "nameDisplay": "Jose GUEVARA",
+              "nameType": 0,
+              "firstName": "Jose",
+              "lastName": "GUEVARA",
+              "initials": "JG",
+              "nameShort": "J GUEVARA",
+              "nameShort2": "GUEVARA",
+              "slug": "jose-guevara",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Jose GUEVARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "91469",
+              "nameDisplay": "Diego MINI",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "MINI",
+              "initials": "DM",
+              "nameShort": "D MINI",
+              "nameShort2": "MINI",
+              "slug": "diego-mini",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego MINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895887/assets/players/thumbnail/91469.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 10:00:00",
+        "matchTimeUtc": "2023-04-30 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "R1",
+        "drawName": "Men's Triples - Group B",
+        "drawCode": "6",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 10,
+        "time": "00:10",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 8,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 5,
+            "home": 12,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458677,
+    "code": "94",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 2027,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+      "teamId": 2035,
+      "teamName": "JAMAICA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 11:00:00",
+    "matchTimeUtc": "2023-04-30 16:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "R3",
+    "drawName": "Women's Triples  - Group B",
+    "drawCode": "9",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1458651,
+    "code": "57",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 1229,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 1234,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 11:30:00",
+    "matchTimeUtc": "2023-04-30 16:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R3",
+    "drawName": "Men's Triples - Group B",
+    "drawCode": "6",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458652,
+        "code": "57",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1229,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "77228",
+              "nameDisplay": "Izak BATALHA",
+              "nameType": 0,
+              "firstName": "Izak",
+              "lastName": "BATALHA",
+              "initials": "IB",
+              "nameShort": "I BATALHA",
+              "nameShort2": "BATALHA",
+              "slug": "izak-batalha",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Izak BATALHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85056",
+              "nameDisplay": "Matheus VOIGT",
+              "nameType": 0,
+              "firstName": "Matheus",
+              "lastName": "VOIGT",
+              "initials": "MV",
+              "nameShort": "M VOIGT",
+              "nameShort2": "VOIGT",
+              "slug": "matheus-voigt",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Matheus VOIGT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1234,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "88283",
+              "nameDisplay": "Sharum DURAND",
+              "nameType": 0,
+              "firstName": "Sharum",
+              "lastName": "DURAND",
+              "initials": "SD",
+              "nameShort": "S DURAND",
+              "nameShort2": "DURAND",
+              "slug": "sharum-durand",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Sharum DURAND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "91469",
+              "nameDisplay": "Diego MINI",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "MINI",
+              "initials": "DM",
+              "nameShort": "D MINI",
+              "nameShort2": "MINI",
+              "slug": "diego-mini",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego MINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895887/assets/players/thumbnail/91469.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 11:30:00",
+        "matchTimeUtc": "2023-04-30 16:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "R3",
+        "drawName": "Men's Triples - Group B",
+        "drawCode": "6",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458678,
+    "code": "95",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 2023,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+      "teamId": 2035,
+      "teamName": "JAMAICA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 12:30:00",
+    "matchTimeUtc": "2023-04-30 17:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "R1",
+    "drawName": "Women's Triples  - Group B",
+    "drawCode": "9",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1458649,
+    "code": "55",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 1229,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 1233,
+      "teamName": "MEXICO",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 13:00:00",
+    "matchTimeUtc": "2023-04-30 18:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "R2",
+    "drawName": "Men's Triples - Group B",
+    "drawCode": "6",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458650,
+        "code": "56",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1229,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "69960",
+              "nameDisplay": "Deivid SILVA",
+              "nameType": 0,
+              "firstName": "Deivid",
+              "lastName": "SILVA",
+              "initials": "DS",
+              "nameShort": "D SILVA",
+              "nameShort2": "SILVA",
+              "slug": "deivid-silva",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Deivid SILVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85056",
+              "nameDisplay": "Matheus VOIGT",
+              "nameType": 0,
+              "firstName": "Matheus",
+              "lastName": "VOIGT",
+              "initials": "MV",
+              "nameShort": "M VOIGT",
+              "nameShort2": "VOIGT",
+              "slug": "matheus-voigt",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Matheus VOIGT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1233,
+          "teamName": "MEXICO",
+          "players": [
+            {
+              "id": "66017",
+              "nameDisplay": "Oscar MARTINEZ DEL CASTILLO",
+              "nameType": 0,
+              "firstName": "Oscar",
+              "lastName": "MARTINEZ DEL CASTILLO",
+              "initials": "OM",
+              "nameShort": "O MARTINEZ DEL CASTILLO",
+              "nameShort2": "MARTINEZ DEL CASTILLO",
+              "slug": "oscar-martinez-del-castillo",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Oscar MARTINEZ DEL CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "83647",
+              "nameDisplay": "Jose Marcos MONTANO ACOSTA",
+              "nameType": null,
+              "firstName": "Jose Marcos",
+              "lastName": "MONTANO ACOSTA",
+              "initials": "JM",
+              "nameShort": "J MONTANO ACOSTA",
+              "nameShort2": "MONTANO ACOSTA",
+              "slug": "jose-marcos-montano-acosta",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Jose Marcos MONTANO ACOSTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 13:00:00",
+        "matchTimeUtc": "2023-04-30 18:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "R2",
+        "drawName": "Men's Triples - Group B",
+        "drawCode": "6",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 14,
+        "time": "00:14",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458669,
+    "code": "83",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 2026,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 2025,
+      "teamName": "MEXICO",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 14:00:00",
+    "matchTimeUtc": "2023-04-30 19:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "R2",
+    "drawName": "Women's Triples  - Group A",
+    "drawCode": "8",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458670,
+        "code": "66",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "VEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+          "teamId": 2026,
+          "teamName": "VENEZUELA",
+          "players": [
+            {
+              "id": "63104",
+              "nameDisplay": "MENDOZA Daibelis",
+              "nameType": 1,
+              "firstName": "Daibelis",
+              "lastName": "MENDOZA",
+              "initials": "MD",
+              "nameShort": "MENDOZA D",
+              "nameShort2": "MENDOZA",
+              "slug": "daibelis-mendoza",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Daibelis MENDOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98094",
+              "nameDisplay": "Damaris Mercedes ORTIZ PARADA",
+              "nameType": 0,
+              "firstName": "Damaris Mercedes",
+              "lastName": "ORTIZ PARADA",
+              "initials": "DO",
+              "nameShort": "D ORTIZ PARADA",
+              "nameShort2": "ORTIZ PARADA",
+              "slug": "damaris-mercedes-ortiz-parada",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Damaris Mercedes ORTIZ PARADA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 2025,
+          "teamName": "MEXICO",
+          "players": [
+            {
+              "id": "82069",
+              "nameDisplay": "Andrea CRUZ BARBOSA",
+              "nameType": null,
+              "firstName": "Andrea",
+              "lastName": "CRUZ BARBOSA",
+              "initials": "AC",
+              "nameShort": "A CRUZ BARBOSA",
+              "nameShort2": "CRUZ BARBOSA",
+              "slug": "andrea-cruz-barbosa",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Andrea CRUZ BARBOSA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "58684",
+              "nameDisplay": "Dafne HERNANDEZ",
+              "nameType": 0,
+              "firstName": "Dafne",
+              "lastName": "HERNANDEZ",
+              "initials": "DH",
+              "nameShort": "D HERNANDEZ",
+              "nameShort2": "HERNANDEZ",
+              "slug": "dafne-hernandez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Dafne HERNANDEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 14:00:00",
+        "matchTimeUtc": "2023-04-30 19:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "R2",
+        "drawName": "Women's Triples  - Group A",
+        "drawCode": "8",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 10,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458683,
+    "code": "101",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 2034,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 2023,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 18:00:00",
+    "matchTimeUtc": "2023-04-30 23:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "SF",
+    "drawName": "Women's Triples  - Individual Women's Triples",
+    "drawCode": "10",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458684,
+        "code": "73",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 2034,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "79258",
+              "nameDisplay": "Ines Lucia CASTILLO",
+              "nameType": 0,
+              "firstName": "Ines Lucia",
+              "lastName": "CASTILLO",
+              "initials": "IC",
+              "nameShort": "I CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "ines-lucia-castillo",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Ines Lucia CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899604/assets/players/thumbnail/79258.jpg"
+              }
+            },
+            {
+              "id": "95819",
+              "nameDisplay": "Paula LA TORRE",
+              "nameType": 0,
+              "firstName": "Paula",
+              "lastName": "LA TORRE",
+              "initials": "PL",
+              "nameShort": "P LA TORRE",
+              "nameShort2": "LA TORRE",
+              "slug": "paula-la-torre",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Paula LA TORRE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896374/assets/players/thumbnail/95819.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": 2023,
+          "teamName": "DOM REP",
+          "players": [
+            {
+              "id": "71061",
+              "nameDisplay": "Nairoby Abigail JIMENEZ",
+              "nameType": 0,
+              "firstName": "Nairoby Abigail",
+              "lastName": "JIMENEZ",
+              "initials": "NJ",
+              "nameShort": "N JIMENEZ",
+              "nameShort2": "JIMENEZ",
+              "slug": "nairoby-abigail-jimenez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Nairoby Abigail JIMENEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "68661",
+              "nameDisplay": "Clarisa PIE",
+              "nameType": 0,
+              "firstName": "Clarisa",
+              "lastName": "PIE",
+              "initials": "CP",
+              "nameShort": "C PIE",
+              "nameShort2": "PIE",
+              "slug": "clarisa-pie",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Clarisa PIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 18:00:00",
+        "matchTimeUtc": "2023-04-30 23:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "SF",
+        "drawName": "Women's Triples  - Individual Women's Triples",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 4,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 5,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458665,
+    "code": "64",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 1231,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 1229,
+      "teamName": "BRAZIL",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 18:30:00",
+    "matchTimeUtc": "2023-04-30 23:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "SF",
+    "drawName": "Men's Triples - Individual Men's Triples",
+    "drawCode": "7",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458666,
+        "code": "60",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": 1231,
+          "teamName": "DOM REP",
+          "players": [
+            {
+              "id": "90396",
+              "nameDisplay": "Yonatan LINAREZ",
+              "nameType": 0,
+              "firstName": "Yonatan",
+              "lastName": "LINAREZ",
+              "initials": "YL",
+              "nameShort": "Y LINAREZ",
+              "nameShort2": "LINAREZ",
+              "slug": "yonatan-linarez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Yonatan LINAREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67852",
+              "nameDisplay": "Angel Argenis MARINEZ ULLOA",
+              "nameType": 0,
+              "firstName": "Angel Argenis",
+              "lastName": "MARINEZ ULLOA",
+              "initials": "AM",
+              "nameShort": "A MARINEZ ULLOA",
+              "nameShort2": "MARINEZ ULLOA",
+              "slug": "angel-argenis-marinez-ulloa",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Angel Argenis MARINEZ ULLOA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1229,
+          "teamName": "BRAZIL",
+          "players": [
+            {
+              "id": "77228",
+              "nameDisplay": "Izak BATALHA",
+              "nameType": 0,
+              "firstName": "Izak",
+              "lastName": "BATALHA",
+              "initials": "IB",
+              "nameShort": "I BATALHA",
+              "nameShort2": "BATALHA",
+              "slug": "izak-batalha",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Izak BATALHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "69960",
+              "nameDisplay": "Deivid SILVA",
+              "nameType": 0,
+              "firstName": "Deivid",
+              "lastName": "SILVA",
+              "initials": "DS",
+              "nameShort": "D SILVA",
+              "nameShort2": "SILVA",
+              "slug": "deivid-silva",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Deivid SILVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 18:30:00",
+        "matchTimeUtc": "2023-04-30 23:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "SF",
+        "drawName": "Men's Triples - Individual Men's Triples",
+        "drawCode": "7",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 7,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 5,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458685,
+    "code": "98",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "VEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+      "teamId": 2026,
+      "teamName": "VENEZUELA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 2034,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 19:00:00",
+    "matchTimeUtc": "2023-04-30 00:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "3/4",
+    "drawName": "Women's Triples  - Individual Women's Triples",
+    "drawCode": "10",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458686,
+        "code": "74",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "VEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+          "teamId": 2026,
+          "teamName": "VENEZUELA",
+          "players": [
+            {
+              "id": "63104",
+              "nameDisplay": "MENDOZA Daibelis",
+              "nameType": 1,
+              "firstName": "Daibelis",
+              "lastName": "MENDOZA",
+              "initials": "MD",
+              "nameShort": "MENDOZA D",
+              "nameShort2": "MENDOZA",
+              "slug": "daibelis-mendoza",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Daibelis MENDOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98094",
+              "nameDisplay": "Damaris Mercedes ORTIZ PARADA",
+              "nameType": 0,
+              "firstName": "Damaris Mercedes",
+              "lastName": "ORTIZ PARADA",
+              "initials": "DO",
+              "nameShort": "D ORTIZ PARADA",
+              "nameShort2": "ORTIZ PARADA",
+              "slug": "damaris-mercedes-ortiz-parada",
+              "countryCode": "VEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VEN.png",
+              "avatar": {
+                "title": "Damaris Mercedes ORTIZ PARADA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 2034,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "79258",
+              "nameDisplay": "Ines Lucia CASTILLO",
+              "nameType": 0,
+              "firstName": "Ines Lucia",
+              "lastName": "CASTILLO",
+              "initials": "IC",
+              "nameShort": "I CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "ines-lucia-castillo",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Ines Lucia CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899604/assets/players/thumbnail/79258.jpg"
+              }
+            },
+            {
+              "id": "95819",
+              "nameDisplay": "Paula LA TORRE",
+              "nameType": 0,
+              "firstName": "Paula",
+              "lastName": "LA TORRE",
+              "initials": "PL",
+              "nameShort": "P LA TORRE",
+              "nameShort2": "LA TORRE",
+              "slug": "paula-la-torre",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Paula LA TORRE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896374/assets/players/thumbnail/95819.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 19:00:00",
+        "matchTimeUtc": "2023-05-01 00:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "3/4",
+        "drawName": "Women's Triples  - Individual Women's Triples",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1458667,
+    "code": "61",
+    "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+    "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 1234,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DOM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+      "teamId": 1231,
+      "teamName": "DOM REP",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-04-30 19:30:00",
+    "matchTimeUtc": "2023-04-30 00:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "3/4",
+    "drawName": "Men's Triples - Individual Men's Triples",
+    "drawCode": "7",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "GC Fosters College",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1458668,
+        "code": "61",
+        "tournamentCode": "EC8A3E81-0186-4CCC-A168-4FA9839592FF",
+        "tournamentName": "ANOC WBG Pan Am Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1234,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "88283",
+              "nameDisplay": "Sharum DURAND",
+              "nameType": 0,
+              "firstName": "Sharum",
+              "lastName": "DURAND",
+              "initials": "SD",
+              "nameShort": "S DURAND",
+              "nameShort2": "DURAND",
+              "slug": "sharum-durand",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Sharum DURAND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "91469",
+              "nameDisplay": "Diego MINI",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "MINI",
+              "initials": "DM",
+              "nameShort": "D MINI",
+              "nameShort2": "MINI",
+              "slug": "diego-mini",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego MINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895887/assets/players/thumbnail/91469.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": 1231,
+          "teamName": "DOM REP",
+          "players": [
+            {
+              "id": "90396",
+              "nameDisplay": "Yonatan LINAREZ",
+              "nameType": 0,
+              "firstName": "Yonatan",
+              "lastName": "LINAREZ",
+              "initials": "YL",
+              "nameShort": "Y LINAREZ",
+              "nameShort2": "LINAREZ",
+              "slug": "yonatan-linarez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Yonatan LINAREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67852",
+              "nameDisplay": "Angel Argenis MARINEZ ULLOA",
+              "nameType": 0,
+              "firstName": "Angel Argenis",
+              "lastName": "MARINEZ ULLOA",
+              "initials": "AM",
+              "nameShort": "A MARINEZ ULLOA",
+              "nameShort2": "MARINEZ ULLOA",
+              "slug": "angel-argenis-marinez-ulloa",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Angel Argenis MARINEZ ULLOA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-04-30 19:30:00",
+        "matchTimeUtc": "2023-05-01 00:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "3/4",
+        "drawName": "Men's Triples - Individual Men's Triples",
+        "drawCode": "7",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "GC Fosters College",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 7,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 5,
+            "home": 13,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

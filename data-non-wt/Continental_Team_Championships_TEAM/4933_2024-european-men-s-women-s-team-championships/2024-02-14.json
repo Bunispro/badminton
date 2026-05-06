@@ -1,0 +1,5343 @@
+[
+  {
+    "id": 1351091,
+    "code": "12",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "POL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+      "teamId": 30,
+      "teamName": "Poland",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CZE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+      "teamId": 679,
+      "teamName": "Czechia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC24",
+    "roundName": "R1",
+    "drawName": "EMTC24 - Group 1",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351148,
+        "code": "11",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "58521",
+              "nameDisplay": "Dominik KWINTA",
+              "nameType": 0,
+              "firstName": "Dominik",
+              "lastName": "KWINTA",
+              "initials": "DK",
+              "nameShort": "D KWINTA",
+              "nameShort2": "KWINTA",
+              "slug": "dominik-kwinta",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Dominik KWINTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 679,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "61423",
+              "nameDisplay": "Jan LOUDA",
+              "nameType": 0,
+              "firstName": "Jan",
+              "lastName": "LOUDA",
+              "initials": "JL",
+              "nameShort": "J LOUDA",
+              "nameShort2": "LOUDA",
+              "slug": "jan-louda",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Jan LOUDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899796/assets/players/thumbnail/61423.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351139,
+        "code": "14",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "72701",
+              "nameDisplay": "Milosz BOCHAT",
+              "nameType": 0,
+              "firstName": "Milosz",
+              "lastName": "BOCHAT",
+              "initials": "MB",
+              "nameShort": "M BOCHAT",
+              "nameShort2": "BOCHAT",
+              "slug": "milosz-bochat",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Milosz BOCHAT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897555/assets/players/thumbnail/72701.jpg"
+              }
+            },
+            {
+              "id": "61897",
+              "nameDisplay": "Robert CYBULSKI",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "CYBULSKI",
+              "initials": "RC",
+              "nameShort": "R CYBULSKI",
+              "nameShort2": "CYBULSKI",
+              "slug": "robert-cybulski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Robert CYBULSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 679,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "82378",
+              "nameDisplay": "Ondřej KRÁL",
+              "nameType": 0,
+              "firstName": "Ondřej",
+              "lastName": "KRÁL",
+              "initials": "OK",
+              "nameShort": "O KRÁL",
+              "nameShort2": "KRÁL",
+              "slug": "ondej-kral",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Ondřej KRÁL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719987935/assets/players/thumbnail/82378.jpg"
+              }
+            },
+            {
+              "id": "91381",
+              "nameDisplay": "Adam MENDREK",
+              "nameType": 0,
+              "firstName": "Adam",
+              "lastName": "MENDREK",
+              "initials": "AM",
+              "nameShort": "A MENDREK",
+              "nameShort2": "MENDREK",
+              "slug": "adam-mendrek",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Adam MENDREK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719989115/assets/players/thumbnail/91381.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351146,
+        "code": "12",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "65546",
+              "nameDisplay": "Mikolaj SZYMANOWSKI",
+              "nameType": 0,
+              "firstName": "Mikolaj",
+              "lastName": "SZYMANOWSKI",
+              "initials": "MS",
+              "nameShort": "M SZYMANOWSKI",
+              "nameShort2": "SZYMANOWSKI",
+              "slug": "mikolaj-szymanowski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Mikolaj SZYMANOWSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 679,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "91710",
+              "nameDisplay": "Jiří KRÁL",
+              "nameType": 0,
+              "firstName": "Jiří",
+              "lastName": "KRÁL",
+              "initials": "JK",
+              "nameShort": "J KRÁL",
+              "nameShort2": "KRÁL",
+              "slug": "jii-kral",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Jiří KRÁL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 62,
+        "time": "01:02",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351156,
+        "code": "15",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "59857",
+              "nameDisplay": "Szymon SLEPECKI",
+              "nameType": 0,
+              "firstName": "Szymon",
+              "lastName": "SLEPECKI",
+              "initials": "SS",
+              "nameShort": "S SLEPECKI",
+              "nameShort2": "SLEPECKI",
+              "slug": "szymon-slepecki",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Szymon SLEPECKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85532",
+              "nameDisplay": "Pawel SMILOWSKI",
+              "nameType": 0,
+              "firstName": "Pawel",
+              "lastName": "SMILOWSKI",
+              "initials": "PS",
+              "nameShort": "P SMILOWSKI",
+              "nameShort2": "SMILOWSKI",
+              "slug": "pawel-smilowski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Pawel SMILOWSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897750/assets/players/thumbnail/85532.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 679,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "98339",
+              "nameDisplay": "VíT KULÍŠEK",
+              "nameType": 0,
+              "firstName": "VíT",
+              "lastName": "KULÍŠEK",
+              "initials": "VK",
+              "nameShort": "V KULÍŠEK",
+              "nameShort2": "KULÍŠEK",
+              "slug": "vit-kuliek",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "VíT KULÍŠEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57288",
+              "nameDisplay": "Tomáš ŠVEJDA",
+              "nameType": 0,
+              "firstName": "Tomáš",
+              "lastName": "ŠVEJDA",
+              "initials": "TŠ",
+              "nameShort": "T ŠVEJDA",
+              "nameShort2": "ŠVEJDA",
+              "slug": "toma-vejda",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Tomáš ŠVEJDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351142,
+        "code": "13",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "48962",
+              "nameDisplay": "Adrian DZIOLKO",
+              "nameType": 0,
+              "firstName": "Adrian",
+              "lastName": "DZIOLKO",
+              "initials": "AD",
+              "nameShort": "A DZIOLKO",
+              "nameShort2": "DZIOLKO",
+              "slug": "adrian-dziolko",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Adrian DZIOLKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897043/assets/players/thumbnail/48962.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 679,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "94649",
+              "nameDisplay": "Dominik KOPŘIVA",
+              "nameType": 0,
+              "firstName": "Dominik",
+              "lastName": "KOPŘIVA",
+              "initials": "DK",
+              "nameShort": "D KOPŘIVA",
+              "nameShort2": "KOPŘIVA",
+              "slug": "dominik-kopiva",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Dominik KOPŘIVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 66,
+        "time": "01:06",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1351107,
+    "code": "51",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "TUR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+      "teamId": 590,
+      "teamName": "Türkiye",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+      "teamId": 30,
+      "teamName": "Poland",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EWTC24",
+    "roundName": "R1",
+    "drawName": "EWTC24 - Group 1",
+    "drawCode": "4",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351130,
+        "code": "86",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 590,
+          "teamName": "Türkiye",
+          "players": [
+            {
+              "id": "87885",
+              "nameDisplay": "Neslihan ARIN",
+              "nameType": 0,
+              "firstName": "Neslihan",
+              "lastName": "ARIN",
+              "initials": "NA",
+              "nameShort": "N ARIN",
+              "nameShort2": "ARIN",
+              "slug": "neslihan-arin",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Neslihan ARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897368/assets/players/thumbnail/87885.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "84178",
+              "nameDisplay": "Wiktoria DABCZYNSKA",
+              "nameType": 0,
+              "firstName": "Wiktoria",
+              "lastName": "DABCZYNSKA",
+              "initials": "WD",
+              "nameShort": "W DABCZYNSKA",
+              "nameShort2": "DABCZYNSKA",
+              "slug": "wiktoria-dabczynska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Wiktoria DABCZYNSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351251,
+        "code": "89",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 590,
+          "teamName": "Türkiye",
+          "players": [
+            {
+              "id": "62426",
+              "nameDisplay": "Bengisu ERCETIN",
+              "nameType": 0,
+              "firstName": "Bengisu",
+              "lastName": "ERCETIN",
+              "initials": "BE",
+              "nameShort": "B ERCETIN",
+              "nameShort2": "ERCETIN",
+              "slug": "bengisu-ercetin",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Bengisu ERCETIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896034/assets/players/thumbnail/62426.jpg"
+              }
+            },
+            {
+              "id": "73023",
+              "nameDisplay": "Nazlıcan INCI",
+              "nameType": 0,
+              "firstName": "Nazlıcan",
+              "lastName": "INCI",
+              "initials": "NI",
+              "nameShort": "N INCI",
+              "nameShort2": "INCI",
+              "slug": "nazlcan-inci",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Nazlıcan INCI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896036/assets/players/thumbnail/73023.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "77909",
+              "nameDisplay": "Anastasia KHOMICH",
+              "nameType": 0,
+              "firstName": "Anastasia",
+              "lastName": "KHOMICH",
+              "initials": "AK",
+              "nameShort": "A KHOMICH",
+              "nameShort2": "KHOMICH",
+              "slug": "anastasia-khomich",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Anastasia KHOMICH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "66258",
+              "nameDisplay": "Daria ZIMNOL",
+              "nameType": 0,
+              "firstName": "Daria",
+              "lastName": "ZIMNOL",
+              "initials": "DZ",
+              "nameShort": "D ZIMNOL",
+              "nameShort2": "ZIMNOL",
+              "slug": "daria-zimnol",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Daria ZIMNOL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351131,
+        "code": "87",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 590,
+          "teamName": "Türkiye",
+          "players": [
+            {
+              "id": "94762",
+              "nameDisplay": "Ozge BAYRAK",
+              "nameType": 0,
+              "firstName": "Ozge",
+              "lastName": "BAYRAK",
+              "initials": "OB",
+              "nameShort": "O BAYRAK",
+              "nameShort2": "BAYRAK",
+              "slug": "ozge-bayrak",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Ozge BAYRAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897327/assets/players/thumbnail/94762.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "67569",
+              "nameDisplay": "Joanna RUDNA",
+              "nameType": 0,
+              "firstName": "Joanna",
+              "lastName": "RUDNA",
+              "initials": "JR",
+              "nameShort": "J RUDNA",
+              "nameShort2": "RUDNA",
+              "slug": "joanna-rudna",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Joanna RUDNA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351210,
+        "code": "90",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 590,
+          "teamName": "Türkiye",
+          "players": [
+            {
+              "id": "86621",
+              "nameDisplay": "Yasemen BEKTAS",
+              "nameType": 0,
+              "firstName": "Yasemen",
+              "lastName": "BEKTAS",
+              "initials": "YB",
+              "nameShort": "Y BEKTAS",
+              "nameShort2": "BEKTAS",
+              "slug": "yasemen-bektas",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Yasemen BEKTAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "53095",
+              "nameDisplay": "Zehra ERDEM",
+              "nameType": 0,
+              "firstName": "Zehra",
+              "lastName": "ERDEM",
+              "initials": "ZE",
+              "nameShort": "Z ERDEM",
+              "nameShort2": "ERDEM",
+              "slug": "zehra-erdem",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Zehra ERDEM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "74487",
+              "nameDisplay": "Paulina CYBULSKA",
+              "nameType": 0,
+              "firstName": "Paulina",
+              "lastName": "CYBULSKA",
+              "initials": "PC",
+              "nameShort": "P CYBULSKA",
+              "nameShort2": "CYBULSKA",
+              "slug": "paulina-cybulska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Paulina CYBULSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "77380",
+              "nameDisplay": "Kornelia MARCZAK",
+              "nameType": 0,
+              "firstName": "Kornelia",
+              "lastName": "MARCZAK",
+              "initials": "KM",
+              "nameShort": "K MARCZAK",
+              "nameShort2": "MARCZAK",
+              "slug": "kornelia-marczak",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Kornelia MARCZAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351252,
+        "code": "88",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 2,
+        "scoreStatusValue": "Retired",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 590,
+          "teamName": "Türkiye",
+          "players": [
+            {
+              "id": "78453",
+              "nameDisplay": "Betul SONER",
+              "nameType": 0,
+              "firstName": "Betul",
+              "lastName": "SONER",
+              "initials": "BS",
+              "nameShort": "B SONER",
+              "nameShort2": "SONER",
+              "slug": "betul-soner",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Betul SONER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 30,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "77801",
+              "nameDisplay": "Zuzanna JANKOWSKA",
+              "nameType": 0,
+              "firstName": "Zuzanna",
+              "lastName": "JANKOWSKA",
+              "initials": "ZJ",
+              "nameShort": "Z JANKOWSKA",
+              "nameShort2": "JANKOWSKA",
+              "slug": "zuzanna-jankowska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Zuzanna JANKOWSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 5,
+        "time": "00:05",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 4,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 0,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1351088,
+    "code": "14",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 4,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 12,
+      "teamName": "Germany",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC24",
+    "roundName": "R1",
+    "drawName": "EMTC24 - Group 1",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351168,
+        "code": "16",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "91554",
+              "nameDisplay": "Anders ANTONSEN",
+              "nameType": 0,
+              "firstName": "Anders",
+              "lastName": "ANTONSEN",
+              "initials": "AA",
+              "nameShort": "A ANTONSEN",
+              "nameShort2": "ANTONSEN",
+              "slug": "anders-antonsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Anders ANTONSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697434685/assets/players/thumbnail/91554.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "51998",
+              "nameDisplay": "Matthias KICKLITZ",
+              "nameType": 0,
+              "firstName": "Matthias",
+              "lastName": "KICKLITZ",
+              "initials": "MK",
+              "nameShort": "M KICKLITZ",
+              "nameShort2": "KICKLITZ",
+              "slug": "matthias-kicklitz",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Matthias KICKLITZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693905894/assets/players/thumbnail/51998.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 63,
+        "time": "01:03",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351193,
+        "code": "19",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "92980",
+              "nameDisplay": "Kim ASTRUP",
+              "nameType": 0,
+              "firstName": "Kim",
+              "lastName": "ASTRUP",
+              "initials": "KA",
+              "nameShort": "K ASTRUP",
+              "nameShort2": "ASTRUP",
+              "slug": "Kim-ASTRUP",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Kim ASTRUP",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636531494/assets/players/thumbnail/92980.jpg"
+              }
+            },
+            {
+              "id": "60507",
+              "nameDisplay": "Mads VESTERGAARD",
+              "nameType": 0,
+              "firstName": "Mads",
+              "lastName": "VESTERGAARD",
+              "initials": "MV",
+              "nameShort": "M VESTERGAARD",
+              "nameShort2": "VESTERGAARD",
+              "slug": "mads-vestergaard",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mads VESTERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1724635601/assets/players/thumbnail/60507.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "59472",
+              "nameDisplay": "Bjarne GEISS",
+              "nameType": 0,
+              "firstName": "Bjarne",
+              "lastName": "GEISS",
+              "initials": "BG",
+              "nameShort": "B GEISS",
+              "nameShort2": "GEISS",
+              "slug": "bjarne-geiss",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Bjarne GEISS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "78935",
+              "nameDisplay": "Jan Colin VOELKER",
+              "nameType": 0,
+              "firstName": "Jan Colin",
+              "lastName": "VOELKER",
+              "initials": "JV",
+              "nameShort": "J VOELKER",
+              "nameShort2": "VOELKER",
+              "slug": "jan-colin-voelker",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Jan Colin VOELKER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351195,
+        "code": "17",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "62855",
+              "nameDisplay": "Rasmus GEMKE",
+              "nameType": 0,
+              "firstName": "Rasmus",
+              "lastName": "GEMKE",
+              "initials": "RG",
+              "nameShort": "R GEMKE",
+              "nameShort2": "GEMKE",
+              "slug": "rasmus-gemke",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Rasmus GEMKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896110/assets/players/thumbnail/62855.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "73966",
+              "nameDisplay": "Samuel HSIAO",
+              "nameType": 0,
+              "firstName": "Samuel",
+              "lastName": "HSIAO",
+              "initials": "SH",
+              "nameShort": "S HSIAO",
+              "nameShort2": "HSIAO",
+              "slug": "samuel-hsiao",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Samuel HSIAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899195/assets/players/thumbnail/73966.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351192,
+        "code": "20",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "64729",
+              "nameDisplay": "Rasmus KJÆR",
+              "nameType": 0,
+              "firstName": "Rasmus",
+              "lastName": "KJÆR",
+              "initials": "RK",
+              "nameShort": "R KJÆR",
+              "nameShort2": "KJÆR",
+              "slug": "rasmus-kjaer",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Rasmus KJÆR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899224/assets/players/thumbnail/64729.jpg"
+              }
+            },
+            {
+              "id": "57731",
+              "nameDisplay": "Frederik SØGAARD",
+              "nameType": 0,
+              "firstName": "Frederik",
+              "lastName": "SØGAARD",
+              "initials": "FS",
+              "nameShort": "F SØGAARD",
+              "nameShort2": "SØGAARD",
+              "slug": "frederik-sogaard",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Frederik SØGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895161/assets/players/thumbnail/57731.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "65253",
+              "nameDisplay": "Kenneth NEUMANN",
+              "nameType": 0,
+              "firstName": "Kenneth",
+              "lastName": "NEUMANN",
+              "initials": "KN",
+              "nameShort": "K NEUMANN",
+              "nameShort2": "NEUMANN",
+              "slug": "kenneth-neumann",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Kenneth NEUMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "64909",
+              "nameDisplay": "Marvin SEIDEL",
+              "nameType": 0,
+              "firstName": "Marvin",
+              "lastName": "SEIDEL",
+              "initials": "MS",
+              "nameShort": "M SEIDEL",
+              "nameShort2": "SEIDEL",
+              "slug": "marvin-seidel",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Marvin SEIDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636522316/assets/players/thumbnail/64909.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351165,
+        "code": "18",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "97030",
+              "nameDisplay": "Magnus JOHANNESEN",
+              "nameType": 0,
+              "firstName": "Magnus",
+              "lastName": "JOHANNESEN",
+              "initials": "MJ",
+              "nameShort": "M JOHANNESEN",
+              "nameShort2": "JOHANNESEN",
+              "slug": "magnus-johannesen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Magnus JOHANNESEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696987410/assets/players/thumbnail/97030.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "57322",
+              "nameDisplay": "Kian-Yu OEI",
+              "nameType": 0,
+              "firstName": "Kian-Yu",
+              "lastName": "OEI",
+              "initials": "KO",
+              "nameShort": "K OEI",
+              "nameShort2": "OEI",
+              "slug": "kian-yu-oei",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Kian-Yu OEI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 1",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1351103,
+    "code": "53",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 4,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 15,
+      "teamName": "France",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EWTC24",
+    "roundName": "R1",
+    "drawName": "EWTC24 - Group 1",
+    "drawCode": "4",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351242,
+        "code": "91",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "63437",
+              "nameDisplay": "Line Højmark KJAERSFELDT",
+              "nameType": 0,
+              "firstName": "Line Højmark",
+              "lastName": "KJAERSFELDT",
+              "initials": "LK",
+              "nameShort": "L KJAERSFELDT",
+              "nameShort2": "KJAERSFELDT",
+              "slug": "line-hojmark-kjaersfeldt",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Line Højmark KJAERSFELDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634092546/assets/players/thumbnail/63437.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "88582",
+              "nameDisplay": "LéOnice HUET",
+              "nameType": 0,
+              "firstName": "LéOnice",
+              "lastName": "HUET",
+              "initials": "LH",
+              "nameShort": "L HUET",
+              "nameShort2": "HUET",
+              "slug": "leonice-huet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "LéOnice HUET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895838/assets/players/thumbnail/88582.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351236,
+        "code": "94",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "70042",
+              "nameDisplay": "Maiken FRUERGAARD",
+              "nameType": 0,
+              "firstName": "Maiken",
+              "lastName": "FRUERGAARD",
+              "initials": "MF",
+              "nameShort": "M FRUERGAARD",
+              "nameShort2": "FRUERGAARD",
+              "slug": "maiken-fruergaard",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Maiken FRUERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631098/assets/players/thumbnail/70042.jpg"
+              }
+            },
+            {
+              "id": "68189",
+              "nameDisplay": "Sara THYGESEN",
+              "nameType": 0,
+              "firstName": "Sara",
+              "lastName": "THYGESEN",
+              "initials": "ST",
+              "nameShort": "S THYGESEN",
+              "nameShort2": "THYGESEN",
+              "slug": "sara-thygesen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Sara THYGESEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631144/assets/players/thumbnail/68189.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "99891",
+              "nameDisplay": "Margot LAMBERT",
+              "nameType": 0,
+              "firstName": "Margot",
+              "lastName": "LAMBERT",
+              "initials": "ML",
+              "nameShort": "M LAMBERT",
+              "nameShort2": "LAMBERT",
+              "slug": "margot-lambert",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Margot LAMBERT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896594/assets/players/thumbnail/99891.jpg"
+              }
+            },
+            {
+              "id": "98854",
+              "nameDisplay": "Anne TRAN",
+              "nameType": 0,
+              "firstName": "Anne",
+              "lastName": "TRAN",
+              "initials": "AT",
+              "nameShort": "A TRAN",
+              "nameShort2": "TRAN",
+              "slug": "anne-tran",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Anne TRAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895767/assets/players/thumbnail/98854.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 83,
+        "time": "01:23",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 26,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351239,
+        "code": "92",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "91224",
+              "nameDisplay": "Mia BLICHFELDT",
+              "nameType": 0,
+              "firstName": "Mia",
+              "lastName": "BLICHFELDT",
+              "initials": "MB",
+              "nameShort": "M BLICHFELDT",
+              "nameShort2": "BLICHFELDT",
+              "slug": "mia-blichfeldt",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mia BLICHFELDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630981/assets/players/thumbnail/91224.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "65540",
+              "nameDisplay": "Rosy Oktavia PANCASARI",
+              "nameType": 0,
+              "firstName": "Rosy Oktavia",
+              "lastName": "PANCASARI",
+              "initials": "RP",
+              "nameShort": "R PANCASARI",
+              "nameShort2": "PANCASARI",
+              "slug": "rosy-oktavia-pancasari",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Rosy Oktavia PANCASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351221,
+        "code": "95",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "88779",
+              "nameDisplay": "Alexandra BØJE",
+              "nameType": 0,
+              "firstName": "Alexandra",
+              "lastName": "BØJE",
+              "initials": "AB",
+              "nameShort": "A BØJE",
+              "nameShort2": "BØJE",
+              "slug": "alexandra-boje",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Alexandra BØJE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1635909299/assets/players/thumbnail/88779.jpg"
+              }
+            },
+            {
+              "id": "95643",
+              "nameDisplay": "Amalie MAGELUND",
+              "nameType": 0,
+              "firstName": "Amalie",
+              "lastName": "MAGELUND",
+              "initials": "AM",
+              "nameShort": "A MAGELUND",
+              "nameShort2": "MAGELUND",
+              "slug": "amalie-magelund",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Amalie MAGELUND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634093078/assets/players/thumbnail/95643.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "98332",
+              "nameDisplay": "Sharone BAUER",
+              "nameType": 0,
+              "firstName": "Sharone",
+              "lastName": "BAUER",
+              "initials": "SB",
+              "nameShort": "S BAUER",
+              "nameShort2": "BAUER",
+              "slug": "sharone-bauer",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Sharone BAUER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897737/assets/players/thumbnail/98332.jpg"
+              }
+            },
+            {
+              "id": "70762",
+              "nameDisplay": "Delphine DELRUE",
+              "nameType": 0,
+              "firstName": "Delphine",
+              "lastName": "DELRUE",
+              "initials": "DD",
+              "nameShort": "D DELRUE",
+              "nameShort2": "DELRUE",
+              "slug": "delphine-delrue",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Delphine DELRUE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895480/assets/players/thumbnail/70762.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 62,
+        "time": "01:02",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351238,
+        "code": "93",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 4,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "85302",
+              "nameDisplay": "Line CHRISTOPHERSEN",
+              "nameType": 0,
+              "firstName": "Line",
+              "lastName": "CHRISTOPHERSEN",
+              "initials": "LC",
+              "nameShort": "L CHRISTOPHERSEN",
+              "nameShort2": "CHRISTOPHERSEN",
+              "slug": "line-christophersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Line CHRISTOPHERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896471/assets/players/thumbnail/85302.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "71285",
+              "nameDisplay": "Anna TATRANOVA",
+              "nameType": 0,
+              "firstName": "Anna",
+              "lastName": "TATRANOVA",
+              "initials": "AT",
+              "nameShort": "A TATRANOVA",
+              "nameShort2": "TATRANOVA",
+              "slug": "anna-tatranova",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Anna TATRANOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 1",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1351106,
+    "code": "30",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 15,
+      "teamName": "France",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ENG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+      "teamId": 672,
+      "teamName": "England",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC24",
+    "roundName": "R1",
+    "drawName": "EMTC24 - Group 2",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351159,
+        "code": "46",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "61628",
+              "nameDisplay": "Toma Junior POPOV",
+              "nameType": 0,
+              "firstName": "Toma Junior",
+              "lastName": "POPOV",
+              "initials": "TP",
+              "nameShort": "T POPOV",
+              "nameShort2": "POPOV",
+              "slug": "toma-junior-popov",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Toma Junior POPOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991294/assets/players/thumbnail/61628.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 672,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "63170",
+              "nameDisplay": "Harry HUANG",
+              "nameType": 0,
+              "firstName": "Harry",
+              "lastName": "HUANG",
+              "initials": "HH",
+              "nameShort": "H HUANG",
+              "nameShort2": "HUANG",
+              "slug": "harry-huang",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Harry HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896553/assets/players/thumbnail/63170.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351163,
+        "code": "49",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "89416",
+              "nameDisplay": "Lucas CORVEE",
+              "nameType": 0,
+              "firstName": "Lucas",
+              "lastName": "CORVEE",
+              "initials": "LC",
+              "nameShort": "L CORVEE",
+              "nameShort2": "CORVEE",
+              "slug": "lucas-corvee",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Lucas CORVEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630658/assets/players/thumbnail/89416.jpg"
+              }
+            },
+            {
+              "id": "22038",
+              "nameDisplay": "Ronan LABAR",
+              "nameType": 0,
+              "firstName": "Ronan",
+              "lastName": "LABAR",
+              "initials": "RL",
+              "nameShort": "R LABAR",
+              "nameShort2": "LABAR",
+              "slug": "ronan-labar",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Ronan LABAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630720/assets/players/thumbnail/22038.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 672,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "76278",
+              "nameDisplay": "Ben LANE",
+              "nameType": 0,
+              "firstName": "Ben",
+              "lastName": "LANE",
+              "initials": "BL",
+              "nameShort": "B LANE",
+              "nameShort2": "LANE",
+              "slug": "ben-lane",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Ben LANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895527/assets/players/thumbnail/76278.jpg"
+              }
+            },
+            {
+              "id": "72478",
+              "nameDisplay": "Sean VENDY",
+              "nameType": 0,
+              "firstName": "Sean",
+              "lastName": "VENDY",
+              "initials": "SV",
+              "nameShort": "S VENDY",
+              "nameShort2": "VENDY",
+              "slug": "sean-vendy",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Sean VENDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896409/assets/players/thumbnail/72478.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351152,
+        "code": "47",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "72885",
+              "nameDisplay": "Christo POPOV",
+              "nameType": 0,
+              "firstName": "Christo",
+              "lastName": "POPOV",
+              "initials": "CP",
+              "nameShort": "C POPOV",
+              "nameShort2": "POPOV",
+              "slug": "christo-popov",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Christo POPOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991249/assets/players/thumbnail/72885.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 672,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "87999",
+              "nameDisplay": "Nadeem DALVI",
+              "nameType": 0,
+              "firstName": "Nadeem",
+              "lastName": "DALVI",
+              "initials": "ND",
+              "nameShort": "N DALVI",
+              "nameShort2": "DALVI",
+              "slug": "nadeem-dalvi",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Nadeem DALVI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351204,
+        "code": "50",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "68544",
+              "nameDisplay": "Thom GICQUEL",
+              "nameType": 0,
+              "firstName": "Thom",
+              "lastName": "GICQUEL",
+              "initials": "TG",
+              "nameShort": "T GICQUEL",
+              "nameShort2": "GICQUEL",
+              "slug": "thom-gicquel",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Thom GICQUEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895451/assets/players/thumbnail/68544.jpg"
+              }
+            },
+            {
+              "id": "61628",
+              "nameDisplay": "Toma Junior POPOV",
+              "nameType": 0,
+              "firstName": "Toma Junior",
+              "lastName": "POPOV",
+              "initials": "TP",
+              "nameShort": "T POPOV",
+              "nameShort2": "POPOV",
+              "slug": "toma-junior-popov",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Toma Junior POPOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991294/assets/players/thumbnail/61628.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 672,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "86756",
+              "nameDisplay": "Callum HEMMING",
+              "nameType": 0,
+              "firstName": "Callum",
+              "lastName": "HEMMING",
+              "initials": "CH",
+              "nameShort": "C HEMMING",
+              "nameShort2": "HEMMING",
+              "slug": "callum-hemming",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Callum HEMMING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897764/assets/players/thumbnail/86756.jpg"
+              }
+            },
+            {
+              "id": "90556",
+              "nameDisplay": "Ethan VAN LEEUWEN",
+              "nameType": 0,
+              "firstName": "Ethan",
+              "lastName": "VAN LEEUWEN",
+              "initials": "EV",
+              "nameShort": "E VAN LEEUWEN",
+              "nameShort2": "VAN LEEUWEN",
+              "slug": "ethan-van-leeuwen",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Ethan VAN LEEUWEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899232/assets/players/thumbnail/90556.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351158,
+        "code": "48",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "59543",
+              "nameDisplay": "Arnaud MERKLE",
+              "nameType": 0,
+              "firstName": "Arnaud",
+              "lastName": "MERKLE",
+              "initials": "AM",
+              "nameShort": "A MERKLE",
+              "nameShort2": "MERKLE",
+              "slug": "arnaud-merkle",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Arnaud MERKLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696489060/assets/players/thumbnail/59543.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 672,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "77846",
+              "nameDisplay": "Cholan KAYAN",
+              "nameType": 0,
+              "firstName": "Cholan",
+              "lastName": "KAYAN",
+              "initials": "CK",
+              "nameShort": "C KAYAN",
+              "nameShort2": "KAYAN",
+              "slug": "cholan-kayan",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Cholan KAYAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 63,
+        "time": "01:03",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1351081,
+    "code": "69",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 26,
+      "teamName": "Spain",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 12,
+      "teamName": "Germany",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EWTC24",
+    "roundName": "R1",
+    "drawName": "EWTC24 - Group 2",
+    "drawCode": "5",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351179,
+        "code": "121",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 26,
+          "teamName": "Spain",
+          "players": [
+            {
+              "id": "18228",
+              "nameDisplay": "Carolina MARIN",
+              "nameType": 0,
+              "firstName": "Carolina",
+              "lastName": "MARIN",
+              "initials": "CM",
+              "nameShort": "C MARIN",
+              "nameShort2": "MARIN",
+              "slug": "carolina-marin",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Carolina MARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1590501415/assets/players/thumbnail/18228.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "91106",
+              "nameDisplay": "Yvonne LI",
+              "nameType": 0,
+              "firstName": "Yvonne",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yvonne-li",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Yvonne LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991926/assets/players/thumbnail/91106.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351169,
+        "code": "122",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 26,
+          "teamName": "Spain",
+          "players": [
+            {
+              "id": "74218",
+              "nameDisplay": "Clara AZURMENDI",
+              "nameType": 0,
+              "firstName": "Clara",
+              "lastName": "AZURMENDI",
+              "initials": "CA",
+              "nameShort": "C AZURMENDI",
+              "nameShort2": "AZURMENDI",
+              "slug": "clara-azurmendi",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Clara AZURMENDI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895512/assets/players/thumbnail/74218.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "92606",
+              "nameDisplay": "Miranda WILSON",
+              "nameType": 0,
+              "firstName": "Miranda",
+              "lastName": "WILSON",
+              "initials": "MW",
+              "nameShort": "M WILSON",
+              "nameShort2": "WILSON",
+              "slug": "miranda-wilson",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Miranda WILSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899208/assets/players/thumbnail/92606.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351176,
+        "code": "123",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 26,
+          "teamName": "Spain",
+          "players": [
+            {
+              "id": "95780",
+              "nameDisplay": "Beatriz CORRALES",
+              "nameType": 0,
+              "firstName": "Beatriz",
+              "lastName": "CORRALES",
+              "initials": "BC",
+              "nameShort": "B CORRALES",
+              "nameShort2": "CORRALES",
+              "slug": "beatriz-corrales",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Beatriz CORRALES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894712/assets/players/thumbnail/95780.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "95714",
+              "nameDisplay": "Antonia SCHALLER",
+              "nameType": 0,
+              "firstName": "Antonia",
+              "lastName": "SCHALLER",
+              "initials": "AS",
+              "nameShort": "A SCHALLER",
+              "nameShort2": "SCHALLER",
+              "slug": "antonia-schaller",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Antonia SCHALLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351182,
+        "code": "125",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 26,
+          "teamName": "Spain",
+          "players": [
+            {
+              "id": "55668",
+              "nameDisplay": "Paula LOPEZ",
+              "nameType": 0,
+              "firstName": "Paula",
+              "lastName": "LOPEZ",
+              "initials": "PL",
+              "nameShort": "P LOPEZ",
+              "nameShort2": "LOPEZ",
+              "slug": "paula-lopez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Paula LOPEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "92404",
+              "nameDisplay": "Lucia RODRIGUEZ",
+              "nameType": 0,
+              "firstName": "Lucia",
+              "lastName": "RODRIGUEZ",
+              "initials": "LR",
+              "nameShort": "L RODRIGUEZ",
+              "nameShort2": "RODRIGUEZ",
+              "slug": "lucia-rodriguez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Lucia RODRIGUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634274067/assets/players/thumbnail/92404.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "78795",
+              "nameDisplay": "Stine KUESPERT",
+              "nameType": 0,
+              "firstName": "Stine",
+              "lastName": "KUESPERT",
+              "initials": "SK",
+              "nameShort": "S KUESPERT",
+              "nameShort2": "KUESPERT",
+              "slug": "stine-kuespert",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Stine KUESPERT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899260/assets/players/thumbnail/78795.jpg"
+              }
+            },
+            {
+              "id": "97648",
+              "nameDisplay": "Thuc Phuong NGUYEN",
+              "nameType": 0,
+              "firstName": "Thuc Phuong",
+              "lastName": "NGUYEN",
+              "initials": "TN",
+              "nameShort": "T NGUYEN",
+              "nameShort2": "NGUYEN",
+              "slug": "thuc-phuong-nguyen",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Thuc Phuong NGUYEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351177,
+        "code": "124",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 26,
+          "teamName": "Spain",
+          "players": [
+            {
+              "id": "74218",
+              "nameDisplay": "Clara AZURMENDI",
+              "nameType": 0,
+              "firstName": "Clara",
+              "lastName": "AZURMENDI",
+              "initials": "CA",
+              "nameShort": "C AZURMENDI",
+              "nameShort2": "AZURMENDI",
+              "slug": "clara-azurmendi",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Clara AZURMENDI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895512/assets/players/thumbnail/74218.jpg"
+              }
+            },
+            {
+              "id": "95780",
+              "nameDisplay": "Beatriz CORRALES",
+              "nameType": 0,
+              "firstName": "Beatriz",
+              "lastName": "CORRALES",
+              "initials": "BC",
+              "nameShort": "B CORRALES",
+              "nameShort2": "CORRALES",
+              "slug": "beatriz-corrales",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Beatriz CORRALES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894712/assets/players/thumbnail/95780.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 12,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "83942",
+              "nameDisplay": "Linda EFLER",
+              "nameType": 0,
+              "firstName": "Linda",
+              "lastName": "EFLER",
+              "initials": "LE",
+              "nameShort": "L EFLER",
+              "nameShort2": "EFLER",
+              "slug": "linda-efler",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Linda EFLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895615/assets/players/thumbnail/83942.jpg"
+              }
+            },
+            {
+              "id": "98052",
+              "nameDisplay": "Isabel LOHAU",
+              "nameType": 0,
+              "firstName": "Isabel",
+              "lastName": "LOHAU",
+              "initials": "IL",
+              "nameShort": "I LOHAU",
+              "nameShort2": "LOHAU",
+              "slug": "isabel-lohau",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Isabel LOHAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637132670/assets/players/thumbnail/98052.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1351079,
+    "code": "28",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "UKR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+      "teamId": 21,
+      "teamName": "Ukraine",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 16,
+      "teamName": "Netherlands",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC24",
+    "roundName": "R1",
+    "drawName": "EMTC24 - Group 2",
+    "drawCode": "2",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 5,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351209,
+        "code": "41",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "58328",
+              "nameDisplay": "DANYLO BOSNIUK",
+              "nameType": 0,
+              "firstName": "DANYLO",
+              "lastName": "BOSNIUK",
+              "initials": "DB",
+              "nameShort": "D BOSNIUK",
+              "nameShort2": "BOSNIUK",
+              "slug": "danylo-bosniuk",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "DANYLO BOSNIUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693962457/assets/players/thumbnail/58328.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "76973",
+              "nameDisplay": "Mark CALJOUW",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "CALJOUW",
+              "initials": "MC",
+              "nameShort": "M CALJOUW",
+              "nameShort2": "CALJOUW",
+              "slug": "mark-caljouw",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Mark CALJOUW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1630995513/assets/players/thumbnail/76973.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351212,
+        "code": "42",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "85964",
+              "nameDisplay": "Viacheslav YAKOVLEV",
+              "nameType": 0,
+              "firstName": "Viacheslav",
+              "lastName": "YAKOVLEV",
+              "initials": "VY",
+              "nameShort": "V YAKOVLEV",
+              "nameShort2": "YAKOVLEV",
+              "slug": "viacheslav-yakovlev",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Viacheslav YAKOVLEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "62286",
+              "nameDisplay": "Joran KWEEKEL",
+              "nameType": 0,
+              "firstName": "Joran",
+              "lastName": "KWEEKEL",
+              "initials": "JK",
+              "nameShort": "J KWEEKEL",
+              "nameShort2": "KWEEKEL",
+              "slug": "joran-kweekel",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Joran KWEEKEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693965324/assets/players/thumbnail/62286.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351153,
+        "code": "45",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "57803",
+              "nameDisplay": "Glib BEKETOV",
+              "nameType": 0,
+              "firstName": "Glib",
+              "lastName": "BEKETOV",
+              "initials": "GB",
+              "nameShort": "G BEKETOV",
+              "nameShort2": "BEKETOV",
+              "slug": "glib-beketov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Glib BEKETOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "69483",
+              "nameDisplay": "Ivan DRUZCHENKO",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "DRUZCHENKO",
+              "initials": "ID",
+              "nameShort": "I DRUZCHENKO",
+              "nameShort2": "DRUZCHENKO",
+              "slug": "ivan-druzchenko",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Ivan DRUZCHENKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "55908",
+              "nameDisplay": "Andy BUIJK",
+              "nameType": 0,
+              "firstName": "Andy",
+              "lastName": "BUIJK",
+              "initials": "AB",
+              "nameShort": "A BUIJK",
+              "nameShort2": "BUIJK",
+              "slug": "andy-buijk",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Andy BUIJK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67412",
+              "nameDisplay": "Timo STOFFELEN",
+              "nameType": 0,
+              "firstName": "Timo",
+              "lastName": "STOFFELEN",
+              "initials": "TS",
+              "nameShort": "T STOFFELEN",
+              "nameShort2": "STOFFELEN",
+              "slug": "timo-stoffelen",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Timo STOFFELEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351213,
+        "code": "43",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "75729",
+              "nameDisplay": "Oleksii TITOV",
+              "nameType": 0,
+              "firstName": "Oleksii",
+              "lastName": "TITOV",
+              "initials": "OT",
+              "nameShort": "O TITOV",
+              "nameShort2": "TITOV",
+              "slug": "oleksii-titov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Oleksii TITOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "95766",
+              "nameDisplay": "Noah HAASE",
+              "nameType": 0,
+              "firstName": "Noah",
+              "lastName": "HAASE",
+              "initials": "NH",
+              "nameShort": "N HAASE",
+              "nameShort2": "HAASE",
+              "slug": "noah-haase",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Noah HAASE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 4,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351160,
+        "code": "44",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "85964",
+              "nameDisplay": "Viacheslav YAKOVLEV",
+              "nameType": 0,
+              "firstName": "Viacheslav",
+              "lastName": "YAKOVLEV",
+              "initials": "VY",
+              "nameShort": "V YAKOVLEV",
+              "nameShort2": "YAKOVLEV",
+              "slug": "viacheslav-yakovlev",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Viacheslav YAKOVLEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "60819",
+              "nameDisplay": "Nikita YEROMENKO",
+              "nameType": 0,
+              "firstName": "Nikita",
+              "lastName": "YEROMENKO",
+              "initials": "NY",
+              "nameShort": "N YEROMENKO",
+              "nameShort2": "YEROMENKO",
+              "slug": "nikita-yeromenko",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Nikita YEROMENKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "91971",
+              "nameDisplay": "Ties VAN DER LECQ",
+              "nameType": 0,
+              "firstName": "Ties",
+              "lastName": "VAN DER LECQ",
+              "initials": "TV",
+              "nameShort": "T VAN DER LECQ",
+              "nameShort2": "VAN DER LECQ",
+              "slug": "ties-van-der-lecq",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Ties VAN DER LECQ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899251/assets/players/thumbnail/91971.jpg"
+              }
+            },
+            {
+              "id": "65470",
+              "nameDisplay": "Brian WASSINK",
+              "nameType": 0,
+              "firstName": "Brian",
+              "lastName": "WASSINK",
+              "initials": "BW",
+              "nameShort": "B WASSINK",
+              "nameShort2": "WASSINK",
+              "slug": "brian-wassink",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Brian WASSINK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC24",
+        "roundName": "R1",
+        "drawName": "EMTC24 - Group 2",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 25,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1351082,
+    "code": "67",
+    "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+    "tournamentName": "2024 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 16,
+      "teamName": "Netherlands",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SCO",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+      "teamId": 460,
+      "teamName": "Scotland",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EWTC24",
+    "roundName": "R1",
+    "drawName": "EWTC24 - Group 2",
+    "drawCode": "5",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1351172,
+        "code": "116",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "50591",
+              "nameDisplay": "Jaymie LAURENS",
+              "nameType": 0,
+              "firstName": "Jaymie",
+              "lastName": "LAURENS",
+              "initials": "JL",
+              "nameShort": "J LAURENS",
+              "nameShort2": "LAURENS",
+              "slug": "jaymie-laurens",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Jaymie LAURENS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "48528",
+              "nameDisplay": "Kirsty GILMOUR",
+              "nameType": 0,
+              "firstName": "Kirsty",
+              "lastName": "GILMOUR",
+              "initials": "KG",
+              "nameShort": "K GILMOUR",
+              "nameShort2": "GILMOUR",
+              "slug": "kirsty-gilmour",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Kirsty GILMOUR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630927/assets/players/thumbnail/48528.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351170,
+        "code": "119",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "67373",
+              "nameDisplay": "Debora JILLE",
+              "nameType": 0,
+              "firstName": "Debora",
+              "lastName": "JILLE",
+              "initials": "DJ",
+              "nameShort": "D JILLE",
+              "nameShort2": "JILLE",
+              "slug": "debora-jille",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Debora JILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895934/assets/players/thumbnail/67373.jpg"
+              }
+            },
+            {
+              "id": "76188",
+              "nameDisplay": "Alyssa TIRTOSENTONO",
+              "nameType": 0,
+              "firstName": "Alyssa",
+              "lastName": "TIRTOSENTONO",
+              "initials": "AT",
+              "nameShort": "A TIRTOSENTONO",
+              "nameShort2": "TIRTOSENTONO",
+              "slug": "alyssa-tirtosentono",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Alyssa TIRTOSENTONO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895936/assets/players/thumbnail/76188.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "91715",
+              "nameDisplay": "Julie MACPHERSON",
+              "nameType": 0,
+              "firstName": "Julie",
+              "lastName": "MACPHERSON",
+              "initials": "JM",
+              "nameShort": "J MACPHERSON",
+              "nameShort2": "MACPHERSON",
+              "slug": "julie-macpherson",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Julie MACPHERSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281746/assets/players/thumbnail/91715.jpg"
+              }
+            },
+            {
+              "id": "92277",
+              "nameDisplay": "Ciara TORRANCE",
+              "nameType": 0,
+              "firstName": "Ciara",
+              "lastName": "TORRANCE",
+              "initials": "CT",
+              "nameShort": "C TORRANCE",
+              "nameShort2": "TORRANCE",
+              "slug": "ciara-torrance",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Ciara TORRANCE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281858/assets/players/thumbnail/92277.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 61,
+        "time": "01:01",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351174,
+        "code": "117",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "59679",
+              "nameDisplay": "Nadia CHOUKRI",
+              "nameType": 0,
+              "firstName": "Nadia",
+              "lastName": "CHOUKRI",
+              "initials": "NC",
+              "nameShort": "N CHOUKRI",
+              "nameShort2": "CHOUKRI",
+              "slug": "nadia-choukri",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Nadia CHOUKRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "65401",
+              "nameDisplay": "Rachel SUGDEN",
+              "nameType": 0,
+              "firstName": "Rachel",
+              "lastName": "SUGDEN",
+              "initials": "RS",
+              "nameShort": "R SUGDEN",
+              "nameShort2": "SUGDEN",
+              "slug": "rachel-sugden",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Rachel SUGDEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634282000/assets/players/thumbnail/65401.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351214,
+        "code": "120",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "88278",
+              "nameDisplay": "Kirsten DE WIT",
+              "nameType": 0,
+              "firstName": "Kirsten",
+              "lastName": "DE WIT",
+              "initials": "KD",
+              "nameShort": "K DE WIT",
+              "nameShort2": "DE WIT",
+              "slug": "kirsten-de-wit",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Kirsten DE WIT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "96301",
+              "nameDisplay": "Kelly VAN BUITEN",
+              "nameType": 0,
+              "firstName": "Kelly",
+              "lastName": "VAN BUITEN",
+              "initials": "KV",
+              "nameShort": "K VAN BUITEN",
+              "nameShort2": "VAN BUITEN",
+              "slug": "kelly-van-buiten",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Kelly VAN BUITEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "93025",
+              "nameDisplay": "Rachel ANDREW",
+              "nameType": 0,
+              "firstName": "Rachel",
+              "lastName": "ANDREW",
+              "initials": "RA",
+              "nameShort": "R ANDREW",
+              "nameShort2": "ANDREW",
+              "slug": "rachel-andrew",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Rachel ANDREW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634282310/assets/players/thumbnail/93025.jpg"
+              }
+            },
+            {
+              "id": "48528",
+              "nameDisplay": "Kirsty GILMOUR",
+              "nameType": 0,
+              "firstName": "Kirsty",
+              "lastName": "GILMOUR",
+              "initials": "KG",
+              "nameShort": "K GILMOUR",
+              "nameShort2": "GILMOUR",
+              "slug": "kirsty-gilmour",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Kirsty GILMOUR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630927/assets/players/thumbnail/48528.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1351180,
+        "code": "118",
+        "tournamentCode": "0B250CBA-6255-4D30-8AF2-8341581B22E5",
+        "tournamentName": "2024 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 2,
+        "scoreStatusValue": "Retired",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 16,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "81384",
+              "nameDisplay": "Flora WANG",
+              "nameType": 0,
+              "firstName": "Flora",
+              "lastName": "WANG",
+              "initials": "FW",
+              "nameShort": "F WANG",
+              "nameShort2": "WANG",
+              "slug": "flora-wang",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Flora WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "76757",
+              "nameDisplay": "Lauren MIDDLETON",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "MIDDLETON",
+              "initials": "LM",
+              "nameShort": "L MIDDLETON",
+              "nameShort2": "MIDDLETON",
+              "slug": "lauren-middleton",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Lauren MIDDLETON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634282412/assets/players/thumbnail/76757.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EWTC24",
+        "roundName": "R1",
+        "drawName": "EWTC24 - Group 2",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 1,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

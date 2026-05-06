@@ -1,0 +1,3395 @@
+[
+  {
+    "id": 1148517,
+    "code": "742",
+    "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+    "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 41,
+      "teamName": "PERÚ",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 40,
+      "teamName": "México",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-02-16 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "5/6",
+    "drawName": "Mixed Team  - 1 / 6",
+    "drawCode": "46",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Centro de Alto Rendimiento La Videna",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1148522,
+        "code": "1435",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 41,
+          "teamName": "PERÚ",
+          "players": [
+            {
+              "id": "91469",
+              "nameDisplay": "Diego MINI",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "MINI",
+              "initials": "DM",
+              "nameShort": "D MINI",
+              "nameShort2": "MINI",
+              "slug": "diego-mini",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego MINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895887/assets/players/thumbnail/91469.jpg"
+              }
+            },
+            {
+              "id": "80894",
+              "nameDisplay": "Danica NISHIMURA",
+              "nameType": 0,
+              "firstName": "Danica",
+              "lastName": "NISHIMURA",
+              "initials": "DN",
+              "nameShort": "D NISHIMURA",
+              "nameShort2": "NISHIMURA",
+              "slug": "danica-nishimura",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Danica NISHIMURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895579/assets/players/thumbnail/80894.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 40,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "45386",
+              "nameDisplay": "Lopez ANDRES",
+              "nameType": 0,
+              "firstName": "Lopez",
+              "lastName": "ANDRES",
+              "initials": "LA",
+              "nameShort": "L ANDRES",
+              "nameShort2": "ANDRES",
+              "slug": "lopez-andres",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Lopez ANDRES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896384/assets/players/thumbnail/45386.jpg"
+              }
+            },
+            {
+              "id": "98186",
+              "nameDisplay": "Sabrina SOLIS",
+              "nameType": 0,
+              "firstName": "Sabrina",
+              "lastName": "SOLIS",
+              "initials": "SS",
+              "nameShort": "S SOLIS",
+              "nameShort2": "SOLIS",
+              "slug": "sabrina-solis",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Sabrina SOLIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "5/6",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148518,
+        "code": "1431",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 41,
+          "teamName": "PERÚ",
+          "players": [
+            {
+              "id": "58402",
+              "nameDisplay": "Jose GUEVARA",
+              "nameType": 0,
+              "firstName": "Jose",
+              "lastName": "GUEVARA",
+              "initials": "JG",
+              "nameShort": "J GUEVARA",
+              "nameShort2": "GUEVARA",
+              "slug": "jose-guevara",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Jose GUEVARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 40,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "93101",
+              "nameDisplay": "Job CASTILLO",
+              "nameType": 0,
+              "firstName": "Job",
+              "lastName": "CASTILLO",
+              "initials": "JC",
+              "nameShort": "J CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "job-castillo",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Job CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897342/assets/players/thumbnail/93101.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "5/6",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148519,
+        "code": "1432",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 41,
+          "teamName": "PERÚ",
+          "players": [
+            {
+              "id": "71252",
+              "nameDisplay": "Daniela MACIAS",
+              "nameType": 0,
+              "firstName": "Daniela",
+              "lastName": "MACIAS",
+              "initials": "DM",
+              "nameShort": "D MACIAS",
+              "nameShort2": "MACIAS",
+              "slug": "daniela-macias",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Daniela MACIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895490/assets/players/thumbnail/71252.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 40,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "61244",
+              "nameDisplay": "Mariana UGALDE",
+              "nameType": 0,
+              "firstName": "Mariana",
+              "lastName": "UGALDE",
+              "initials": "MU",
+              "nameShort": "M UGALDE",
+              "nameShort2": "UGALDE",
+              "slug": "mariana-ugalde",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Mariana UGALDE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897601/assets/players/thumbnail/61244.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "5/6",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148520,
+        "code": "1433",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 41,
+          "teamName": "PERÚ",
+          "players": [
+            {
+              "id": "58402",
+              "nameDisplay": "Jose GUEVARA",
+              "nameType": 0,
+              "firstName": "Jose",
+              "lastName": "GUEVARA",
+              "initials": "JG",
+              "nameShort": "J GUEVARA",
+              "nameShort2": "GUEVARA",
+              "slug": "jose-guevara",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Jose GUEVARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "72923",
+              "nameDisplay": "Daniel LA TORRE  REGAL",
+              "nameType": 0,
+              "firstName": "Daniel",
+              "lastName": "LA TORRE  REGAL",
+              "initials": "DL",
+              "nameShort": "D LA TORRE  REGAL",
+              "nameShort2": "LA TORRE  REGAL",
+              "slug": "daniel-la-torre-regal",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Daniel LA TORRE  REGAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895498/assets/players/thumbnail/72923.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 40,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "45386",
+              "nameDisplay": "Lopez ANDRES",
+              "nameType": 0,
+              "firstName": "Lopez",
+              "lastName": "ANDRES",
+              "initials": "LA",
+              "nameShort": "L ANDRES",
+              "nameShort2": "ANDRES",
+              "slug": "lopez-andres",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Lopez ANDRES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896384/assets/players/thumbnail/45386.jpg"
+              }
+            },
+            {
+              "id": "74987",
+              "nameDisplay": "Luis Armando MONTOYA NAVARRO",
+              "nameType": 0,
+              "firstName": "Luis Armando",
+              "lastName": "MONTOYA NAVARRO",
+              "initials": "LM",
+              "nameShort": "L MONTOYA NAVARRO",
+              "nameShort2": "MONTOYA NAVARRO",
+              "slug": "luis-armando-montoya-navarro",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Luis Armando MONTOYA NAVARRO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "5/6",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148521,
+        "code": "1434",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 41,
+          "teamName": "PERÚ",
+          "players": [
+            {
+              "id": "71252",
+              "nameDisplay": "Daniela MACIAS",
+              "nameType": 0,
+              "firstName": "Daniela",
+              "lastName": "MACIAS",
+              "initials": "DM",
+              "nameShort": "D MACIAS",
+              "nameShort2": "MACIAS",
+              "slug": "daniela-macias",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Daniela MACIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895490/assets/players/thumbnail/71252.jpg"
+              }
+            },
+            {
+              "id": "80894",
+              "nameDisplay": "Danica NISHIMURA",
+              "nameType": 0,
+              "firstName": "Danica",
+              "lastName": "NISHIMURA",
+              "initials": "DN",
+              "nameShort": "D NISHIMURA",
+              "nameShort2": "NISHIMURA",
+              "slug": "danica-nishimura",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Danica NISHIMURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895579/assets/players/thumbnail/80894.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 40,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "98186",
+              "nameDisplay": "Sabrina SOLIS",
+              "nameType": 0,
+              "firstName": "Sabrina",
+              "lastName": "SOLIS",
+              "initials": "SS",
+              "nameShort": "S SOLIS",
+              "nameShort2": "SOLIS",
+              "slug": "sabrina-solis",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Sabrina SOLIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "61244",
+              "nameDisplay": "Mariana UGALDE",
+              "nameType": 0,
+              "firstName": "Mariana",
+              "lastName": "UGALDE",
+              "initials": "MU",
+              "nameShort": "M UGALDE",
+              "nameShort2": "UGALDE",
+              "slug": "mariana-ugalde",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Mariana UGALDE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897601/assets/players/thumbnail/61244.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "5/6",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1148511,
+    "code": "747",
+    "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+    "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": 133,
+      "teamName": "USA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 31,
+      "teamName": "Brazil",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-02-16 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "SF",
+    "drawName": "Mixed Team  - 1 / 6",
+    "drawCode": "46",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Centro de Alto Rendimiento La Videna",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1148516,
+        "code": "1425",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "36299",
+              "nameDisplay": "Phillip CHEW",
+              "nameType": 0,
+              "firstName": "Phillip",
+              "lastName": "CHEW",
+              "initials": "PC",
+              "nameShort": "P CHEW",
+              "nameShort2": "CHEW",
+              "slug": "phillip-chew",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Phillip CHEW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897002/assets/players/thumbnail/36299.jpg"
+              }
+            },
+            {
+              "id": "96451",
+              "nameDisplay": "Breanna CHI",
+              "nameType": 0,
+              "firstName": "Breanna",
+              "lastName": "CHI",
+              "initials": "BC",
+              "nameShort": "B CHI",
+              "nameShort2": "CHI",
+              "slug": "breanna-chi",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Breanna CHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897657/assets/players/thumbnail/96451.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "77631",
+              "nameDisplay": "Artur Silva POMOCENO",
+              "nameType": 0,
+              "firstName": "Artur Silva",
+              "lastName": "POMOCENO",
+              "initials": "AP",
+              "nameShort": "A POMOCENO",
+              "nameShort2": "POMOCENO",
+              "slug": "artur-silva-pomoceno",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Artur Silva POMOCENO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "74742",
+              "nameDisplay": "Lohaynny VICENTE",
+              "nameType": 0,
+              "firstName": "Lohaynny",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "lohaynny-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Lohaynny VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897538/assets/players/thumbnail/74742.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148513,
+        "code": "1422",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "83074",
+              "nameDisplay": "Jennie GAI",
+              "nameType": 0,
+              "firstName": "Jennie",
+              "lastName": "GAI",
+              "initials": "JG",
+              "nameShort": "J GAI",
+              "nameShort2": "GAI",
+              "slug": "jennie-gai",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Jennie GAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991965/assets/players/thumbnail/83074.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "52908",
+              "nameDisplay": "Fabiana SILVA",
+              "nameType": 0,
+              "firstName": "Fabiana",
+              "lastName": "SILVA",
+              "initials": "FS",
+              "nameShort": "F SILVA",
+              "nameShort2": "SILVA",
+              "slug": "fabiana-silva",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Fabiana SILVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897149/assets/players/thumbnail/52908.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148512,
+        "code": "1421",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "59362",
+              "nameDisplay": "Andrew ZHANG",
+              "nameType": 0,
+              "firstName": "Andrew",
+              "lastName": "ZHANG",
+              "initials": "AZ",
+              "nameShort": "A ZHANG",
+              "nameShort2": "ZHANG",
+              "slug": "andrew-zhang",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Andrew ZHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "77631",
+              "nameDisplay": "Artur Silva POMOCENO",
+              "nameType": 0,
+              "firstName": "Artur Silva",
+              "lastName": "POMOCENO",
+              "initials": "AP",
+              "nameShort": "A POMOCENO",
+              "nameShort2": "POMOCENO",
+              "slug": "artur-silva-pomoceno",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Artur Silva POMOCENO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148515,
+        "code": "1424",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "53746",
+              "nameDisplay": "Kuei-Ya CHEN",
+              "nameType": 0,
+              "firstName": "Kuei-Ya",
+              "lastName": "CHEN",
+              "initials": "KC",
+              "nameShort": "K CHEN",
+              "nameShort2": "CHEN",
+              "slug": "kuei-ya-chen",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kuei-Ya CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "83074",
+              "nameDisplay": "Jennie GAI",
+              "nameType": 0,
+              "firstName": "Jennie",
+              "lastName": "GAI",
+              "initials": "JG",
+              "nameShort": "J GAI",
+              "nameShort2": "GAI",
+              "slug": "jennie-gai",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Jennie GAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991965/assets/players/thumbnail/83074.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "74742",
+              "nameDisplay": "Lohaynny VICENTE",
+              "nameType": 0,
+              "firstName": "Lohaynny",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "lohaynny-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Lohaynny VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897538/assets/players/thumbnail/74742.jpg"
+              }
+            },
+            {
+              "id": "94010",
+              "nameDisplay": "Luana VICENTE",
+              "nameType": 0,
+              "firstName": "Luana",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "luana-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Luana VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897323/assets/players/thumbnail/94010.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148514,
+        "code": "1423",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "36299",
+              "nameDisplay": "Phillip CHEW",
+              "nameType": 0,
+              "firstName": "Phillip",
+              "lastName": "CHEW",
+              "initials": "PC",
+              "nameShort": "P CHEW",
+              "nameShort2": "CHEW",
+              "slug": "phillip-chew",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Phillip CHEW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897002/assets/players/thumbnail/36299.jpg"
+              }
+            },
+            {
+              "id": "93167",
+              "nameDisplay": "Ryan CHEW",
+              "nameType": 0,
+              "firstName": "Ryan",
+              "lastName": "CHEW",
+              "initials": "RC",
+              "nameShort": "R CHEW",
+              "nameShort2": "CHEW",
+              "slug": "ryan-chew",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Ryan CHEW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896412/assets/players/thumbnail/93167.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "69649",
+              "nameDisplay": "Fabricio FARIAS",
+              "nameType": 0,
+              "firstName": "Fabricio",
+              "lastName": "FARIAS",
+              "initials": "FF",
+              "nameShort": "F FARIAS",
+              "nameShort2": "FARIAS",
+              "slug": "fabricio-farias",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Fabricio FARIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897670/assets/players/thumbnail/69649.jpg"
+              }
+            },
+            {
+              "id": "65478",
+              "nameDisplay": "Francielton FARIAS",
+              "nameType": 0,
+              "firstName": "Francielton",
+              "lastName": "FARIAS",
+              "initials": "FF",
+              "nameShort": "F FARIAS",
+              "nameShort2": "FARIAS",
+              "slug": "francielton-farias",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Francielton FARIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1148555,
+    "code": "740",
+    "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+    "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CUB",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+      "teamId": 47,
+      "teamName": "Cuba",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 31,
+      "teamName": "Brazil",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-02-16 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "3/4",
+    "drawName": "Mixed Team  - 1 / 6",
+    "drawCode": "46",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Centro de Alto Rendimiento La Videna",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1148556,
+        "code": "1436",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "50573",
+              "nameDisplay": "Leodannis MARTINEZ PALACIO",
+              "nameType": 0,
+              "firstName": "Leodannis",
+              "lastName": "MARTINEZ PALACIO",
+              "initials": "LM",
+              "nameShort": "L MARTINEZ PALACIO",
+              "nameShort2": "MARTINEZ PALACIO",
+              "slug": "leodannis-martinez-palacio",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Leodannis MARTINEZ PALACIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "77631",
+              "nameDisplay": "Artur Silva POMOCENO",
+              "nameType": 0,
+              "firstName": "Artur Silva",
+              "lastName": "POMOCENO",
+              "initials": "AP",
+              "nameShort": "A POMOCENO",
+              "nameShort2": "POMOCENO",
+              "slug": "artur-silva-pomoceno",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Artur Silva POMOCENO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "3/4",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148557,
+        "code": "1437",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "76468",
+              "nameDisplay": "Marianne GONZALEZ ORTIZ",
+              "nameType": 0,
+              "firstName": "Marianne",
+              "lastName": "GONZALEZ ORTIZ",
+              "initials": "MG",
+              "nameShort": "M GONZALEZ ORTIZ",
+              "nameShort2": "GONZALEZ ORTIZ",
+              "slug": "marianne-gonzalez-ortiz",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Marianne GONZALEZ ORTIZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "74742",
+              "nameDisplay": "Lohaynny VICENTE",
+              "nameType": 0,
+              "firstName": "Lohaynny",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "lohaynny-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Lohaynny VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897538/assets/players/thumbnail/74742.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "3/4",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148558,
+        "code": "1438",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "52364",
+              "nameDisplay": "Osleni GUERRERO",
+              "nameType": 0,
+              "firstName": "Osleni",
+              "lastName": "GUERRERO",
+              "initials": "OG",
+              "nameShort": "O GUERRERO",
+              "nameShort2": "GUERRERO",
+              "slug": "osleni-guerrero",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Osleni GUERRERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897127/assets/players/thumbnail/52364.jpg"
+              }
+            },
+            {
+              "id": "50573",
+              "nameDisplay": "Leodannis MARTINEZ PALACIO",
+              "nameType": 0,
+              "firstName": "Leodannis",
+              "lastName": "MARTINEZ PALACIO",
+              "initials": "LM",
+              "nameShort": "L MARTINEZ PALACIO",
+              "nameShort2": "MARTINEZ PALACIO",
+              "slug": "leodannis-martinez-palacio",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Leodannis MARTINEZ PALACIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "69649",
+              "nameDisplay": "Fabricio FARIAS",
+              "nameType": 0,
+              "firstName": "Fabricio",
+              "lastName": "FARIAS",
+              "initials": "FF",
+              "nameShort": "F FARIAS",
+              "nameShort2": "FARIAS",
+              "slug": "fabricio-farias",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Fabricio FARIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897670/assets/players/thumbnail/69649.jpg"
+              }
+            },
+            {
+              "id": "65478",
+              "nameDisplay": "Francielton FARIAS",
+              "nameType": 0,
+              "firstName": "Francielton",
+              "lastName": "FARIAS",
+              "initials": "FF",
+              "nameShort": "F FARIAS",
+              "nameShort2": "FARIAS",
+              "slug": "francielton-farias",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Francielton FARIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "3/4",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 46,
+        "time": "00:46",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 27,
+            "away": 25,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148559,
+        "code": "1439",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "76468",
+              "nameDisplay": "Marianne GONZALEZ ORTIZ",
+              "nameType": 0,
+              "firstName": "Marianne",
+              "lastName": "GONZALEZ ORTIZ",
+              "initials": "MG",
+              "nameShort": "M GONZALEZ ORTIZ",
+              "nameShort2": "GONZALEZ ORTIZ",
+              "slug": "marianne-gonzalez-ortiz",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Marianne GONZALEZ ORTIZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98960",
+              "nameDisplay": "Taymara OROPESA PUPO",
+              "nameType": 0,
+              "firstName": "Taymara",
+              "lastName": "OROPESA PUPO",
+              "initials": "TO",
+              "nameShort": "T OROPESA PUPO",
+              "nameShort2": "OROPESA PUPO",
+              "slug": "taymara-oropesa-pupo",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Taymara OROPESA PUPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "76507",
+              "nameDisplay": "Samia LIMA",
+              "nameType": 0,
+              "firstName": "Samia",
+              "lastName": "LIMA",
+              "initials": "SL",
+              "nameShort": "S LIMA",
+              "nameShort2": "LIMA",
+              "slug": "samia-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Samia LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897666/assets/players/thumbnail/76507.jpg"
+              }
+            },
+            {
+              "id": "94010",
+              "nameDisplay": "Luana VICENTE",
+              "nameType": 0,
+              "firstName": "Luana",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "luana-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Luana VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897323/assets/players/thumbnail/94010.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "3/4",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1148560,
+        "code": "1440",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "52364",
+              "nameDisplay": "Osleni GUERRERO",
+              "nameType": 0,
+              "firstName": "Osleni",
+              "lastName": "GUERRERO",
+              "initials": "OG",
+              "nameShort": "O GUERRERO",
+              "nameShort2": "GUERRERO",
+              "slug": "osleni-guerrero",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Osleni GUERRERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897127/assets/players/thumbnail/52364.jpg"
+              }
+            },
+            {
+              "id": "98960",
+              "nameDisplay": "Taymara OROPESA PUPO",
+              "nameType": 0,
+              "firstName": "Taymara",
+              "lastName": "OROPESA PUPO",
+              "initials": "TO",
+              "nameShort": "T OROPESA PUPO",
+              "nameShort2": "OROPESA PUPO",
+              "slug": "taymara-oropesa-pupo",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Taymara OROPESA PUPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 31,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "77631",
+              "nameDisplay": "Artur Silva POMOCENO",
+              "nameType": 0,
+              "firstName": "Artur Silva",
+              "lastName": "POMOCENO",
+              "initials": "AP",
+              "nameShort": "A POMOCENO",
+              "nameShort2": "POMOCENO",
+              "slug": "artur-silva-pomoceno",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Artur Silva POMOCENO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "74742",
+              "nameDisplay": "Lohaynny VICENTE",
+              "nameType": 0,
+              "firstName": "Lohaynny",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "lohaynny-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Lohaynny VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897538/assets/players/thumbnail/74742.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "3/4",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1148505,
+    "code": "746",
+    "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+    "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 18,
+      "teamName": "Canada",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CUB",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+      "teamId": 47,
+      "teamName": "Cuba",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-02-16 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "SF",
+    "drawName": "Mixed Team  - 1 / 6",
+    "drawCode": "46",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Centro de Alto Rendimiento La Videna",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1148510,
+        "code": "1420",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "69194",
+              "nameDisplay": "Joshua HURLBURT-YU",
+              "nameType": 0,
+              "firstName": "Joshua",
+              "lastName": "HURLBURT-YU",
+              "initials": "JH",
+              "nameShort": "J HURLBURT-YU",
+              "nameShort2": "HURLBURT-YU",
+              "slug": "joshua-hurlburt-yu",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Joshua HURLBURT-YU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897727/assets/players/thumbnail/69194.jpg"
+              }
+            },
+            {
+              "id": "86226",
+              "nameDisplay": "Josephine WU",
+              "nameType": 0,
+              "firstName": "Josephine",
+              "lastName": "WU",
+              "initials": "JW",
+              "nameShort": "J WU",
+              "nameShort2": "WU",
+              "slug": "josephine-wu",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Josephine WU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895635/assets/players/thumbnail/86226.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "52364",
+              "nameDisplay": "Osleni GUERRERO",
+              "nameType": 0,
+              "firstName": "Osleni",
+              "lastName": "GUERRERO",
+              "initials": "OG",
+              "nameShort": "O GUERRERO",
+              "nameShort2": "GUERRERO",
+              "slug": "osleni-guerrero",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Osleni GUERRERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897127/assets/players/thumbnail/52364.jpg"
+              }
+            },
+            {
+              "id": "98960",
+              "nameDisplay": "Taymara OROPESA PUPO",
+              "nameType": 0,
+              "firstName": "Taymara",
+              "lastName": "OROPESA PUPO",
+              "initials": "TO",
+              "nameShort": "T OROPESA PUPO",
+              "nameShort2": "OROPESA PUPO",
+              "slug": "taymara-oropesa-pupo",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Taymara OROPESA PUPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148507,
+        "code": "1417",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "97087",
+              "nameDisplay": "Brittney TAM",
+              "nameType": 0,
+              "firstName": "Brittney",
+              "lastName": "TAM",
+              "initials": "BT",
+              "nameShort": "B TAM",
+              "nameShort2": "TAM",
+              "slug": "brittney-tam",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Brittney TAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897302/assets/players/thumbnail/97087.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "76468",
+              "nameDisplay": "Marianne GONZALEZ ORTIZ",
+              "nameType": 0,
+              "firstName": "Marianne",
+              "lastName": "GONZALEZ ORTIZ",
+              "initials": "MG",
+              "nameShort": "M GONZALEZ ORTIZ",
+              "nameShort2": "GONZALEZ ORTIZ",
+              "slug": "marianne-gonzalez-ortiz",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Marianne GONZALEZ ORTIZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148506,
+        "code": "1416",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "63122",
+              "nameDisplay": "Brian YANG",
+              "nameType": 0,
+              "firstName": "Brian",
+              "lastName": "YANG",
+              "initials": "BY",
+              "nameShort": "B YANG",
+              "nameShort2": "YANG",
+              "slug": "brian-yang",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Brian YANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630821/assets/players/thumbnail/63122.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "52364",
+              "nameDisplay": "Osleni GUERRERO",
+              "nameType": 0,
+              "firstName": "Osleni",
+              "lastName": "GUERRERO",
+              "initials": "OG",
+              "nameShort": "O GUERRERO",
+              "nameShort2": "GUERRERO",
+              "slug": "osleni-guerrero",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Osleni GUERRERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897127/assets/players/thumbnail/52364.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148509,
+        "code": "1419",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "57791",
+              "nameDisplay": "Catherine CHOI",
+              "nameType": 0,
+              "firstName": "Catherine",
+              "lastName": "CHOI",
+              "initials": "CC",
+              "nameShort": "C CHOI",
+              "nameShort2": "CHOI",
+              "slug": "catherine-choi",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Catherine CHOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896493/assets/players/thumbnail/57791.jpg"
+              }
+            },
+            {
+              "id": "69393",
+              "nameDisplay": "Talia NG",
+              "nameType": 0,
+              "firstName": "Talia",
+              "lastName": "NG",
+              "initials": "TN",
+              "nameShort": "T NG",
+              "nameShort2": "NG",
+              "slug": "talia-ng",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Talia NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896495/assets/players/thumbnail/69393.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "76468",
+              "nameDisplay": "Marianne GONZALEZ ORTIZ",
+              "nameType": 0,
+              "firstName": "Marianne",
+              "lastName": "GONZALEZ ORTIZ",
+              "initials": "MG",
+              "nameShort": "M GONZALEZ ORTIZ",
+              "nameShort2": "GONZALEZ ORTIZ",
+              "slug": "marianne-gonzalez-ortiz",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Marianne GONZALEZ ORTIZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98960",
+              "nameDisplay": "Taymara OROPESA PUPO",
+              "nameType": 0,
+              "firstName": "Taymara",
+              "lastName": "OROPESA PUPO",
+              "initials": "TO",
+              "nameShort": "T OROPESA PUPO",
+              "nameShort2": "OROPESA PUPO",
+              "slug": "taymara-oropesa-pupo",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Taymara OROPESA PUPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1148508,
+        "code": "1418",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "25322",
+              "nameDisplay": "Nyl YAKURA",
+              "nameType": 0,
+              "firstName": "Nyl",
+              "lastName": "YAKURA",
+              "initials": "NY",
+              "nameShort": "N YAKURA",
+              "nameShort2": "YAKURA",
+              "slug": "nyl-yakura",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Nyl YAKURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991492/assets/players/thumbnail/25322.jpg"
+              }
+            },
+            {
+              "id": "85526",
+              "nameDisplay": "Duncan YAO",
+              "nameType": 0,
+              "firstName": "Duncan",
+              "lastName": "YAO",
+              "initials": "DY",
+              "nameShort": "D YAO",
+              "nameShort2": "YAO",
+              "slug": "duncan-yao",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Duncan YAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 47,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "78027",
+              "nameDisplay": "Angel HERRERA RODRÍGUEZ",
+              "nameType": 0,
+              "firstName": "Angel",
+              "lastName": "HERRERA RODRÍGUEZ",
+              "initials": "AH",
+              "nameShort": "A HERRERA RODRÍGUEZ",
+              "nameShort2": "HERRERA RODRÍGUEZ",
+              "slug": "angel-herrera-rodriguez",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Angel HERRERA RODRÍGUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "50573",
+              "nameDisplay": "Leodannis MARTINEZ PALACIO",
+              "nameType": 0,
+              "firstName": "Leodannis",
+              "lastName": "MARTINEZ PALACIO",
+              "initials": "LM",
+              "nameShort": "L MARTINEZ PALACIO",
+              "nameShort2": "MARTINEZ PALACIO",
+              "slug": "leodannis-martinez-palacio",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Leodannis MARTINEZ PALACIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "SF",
+        "drawName": "Mixed Team  - 1 / 6",
+        "drawCode": "46",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1148499,
+    "code": "809",
+    "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+    "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "GUA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+      "teamId": 502,
+      "teamName": "Guatemala",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": null,
+      "countryFlagUrl": null,
+      "teamId": null,
+      "teamName": null,
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-02-16 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "Final",
+    "drawName": "Mixed Team  - 7 / 9",
+    "drawCode": "48",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Centro de Alto Rendimiento La Videna",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1148500,
+        "code": "1550",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "56401",
+              "nameDisplay": "Diana CORLETO",
+              "nameType": 0,
+              "firstName": "Diana",
+              "lastName": "CORLETO",
+              "initials": "DC",
+              "nameShort": "D CORLETO",
+              "nameShort2": "CORLETO",
+              "slug": "diana-corleto",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Diana CORLETO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896380/assets/players/thumbnail/56401.jpg"
+              }
+            },
+            {
+              "id": "25684",
+              "nameDisplay": "jonathan SOLIS",
+              "nameType": 0,
+              "firstName": "jonathan",
+              "lastName": "SOLIS",
+              "initials": "jS",
+              "nameShort": "j SOLIS",
+              "nameShort2": "SOLIS",
+              "slug": "jonathan-solis",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "jonathan SOLIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896376/assets/players/thumbnail/25684.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "58197",
+              "nameDisplay": "Cesar Adonis BRITO GONZALEZ",
+              "nameType": 0,
+              "firstName": "Cesar Adonis",
+              "lastName": "BRITO GONZALEZ",
+              "initials": "CB",
+              "nameShort": "C BRITO GONZALEZ",
+              "nameShort2": "BRITO GONZALEZ",
+              "slug": "cesar-adonis-brito-gonzalez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Cesar Adonis BRITO GONZALEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "72946",
+              "nameDisplay": "Bermary Altagracia POLANCO MUNOZ",
+              "nameType": 0,
+              "firstName": "Bermary Altagracia",
+              "lastName": "POLANCO MUNOZ",
+              "initials": "BP",
+              "nameShort": "B POLANCO MUNOZ",
+              "nameShort2": "POLANCO MUNOZ",
+              "slug": "bermary-altagracia-polanco-munoz",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Bermary Altagracia POLANCO MUNOZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team  - 7 / 9",
+        "drawCode": "48",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148501,
+        "code": "1546",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54897",
+              "nameDisplay": "Kevin CORDON",
+              "nameType": 0,
+              "firstName": "Kevin",
+              "lastName": "CORDON",
+              "initials": "KC",
+              "nameShort": "K CORDON",
+              "nameShort2": "CORDON",
+              "slug": "kevin-cordon",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Kevin CORDON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991167/assets/players/thumbnail/54897.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "90396",
+              "nameDisplay": "Yonatan LINAREZ",
+              "nameType": 0,
+              "firstName": "Yonatan",
+              "lastName": "LINAREZ",
+              "initials": "YL",
+              "nameShort": "Y LINAREZ",
+              "nameShort2": "LINAREZ",
+              "slug": "yonatan-linarez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Yonatan LINAREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team  - 7 / 9",
+        "drawCode": "48",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148502,
+        "code": "1547",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "17774",
+              "nameDisplay": "Nikte SOTOMAYOR",
+              "nameType": 0,
+              "firstName": "Nikte",
+              "lastName": "SOTOMAYOR",
+              "initials": "NS",
+              "nameShort": "N SOTOMAYOR",
+              "nameShort2": "SOTOMAYOR",
+              "slug": "nikte-sotomayor",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Nikte SOTOMAYOR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896953/assets/players/thumbnail/17774.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68661",
+              "nameDisplay": "Clarisa PIE",
+              "nameType": 0,
+              "firstName": "Clarisa",
+              "lastName": "PIE",
+              "initials": "CP",
+              "nameShort": "C PIE",
+              "nameShort2": "PIE",
+              "slug": "clarisa-pie",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Clarisa PIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team  - 7 / 9",
+        "drawCode": "48",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148503,
+        "code": "1548",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "90459",
+              "nameDisplay": "Ruben CASTELLANOS",
+              "nameType": 0,
+              "firstName": "Ruben",
+              "lastName": "CASTELLANOS",
+              "initials": "RC",
+              "nameShort": "R CASTELLANOS",
+              "nameShort2": "CASTELLANOS",
+              "slug": "ruben-castellanos",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Ruben CASTELLANOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "93965",
+              "nameDisplay": "Anibal MARROQUIN",
+              "nameType": 0,
+              "firstName": "Anibal",
+              "lastName": "MARROQUIN",
+              "initials": "AM",
+              "nameShort": "A MARROQUIN",
+              "nameShort2": "MARROQUIN",
+              "slug": "anibal-marroquin",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Anibal MARROQUIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "58197",
+              "nameDisplay": "Cesar Adonis BRITO GONZALEZ",
+              "nameType": 0,
+              "firstName": "Cesar Adonis",
+              "lastName": "BRITO GONZALEZ",
+              "initials": "CB",
+              "nameShort": "C BRITO GONZALEZ",
+              "nameShort2": "BRITO GONZALEZ",
+              "slug": "cesar-adonis-brito-gonzalez",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Cesar Adonis BRITO GONZALEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "15591",
+              "nameDisplay": "Nelson JAVIER",
+              "nameType": 0,
+              "firstName": "Nelson",
+              "lastName": "JAVIER",
+              "initials": "NJ",
+              "nameShort": "N JAVIER",
+              "nameShort2": "JAVIER",
+              "slug": "nelson-javier",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Nelson JAVIER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team  - 7 / 9",
+        "drawCode": "48",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1148504,
+        "code": "1549",
+        "tournamentCode": "7554C0F1-FC34-45EE-A204-5AEBA25187FE",
+        "tournamentName": "XXIII Pan Am Mixed Team Continental  Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "56401",
+              "nameDisplay": "Diana CORLETO",
+              "nameType": 0,
+              "firstName": "Diana",
+              "lastName": "CORLETO",
+              "initials": "DC",
+              "nameShort": "D CORLETO",
+              "nameShort2": "CORLETO",
+              "slug": "diana-corleto",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Diana CORLETO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896380/assets/players/thumbnail/56401.jpg"
+              }
+            },
+            {
+              "id": "17774",
+              "nameDisplay": "Nikte SOTOMAYOR",
+              "nameType": 0,
+              "firstName": "Nikte",
+              "lastName": "SOTOMAYOR",
+              "initials": "NS",
+              "nameShort": "N SOTOMAYOR",
+              "nameShort2": "SOTOMAYOR",
+              "slug": "nikte-sotomayor",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Nikte SOTOMAYOR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896953/assets/players/thumbnail/17774.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DOM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68661",
+              "nameDisplay": "Clarisa PIE",
+              "nameType": 0,
+              "firstName": "Clarisa",
+              "lastName": "PIE",
+              "initials": "CP",
+              "nameShort": "C PIE",
+              "nameShort2": "PIE",
+              "slug": "clarisa-pie",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Clarisa PIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "72946",
+              "nameDisplay": "Bermary Altagracia POLANCO MUNOZ",
+              "nameType": 0,
+              "firstName": "Bermary Altagracia",
+              "lastName": "POLANCO MUNOZ",
+              "initials": "BP",
+              "nameShort": "B POLANCO MUNOZ",
+              "nameShort2": "POLANCO MUNOZ",
+              "slug": "bermary-altagracia-polanco-munoz",
+              "countryCode": "DOM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DOM.png",
+              "avatar": {
+                "title": "Bermary Altagracia POLANCO MUNOZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team  - 7 / 9",
+        "drawCode": "48",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Centro de Alto Rendimiento La Videna",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

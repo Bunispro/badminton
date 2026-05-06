@@ -1,0 +1,4110 @@
+[
+  {
+    "id": 1405821,
+    "code": "70",
+    "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+    "tournamentName": "2022 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 1272,
+      "teamName": "Rinconada",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+      "teamId": 1273,
+      "teamName": "Suwalski KB Litpol – Malow",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-07-01 10:00:00",
+    "matchTimeUtc": "2022-07-01 08:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC22",
+    "roundName": "QF",
+    "drawName": "ECC22",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405838,
+        "code": "135",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1272,
+          "teamName": "Rinconada",
+          "players": [
+            {
+              "id": "85805",
+              "nameDisplay": "Rory EASTON",
+              "nameType": 0,
+              "firstName": "Rory",
+              "lastName": "EASTON",
+              "initials": "RE",
+              "nameShort": "R EASTON",
+              "nameShort2": "EASTON",
+              "slug": "rory-easton",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Rory EASTON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899230/assets/players/thumbnail/85805.jpg"
+              }
+            },
+            {
+              "id": "15000",
+              "nameDisplay": "Laura MOLINA",
+              "nameType": 0,
+              "firstName": "Laura",
+              "lastName": "MOLINA",
+              "initials": "LM",
+              "nameShort": "L MOLINA",
+              "nameShort2": "MOLINA",
+              "slug": "laura-molina",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Laura MOLINA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "61897",
+              "nameDisplay": "Robert CYBULSKI",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "CYBULSKI",
+              "initials": "RC",
+              "nameShort": "R CYBULSKI",
+              "nameShort2": "CYBULSKI",
+              "slug": "robert-cybulski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Robert CYBULSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "11071",
+              "nameDisplay": "Kamila AUGUSTYN",
+              "nameType": 0,
+              "firstName": "Kamila",
+              "lastName": "AUGUSTYN",
+              "initials": "KA",
+              "nameShort": "K AUGUSTYN",
+              "nameShort2": "AUGUSTYN",
+              "slug": "kamila-augustyn",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Kamila AUGUSTYN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:00:00",
+        "matchTimeUtc": "2022-07-01 08:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405893,
+        "code": "131",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1272,
+          "teamName": "Rinconada",
+          "players": [
+            {
+              "id": "93670",
+              "nameDisplay": "Carlos PIRIS",
+              "nameType": 0,
+              "firstName": "Carlos",
+              "lastName": "PIRIS",
+              "initials": "CP",
+              "nameShort": "C PIRIS",
+              "nameShort2": "PIRIS",
+              "slug": "carlos-piris",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Carlos PIRIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "58328",
+              "nameDisplay": "DANYLO BOSNIUK",
+              "nameType": 0,
+              "firstName": "DANYLO",
+              "lastName": "BOSNIUK",
+              "initials": "DB",
+              "nameShort": "D BOSNIUK",
+              "nameShort2": "BOSNIUK",
+              "slug": "danylo-bosniuk",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "DANYLO BOSNIUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693962457/assets/players/thumbnail/58328.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:50:00",
+        "matchTimeUtc": "2022-07-01 08:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405951,
+        "code": "132",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1272,
+          "teamName": "Rinconada",
+          "players": [
+            {
+              "id": "72777",
+              "nameDisplay": "Nerea IVORRA",
+              "nameType": 0,
+              "firstName": "Nerea",
+              "lastName": "IVORRA",
+              "initials": "NI",
+              "nameShort": "N IVORRA",
+              "nameShort2": "IVORRA",
+              "slug": "nerea-ivorra",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Nerea IVORRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "76349",
+              "nameDisplay": "Maria ULITINA",
+              "nameType": 0,
+              "firstName": "Maria",
+              "lastName": "ULITINA",
+              "initials": "MU",
+              "nameShort": "M ULITINA",
+              "nameShort2": "ULITINA",
+              "slug": "maria-ulitina",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Maria ULITINA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897518/assets/players/thumbnail/76349.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 11:40:00",
+        "matchTimeUtc": "2022-07-01 09:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405902,
+        "code": "133",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1272,
+          "teamName": "Rinconada",
+          "players": [
+            {
+              "id": "85805",
+              "nameDisplay": "Rory EASTON",
+              "nameType": 0,
+              "firstName": "Rory",
+              "lastName": "EASTON",
+              "initials": "RE",
+              "nameShort": "R EASTON",
+              "nameShort2": "EASTON",
+              "slug": "rory-easton",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Rory EASTON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899230/assets/players/thumbnail/85805.jpg"
+              }
+            },
+            {
+              "id": "69167",
+              "nameDisplay": "Jaume PEREZ",
+              "nameType": 0,
+              "firstName": "Jaume",
+              "lastName": "PEREZ",
+              "initials": "JP",
+              "nameShort": "J PEREZ",
+              "nameShort2": "PEREZ",
+              "slug": "jaume-perez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Jaume PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "61897",
+              "nameDisplay": "Robert CYBULSKI",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "CYBULSKI",
+              "initials": "RC",
+              "nameShort": "R CYBULSKI",
+              "nameShort2": "CYBULSKI",
+              "slug": "robert-cybulski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Robert CYBULSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57333",
+              "nameDisplay": "Przemyslaw SZYDLOWSKI",
+              "nameType": 0,
+              "firstName": "Przemyslaw",
+              "lastName": "SZYDLOWSKI",
+              "initials": "PS",
+              "nameShort": "P SZYDLOWSKI",
+              "nameShort2": "SZYDLOWSKI",
+              "slug": "przemyslaw-szydlowski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Przemyslaw SZYDLOWSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 12:30:00",
+        "matchTimeUtc": "2022-07-01 10:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405884,
+        "code": "134",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1272,
+          "teamName": "Rinconada",
+          "players": [
+            {
+              "id": "72777",
+              "nameDisplay": "Nerea IVORRA",
+              "nameType": 0,
+              "firstName": "Nerea",
+              "lastName": "IVORRA",
+              "initials": "NI",
+              "nameShort": "N IVORRA",
+              "nameShort2": "IVORRA",
+              "slug": "nerea-ivorra",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Nerea IVORRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "15000",
+              "nameDisplay": "Laura MOLINA",
+              "nameType": 0,
+              "firstName": "Laura",
+              "lastName": "MOLINA",
+              "initials": "LM",
+              "nameShort": "L MOLINA",
+              "nameShort2": "MOLINA",
+              "slug": "laura-molina",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Laura MOLINA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "11071",
+              "nameDisplay": "Kamila AUGUSTYN",
+              "nameType": 0,
+              "firstName": "Kamila",
+              "lastName": "AUGUSTYN",
+              "initials": "KA",
+              "nameShort": "K AUGUSTYN",
+              "nameShort2": "AUGUSTYN",
+              "slug": "kamila-augustyn",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Kamila AUGUSTYN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "85239",
+              "nameDisplay": "Ulyana VOLSKAYA",
+              "nameType": 0,
+              "firstName": "Ulyana",
+              "lastName": "VOLSKAYA",
+              "initials": "UV",
+              "nameShort": "U VOLSKAYA",
+              "nameShort2": "VOLSKAYA",
+              "slug": "ulyana-volskaya",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Ulyana VOLSKAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 13:20:00",
+        "matchTimeUtc": "2022-07-01 11:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405828,
+    "code": "66",
+    "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+    "tournamentName": "2022 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 1262,
+      "teamName": "BC Chambly Oise",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ITA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+      "teamId": 1270,
+      "teamName": "Piume d'Argento BC",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-07-01 16:00:00",
+    "matchTimeUtc": "2022-07-01 14:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC22",
+    "roundName": "SF",
+    "drawName": "ECC22",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405900,
+        "code": "145",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "87403",
+              "nameDisplay": "Eloi ADAM",
+              "nameType": 0,
+              "firstName": "Eloi",
+              "lastName": "ADAM",
+              "initials": "EA",
+              "nameShort": "E ADAM",
+              "nameShort2": "ADAM",
+              "slug": "eloi-adam",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Eloi ADAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895879/assets/players/thumbnail/87403.jpg"
+              }
+            },
+            {
+              "id": "63229",
+              "nameDisplay": "Flavie VALLET",
+              "nameType": 0,
+              "firstName": "Flavie",
+              "lastName": "VALLET",
+              "initials": "FV",
+              "nameShort": "F VALLET",
+              "nameShort2": "VALLET",
+              "slug": "flavie-vallet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Flavie VALLET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "65649",
+              "nameDisplay": "David SALUTT",
+              "nameType": 0,
+              "firstName": "David",
+              "lastName": "SALUTT",
+              "initials": "DS",
+              "nameShort": "D SALUTT",
+              "nameShort2": "SALUTT",
+              "slug": "david-salutt",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "David SALUTT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "78338",
+              "nameDisplay": "Hannah POHL",
+              "nameType": 0,
+              "firstName": "Hannah",
+              "lastName": "POHL",
+              "initials": "HP",
+              "nameShort": "H POHL",
+              "nameShort2": "POHL",
+              "slug": "hannah-pohl",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Hannah POHL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895555/assets/players/thumbnail/78338.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 16:00:00",
+        "matchTimeUtc": "2022-07-01 14:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405990,
+        "code": "141",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "54484",
+              "nameDisplay": "Eetu HEINO",
+              "nameType": 0,
+              "firstName": "Eetu",
+              "lastName": "HEINO",
+              "initials": "EH",
+              "nameShort": "E HEINO",
+              "nameShort2": "HEINO",
+              "slug": "eetu-heino",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Eetu HEINO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897229/assets/players/thumbnail/54484.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "83290",
+              "nameDisplay": "Martin BUNDGAARD",
+              "nameType": 0,
+              "firstName": "Martin",
+              "lastName": "BUNDGAARD",
+              "initials": "MB",
+              "nameShort": "M BUNDGAARD",
+              "nameShort2": "BUNDGAARD",
+              "slug": "martin-bundgaard",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Martin BUNDGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 16:50:00",
+        "matchTimeUtc": "2022-07-01 14:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405870,
+        "code": "142",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "88582",
+              "nameDisplay": "LéOnice HUET",
+              "nameType": 0,
+              "firstName": "LéOnice",
+              "lastName": "HUET",
+              "initials": "LH",
+              "nameShort": "L HUET",
+              "nameShort2": "HUET",
+              "slug": "leonice-huet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "LéOnice HUET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895838/assets/players/thumbnail/88582.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "59810",
+              "nameDisplay": "Anna MIKHALKOVA",
+              "nameType": 0,
+              "firstName": "Anna",
+              "lastName": "MIKHALKOVA",
+              "initials": "AM",
+              "nameShort": "A MIKHALKOVA",
+              "nameShort2": "MIKHALKOVA",
+              "slug": "anna-mikhalkova",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Anna MIKHALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899214/assets/players/thumbnail/59810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 17:40:00",
+        "matchTimeUtc": "2022-07-01 15:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405852,
+        "code": "143",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "87403",
+              "nameDisplay": "Eloi ADAM",
+              "nameType": 0,
+              "firstName": "Eloi",
+              "lastName": "ADAM",
+              "initials": "EA",
+              "nameShort": "E ADAM",
+              "nameShort2": "ADAM",
+              "slug": "eloi-adam",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Eloi ADAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895879/assets/players/thumbnail/87403.jpg"
+              }
+            },
+            {
+              "id": "4253",
+              "nameDisplay": "Robert MATEUSIAK",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "MATEUSIAK",
+              "initials": "RM",
+              "nameShort": "R MATEUSIAK",
+              "nameShort2": "MATEUSIAK",
+              "slug": "robert-mateusiak",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Robert MATEUSIAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896796/assets/players/thumbnail/4253.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "96875",
+              "nameDisplay": "Luis Aniello LA ROCCA",
+              "nameType": 0,
+              "firstName": "Luis Aniello",
+              "lastName": "LA ROCCA",
+              "initials": "LL",
+              "nameShort": "L LA ROCCA",
+              "nameShort2": "LA ROCCA",
+              "slug": "luis-aniello-la-rocca",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Luis Aniello LA ROCCA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65649",
+              "nameDisplay": "David SALUTT",
+              "nameType": 0,
+              "firstName": "David",
+              "lastName": "SALUTT",
+              "initials": "DS",
+              "nameShort": "D SALUTT",
+              "nameShort2": "SALUTT",
+              "slug": "david-salutt",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "David SALUTT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 18:30:00",
+        "matchTimeUtc": "2022-07-01 16:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405979,
+        "code": "144",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "63229",
+              "nameDisplay": "Flavie VALLET",
+              "nameType": 0,
+              "firstName": "Flavie",
+              "lastName": "VALLET",
+              "initials": "FV",
+              "nameShort": "F VALLET",
+              "nameShort2": "VALLET",
+              "slug": "flavie-vallet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Flavie VALLET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "50054",
+              "nameDisplay": "Nadiezda ZIEBA",
+              "nameType": 0,
+              "firstName": "Nadiezda",
+              "lastName": "ZIEBA",
+              "initials": "NZ",
+              "nameShort": "N ZIEBA",
+              "nameShort2": "ZIEBA",
+              "slug": "nadiezda-zieba",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Nadiezda ZIEBA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897045/assets/players/thumbnail/50054.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "59810",
+              "nameDisplay": "Anna MIKHALKOVA",
+              "nameType": 0,
+              "firstName": "Anna",
+              "lastName": "MIKHALKOVA",
+              "initials": "AM",
+              "nameShort": "A MIKHALKOVA",
+              "nameShort2": "MIKHALKOVA",
+              "slug": "anna-mikhalkova",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Anna MIKHALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899214/assets/players/thumbnail/59810.jpg"
+              }
+            },
+            {
+              "id": "78338",
+              "nameDisplay": "Hannah POHL",
+              "nameType": 0,
+              "firstName": "Hannah",
+              "lastName": "POHL",
+              "initials": "HP",
+              "nameShort": "H POHL",
+              "nameShort2": "POHL",
+              "slug": "hannah-pohl",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Hannah POHL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895555/assets/players/thumbnail/78338.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 19:20:00",
+        "matchTimeUtc": "2022-07-01 17:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405827,
+    "code": "69",
+    "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+    "tournamentName": "2022 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "ITA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+      "teamId": 1270,
+      "teamName": "Piume d'Argento BC",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CZE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+      "teamId": 1264,
+      "teamName": "BK 1973 Benátky Nad Jizerou",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-07-01 10:00:00",
+    "matchTimeUtc": "2022-07-01 08:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC22",
+    "roundName": "QF",
+    "drawName": "ECC22",
+    "drawCode": "5",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405971,
+        "code": "130",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "65649",
+              "nameDisplay": "David SALUTT",
+              "nameType": 0,
+              "firstName": "David",
+              "lastName": "SALUTT",
+              "initials": "DS",
+              "nameShort": "D SALUTT",
+              "nameShort2": "SALUTT",
+              "slug": "david-salutt",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "David SALUTT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "78338",
+              "nameDisplay": "Hannah POHL",
+              "nameType": 0,
+              "firstName": "Hannah",
+              "lastName": "POHL",
+              "initials": "HP",
+              "nameShort": "H POHL",
+              "nameShort2": "POHL",
+              "slug": "hannah-pohl",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Hannah POHL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895555/assets/players/thumbnail/78338.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 1264,
+          "teamName": "BK 1973 Benátky Nad Jizerou",
+          "players": [
+            {
+              "id": "62414",
+              "nameDisplay": "Steven STALLWOOD",
+              "nameType": 0,
+              "firstName": "Steven",
+              "lastName": "STALLWOOD",
+              "initials": "SS",
+              "nameShort": "S STALLWOOD",
+              "nameShort2": "STALLWOOD",
+              "slug": "steven-stallwood",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Steven STALLWOOD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899234/assets/players/thumbnail/62414.jpg"
+              }
+            },
+            {
+              "id": "56624",
+              "nameDisplay": "KateřIna ZUZÁKOVÁ",
+              "nameType": 0,
+              "firstName": "KateřIna",
+              "lastName": "ZUZÁKOVÁ",
+              "initials": "KZ",
+              "nameShort": "K ZUZÁKOVÁ",
+              "nameShort2": "ZUZÁKOVÁ",
+              "slug": "kateina-zuzakova",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "KateřIna ZUZÁKOVÁ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:00:00",
+        "matchTimeUtc": "2022-07-01 08:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405867,
+        "code": "126",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "83290",
+              "nameDisplay": "Martin BUNDGAARD",
+              "nameType": 0,
+              "firstName": "Martin",
+              "lastName": "BUNDGAARD",
+              "initials": "MB",
+              "nameShort": "M BUNDGAARD",
+              "nameShort2": "BUNDGAARD",
+              "slug": "martin-bundgaard",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Martin BUNDGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 1264,
+          "teamName": "BK 1973 Benátky Nad Jizerou",
+          "players": [
+            {
+              "id": "68819",
+              "nameDisplay": "Milan DRATVA",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "DRATVA",
+              "initials": "MD",
+              "nameShort": "M DRATVA",
+              "nameShort2": "DRATVA",
+              "slug": "milan-dratva",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Milan DRATVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899202/assets/players/thumbnail/68819.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:50:00",
+        "matchTimeUtc": "2022-07-01 08:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405924,
+        "code": "127",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 1,
+        "scoreStatusValue": "Walkover",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "59810",
+              "nameDisplay": "Anna MIKHALKOVA",
+              "nameType": 0,
+              "firstName": "Anna",
+              "lastName": "MIKHALKOVA",
+              "initials": "AM",
+              "nameShort": "A MIKHALKOVA",
+              "nameShort2": "MIKHALKOVA",
+              "slug": "anna-mikhalkova",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Anna MIKHALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899214/assets/players/thumbnail/59810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 1264,
+          "teamName": "BK 1973 Benátky Nad Jizerou",
+          "players": [
+            {
+              "id": "74051",
+              "nameDisplay": "Agnes KOROSI",
+              "nameType": 0,
+              "firstName": "Agnes",
+              "lastName": "KOROSI",
+              "initials": "AK",
+              "nameShort": "A KOROSI",
+              "nameShort2": "KOROSI",
+              "slug": "agnes-korosi",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Agnes KOROSI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 11:40:00",
+        "matchTimeUtc": "2022-07-01 09:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 0,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 0,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405840,
+        "code": "128",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "96875",
+              "nameDisplay": "Luis Aniello LA ROCCA",
+              "nameType": 0,
+              "firstName": "Luis Aniello",
+              "lastName": "LA ROCCA",
+              "initials": "LL",
+              "nameShort": "L LA ROCCA",
+              "nameShort2": "LA ROCCA",
+              "slug": "luis-aniello-la-rocca",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Luis Aniello LA ROCCA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65649",
+              "nameDisplay": "David SALUTT",
+              "nameType": 0,
+              "firstName": "David",
+              "lastName": "SALUTT",
+              "initials": "DS",
+              "nameShort": "D SALUTT",
+              "nameShort2": "SALUTT",
+              "slug": "david-salutt",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "David SALUTT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 1264,
+          "teamName": "BK 1973 Benátky Nad Jizerou",
+          "players": [
+            {
+              "id": "68819",
+              "nameDisplay": "Milan DRATVA",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "DRATVA",
+              "initials": "MD",
+              "nameShort": "M DRATVA",
+              "nameShort2": "DRATVA",
+              "slug": "milan-dratva",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Milan DRATVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899202/assets/players/thumbnail/68819.jpg"
+              }
+            },
+            {
+              "id": "62414",
+              "nameDisplay": "Steven STALLWOOD",
+              "nameType": 0,
+              "firstName": "Steven",
+              "lastName": "STALLWOOD",
+              "initials": "SS",
+              "nameShort": "S STALLWOOD",
+              "nameShort2": "STALLWOOD",
+              "slug": "steven-stallwood",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Steven STALLWOOD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899234/assets/players/thumbnail/62414.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 12:30:00",
+        "matchTimeUtc": "2022-07-01 10:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405985,
+        "code": "129",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1270,
+          "teamName": "Piume d'Argento BC",
+          "players": [
+            {
+              "id": "59810",
+              "nameDisplay": "Anna MIKHALKOVA",
+              "nameType": 0,
+              "firstName": "Anna",
+              "lastName": "MIKHALKOVA",
+              "initials": "AM",
+              "nameShort": "A MIKHALKOVA",
+              "nameShort2": "MIKHALKOVA",
+              "slug": "anna-mikhalkova",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Anna MIKHALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899214/assets/players/thumbnail/59810.jpg"
+              }
+            },
+            {
+              "id": "78338",
+              "nameDisplay": "Hannah POHL",
+              "nameType": 0,
+              "firstName": "Hannah",
+              "lastName": "POHL",
+              "initials": "HP",
+              "nameShort": "H POHL",
+              "nameShort2": "POHL",
+              "slug": "hannah-pohl",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Hannah POHL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895555/assets/players/thumbnail/78338.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 1264,
+          "teamName": "BK 1973 Benátky Nad Jizerou",
+          "players": [
+            {
+              "id": "75821",
+              "nameDisplay": "Helina RÜÜTEL",
+              "nameType": 0,
+              "firstName": "Helina",
+              "lastName": "RÜÜTEL",
+              "initials": "HR",
+              "nameShort": "H RÜÜTEL",
+              "nameShort2": "RÜÜTEL",
+              "slug": "helina-ruutel",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Helina RÜÜTEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899273/assets/players/thumbnail/75821.jpg"
+              }
+            },
+            {
+              "id": "56624",
+              "nameDisplay": "KateřIna ZUZÁKOVÁ",
+              "nameType": 0,
+              "firstName": "KateřIna",
+              "lastName": "ZUZÁKOVÁ",
+              "initials": "KZ",
+              "nameShort": "K ZUZÁKOVÁ",
+              "nameShort2": "ZUZÁKOVÁ",
+              "slug": "kateina-zuzakova",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "KateřIna ZUZÁKOVÁ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 13:20:00",
+        "matchTimeUtc": "2022-07-01 11:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 55,
+        "time": "00:55",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405824,
+    "code": "67",
+    "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+    "tournamentName": "2022 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "POL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+      "teamId": 1273,
+      "teamName": "Suwalski KB Litpol – Malow",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+      "teamId": 1275,
+      "teamName": "UKS Hubal Bialystok",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-07-01 16:00:00",
+    "matchTimeUtc": "2022-07-01 14:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC22",
+    "roundName": "SF",
+    "drawName": "ECC22",
+    "drawCode": "5",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405969,
+        "code": "150",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "61897",
+              "nameDisplay": "Robert CYBULSKI",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "CYBULSKI",
+              "initials": "RC",
+              "nameShort": "R CYBULSKI",
+              "nameShort2": "CYBULSKI",
+              "slug": "robert-cybulski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Robert CYBULSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "11071",
+              "nameDisplay": "Kamila AUGUSTYN",
+              "nameType": 0,
+              "firstName": "Kamila",
+              "lastName": "AUGUSTYN",
+              "initials": "KA",
+              "nameShort": "K AUGUSTYN",
+              "nameShort2": "AUGUSTYN",
+              "slug": "kamila-augustyn",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Kamila AUGUSTYN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "89416",
+              "nameDisplay": "Lucas CORVEE",
+              "nameType": 0,
+              "firstName": "Lucas",
+              "lastName": "CORVEE",
+              "initials": "LC",
+              "nameShort": "L CORVEE",
+              "nameShort2": "CORVEE",
+              "slug": "lucas-corvee",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Lucas CORVEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630658/assets/players/thumbnail/89416.jpg"
+              }
+            },
+            {
+              "id": "39172",
+              "nameDisplay": "Alžběta BÁŠOVÁ",
+              "nameType": 0,
+              "firstName": "Alžběta",
+              "lastName": "BÁŠOVÁ",
+              "initials": "AB",
+              "nameShort": "A BÁŠOVÁ",
+              "nameShort2": "BÁŠOVÁ",
+              "slug": "albta-baova",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Alžběta BÁŠOVÁ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896401/assets/players/thumbnail/39172.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 16:00:00",
+        "matchTimeUtc": "2022-07-01 14:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405988,
+        "code": "146",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "58328",
+              "nameDisplay": "DANYLO BOSNIUK",
+              "nameType": 0,
+              "firstName": "DANYLO",
+              "lastName": "BOSNIUK",
+              "initials": "DB",
+              "nameShort": "D BOSNIUK",
+              "nameShort2": "BOSNIUK",
+              "slug": "danylo-bosniuk",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "DANYLO BOSNIUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693962457/assets/players/thumbnail/58328.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "65554",
+              "nameDisplay": "Krzysztof JAKOWCZUK",
+              "nameType": 0,
+              "firstName": "Krzysztof",
+              "lastName": "JAKOWCZUK",
+              "initials": "KJ",
+              "nameShort": "K JAKOWCZUK",
+              "nameShort2": "JAKOWCZUK",
+              "slug": "krzysztof-jakowczuk",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Krzysztof JAKOWCZUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 16:50:00",
+        "matchTimeUtc": "2022-07-01 14:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405941,
+        "code": "147",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "76349",
+              "nameDisplay": "Maria ULITINA",
+              "nameType": 0,
+              "firstName": "Maria",
+              "lastName": "ULITINA",
+              "initials": "MU",
+              "nameShort": "M ULITINA",
+              "nameShort2": "ULITINA",
+              "slug": "maria-ulitina",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Maria ULITINA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897518/assets/players/thumbnail/76349.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "57906",
+              "nameDisplay": "Mariya MITSOVA",
+              "nameType": 0,
+              "firstName": "Mariya",
+              "lastName": "MITSOVA",
+              "initials": "MM",
+              "nameShort": "M MITSOVA",
+              "nameShort2": "MITSOVA",
+              "slug": "mariya-mitsova",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Mariya MITSOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895167/assets/players/thumbnail/57906.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 17:40:00",
+        "matchTimeUtc": "2022-07-01 15:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 4,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405962,
+        "code": "148",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "61897",
+              "nameDisplay": "Robert CYBULSKI",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "CYBULSKI",
+              "initials": "RC",
+              "nameShort": "R CYBULSKI",
+              "nameShort2": "CYBULSKI",
+              "slug": "robert-cybulski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Robert CYBULSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57333",
+              "nameDisplay": "Przemyslaw SZYDLOWSKI",
+              "nameType": 0,
+              "firstName": "Przemyslaw",
+              "lastName": "SZYDLOWSKI",
+              "initials": "PS",
+              "nameShort": "P SZYDLOWSKI",
+              "nameShort2": "SZYDLOWSKI",
+              "slug": "przemyslaw-szydlowski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Przemyslaw SZYDLOWSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "89416",
+              "nameDisplay": "Lucas CORVEE",
+              "nameType": 0,
+              "firstName": "Lucas",
+              "lastName": "CORVEE",
+              "initials": "LC",
+              "nameShort": "L CORVEE",
+              "nameShort2": "CORVEE",
+              "slug": "lucas-corvee",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Lucas CORVEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630658/assets/players/thumbnail/89416.jpg"
+              }
+            },
+            {
+              "id": "85532",
+              "nameDisplay": "Pawel SMILOWSKI",
+              "nameType": 0,
+              "firstName": "Pawel",
+              "lastName": "SMILOWSKI",
+              "initials": "PS",
+              "nameShort": "P SMILOWSKI",
+              "nameShort2": "SMILOWSKI",
+              "slug": "pawel-smilowski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Pawel SMILOWSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897750/assets/players/thumbnail/85532.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 18:30:00",
+        "matchTimeUtc": "2022-07-01 16:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405879,
+        "code": "149",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1273,
+          "teamName": "Suwalski KB Litpol – Malow",
+          "players": [
+            {
+              "id": "11071",
+              "nameDisplay": "Kamila AUGUSTYN",
+              "nameType": 0,
+              "firstName": "Kamila",
+              "lastName": "AUGUSTYN",
+              "initials": "KA",
+              "nameShort": "K AUGUSTYN",
+              "nameShort2": "AUGUSTYN",
+              "slug": "kamila-augustyn",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Kamila AUGUSTYN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "85239",
+              "nameDisplay": "Ulyana VOLSKAYA",
+              "nameType": 0,
+              "firstName": "Ulyana",
+              "lastName": "VOLSKAYA",
+              "initials": "UV",
+              "nameShort": "U VOLSKAYA",
+              "nameShort2": "VOLSKAYA",
+              "slug": "ulyana-volskaya",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Ulyana VOLSKAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "84178",
+              "nameDisplay": "Wiktoria DABCZYNSKA",
+              "nameType": 0,
+              "firstName": "Wiktoria",
+              "lastName": "DABCZYNSKA",
+              "initials": "WD",
+              "nameShort": "W DABCZYNSKA",
+              "nameShort2": "DABCZYNSKA",
+              "slug": "wiktoria-dabczynska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Wiktoria DABCZYNSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "53383",
+              "nameDisplay": "Agnieszka WOJTKOWSKA",
+              "nameType": 0,
+              "firstName": "Agnieszka",
+              "lastName": "WOJTKOWSKA",
+              "initials": "AW",
+              "nameShort": "A WOJTKOWSKA",
+              "nameShort2": "WOJTKOWSKA",
+              "slug": "agnieszka-wojtkowska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Agnieszka WOJTKOWSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 19:20:00",
+        "matchTimeUtc": "2022-07-01 17:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "SF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405831,
+    "code": "68",
+    "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+    "tournamentName": "2022 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 1262,
+      "teamName": "BC Chambly Oise",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 1271,
+      "teamName": "Recreativo IES La Orden",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-07-01 10:00:00",
+    "matchTimeUtc": "2022-07-01 08:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC22",
+    "roundName": "QF",
+    "drawName": "ECC22",
+    "drawCode": "5",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405880,
+        "code": "125",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "87403",
+              "nameDisplay": "Eloi ADAM",
+              "nameType": 0,
+              "firstName": "Eloi",
+              "lastName": "ADAM",
+              "initials": "EA",
+              "nameShort": "E ADAM",
+              "nameShort2": "ADAM",
+              "slug": "eloi-adam",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Eloi ADAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895879/assets/players/thumbnail/87403.jpg"
+              }
+            },
+            {
+              "id": "63229",
+              "nameDisplay": "Flavie VALLET",
+              "nameType": 0,
+              "firstName": "Flavie",
+              "lastName": "VALLET",
+              "initials": "FV",
+              "nameShort": "F VALLET",
+              "nameShort2": "VALLET",
+              "slug": "flavie-vallet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Flavie VALLET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1271,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "54321",
+              "nameDisplay": "Eliezer OJEDA",
+              "nameType": 0,
+              "firstName": "Eliezer",
+              "lastName": "OJEDA",
+              "initials": "EO",
+              "nameShort": "E OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "eliezer-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Eliezer OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "54640",
+              "nameDisplay": "Haidee OJEDA",
+              "nameType": 0,
+              "firstName": "Haidee",
+              "lastName": "OJEDA",
+              "initials": "HO",
+              "nameShort": "H OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "haidee-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Haidee OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:00:00",
+        "matchTimeUtc": "2022-07-01 08:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405950,
+        "code": "121",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "54484",
+              "nameDisplay": "Eetu HEINO",
+              "nameType": 0,
+              "firstName": "Eetu",
+              "lastName": "HEINO",
+              "initials": "EH",
+              "nameShort": "E HEINO",
+              "nameShort2": "HEINO",
+              "slug": "eetu-heino",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Eetu HEINO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897229/assets/players/thumbnail/54484.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1271,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "62607",
+              "nameDisplay": "Alejandro PEREZ",
+              "nameType": 0,
+              "firstName": "Alejandro",
+              "lastName": "PEREZ",
+              "initials": "AP",
+              "nameShort": "A PEREZ",
+              "nameShort2": "PEREZ",
+              "slug": "alejandro-perez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Alejandro PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:50:00",
+        "matchTimeUtc": "2022-07-01 08:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405861,
+        "code": "122",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "88582",
+              "nameDisplay": "LéOnice HUET",
+              "nameType": 0,
+              "firstName": "LéOnice",
+              "lastName": "HUET",
+              "initials": "LH",
+              "nameShort": "L HUET",
+              "nameShort2": "HUET",
+              "slug": "leonice-huet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "LéOnice HUET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895838/assets/players/thumbnail/88582.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1271,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "13006",
+              "nameDisplay": "Telma SANTOS",
+              "nameType": 0,
+              "firstName": "Telma",
+              "lastName": "SANTOS",
+              "initials": "TS",
+              "nameShort": "T SANTOS",
+              "nameShort2": "SANTOS",
+              "slug": "telma-santos",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Telma SANTOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896873/assets/players/thumbnail/13006.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 11:40:00",
+        "matchTimeUtc": "2022-07-01 09:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 49,
+        "time": "00:49",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405899,
+        "code": "123",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "87403",
+              "nameDisplay": "Eloi ADAM",
+              "nameType": 0,
+              "firstName": "Eloi",
+              "lastName": "ADAM",
+              "initials": "EA",
+              "nameShort": "E ADAM",
+              "nameShort2": "ADAM",
+              "slug": "eloi-adam",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Eloi ADAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895879/assets/players/thumbnail/87403.jpg"
+              }
+            },
+            {
+              "id": "4253",
+              "nameDisplay": "Robert MATEUSIAK",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "MATEUSIAK",
+              "initials": "RM",
+              "nameShort": "R MATEUSIAK",
+              "nameShort2": "MATEUSIAK",
+              "slug": "robert-mateusiak",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Robert MATEUSIAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896796/assets/players/thumbnail/4253.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1271,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "95713",
+              "nameDisplay": "MARQUEZ Adrian  ",
+              "nameType": 0,
+              "firstName": "MARQUEZ",
+              "lastName": "Adrian  ",
+              "initials": "MA",
+              "nameShort": "M Adrian  ",
+              "nameShort2": "ADRIAN  ",
+              "slug": "marquez-adrian",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "MARQUEZ Adrian  ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "54321",
+              "nameDisplay": "Eliezer OJEDA",
+              "nameType": 0,
+              "firstName": "Eliezer",
+              "lastName": "OJEDA",
+              "initials": "EO",
+              "nameShort": "E OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "eliezer-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Eliezer OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 12:30:00",
+        "matchTimeUtc": "2022-07-01 10:30:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1405948,
+        "code": "124",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1262,
+          "teamName": "BC Chambly Oise",
+          "players": [
+            {
+              "id": "63229",
+              "nameDisplay": "Flavie VALLET",
+              "nameType": 0,
+              "firstName": "Flavie",
+              "lastName": "VALLET",
+              "initials": "FV",
+              "nameShort": "F VALLET",
+              "nameShort2": "VALLET",
+              "slug": "flavie-vallet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Flavie VALLET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "50054",
+              "nameDisplay": "Nadiezda ZIEBA",
+              "nameType": 0,
+              "firstName": "Nadiezda",
+              "lastName": "ZIEBA",
+              "initials": "NZ",
+              "nameShort": "N ZIEBA",
+              "nameShort2": "ZIEBA",
+              "slug": "nadiezda-zieba",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Nadiezda ZIEBA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897045/assets/players/thumbnail/50054.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1271,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "54640",
+              "nameDisplay": "Haidee OJEDA",
+              "nameType": 0,
+              "firstName": "Haidee",
+              "lastName": "OJEDA",
+              "initials": "HO",
+              "nameShort": "H OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "haidee-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Haidee OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "13006",
+              "nameDisplay": "Telma SANTOS",
+              "nameType": 0,
+              "firstName": "Telma",
+              "lastName": "SANTOS",
+              "initials": "TS",
+              "nameShort": "T SANTOS",
+              "nameShort2": "SANTOS",
+              "slug": "telma-santos",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Telma SANTOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896873/assets/players/thumbnail/13006.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 13:20:00",
+        "matchTimeUtc": "2022-07-01 11:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405822,
+    "code": "71",
+    "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+    "tournamentName": "2022 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "NOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+      "teamId": 1267,
+      "teamName": "Kristiansand BK",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+      "teamId": 1275,
+      "teamName": "UKS Hubal Bialystok",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-07-01 10:00:00",
+    "matchTimeUtc": "2022-07-01 08:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC22",
+    "roundName": "QF",
+    "drawName": "ECC22",
+    "drawCode": "5",
+    "courtName": "Court 4",
+    "courtCode": "5",
+    "courtIndex": 3,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405882,
+        "code": "140",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+          "teamId": 1267,
+          "teamName": "Kristiansand BK",
+          "players": [
+            {
+              "id": "67405",
+              "nameDisplay": "Jonas ØSTHASSEL",
+              "nameType": 0,
+              "firstName": "Jonas",
+              "lastName": "ØSTHASSEL",
+              "initials": "JØ",
+              "nameShort": "J ØSTHASSEL",
+              "nameShort2": "ØSTHASSEL",
+              "slug": "jonas-osthassel",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Jonas ØSTHASSEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57168",
+              "nameDisplay": "Julie ABUSDAL",
+              "nameType": 0,
+              "firstName": "Julie",
+              "lastName": "ABUSDAL",
+              "initials": "JA",
+              "nameShort": "J ABUSDAL",
+              "nameShort2": "ABUSDAL",
+              "slug": "julie-abusdal",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Julie ABUSDAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "89416",
+              "nameDisplay": "Lucas CORVEE",
+              "nameType": 0,
+              "firstName": "Lucas",
+              "lastName": "CORVEE",
+              "initials": "LC",
+              "nameShort": "L CORVEE",
+              "nameShort2": "CORVEE",
+              "slug": "lucas-corvee",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Lucas CORVEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630658/assets/players/thumbnail/89416.jpg"
+              }
+            },
+            {
+              "id": "39172",
+              "nameDisplay": "Alžběta BÁŠOVÁ",
+              "nameType": 0,
+              "firstName": "Alžběta",
+              "lastName": "BÁŠOVÁ",
+              "initials": "AB",
+              "nameShort": "A BÁŠOVÁ",
+              "nameShort2": "BÁŠOVÁ",
+              "slug": "albta-baova",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Alžběta BÁŠOVÁ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896401/assets/players/thumbnail/39172.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:00:00",
+        "matchTimeUtc": "2022-07-01 08:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "5",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405980,
+        "code": "136",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+          "teamId": 1267,
+          "teamName": "Kristiansand BK",
+          "players": [
+            {
+              "id": "96085",
+              "nameDisplay": "Danila GATAULLIN",
+              "nameType": 0,
+              "firstName": "Danila",
+              "lastName": "GATAULLIN",
+              "initials": "DG",
+              "nameShort": "D GATAULLIN",
+              "nameShort2": "GATAULLIN",
+              "slug": "danila-gataullin",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Danila GATAULLIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "65554",
+              "nameDisplay": "Krzysztof JAKOWCZUK",
+              "nameType": 0,
+              "firstName": "Krzysztof",
+              "lastName": "JAKOWCZUK",
+              "initials": "KJ",
+              "nameShort": "K JAKOWCZUK",
+              "nameShort2": "JAKOWCZUK",
+              "slug": "krzysztof-jakowczuk",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Krzysztof JAKOWCZUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 10:50:00",
+        "matchTimeUtc": "2022-07-01 08:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "5",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405874,
+        "code": "137",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+          "teamId": 1267,
+          "teamName": "Kristiansand BK",
+          "players": [
+            {
+              "id": "67942",
+              "nameDisplay": "Vilde ESPESETH",
+              "nameType": 0,
+              "firstName": "Vilde",
+              "lastName": "ESPESETH",
+              "initials": "VE",
+              "nameShort": "V ESPESETH",
+              "nameShort2": "ESPESETH",
+              "slug": "vilde-espeseth",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Vilde ESPESETH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "57906",
+              "nameDisplay": "Mariya MITSOVA",
+              "nameType": 0,
+              "firstName": "Mariya",
+              "lastName": "MITSOVA",
+              "initials": "MM",
+              "nameShort": "M MITSOVA",
+              "nameShort2": "MITSOVA",
+              "slug": "mariya-mitsova",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Mariya MITSOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895167/assets/players/thumbnail/57906.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 11:40:00",
+        "matchTimeUtc": "2022-07-01 09:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "5",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405876,
+        "code": "138",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "NOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+          "teamId": 1267,
+          "teamName": "Kristiansand BK",
+          "players": [
+            {
+              "id": "64818",
+              "nameDisplay": "Mads MARUM",
+              "nameType": 0,
+              "firstName": "Mads",
+              "lastName": "MARUM",
+              "initials": "MM",
+              "nameShort": "M MARUM",
+              "nameShort2": "MARUM",
+              "slug": "mads-marum",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Mads MARUM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67405",
+              "nameDisplay": "Jonas ØSTHASSEL",
+              "nameType": 0,
+              "firstName": "Jonas",
+              "lastName": "ØSTHASSEL",
+              "initials": "JØ",
+              "nameShort": "J ØSTHASSEL",
+              "nameShort2": "ØSTHASSEL",
+              "slug": "jonas-osthassel",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Jonas ØSTHASSEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "89416",
+              "nameDisplay": "Lucas CORVEE",
+              "nameType": 0,
+              "firstName": "Lucas",
+              "lastName": "CORVEE",
+              "initials": "LC",
+              "nameShort": "L CORVEE",
+              "nameShort2": "CORVEE",
+              "slug": "lucas-corvee",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Lucas CORVEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630658/assets/players/thumbnail/89416.jpg"
+              }
+            },
+            {
+              "id": "85532",
+              "nameDisplay": "Pawel SMILOWSKI",
+              "nameType": 0,
+              "firstName": "Pawel",
+              "lastName": "SMILOWSKI",
+              "initials": "PS",
+              "nameShort": "P SMILOWSKI",
+              "nameShort2": "SMILOWSKI",
+              "slug": "pawel-smilowski",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Pawel SMILOWSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897750/assets/players/thumbnail/85532.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 12:30:00",
+        "matchTimeUtc": "2022-07-01 10:30:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "5",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1405972,
+        "code": "139",
+        "tournamentCode": "2D609F79-6ABF-41FD-AECF-175FC4364F57",
+        "tournamentName": "2022 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "NOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+          "teamId": 1267,
+          "teamName": "Kristiansand BK",
+          "players": [
+            {
+              "id": "57168",
+              "nameDisplay": "Julie ABUSDAL",
+              "nameType": 0,
+              "firstName": "Julie",
+              "lastName": "ABUSDAL",
+              "initials": "JA",
+              "nameShort": "J ABUSDAL",
+              "nameShort2": "ABUSDAL",
+              "slug": "julie-abusdal",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Julie ABUSDAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "67942",
+              "nameDisplay": "Vilde ESPESETH",
+              "nameType": 0,
+              "firstName": "Vilde",
+              "lastName": "ESPESETH",
+              "initials": "VE",
+              "nameShort": "V ESPESETH",
+              "nameShort2": "ESPESETH",
+              "slug": "vilde-espeseth",
+              "countryCode": "NOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NOR.png",
+              "avatar": {
+                "title": "Vilde ESPESETH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 1275,
+          "teamName": "UKS Hubal Bialystok",
+          "players": [
+            {
+              "id": "84178",
+              "nameDisplay": "Wiktoria DABCZYNSKA",
+              "nameType": 0,
+              "firstName": "Wiktoria",
+              "lastName": "DABCZYNSKA",
+              "initials": "WD",
+              "nameShort": "W DABCZYNSKA",
+              "nameShort2": "DABCZYNSKA",
+              "slug": "wiktoria-dabczynska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Wiktoria DABCZYNSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "53383",
+              "nameDisplay": "Agnieszka WOJTKOWSKA",
+              "nameType": 0,
+              "firstName": "Agnieszka",
+              "lastName": "WOJTKOWSKA",
+              "initials": "AW",
+              "nameShort": "A WOJTKOWSKA",
+              "nameShort2": "WOJTKOWSKA",
+              "slug": "agnieszka-wojtkowska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Agnieszka WOJTKOWSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-07-01 13:20:00",
+        "matchTimeUtc": "2022-07-01 11:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC22",
+        "roundName": "QF",
+        "drawName": "ECC22",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "5",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

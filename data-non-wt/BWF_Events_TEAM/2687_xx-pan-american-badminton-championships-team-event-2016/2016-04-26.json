@@ -1,0 +1,3292 @@
+[
+  {
+    "id": 429439,
+    "code": "17",
+    "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+    "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": 133,
+      "teamName": "USA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+      "teamId": 64,
+      "teamName": "Jamaica",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-04-26 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "TEAM EVENT",
+    "roundName": null,
+    "drawName": "TEAM EVENT - Group B",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 429444,
+        "code": "25",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "55210",
+              "nameDisplay": "Kyle EMERICK",
+              "nameType": 0,
+              "firstName": "Kyle",
+              "lastName": "EMERICK",
+              "initials": "KE",
+              "nameShort": "K EMERICK",
+              "nameShort2": "EMERICK",
+              "slug": "kyle-emerick",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kyle EMERICK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "97223",
+              "nameDisplay": "Jennifer YEE",
+              "nameType": 0,
+              "firstName": "Jennifer",
+              "lastName": "YEE",
+              "initials": "JY",
+              "nameShort": "J YEE",
+              "nameShort2": "YEE",
+              "slug": "jennifer-yee",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Jennifer YEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": 64,
+          "teamName": "Jamaica",
+          "players": [
+            {
+              "id": "75891",
+              "nameDisplay": "Mikaylia HALDANE",
+              "nameType": 0,
+              "firstName": "Mikaylia",
+              "lastName": "HALDANE",
+              "initials": "MH",
+              "nameShort": "M HALDANE",
+              "nameShort2": "HALDANE",
+              "slug": "mikaylia-haldane",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Mikaylia HALDANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "89942",
+              "nameDisplay": "Anthony MCNEE",
+              "nameType": 0,
+              "firstName": "Anthony",
+              "lastName": "MCNEE",
+              "initials": "AM",
+              "nameShort": "A MCNEE",
+              "nameShort2": "MCNEE",
+              "slug": "anthony-mcnee",
+              "countryCode": "CAY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAY.png",
+              "avatar": {
+                "title": "Anthony MCNEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429440,
+        "code": "21",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "80787",
+              "nameDisplay": "Timothy LAM",
+              "nameType": 0,
+              "firstName": "Timothy",
+              "lastName": "LAM",
+              "initials": "TL",
+              "nameShort": "T LAM",
+              "nameShort2": "LAM",
+              "slug": "timothy-lam",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Timothy LAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627260454/assets/players/thumbnail/80787.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": 64,
+          "teamName": "Jamaica",
+          "players": [
+            {
+              "id": "83055",
+              "nameDisplay": "Dennis COKE",
+              "nameType": 0,
+              "firstName": "Dennis",
+              "lastName": "COKE",
+              "initials": "DC",
+              "nameShort": "D COKE",
+              "nameShort2": "COKE",
+              "slug": "dennis-coke",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Dennis COKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429441,
+        "code": "22",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": 64,
+          "teamName": "Jamaica",
+          "players": [
+            {
+              "id": "77611",
+              "nameDisplay": "Katherine WYNTER",
+              "nameType": 0,
+              "firstName": "Katherine",
+              "lastName": "WYNTER",
+              "initials": "KW",
+              "nameShort": "K WYNTER",
+              "nameShort2": "WYNTER",
+              "slug": "katherine-wynter",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Katherine WYNTER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429442,
+        "code": "23",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "68041",
+              "nameDisplay": "Yan Tuck CHAN",
+              "nameType": 0,
+              "firstName": "Yan Tuck",
+              "lastName": "CHAN",
+              "initials": "YC",
+              "nameShort": "Y CHAN",
+              "nameShort2": "CHAN",
+              "slug": "yan-tuck-chan",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Yan Tuck CHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895441/assets/players/thumbnail/68041.jpg"
+              }
+            },
+            {
+              "id": "55210",
+              "nameDisplay": "Kyle EMERICK",
+              "nameType": 0,
+              "firstName": "Kyle",
+              "lastName": "EMERICK",
+              "initials": "KE",
+              "nameShort": "K EMERICK",
+              "nameShort2": "EMERICK",
+              "slug": "kyle-emerick",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kyle EMERICK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": 64,
+          "teamName": "Jamaica",
+          "players": [
+            {
+              "id": "83055",
+              "nameDisplay": "Dennis COKE",
+              "nameType": 0,
+              "firstName": "Dennis",
+              "lastName": "COKE",
+              "initials": "DC",
+              "nameShort": "D COKE",
+              "nameShort2": "COKE",
+              "slug": "dennis-coke",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Dennis COKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "89942",
+              "nameDisplay": "Anthony MCNEE",
+              "nameType": 0,
+              "firstName": "Anthony",
+              "lastName": "MCNEE",
+              "initials": "AM",
+              "nameShort": "A MCNEE",
+              "nameShort2": "MCNEE",
+              "slug": "anthony-mcnee",
+              "countryCode": "CAY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAY.png",
+              "avatar": {
+                "title": "Anthony MCNEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429443,
+        "code": "24",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "97223",
+              "nameDisplay": "Jennifer YEE",
+              "nameType": 0,
+              "firstName": "Jennifer",
+              "lastName": "YEE",
+              "initials": "JY",
+              "nameShort": "J YEE",
+              "nameShort2": "YEE",
+              "slug": "jennifer-yee",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Jennifer YEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": 64,
+          "teamName": "Jamaica",
+          "players": [
+            {
+              "id": "75891",
+              "nameDisplay": "Mikaylia HALDANE",
+              "nameType": 0,
+              "firstName": "Mikaylia",
+              "lastName": "HALDANE",
+              "initials": "MH",
+              "nameShort": "M HALDANE",
+              "nameShort2": "HALDANE",
+              "slug": "mikaylia-haldane",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Mikaylia HALDANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "77611",
+              "nameDisplay": "Katherine WYNTER",
+              "nameType": 0,
+              "firstName": "Katherine",
+              "lastName": "WYNTER",
+              "initials": "KW",
+              "nameShort": "K WYNTER",
+              "nameShort2": "WYNTER",
+              "slug": "katherine-wynter",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Katherine WYNTER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 429928,
+    "code": "24",
+    "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+    "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 41,
+      "teamName": "PERÚ",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 31,
+      "teamName": "Brazil",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-04-26 17:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "TEAM EVENT",
+    "roundName": null,
+    "drawName": "TEAM EVENT",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 429930,
+        "code": "37",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "71252",
+              "nameDisplay": "Daniela MACIAS",
+              "nameType": 0,
+              "firstName": "Daniela",
+              "lastName": "MACIAS",
+              "initials": "DM",
+              "nameShort": "D MACIAS",
+              "nameShort2": "MACIAS",
+              "slug": "daniela-macias",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Daniela MACIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895490/assets/players/thumbnail/71252.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "76507",
+              "nameDisplay": "Samia LIMA",
+              "nameType": 0,
+              "firstName": "Samia",
+              "lastName": "LIMA",
+              "initials": "SL",
+              "nameShort": "S LIMA",
+              "nameShort2": "LIMA",
+              "slug": "samia-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Samia LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897666/assets/players/thumbnail/76507.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429929,
+        "code": "36",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "78607",
+              "nameDisplay": "Bruno BARRUETO DEZA",
+              "nameType": 0,
+              "firstName": "Bruno",
+              "lastName": "BARRUETO DEZA",
+              "initials": "BB",
+              "nameShort": "B BARRUETO DEZA",
+              "nameShort2": "BARRUETO DEZA",
+              "slug": "bruno-barrueto-deza",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Bruno BARRUETO DEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "96429",
+              "nameDisplay": "Ygor COELHO",
+              "nameType": 0,
+              "firstName": "Ygor",
+              "lastName": "COELHO",
+              "initials": "YC",
+              "nameShort": "Y COELHO",
+              "nameShort2": "COELHO",
+              "slug": "ygor-coelho",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Ygor COELHO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900301/assets/players/thumbnail/96429.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 5,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429932,
+        "code": "39",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "71252",
+              "nameDisplay": "Daniela MACIAS",
+              "nameType": 0,
+              "firstName": "Daniela",
+              "lastName": "MACIAS",
+              "initials": "DM",
+              "nameShort": "D MACIAS",
+              "nameShort2": "MACIAS",
+              "slug": "daniela-macias",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Daniela MACIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895490/assets/players/thumbnail/71252.jpg"
+              }
+            },
+            {
+              "id": "80894",
+              "nameDisplay": "Danica NISHIMURA",
+              "nameType": 0,
+              "firstName": "Danica",
+              "lastName": "NISHIMURA",
+              "initials": "DN",
+              "nameShort": "D NISHIMURA",
+              "nameShort2": "NISHIMURA",
+              "slug": "danica-nishimura",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Danica NISHIMURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895579/assets/players/thumbnail/80894.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "76507",
+              "nameDisplay": "Samia LIMA",
+              "nameType": 0,
+              "firstName": "Samia",
+              "lastName": "LIMA",
+              "initials": "SL",
+              "nameShort": "S LIMA",
+              "nameShort2": "LIMA",
+              "slug": "samia-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Samia LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897666/assets/players/thumbnail/76507.jpg"
+              }
+            },
+            {
+              "id": "94010",
+              "nameDisplay": "Luana VICENTE",
+              "nameType": 0,
+              "firstName": "Luana",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "luana-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Luana VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897323/assets/players/thumbnail/94010.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 3,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429931,
+        "code": "38",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "78607",
+              "nameDisplay": "Bruno BARRUETO DEZA",
+              "nameType": 0,
+              "firstName": "Bruno",
+              "lastName": "BARRUETO DEZA",
+              "initials": "BB",
+              "nameShort": "B BARRUETO DEZA",
+              "nameShort2": "BARRUETO DEZA",
+              "slug": "bruno-barrueto-deza",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Bruno BARRUETO DEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "93754",
+              "nameDisplay": "Diego SUBAUSTE",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "SUBAUSTE",
+              "initials": "DS",
+              "nameShort": "D SUBAUSTE",
+              "nameShort2": "SUBAUSTE",
+              "slug": "diego-subauste",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego SUBAUSTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": null,
+          "countryFlagUrl": null,
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "53977",
+              "nameDisplay": "Hugo ARTHUSO",
+              "nameType": 0,
+              "firstName": "Hugo",
+              "lastName": "ARTHUSO",
+              "initials": "HA",
+              "nameShort": "H ARTHUSO",
+              "nameShort2": "ARTHUSO",
+              "slug": "hugo-arthuso",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Hugo ARTHUSO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "72506",
+              "nameDisplay": "Kidist HAILU",
+              "nameType": 0,
+              "firstName": "Kidist",
+              "lastName": "HAILU",
+              "initials": "KH",
+              "nameShort": "K HAILU",
+              "nameShort2": "HAILU",
+              "slug": "kidist-hailu",
+              "countryCode": "ETH",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ETH.png",
+              "avatar": {
+                "title": "Kidist HAILU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429933,
+        "code": "40",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "91469",
+              "nameDisplay": "Diego MINI",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "MINI",
+              "initials": "DM",
+              "nameShort": "D MINI",
+              "nameShort2": "MINI",
+              "slug": "diego-mini",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego MINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895887/assets/players/thumbnail/91469.jpg"
+              }
+            },
+            {
+              "id": "42989",
+              "nameDisplay": "Camila DUANY",
+              "nameType": 0,
+              "firstName": "Camila",
+              "lastName": "DUANY",
+              "initials": "CD",
+              "nameShort": "C DUANY",
+              "nameShort2": "DUANY",
+              "slug": "camila-duany",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Camila DUANY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "73532",
+              "nameDisplay": "Alex Yuwan TJONG",
+              "nameType": 0,
+              "firstName": "Alex Yuwan",
+              "lastName": "TJONG",
+              "initials": "AT",
+              "nameShort": "A TJONG",
+              "nameShort2": "TJONG",
+              "slug": "alex-yuwan-tjong",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Alex Yuwan TJONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897526/assets/players/thumbnail/73532.jpg"
+              }
+            },
+            {
+              "id": "94010",
+              "nameDisplay": "Luana VICENTE",
+              "nameType": 0,
+              "firstName": "Luana",
+              "lastName": "VICENTE",
+              "initials": "LV",
+              "nameShort": "L VICENTE",
+              "nameShort2": "VICENTE",
+              "slug": "luana-vicente",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Luana VICENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897323/assets/players/thumbnail/94010.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 429421,
+    "code": "8",
+    "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+    "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 18,
+      "teamName": "Canada",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CHI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+      "teamId": 507,
+      "teamName": "Chile",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-04-26 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "TEAM EVENT",
+    "roundName": null,
+    "drawName": "TEAM EVENT - Group A",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 429422,
+        "code": "6",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "93791",
+              "nameDisplay": "Jason Anthony HO-SHUE",
+              "nameType": 0,
+              "firstName": "Jason Anthony",
+              "lastName": "HO-SHUE",
+              "initials": "JH",
+              "nameShort": "J HO-SHUE",
+              "nameShort2": "HO-SHUE",
+              "slug": "jason-anthony-ho-shue",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Jason Anthony HO-SHUE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896088/assets/players/thumbnail/93791.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": 507,
+          "teamName": "Chile",
+          "players": [
+            {
+              "id": "85277",
+              "nameDisplay": "Alonso MEDEL",
+              "nameType": 0,
+              "firstName": "Alonso",
+              "lastName": "MEDEL",
+              "initials": "AM",
+              "nameShort": "A MEDEL",
+              "nameShort2": "MEDEL",
+              "slug": "alonso-medel",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Alonso MEDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896388/assets/players/thumbnail/85277.jpeg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429426,
+        "code": "10",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "97087",
+              "nameDisplay": "Brittney TAM",
+              "nameType": 0,
+              "firstName": "Brittney",
+              "lastName": "TAM",
+              "initials": "BT",
+              "nameShort": "B TAM",
+              "nameShort2": "TAM",
+              "slug": "brittney-tam",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Brittney TAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897302/assets/players/thumbnail/97087.jpg"
+              }
+            },
+            {
+              "id": "25322",
+              "nameDisplay": "Nyl YAKURA",
+              "nameType": 0,
+              "firstName": "Nyl",
+              "lastName": "YAKURA",
+              "initials": "NY",
+              "nameShort": "N YAKURA",
+              "nameShort2": "YAKURA",
+              "slug": "nyl-yakura",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Nyl YAKURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991492/assets/players/thumbnail/25322.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": 507,
+          "teamName": "Chile",
+          "players": [
+            {
+              "id": "85008",
+              "nameDisplay": "Ivan LEON",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "LEON",
+              "initials": "IL",
+              "nameShort": "I LEON",
+              "nameShort2": "LEON",
+              "slug": "ivan-leon",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Ivan LEON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "34449",
+              "nameDisplay": "Camila MACAYA",
+              "nameType": 0,
+              "firstName": "Camila",
+              "lastName": "MACAYA",
+              "initials": "CM",
+              "nameShort": "C MACAYA",
+              "nameShort2": "MACAYA",
+              "slug": "camila-macaya",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Camila MACAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 2,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429424,
+        "code": "8",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "31332",
+              "nameDisplay": "PHILLIPE Gaumond",
+              "nameType": 0,
+              "firstName": "PHILLIPE",
+              "lastName": "Gaumond",
+              "initials": "PG",
+              "nameShort": "P Gaumond",
+              "nameShort2": "GAUMOND",
+              "slug": "phillipe-gaumond",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "PHILLIPE Gaumond",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "92415",
+              "nameDisplay": "Maxime MARIN",
+              "nameType": 0,
+              "firstName": "Maxime",
+              "lastName": "MARIN",
+              "initials": "MM",
+              "nameShort": "M MARIN",
+              "nameShort2": "MARIN",
+              "slug": "maxime-marin",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Maxime MARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": 507,
+          "teamName": "Chile",
+          "players": [
+            {
+              "id": "68245",
+              "nameDisplay": "Bastian LIZAMA",
+              "nameType": 0,
+              "firstName": "Bastian",
+              "lastName": "LIZAMA",
+              "initials": "BL",
+              "nameShort": "B LIZAMA",
+              "nameShort2": "LIZAMA",
+              "slug": "bastian-lizama",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Bastian LIZAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85277",
+              "nameDisplay": "Alonso MEDEL",
+              "nameType": 0,
+              "firstName": "Alonso",
+              "lastName": "MEDEL",
+              "initials": "AM",
+              "nameShort": "A MEDEL",
+              "nameShort2": "MEDEL",
+              "slug": "alonso-medel",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Alonso MEDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896388/assets/players/thumbnail/85277.jpeg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429423,
+        "code": "7",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "87088",
+              "nameDisplay": "Stephanie PAKENHAM",
+              "nameType": 0,
+              "firstName": "Stephanie",
+              "lastName": "PAKENHAM",
+              "initials": "SP",
+              "nameShort": "S PAKENHAM",
+              "nameShort2": "PAKENHAM",
+              "slug": "stephanie-pakenham",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Stephanie PAKENHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": 507,
+          "teamName": "Chile",
+          "players": [
+            {
+              "id": "34449",
+              "nameDisplay": "Camila MACAYA",
+              "nameType": 0,
+              "firstName": "Camila",
+              "lastName": "MACAYA",
+              "initials": "CM",
+              "nameShort": "C MACAYA",
+              "nameShort2": "MACAYA",
+              "slug": "camila-macaya",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Camila MACAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429425,
+        "code": "9",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "90621",
+              "nameDisplay": "Michelle TONG",
+              "nameType": 0,
+              "firstName": "Michelle",
+              "lastName": "TONG",
+              "initials": "MT",
+              "nameShort": "M TONG",
+              "nameShort2": "TONG",
+              "slug": "michelle-tong",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Michelle TONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895676/assets/players/thumbnail/90621.jpg"
+              }
+            },
+            {
+              "id": "86226",
+              "nameDisplay": "Josephine WU",
+              "nameType": 0,
+              "firstName": "Josephine",
+              "lastName": "WU",
+              "initials": "JW",
+              "nameShort": "J WU",
+              "nameShort2": "WU",
+              "slug": "josephine-wu",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Josephine WU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895635/assets/players/thumbnail/86226.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": 507,
+          "teamName": "Chile",
+          "players": [],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 429922,
+    "code": "23",
+    "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+    "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 18,
+      "teamName": "Canada",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+      "teamId": 64,
+      "teamName": "Jamaica",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-04-26 17:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "TEAM EVENT",
+    "roundName": null,
+    "drawName": "TEAM EVENT",
+    "drawCode": "3",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 429927,
+        "code": "35",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "97087",
+              "nameDisplay": "Brittney TAM",
+              "nameType": 0,
+              "firstName": "Brittney",
+              "lastName": "TAM",
+              "initials": "BT",
+              "nameShort": "B TAM",
+              "nameShort2": "TAM",
+              "slug": "brittney-tam",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Brittney TAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897302/assets/players/thumbnail/97087.jpg"
+              }
+            },
+            {
+              "id": "25322",
+              "nameDisplay": "Nyl YAKURA",
+              "nameType": 0,
+              "firstName": "Nyl",
+              "lastName": "YAKURA",
+              "initials": "NY",
+              "nameShort": "N YAKURA",
+              "nameShort2": "YAKURA",
+              "slug": "nyl-yakura",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Nyl YAKURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991492/assets/players/thumbnail/25322.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": null,
+          "countryFlagUrl": null,
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "75891",
+              "nameDisplay": "Mikaylia HALDANE",
+              "nameType": 0,
+              "firstName": "Mikaylia",
+              "lastName": "HALDANE",
+              "initials": "MH",
+              "nameShort": "M HALDANE",
+              "nameShort2": "HALDANE",
+              "slug": "mikaylia-haldane",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Mikaylia HALDANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "89942",
+              "nameDisplay": "Anthony MCNEE",
+              "nameType": 0,
+              "firstName": "Anthony",
+              "lastName": "MCNEE",
+              "initials": "AM",
+              "nameShort": "A MCNEE",
+              "nameShort2": "MCNEE",
+              "slug": "anthony-mcnee",
+              "countryCode": "CAY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAY.png",
+              "avatar": {
+                "title": "Anthony MCNEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429923,
+        "code": "31",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "93791",
+              "nameDisplay": "Jason Anthony HO-SHUE",
+              "nameType": 0,
+              "firstName": "Jason Anthony",
+              "lastName": "HO-SHUE",
+              "initials": "JH",
+              "nameShort": "J HO-SHUE",
+              "nameShort2": "HO-SHUE",
+              "slug": "jason-anthony-ho-shue",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Jason Anthony HO-SHUE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896088/assets/players/thumbnail/93791.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "83055",
+              "nameDisplay": "Dennis COKE",
+              "nameType": 0,
+              "firstName": "Dennis",
+              "lastName": "COKE",
+              "initials": "DC",
+              "nameShort": "D COKE",
+              "nameShort2": "COKE",
+              "slug": "dennis-coke",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Dennis COKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429924,
+        "code": "32",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "97087",
+              "nameDisplay": "Brittney TAM",
+              "nameType": 0,
+              "firstName": "Brittney",
+              "lastName": "TAM",
+              "initials": "BT",
+              "nameShort": "B TAM",
+              "nameShort2": "TAM",
+              "slug": "brittney-tam",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Brittney TAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897302/assets/players/thumbnail/97087.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "77611",
+              "nameDisplay": "Katherine WYNTER",
+              "nameType": 0,
+              "firstName": "Katherine",
+              "lastName": "WYNTER",
+              "initials": "KW",
+              "nameShort": "K WYNTER",
+              "nameShort2": "WYNTER",
+              "slug": "katherine-wynter",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Katherine WYNTER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429925,
+        "code": "33",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "31332",
+              "nameDisplay": "PHILLIPE Gaumond",
+              "nameType": 0,
+              "firstName": "PHILLIPE",
+              "lastName": "Gaumond",
+              "initials": "PG",
+              "nameShort": "P Gaumond",
+              "nameShort2": "GAUMOND",
+              "slug": "phillipe-gaumond",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "PHILLIPE Gaumond",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "92415",
+              "nameDisplay": "Maxime MARIN",
+              "nameType": 0,
+              "firstName": "Maxime",
+              "lastName": "MARIN",
+              "initials": "MM",
+              "nameShort": "M MARIN",
+              "nameShort2": "MARIN",
+              "slug": "maxime-marin",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Maxime MARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": null,
+          "countryFlagUrl": null,
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "83055",
+              "nameDisplay": "Dennis COKE",
+              "nameType": 0,
+              "firstName": "Dennis",
+              "lastName": "COKE",
+              "initials": "DC",
+              "nameShort": "D COKE",
+              "nameShort2": "COKE",
+              "slug": "dennis-coke",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Dennis COKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "89942",
+              "nameDisplay": "Anthony MCNEE",
+              "nameType": 0,
+              "firstName": "Anthony",
+              "lastName": "MCNEE",
+              "initials": "AM",
+              "nameShort": "A MCNEE",
+              "nameShort2": "MCNEE",
+              "slug": "anthony-mcnee",
+              "countryCode": "CAY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAY.png",
+              "avatar": {
+                "title": "Anthony MCNEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 429926,
+        "code": "34",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "90621",
+              "nameDisplay": "Michelle TONG",
+              "nameType": 0,
+              "firstName": "Michelle",
+              "lastName": "TONG",
+              "initials": "MT",
+              "nameShort": "M TONG",
+              "nameShort2": "TONG",
+              "slug": "michelle-tong",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Michelle TONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895676/assets/players/thumbnail/90621.jpg"
+              }
+            },
+            {
+              "id": "86226",
+              "nameDisplay": "Josephine WU",
+              "nameType": 0,
+              "firstName": "Josephine",
+              "lastName": "WU",
+              "initials": "JW",
+              "nameShort": "J WU",
+              "nameShort2": "WU",
+              "slug": "josephine-wu",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Josephine WU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895635/assets/players/thumbnail/86226.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "75891",
+              "nameDisplay": "Mikaylia HALDANE",
+              "nameType": 0,
+              "firstName": "Mikaylia",
+              "lastName": "HALDANE",
+              "initials": "MH",
+              "nameShort": "M HALDANE",
+              "nameShort2": "HALDANE",
+              "slug": "mikaylia-haldane",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Mikaylia HALDANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "77611",
+              "nameDisplay": "Katherine WYNTER",
+              "nameType": 0,
+              "firstName": "Katherine",
+              "lastName": "WYNTER",
+              "initials": "KW",
+              "nameShort": "K WYNTER",
+              "nameShort2": "WYNTER",
+              "slug": "katherine-wynter",
+              "countryCode": "JAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+              "avatar": {
+                "title": "Katherine WYNTER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 429445,
+    "code": "31",
+    "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+    "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CHI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+      "teamId": 507,
+      "teamName": "Chile",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": 133,
+      "teamName": "USA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-04-26 16:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "TEAM EVENT",
+    "roundName": null,
+    "drawName": "TEAM EVENT - TEAM EVENT/ Position 5 - 6",
+    "drawCode": "4",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 429448,
+        "code": "53",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "38221",
+              "nameDisplay": "Cristian ARAYA",
+              "nameType": 0,
+              "firstName": "Cristian",
+              "lastName": "ARAYA",
+              "initials": "CA",
+              "nameShort": "C ARAYA",
+              "nameShort2": "ARAYA",
+              "slug": "cristian-araya",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Cristian ARAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85008",
+              "nameDisplay": "Ivan LEON",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "LEON",
+              "initials": "IL",
+              "nameShort": "I LEON",
+              "nameShort2": "LEON",
+              "slug": "ivan-leon",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Ivan LEON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68041",
+              "nameDisplay": "Yan Tuck CHAN",
+              "nameType": 0,
+              "firstName": "Yan Tuck",
+              "lastName": "CHAN",
+              "initials": "YC",
+              "nameShort": "Y CHAN",
+              "nameShort2": "CHAN",
+              "slug": "yan-tuck-chan",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Yan Tuck CHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895441/assets/players/thumbnail/68041.jpg"
+              }
+            },
+            {
+              "id": "55210",
+              "nameDisplay": "Kyle EMERICK",
+              "nameType": 0,
+              "firstName": "Kyle",
+              "lastName": "EMERICK",
+              "initials": "KE",
+              "nameShort": "K EMERICK",
+              "nameShort2": "EMERICK",
+              "slug": "kyle-emerick",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kyle EMERICK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - TEAM EVENT/ Position 5 - 6",
+        "drawCode": "4",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429447,
+        "code": "52",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "34449",
+              "nameDisplay": "Camila MACAYA",
+              "nameType": 0,
+              "firstName": "Camila",
+              "lastName": "MACAYA",
+              "initials": "CM",
+              "nameShort": "C MACAYA",
+              "nameShort2": "MACAYA",
+              "slug": "camila-macaya",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Camila MACAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "97223",
+              "nameDisplay": "Jennifer YEE",
+              "nameType": 0,
+              "firstName": "Jennifer",
+              "lastName": "YEE",
+              "initials": "JY",
+              "nameShort": "J YEE",
+              "nameShort2": "YEE",
+              "slug": "jennifer-yee",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Jennifer YEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - TEAM EVENT/ Position 5 - 6",
+        "drawCode": "4",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429446,
+        "code": "51",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68245",
+              "nameDisplay": "Bastian LIZAMA",
+              "nameType": 0,
+              "firstName": "Bastian",
+              "lastName": "LIZAMA",
+              "initials": "BL",
+              "nameShort": "B LIZAMA",
+              "nameShort2": "LIZAMA",
+              "slug": "bastian-lizama",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Bastian LIZAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "80787",
+              "nameDisplay": "Timothy LAM",
+              "nameType": 0,
+              "firstName": "Timothy",
+              "lastName": "LAM",
+              "initials": "TL",
+              "nameShort": "T LAM",
+              "nameShort2": "LAM",
+              "slug": "timothy-lam",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Timothy LAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627260454/assets/players/thumbnail/80787.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - TEAM EVENT/ Position 5 - 6",
+        "drawCode": "4",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429450,
+        "code": "55",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "85008",
+              "nameDisplay": "Ivan LEON",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "LEON",
+              "initials": "IL",
+              "nameShort": "I LEON",
+              "nameShort2": "LEON",
+              "slug": "ivan-leon",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Ivan LEON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "34449",
+              "nameDisplay": "Camila MACAYA",
+              "nameType": 0,
+              "firstName": "Camila",
+              "lastName": "MACAYA",
+              "initials": "CM",
+              "nameShort": "C MACAYA",
+              "nameShort2": "MACAYA",
+              "slug": "camila-macaya",
+              "countryCode": "CHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+              "avatar": {
+                "title": "Camila MACAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "55210",
+              "nameDisplay": "Kyle EMERICK",
+              "nameType": 0,
+              "firstName": "Kyle",
+              "lastName": "EMERICK",
+              "initials": "KE",
+              "nameShort": "K EMERICK",
+              "nameShort2": "EMERICK",
+              "slug": "kyle-emerick",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kyle EMERICK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - TEAM EVENT/ Position 5 - 6",
+        "drawCode": "4",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 4,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 429449,
+        "code": "54",
+        "tournamentCode": "0F4D9647-DD5E-4C3F-BF4F-F2A54FA391DC",
+        "tournamentName": "XX Pan American Badminton Championships Team Event 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHI.png",
+          "teamId": 507,
+          "teamName": "Chile",
+          "players": [],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "97223",
+              "nameDisplay": "Jennifer YEE",
+              "nameType": 0,
+              "firstName": "Jennifer",
+              "lastName": "YEE",
+              "initials": "JY",
+              "nameShort": "J YEE",
+              "nameShort2": "YEE",
+              "slug": "jennifer-yee",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Jennifer YEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-04-26 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "TEAM EVENT",
+        "roundName": null,
+        "drawName": "TEAM EVENT - TEAM EVENT/ Position 5 - 6",
+        "drawCode": "4",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

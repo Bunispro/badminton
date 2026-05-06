@@ -1,0 +1,2047 @@
+[
+  {
+    "id": 474284,
+    "code": "12",
+    "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+    "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "NZL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+      "teamId": 25,
+      "teamName": "New Zealand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PYF",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+      "teamId": 252,
+      "teamName": "TAHITI",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-02-18 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team Champs",
+    "roundName": "R2",
+    "drawName": "Mixed Team Champs",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Salle Anewy",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 474289,
+        "code": "5",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NZL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+          "teamId": 25,
+          "teamName": "New Zealand",
+          "players": [
+            {
+              "id": "99895",
+              "nameDisplay": "Edward LAU",
+              "nameType": 0,
+              "firstName": "Edward",
+              "lastName": "LAU",
+              "initials": "EL",
+              "nameShort": "E LAU",
+              "nameShort2": "LAU",
+              "slug": "edward-lau",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Edward LAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "72802",
+              "nameDisplay": "Alyssa TAGLE",
+              "nameType": 0,
+              "firstName": "Alyssa",
+              "lastName": "TAGLE",
+              "initials": "AT",
+              "nameShort": "A TAGLE",
+              "nameShort2": "TAGLE",
+              "slug": "alyssa-tagle",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Alyssa TAGLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896325/assets/players/thumbnail/72802.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 252,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "66036",
+              "nameDisplay": "Quentin BERNAIX",
+              "nameType": 0,
+              "firstName": "Quentin",
+              "lastName": "BERNAIX",
+              "initials": "QB",
+              "nameShort": "Q BERNAIX",
+              "nameShort2": "BERNAIX",
+              "slug": "quentin-bernaix",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Quentin BERNAIX",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85850",
+              "nameDisplay": "Aurelie BOUTTIN",
+              "nameType": 0,
+              "firstName": "Aurelie",
+              "lastName": "BOUTTIN",
+              "initials": "AB",
+              "nameShort": "A BOUTTIN",
+              "nameShort2": "BOUTTIN",
+              "slug": "aurelie-bouttin",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Aurelie BOUTTIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Salle Anewy",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474285,
+        "code": "1",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NZL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+          "teamId": 25,
+          "teamName": "New Zealand",
+          "players": [
+            {
+              "id": "72674",
+              "nameDisplay": "Oscar GUO",
+              "nameType": 0,
+              "firstName": "Oscar",
+              "lastName": "GUO",
+              "initials": "OG",
+              "nameShort": "O GUO",
+              "nameShort2": "GUO",
+              "slug": "oscar-guo",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Oscar GUO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896309/assets/players/thumbnail/72674.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 252,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "74434",
+              "nameDisplay": "Hugo SAUTEREAU",
+              "nameType": 0,
+              "firstName": "Hugo",
+              "lastName": "SAUTEREAU",
+              "initials": "HS",
+              "nameShort": "H SAUTEREAU",
+              "nameShort2": "SAUTEREAU",
+              "slug": "hugo-sautereau",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Hugo SAUTEREAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Salle Anewy",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474286,
+        "code": "2",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NZL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+          "teamId": 25,
+          "teamName": "New Zealand",
+          "players": [
+            {
+              "id": "87799",
+              "nameDisplay": "Gaea GALVEZ",
+              "nameType": 0,
+              "firstName": "Gaea",
+              "lastName": "GALVEZ",
+              "initials": "GG",
+              "nameShort": "G GALVEZ",
+              "nameShort2": "GALVEZ",
+              "slug": "gaea-galvez",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Gaea GALVEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 252,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "79255",
+              "nameDisplay": "Estelle COLOMBIES",
+              "nameType": 0,
+              "firstName": "Estelle",
+              "lastName": "COLOMBIES",
+              "initials": "EC",
+              "nameShort": "E COLOMBIES",
+              "nameShort2": "COLOMBIES",
+              "slug": "estelle-colombies",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Estelle COLOMBIES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Salle Anewy",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474287,
+        "code": "3",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NZL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+          "teamId": 25,
+          "teamName": "New Zealand",
+          "players": [
+            {
+              "id": "95591",
+              "nameDisplay": "Jack BOYLE",
+              "nameType": 0,
+              "firstName": "Jack",
+              "lastName": "BOYLE",
+              "initials": "JB",
+              "nameShort": "J BOYLE",
+              "nameShort2": "BOYLE",
+              "slug": "jack-boyle",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Jack BOYLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "69449",
+              "nameDisplay": "Jason SETO",
+              "nameType": 0,
+              "firstName": "Jason",
+              "lastName": "SETO",
+              "initials": "JS",
+              "nameShort": "J SETO",
+              "nameShort2": "SETO",
+              "slug": "jason-seto",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Jason SETO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 252,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "66036",
+              "nameDisplay": "Quentin BERNAIX",
+              "nameType": 0,
+              "firstName": "Quentin",
+              "lastName": "BERNAIX",
+              "initials": "QB",
+              "nameShort": "Q BERNAIX",
+              "nameShort2": "BERNAIX",
+              "slug": "quentin-bernaix",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Quentin BERNAIX",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "74434",
+              "nameDisplay": "Hugo SAUTEREAU",
+              "nameType": 0,
+              "firstName": "Hugo",
+              "lastName": "SAUTEREAU",
+              "initials": "HS",
+              "nameShort": "H SAUTEREAU",
+              "nameShort2": "SAUTEREAU",
+              "slug": "hugo-sautereau",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Hugo SAUTEREAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Salle Anewy",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474288,
+        "code": "4",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NZL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+          "teamId": 25,
+          "teamName": "New Zealand",
+          "players": [
+            {
+              "id": "72802",
+              "nameDisplay": "Alyssa TAGLE",
+              "nameType": 0,
+              "firstName": "Alyssa",
+              "lastName": "TAGLE",
+              "initials": "AT",
+              "nameShort": "A TAGLE",
+              "nameShort2": "TAGLE",
+              "slug": "alyssa-tagle",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Alyssa TAGLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896325/assets/players/thumbnail/72802.jpg"
+              }
+            },
+            {
+              "id": "55586",
+              "nameDisplay": "Jacqueline YU",
+              "nameType": 0,
+              "firstName": "Jacqueline",
+              "lastName": "YU",
+              "initials": "JY",
+              "nameShort": "J YU",
+              "nameShort2": "YU",
+              "slug": "jacqueline-yu",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Jacqueline YU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 252,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "85850",
+              "nameDisplay": "Aurelie BOUTTIN",
+              "nameType": 0,
+              "firstName": "Aurelie",
+              "lastName": "BOUTTIN",
+              "initials": "AB",
+              "nameShort": "A BOUTTIN",
+              "nameShort2": "BOUTTIN",
+              "slug": "aurelie-bouttin",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Aurelie BOUTTIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "79255",
+              "nameDisplay": "Estelle COLOMBIES",
+              "nameType": 0,
+              "firstName": "Estelle",
+              "lastName": "COLOMBIES",
+              "initials": "EC",
+              "nameShort": "E COLOMBIES",
+              "nameShort2": "COLOMBIES",
+              "slug": "estelle-colombies",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Estelle COLOMBIES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Salle Anewy",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 474290,
+    "code": "24",
+    "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+    "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CAL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+      "teamId": 544,
+      "teamName": "New Caledonia 1",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "AUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+      "teamId": 19,
+      "teamName": "Australia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-02-18 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team Champs",
+    "roundName": "R1",
+    "drawName": "Mixed Team Champs",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Salle Anewy",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 5,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 474295,
+        "code": "30",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 544,
+          "teamName": "New Caledonia 1",
+          "players": [
+            {
+              "id": "72934",
+              "nameDisplay": "Dgenyva MATAULI",
+              "nameType": 0,
+              "firstName": "Dgenyva",
+              "lastName": "MATAULI",
+              "initials": "DM",
+              "nameShort": "D MATAULI",
+              "nameShort2": "MATAULI",
+              "slug": "dgenyva-matauli",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Dgenyva MATAULI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "85220",
+              "nameDisplay": "Noah MICHEL",
+              "nameType": 0,
+              "firstName": "Noah",
+              "lastName": "MICHEL",
+              "initials": "NM",
+              "nameShort": "N MICHEL",
+              "nameShort2": "MICHEL",
+              "slug": "noah-michel",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Noah MICHEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "68958",
+              "nameDisplay": "Marcus LOI",
+              "nameType": 0,
+              "firstName": "Marcus",
+              "lastName": "LOI",
+              "initials": "ML",
+              "nameShort": "M LOI",
+              "nameShort2": "LOI",
+              "slug": "marcus-loi",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Marcus LOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57751",
+              "nameDisplay": "Jodee VEGA",
+              "nameType": 0,
+              "firstName": "Jodee",
+              "lastName": "VEGA",
+              "initials": "JV",
+              "nameShort": "J VEGA",
+              "nameShort2": "VEGA",
+              "slug": "jodee-vega",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Jodee VEGA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896497/assets/players/thumbnail/57751.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": "R1",
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Salle Anewy",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474291,
+        "code": "26",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 544,
+          "teamName": "New Caledonia 1",
+          "players": [
+            {
+              "id": "97933",
+              "nameDisplay": "Ronan HO-YAGUES",
+              "nameType": 0,
+              "firstName": "Ronan",
+              "lastName": "HO-YAGUES",
+              "initials": "RH",
+              "nameShort": "R HO-YAGUES",
+              "nameShort2": "HO-YAGUES",
+              "slug": "ronan-ho-yagues",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Ronan HO-YAGUES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "94288",
+              "nameDisplay": "Ryan VENPIN",
+              "nameType": 0,
+              "firstName": "Ryan",
+              "lastName": "VENPIN",
+              "initials": "RV",
+              "nameShort": "R VENPIN",
+              "nameShort2": "VENPIN",
+              "slug": "ryan-venpin",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Ryan VENPIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Salle Anewy",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474292,
+        "code": "27",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 544,
+          "teamName": "New Caledonia 1",
+          "players": [
+            {
+              "id": "79660",
+              "nameDisplay": "Tiphaine TAMOLE",
+              "nameType": 0,
+              "firstName": "Tiphaine",
+              "lastName": "TAMOLE",
+              "initials": "TT",
+              "nameShort": "T TAMOLE",
+              "nameShort2": "TAMOLE",
+              "slug": "tiphaine-tamole",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Tiphaine TAMOLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "58515",
+              "nameDisplay": "Zecily FUNG",
+              "nameType": 0,
+              "firstName": "Zecily",
+              "lastName": "FUNG",
+              "initials": "ZF",
+              "nameShort": "Z FUNG",
+              "nameShort2": "FUNG",
+              "slug": "zecily-fung",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Zecily FUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896390/assets/players/thumbnail/58515.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": "R1",
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Salle Anewy",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474293,
+        "code": "28",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 544,
+          "teamName": "New Caledonia 1",
+          "players": [
+            {
+              "id": "97933",
+              "nameDisplay": "Ronan HO-YAGUES",
+              "nameType": 0,
+              "firstName": "Ronan",
+              "lastName": "HO-YAGUES",
+              "initials": "RH",
+              "nameShort": "R HO-YAGUES",
+              "nameShort2": "HO-YAGUES",
+              "slug": "ronan-ho-yagues",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Ronan HO-YAGUES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85220",
+              "nameDisplay": "Noah MICHEL",
+              "nameType": 0,
+              "firstName": "Noah",
+              "lastName": "MICHEL",
+              "initials": "NM",
+              "nameShort": "N MICHEL",
+              "nameShort2": "MICHEL",
+              "slug": "noah-michel",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Noah MICHEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "68958",
+              "nameDisplay": "Marcus LOI",
+              "nameType": 0,
+              "firstName": "Marcus",
+              "lastName": "LOI",
+              "initials": "ML",
+              "nameShort": "M LOI",
+              "nameShort2": "LOI",
+              "slug": "marcus-loi",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Marcus LOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "94288",
+              "nameDisplay": "Ryan VENPIN",
+              "nameType": 0,
+              "firstName": "Ryan",
+              "lastName": "VENPIN",
+              "initials": "RV",
+              "nameShort": "R VENPIN",
+              "nameShort2": "VENPIN",
+              "slug": "ryan-venpin",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Ryan VENPIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": "R1",
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Salle Anewy",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474294,
+        "code": "29",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 544,
+          "teamName": "New Caledonia 1",
+          "players": [
+            {
+              "id": "72934",
+              "nameDisplay": "Dgenyva MATAULI",
+              "nameType": 0,
+              "firstName": "Dgenyva",
+              "lastName": "MATAULI",
+              "initials": "DM",
+              "nameShort": "D MATAULI",
+              "nameShort2": "MATAULI",
+              "slug": "dgenyva-matauli",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Dgenyva MATAULI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "79660",
+              "nameDisplay": "Tiphaine TAMOLE",
+              "nameType": 0,
+              "firstName": "Tiphaine",
+              "lastName": "TAMOLE",
+              "initials": "TT",
+              "nameShort": "T TAMOLE",
+              "nameShort2": "TAMOLE",
+              "slug": "tiphaine-tamole",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Tiphaine TAMOLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "87203",
+              "nameDisplay": "Chloe CHEN",
+              "nameType": 0,
+              "firstName": "Chloe",
+              "lastName": "CHEN",
+              "initials": "CC",
+              "nameShort": "C CHEN",
+              "nameShort2": "CHEN",
+              "slug": "chloe-chen",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Chloe CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "81144",
+              "nameDisplay": "Victoria HE",
+              "nameType": 0,
+              "firstName": "Victoria",
+              "lastName": "HE",
+              "initials": "VH",
+              "nameShort": "V HE",
+              "nameShort2": "HE",
+              "slug": "victoria-he",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Victoria HE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": "R1",
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Salle Anewy",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 474296,
+    "code": "36",
+    "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+    "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CAL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+      "teamId": 545,
+      "teamName": "New Caledonia 2",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FIJ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+      "teamId": 543,
+      "teamName": "Fiji",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-02-18 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team Champs",
+    "roundName": "R4",
+    "drawName": "Mixed Team Champs",
+    "drawCode": "1",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Salle Anewy",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 474301,
+        "code": "75",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 545,
+          "teamName": "New Caledonia 2",
+          "players": [
+            {
+              "id": "99016",
+              "nameDisplay": "Guillermo BUISSON",
+              "nameType": 0,
+              "firstName": "Guillermo",
+              "lastName": "BUISSON",
+              "initials": "GB",
+              "nameShort": "G BUISSON",
+              "nameShort2": "BUISSON",
+              "slug": "guillermo-buisson",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Guillermo BUISSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "94167",
+              "nameDisplay": "Gwenaelle TAMOLE",
+              "nameType": 0,
+              "firstName": "Gwenaelle",
+              "lastName": "TAMOLE",
+              "initials": "GT",
+              "nameShort": "G TAMOLE",
+              "nameShort2": "TAMOLE",
+              "slug": "gwenaelle-tamole",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Gwenaelle TAMOLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": 543,
+          "teamName": "Fiji",
+          "players": [
+            {
+              "id": "60421",
+              "nameDisplay": "Monica CHAN",
+              "nameType": 0,
+              "firstName": "Monica",
+              "lastName": "CHAN",
+              "initials": "MC",
+              "nameShort": "M CHAN",
+              "nameShort2": "CHAN",
+              "slug": "monica-chan",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Monica CHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "57538",
+              "nameDisplay": "Chang Ho KIM",
+              "nameType": 0,
+              "firstName": "Chang Ho",
+              "lastName": "KIM",
+              "initials": "CK",
+              "nameShort": "C KIM",
+              "nameShort2": "KIM",
+              "slug": "chang-ho-kim",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Chang Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Salle Anewy",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474297,
+        "code": "71",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 545,
+          "teamName": "New Caledonia 2",
+          "players": [
+            {
+              "id": "65757",
+              "nameDisplay": "Ewen LEMERCIER",
+              "nameType": 0,
+              "firstName": "Ewen",
+              "lastName": "LEMERCIER",
+              "initials": "EL",
+              "nameShort": "E LEMERCIER",
+              "nameShort2": "LEMERCIER",
+              "slug": "ewen-lemercier",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Ewen LEMERCIER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": 543,
+          "teamName": "Fiji",
+          "players": [
+            {
+              "id": "82767",
+              "nameDisplay": "Liam FONG",
+              "nameType": 0,
+              "firstName": "Liam",
+              "lastName": "FONG",
+              "initials": "LF",
+              "nameShort": "L FONG",
+              "nameShort2": "FONG",
+              "slug": "liam-fong",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Liam FONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Salle Anewy",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474298,
+        "code": "72",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 545,
+          "teamName": "New Caledonia 2",
+          "players": [],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": 543,
+          "teamName": "Fiji",
+          "players": [
+            {
+              "id": "88915",
+              "nameDisplay": "Sristi NADAN",
+              "nameType": 0,
+              "firstName": "Sristi",
+              "lastName": "NADAN",
+              "initials": "SN",
+              "nameShort": "S NADAN",
+              "nameShort2": "NADAN",
+              "slug": "sristi-nadan",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Sristi NADAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Salle Anewy",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474299,
+        "code": "73",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 545,
+          "teamName": "New Caledonia 2",
+          "players": [
+            {
+              "id": "82306",
+              "nameDisplay": "Clement DERAMANE",
+              "nameType": 0,
+              "firstName": "Clement",
+              "lastName": "DERAMANE",
+              "initials": "CD",
+              "nameShort": "C DERAMANE",
+              "nameShort2": "DERAMANE",
+              "slug": "clement-deramane",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Clement DERAMANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65757",
+              "nameDisplay": "Ewen LEMERCIER",
+              "nameType": 0,
+              "firstName": "Ewen",
+              "lastName": "LEMERCIER",
+              "initials": "EL",
+              "nameShort": "E LEMERCIER",
+              "nameShort2": "LEMERCIER",
+              "slug": "ewen-lemercier",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Ewen LEMERCIER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": 543,
+          "teamName": "Fiji",
+          "players": [
+            {
+              "id": "57538",
+              "nameDisplay": "Chang Ho KIM",
+              "nameType": 0,
+              "firstName": "Chang Ho",
+              "lastName": "KIM",
+              "initials": "CK",
+              "nameShort": "C KIM",
+              "nameShort2": "KIM",
+              "slug": "chang-ho-kim",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Chang Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "83116",
+              "nameDisplay": "Justin TANG",
+              "nameType": 0,
+              "firstName": "Justin",
+              "lastName": "TANG",
+              "initials": "JT",
+              "nameShort": "J TANG",
+              "nameShort2": "TANG",
+              "slug": "justin-tang",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Justin TANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Salle Anewy",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474300,
+        "code": "74",
+        "tournamentCode": "85904537-9FDA-43DF-BBA7-3DC0C43541F6",
+        "tournamentName": "VICTOR Oceania Junior Mixed Team Championships 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": 545,
+          "teamName": "New Caledonia 2",
+          "players": [
+            {
+              "id": "94167",
+              "nameDisplay": "Gwenaelle TAMOLE",
+              "nameType": 0,
+              "firstName": "Gwenaelle",
+              "lastName": "TAMOLE",
+              "initials": "GT",
+              "nameShort": "G TAMOLE",
+              "nameShort2": "TAMOLE",
+              "slug": "gwenaelle-tamole",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Gwenaelle TAMOLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": 543,
+          "teamName": "Fiji",
+          "players": [
+            {
+              "id": "69028",
+              "nameDisplay": "Sonali KUMAR",
+              "nameType": 0,
+              "firstName": "Sonali",
+              "lastName": "KUMAR",
+              "initials": "SK",
+              "nameShort": "S KUMAR",
+              "nameShort2": "KUMAR",
+              "slug": "sonali-kumar",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Sonali KUMAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "75264",
+              "nameDisplay": "Carmen LOO",
+              "nameType": 0,
+              "firstName": "Carmen",
+              "lastName": "LOO",
+              "initials": "CL",
+              "nameShort": "C LOO",
+              "nameShort2": "LOO",
+              "slug": "carmen-loo",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Carmen LOO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-18 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Champs",
+        "roundName": null,
+        "drawName": "Mixed Team Champs",
+        "drawCode": "1",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Salle Anewy",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1339 @@
+[
+  {
+    "id": 1480459,
+    "code": "14",
+    "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+    "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 2264,
+      "teamName": "France",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ISR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+      "teamId": 2265,
+      "teamName": "Israel",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-12-05 10:00:00",
+    "matchTimeUtc": "2025-12-05 08:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Group 3",
+    "roundName": "R1",
+    "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "LSC Sports Complex \"Druskininkai\"",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1480490,
+        "code": "16",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 2264,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "78135",
+              "nameDisplay": "Romane CLOTEAUX-FOUCAULT",
+              "nameType": 0,
+              "firstName": "Romane",
+              "lastName": "CLOTEAUX-FOUCAULT",
+              "initials": "RC",
+              "nameShort": "R CLOTEAUX-FOUCAULT",
+              "nameShort2": "CLOTEAUX-FOUCAULT",
+              "slug": "romane-cloteaux-foucault",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Romane CLOTEAUX-FOUCAULT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": 2265,
+          "teamName": "Israel",
+          "players": [
+            {
+              "id": "90471",
+              "nameDisplay": "Heli NEIMAN",
+              "nameType": 0,
+              "firstName": "Heli",
+              "lastName": "NEIMAN",
+              "initials": "HN",
+              "nameShort": "H NEIMAN",
+              "nameShort2": "NEIMAN",
+              "slug": "heli-neiman",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Heli NEIMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 10:00:00",
+        "matchTimeUtc": "2025-12-05 08:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480486,
+        "code": "17",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 2264,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "65540",
+              "nameDisplay": "Rosy Oktavia PANCASARI",
+              "nameType": 0,
+              "firstName": "Rosy Oktavia",
+              "lastName": "PANCASARI",
+              "initials": "RP",
+              "nameShort": "R PANCASARI",
+              "nameShort2": "PANCASARI",
+              "slug": "rosy-oktavia-pancasari",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Rosy Oktavia PANCASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": 2265,
+          "teamName": "Israel",
+          "players": [
+            {
+              "id": "74785",
+              "nameDisplay": "Dana DANILENKO",
+              "nameType": 0,
+              "firstName": "Dana",
+              "lastName": "DANILENKO",
+              "initials": "DD",
+              "nameShort": "D DANILENKO",
+              "nameShort2": "DANILENKO",
+              "slug": "dana-danilenko",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Dana DANILENKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 10:30:00",
+        "matchTimeUtc": "2025-12-05 08:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480488,
+        "code": "18",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 2264,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "67906",
+              "nameDisplay": "Agathe CUEVAS",
+              "nameType": 0,
+              "firstName": "Agathe",
+              "lastName": "CUEVAS",
+              "initials": "AC",
+              "nameShort": "A CUEVAS",
+              "nameShort2": "CUEVAS",
+              "slug": "agathe-cuevas",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Agathe CUEVAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1763432417/assets/players/thumbnail/67906.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": 2265,
+          "teamName": "Israel",
+          "players": [
+            {
+              "id": "58098",
+              "nameDisplay": "Zohar AMOYAL",
+              "nameType": 0,
+              "firstName": "Zohar",
+              "lastName": "AMOYAL",
+              "initials": "ZA",
+              "nameShort": "Z AMOYAL",
+              "nameShort2": "AMOYAL",
+              "slug": "zohar-amoyal",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Zohar AMOYAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 11:00:00",
+        "matchTimeUtc": "2025-12-05 09:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480473,
+        "code": "19",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 2264,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "84050",
+              "nameDisplay": "Camille POGNANTE",
+              "nameType": 0,
+              "firstName": "Camille",
+              "lastName": "POGNANTE",
+              "initials": "CP",
+              "nameShort": "C POGNANTE",
+              "nameShort2": "POGNANTE",
+              "slug": "camille-pognante",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Camille POGNANTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "63229",
+              "nameDisplay": "Flavie VALLET",
+              "nameType": 0,
+              "firstName": "Flavie",
+              "lastName": "VALLET",
+              "initials": "FV",
+              "nameShort": "F VALLET",
+              "nameShort2": "VALLET",
+              "slug": "flavie-vallet",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Flavie VALLET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": 2265,
+          "teamName": "Israel",
+          "players": [
+            {
+              "id": "88305",
+              "nameDisplay": "Alina BERGELSON",
+              "nameType": 0,
+              "firstName": "Alina",
+              "lastName": "BERGELSON",
+              "initials": "AB",
+              "nameShort": "A BERGELSON",
+              "nameShort2": "BERGELSON",
+              "slug": "alina-bergelson",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Alina BERGELSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "90471",
+              "nameDisplay": "Heli NEIMAN",
+              "nameType": 0,
+              "firstName": "Heli",
+              "lastName": "NEIMAN",
+              "initials": "HN",
+              "nameShort": "H NEIMAN",
+              "nameShort2": "NEIMAN",
+              "slug": "heli-neiman",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Heli NEIMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 11:30:00",
+        "matchTimeUtc": "2025-12-05 09:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480482,
+        "code": "20",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 2264,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "77589",
+              "nameDisplay": "Elsa JACOB",
+              "nameType": 0,
+              "firstName": "Elsa",
+              "lastName": "JACOB",
+              "initials": "EJ",
+              "nameShort": "E JACOB",
+              "nameShort2": "JACOB",
+              "slug": "elsa-jacob",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Elsa JACOB",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728625101/assets/players/thumbnail/77589.jpg"
+              }
+            },
+            {
+              "id": "65540",
+              "nameDisplay": "Rosy Oktavia PANCASARI",
+              "nameType": 0,
+              "firstName": "Rosy Oktavia",
+              "lastName": "PANCASARI",
+              "initials": "RP",
+              "nameShort": "R PANCASARI",
+              "nameShort2": "PANCASARI",
+              "slug": "rosy-oktavia-pancasari",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Rosy Oktavia PANCASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": 2265,
+          "teamName": "Israel",
+          "players": [
+            {
+              "id": "58098",
+              "nameDisplay": "Zohar AMOYAL",
+              "nameType": 0,
+              "firstName": "Zohar",
+              "lastName": "AMOYAL",
+              "initials": "ZA",
+              "nameShort": "Z AMOYAL",
+              "nameShort2": "AMOYAL",
+              "slug": "zohar-amoyal",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Zohar AMOYAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "65089",
+              "nameDisplay": "Dana KUGEL",
+              "nameType": 0,
+              "firstName": "Dana",
+              "lastName": "KUGEL",
+              "initials": "DK",
+              "nameShort": "D KUGEL",
+              "nameShort2": "KUGEL",
+              "slug": "dana-kugel",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Dana KUGEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 12:00:00",
+        "matchTimeUtc": "2025-12-05 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1480461,
+    "code": "12",
+    "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+    "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "LTU",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+      "teamId": 2266,
+      "teamName": "Lithuania",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+      "teamId": 2267,
+      "teamName": "Poland",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-12-05 15:00:00",
+    "matchTimeUtc": "2025-12-05 13:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Group 3",
+    "roundName": "R1",
+    "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "LSC Sports Complex \"Druskininkai\"",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 4,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1480483,
+        "code": "11",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 2266,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "62406",
+              "nameDisplay": "Vilte PAULAUSKAITE",
+              "nameType": 0,
+              "firstName": "Vilte",
+              "lastName": "PAULAUSKAITE",
+              "initials": "VP",
+              "nameShort": "V PAULAUSKAITE",
+              "nameShort2": "PAULAUSKAITE",
+              "slug": "vilte-paulauskaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Vilte PAULAUSKAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 2267,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "76180",
+              "nameDisplay": "Weronika GORNIAK",
+              "nameType": 0,
+              "firstName": "Weronika",
+              "lastName": "GORNIAK",
+              "initials": "WG",
+              "nameShort": "W GORNIAK",
+              "nameShort2": "GORNIAK",
+              "slug": "weronika-gorniak",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Weronika GORNIAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 15:00:00",
+        "matchTimeUtc": "2025-12-05 13:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480484,
+        "code": "12",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 2266,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "70098",
+              "nameDisplay": "Samanta GOLUBICKAITE",
+              "nameType": 0,
+              "firstName": "Samanta",
+              "lastName": "GOLUBICKAITE",
+              "initials": "SG",
+              "nameShort": "S GOLUBICKAITE",
+              "nameShort2": "GOLUBICKAITE",
+              "slug": "samanta-golubickaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Samanta GOLUBICKAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 2267,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "77801",
+              "nameDisplay": "Zuzanna JANKOWSKA",
+              "nameType": 0,
+              "firstName": "Zuzanna",
+              "lastName": "JANKOWSKA",
+              "initials": "ZJ",
+              "nameShort": "Z JANKOWSKA",
+              "nameShort2": "JANKOWSKA",
+              "slug": "zuzanna-jankowska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Zuzanna JANKOWSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 15:30:00",
+        "matchTimeUtc": "2025-12-05 13:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 50,
+        "time": "00:50",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480489,
+        "code": "13",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 2266,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "60560",
+              "nameDisplay": "Jorune SALNAITE",
+              "nameType": 0,
+              "firstName": "Jorune",
+              "lastName": "SALNAITE",
+              "initials": "JS",
+              "nameShort": "J SALNAITE",
+              "nameShort2": "SALNAITE",
+              "slug": "jorune-salnaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Jorune SALNAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 2267,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "64660",
+              "nameDisplay": "Jessica ORZECHOWICZ",
+              "nameType": 0,
+              "firstName": "Jessica",
+              "lastName": "ORZECHOWICZ",
+              "initials": "JO",
+              "nameShort": "J ORZECHOWICZ",
+              "nameShort2": "ORZECHOWICZ",
+              "slug": "jessica-orzechowicz",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Jessica ORZECHOWICZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 16:00:00",
+        "matchTimeUtc": "2025-12-05 14:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 56,
+        "time": "00:56",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480487,
+        "code": "15",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 2266,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "70098",
+              "nameDisplay": "Samanta GOLUBICKAITE",
+              "nameType": 0,
+              "firstName": "Samanta",
+              "lastName": "GOLUBICKAITE",
+              "initials": "SG",
+              "nameShort": "S GOLUBICKAITE",
+              "nameShort2": "GOLUBICKAITE",
+              "slug": "samanta-golubickaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Samanta GOLUBICKAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "60067",
+              "nameDisplay": "Jogaile KELECIUTE",
+              "nameType": 0,
+              "firstName": "Jogaile",
+              "lastName": "KELECIUTE",
+              "initials": "JK",
+              "nameShort": "J KELECIUTE",
+              "nameShort2": "KELECIUTE",
+              "slug": "jogaile-keleciute",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Jogaile KELECIUTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 2267,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "77801",
+              "nameDisplay": "Zuzanna JANKOWSKA",
+              "nameType": 0,
+              "firstName": "Zuzanna",
+              "lastName": "JANKOWSKA",
+              "initials": "ZJ",
+              "nameShort": "Z JANKOWSKA",
+              "nameShort2": "JANKOWSKA",
+              "slug": "zuzanna-jankowska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Zuzanna JANKOWSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "77453",
+              "nameDisplay": "Julia PIWOWAR",
+              "nameType": 0,
+              "firstName": "Julia",
+              "lastName": "PIWOWAR",
+              "initials": "JP",
+              "nameShort": "J PIWOWAR",
+              "nameShort2": "PIWOWAR",
+              "slug": "julia-piwowar",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Julia PIWOWAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 16:30:00",
+        "matchTimeUtc": "2025-12-05 14:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 56,
+        "time": "00:56",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480491,
+        "code": "14",
+        "tournamentCode": "7B6A48DB-1BAE-4EDD-9239-F5B0FBD4390A",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Lithuania",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 2266,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "62406",
+              "nameDisplay": "Vilte PAULAUSKAITE",
+              "nameType": 0,
+              "firstName": "Vilte",
+              "lastName": "PAULAUSKAITE",
+              "initials": "VP",
+              "nameShort": "V PAULAUSKAITE",
+              "nameShort2": "PAULAUSKAITE",
+              "slug": "vilte-paulauskaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Vilte PAULAUSKAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "60560",
+              "nameDisplay": "Jorune SALNAITE",
+              "nameType": 0,
+              "firstName": "Jorune",
+              "lastName": "SALNAITE",
+              "initials": "JS",
+              "nameShort": "J SALNAITE",
+              "nameShort2": "SALNAITE",
+              "slug": "jorune-salnaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Jorune SALNAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+          "teamId": 2267,
+          "teamName": "Poland",
+          "players": [
+            {
+              "id": "74487",
+              "nameDisplay": "Paulina CYBULSKA",
+              "nameType": 0,
+              "firstName": "Paulina",
+              "lastName": "CYBULSKA",
+              "initials": "PC",
+              "nameShort": "P CYBULSKA",
+              "nameShort2": "CYBULSKA",
+              "slug": "paulina-cybulska",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Paulina CYBULSKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "77380",
+              "nameDisplay": "Kornelia MARCZAK",
+              "nameType": 0,
+              "firstName": "Kornelia",
+              "lastName": "MARCZAK",
+              "initials": "KM",
+              "nameShort": "K MARCZAK",
+              "nameShort2": "MARCZAK",
+              "slug": "kornelia-marczak",
+              "countryCode": "POL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POL.png",
+              "avatar": {
+                "title": "Kornelia MARCZAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 17:00:00",
+        "matchTimeUtc": "2025-12-05 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Group 3",
+        "roundName": "R1",
+        "drawName": "Women's Group 3 - EMWTCQ Women's Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "LSC Sports Complex \"Druskininkai\"",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

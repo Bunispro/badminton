@@ -1,0 +1,4066 @@
+[
+  {
+    "id": 1405311,
+    "code": "69",
+    "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+    "tournamentName": "2023 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 1211,
+      "teamName": "CB Rinconada - Sevilla",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 1210,
+      "teamName": "CB Oviedo",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-22 09:30:00",
+    "matchTimeUtc": "2023-06-22 07:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC23",
+    "roundName": "QF",
+    "drawName": "ECC23",
+    "drawCode": "5",
+    "courtName": "1 - Oviedo",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Polideportivo Corredoria Arena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405359,
+        "code": "130",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "93670",
+              "nameDisplay": "Carlos PIRIS",
+              "nameType": 0,
+              "firstName": "Carlos",
+              "lastName": "PIRIS",
+              "initials": "CP",
+              "nameShort": "C PIRIS",
+              "nameShort2": "PIRIS",
+              "slug": "carlos-piris",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Carlos PIRIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "95780",
+              "nameDisplay": "Beatriz CORRALES",
+              "nameType": 0,
+              "firstName": "Beatriz",
+              "lastName": "CORRALES",
+              "initials": "BC",
+              "nameShort": "B CORRALES",
+              "nameShort2": "CORRALES",
+              "slug": "beatriz-corrales",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Beatriz CORRALES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894712/assets/players/thumbnail/95780.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1210,
+          "teamName": "CB Oviedo",
+          "players": [
+            {
+              "id": "80329",
+              "nameDisplay": "Pelayo PINTO",
+              "nameType": 0,
+              "firstName": "Pelayo",
+              "lastName": "PINTO",
+              "initials": "PP",
+              "nameShort": "P PINTO",
+              "nameShort2": "PINTO",
+              "slug": "pelayo-pinto",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Pelayo PINTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "94378",
+              "nameDisplay": "Amaia TORRALBA",
+              "nameType": 0,
+              "firstName": "Amaia",
+              "lastName": "TORRALBA",
+              "initials": "AT",
+              "nameShort": "A TORRALBA",
+              "nameShort2": "TORRALBA",
+              "slug": "amaia-torralba",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Amaia TORRALBA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 09:30:00",
+        "matchTimeUtc": "2023-06-22 07:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 25,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405360,
+        "code": "126",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "59956",
+              "nameDisplay": "Thomas FOURCADE",
+              "nameType": 0,
+              "firstName": "Thomas",
+              "lastName": "FOURCADE",
+              "initials": "TF",
+              "nameShort": "T FOURCADE",
+              "nameShort2": "FOURCADE",
+              "slug": "thomas-fourcade",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Thomas FOURCADE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1210,
+          "teamName": "CB Oviedo",
+          "players": [
+            {
+              "id": "83155",
+              "nameDisplay": "Alvaro LEAL",
+              "nameType": 0,
+              "firstName": "Alvaro",
+              "lastName": "LEAL",
+              "initials": "AL",
+              "nameShort": "A LEAL",
+              "nameShort2": "LEAL",
+              "slug": "alvaro-leal",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Alvaro LEAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 10:20:00",
+        "matchTimeUtc": "2023-06-22 08:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 64,
+        "time": "01:04",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405370,
+        "code": "127",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "62186",
+              "nameDisplay": "XU Wei",
+              "nameType": 1,
+              "firstName": "Wei",
+              "lastName": "XU",
+              "initials": "XW",
+              "nameShort": "XU W",
+              "nameShort2": "XU",
+              "slug": "Wei-XU",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Wei XU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1210,
+          "teamName": "CB Oviedo",
+          "players": [
+            {
+              "id": "57891",
+              "nameDisplay": "KRISTINA SOTOMAYOR",
+              "nameType": 0,
+              "firstName": "KRISTINA",
+              "lastName": "SOTOMAYOR",
+              "initials": "KS",
+              "nameShort": "K SOTOMAYOR",
+              "nameShort2": "SOTOMAYOR",
+              "slug": "kristina-sotomayor",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "KRISTINA SOTOMAYOR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 11:10:00",
+        "matchTimeUtc": "2023-06-22 09:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405410,
+        "code": "128",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "69167",
+              "nameDisplay": "Jaume PEREZ",
+              "nameType": 0,
+              "firstName": "Jaume",
+              "lastName": "PEREZ",
+              "initials": "JP",
+              "nameShort": "J PEREZ",
+              "nameShort2": "PEREZ",
+              "slug": "jaume-perez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Jaume PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "93670",
+              "nameDisplay": "Carlos PIRIS",
+              "nameType": 0,
+              "firstName": "Carlos",
+              "lastName": "PIRIS",
+              "initials": "CP",
+              "nameShort": "C PIRIS",
+              "nameShort2": "PIRIS",
+              "slug": "carlos-piris",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Carlos PIRIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1210,
+          "teamName": "CB Oviedo",
+          "players": [
+            {
+              "id": "91454",
+              "nameDisplay": "Vicente Miguel GAZQUEZ",
+              "nameType": 0,
+              "firstName": "Vicente Miguel",
+              "lastName": "GAZQUEZ",
+              "initials": "VG",
+              "nameShort": "V GAZQUEZ",
+              "nameShort2": "GAZQUEZ",
+              "slug": "vicente-miguel-gazquez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Vicente Miguel GAZQUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "74231",
+              "nameDisplay": "Alberto ZAPICO",
+              "nameType": 0,
+              "firstName": "Alberto",
+              "lastName": "ZAPICO",
+              "initials": "AZ",
+              "nameShort": "A ZAPICO",
+              "nameShort2": "ZAPICO",
+              "slug": "alberto-zapico",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Alberto ZAPICO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:00:00",
+        "matchTimeUtc": "2023-06-22 10:00:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1405417,
+        "code": "129",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "95780",
+              "nameDisplay": "Beatriz CORRALES",
+              "nameType": 0,
+              "firstName": "Beatriz",
+              "lastName": "CORRALES",
+              "initials": "BC",
+              "nameShort": "B CORRALES",
+              "nameShort2": "CORRALES",
+              "slug": "beatriz-corrales",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Beatriz CORRALES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894712/assets/players/thumbnail/95780.jpg"
+              }
+            },
+            {
+              "id": "62941",
+              "nameDisplay": "Claudia LEAL",
+              "nameType": 0,
+              "firstName": "Claudia",
+              "lastName": "LEAL",
+              "initials": "CL",
+              "nameShort": "C LEAL",
+              "nameShort2": "LEAL",
+              "slug": "claudia-leal",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Claudia LEAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1210,
+          "teamName": "CB Oviedo",
+          "players": [
+            {
+              "id": "57891",
+              "nameDisplay": "KRISTINA SOTOMAYOR",
+              "nameType": 0,
+              "firstName": "KRISTINA",
+              "lastName": "SOTOMAYOR",
+              "initials": "KS",
+              "nameShort": "K SOTOMAYOR",
+              "nameShort2": "SOTOMAYOR",
+              "slug": "kristina-sotomayor",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "KRISTINA SOTOMAYOR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "94378",
+              "nameDisplay": "Amaia TORRALBA",
+              "nameType": 0,
+              "firstName": "Amaia",
+              "lastName": "TORRALBA",
+              "initials": "AT",
+              "nameShort": "A TORRALBA",
+              "nameShort2": "TORRALBA",
+              "slug": "amaia-torralba",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Amaia TORRALBA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:50:00",
+        "matchTimeUtc": "2023-06-22 10:50:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405316,
+    "code": "66",
+    "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+    "tournamentName": "2023 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 1217,
+      "teamName": "Recreativo IES La Orden",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 1211,
+      "teamName": "CB Rinconada - Sevilla",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-22 16:00:00",
+    "matchTimeUtc": "2023-06-22 14:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC23",
+    "roundName": "SF",
+    "drawName": "ECC23",
+    "drawCode": "5",
+    "courtName": "1 - Oviedo",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Polideportivo Corredoria Arena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405423,
+        "code": "145",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "14251",
+              "nameDisplay": "Pablo ABIAN",
+              "nameType": 0,
+              "firstName": "Pablo",
+              "lastName": "ABIAN",
+              "initials": "PA",
+              "nameShort": "P ABIAN",
+              "nameShort2": "ABIAN",
+              "slug": "pablo-abian",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Pablo ABIAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899447/assets/players/thumbnail/14251.jpg"
+              }
+            },
+            {
+              "id": "54640",
+              "nameDisplay": "Haidee OJEDA",
+              "nameType": 0,
+              "firstName": "Haidee",
+              "lastName": "OJEDA",
+              "initials": "HO",
+              "nameShort": "H OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "haidee-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Haidee OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "93670",
+              "nameDisplay": "Carlos PIRIS",
+              "nameType": 0,
+              "firstName": "Carlos",
+              "lastName": "PIRIS",
+              "initials": "CP",
+              "nameShort": "C PIRIS",
+              "nameShort2": "PIRIS",
+              "slug": "carlos-piris",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Carlos PIRIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "95780",
+              "nameDisplay": "Beatriz CORRALES",
+              "nameType": 0,
+              "firstName": "Beatriz",
+              "lastName": "CORRALES",
+              "initials": "BC",
+              "nameShort": "B CORRALES",
+              "nameShort2": "CORRALES",
+              "slug": "beatriz-corrales",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Beatriz CORRALES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894712/assets/players/thumbnail/95780.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 16:00:00",
+        "matchTimeUtc": "2023-06-22 14:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405414,
+        "code": "142",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "98804",
+              "nameDisplay": "Daniella GONDA",
+              "nameType": 0,
+              "firstName": "Daniella",
+              "lastName": "GONDA",
+              "initials": "DG",
+              "nameShort": "D GONDA",
+              "nameShort2": "GONDA",
+              "slug": "daniella-gonda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Daniella GONDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697438471/assets/players/thumbnail/98804.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "62186",
+              "nameDisplay": "XU Wei",
+              "nameType": 1,
+              "firstName": "Wei",
+              "lastName": "XU",
+              "initials": "XW",
+              "nameShort": "XU W",
+              "nameShort2": "XU",
+              "slug": "Wei-XU",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Wei XU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 16:50:00",
+        "matchTimeUtc": "2023-06-22 14:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405350,
+        "code": "141",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "14251",
+              "nameDisplay": "Pablo ABIAN",
+              "nameType": 0,
+              "firstName": "Pablo",
+              "lastName": "ABIAN",
+              "initials": "PA",
+              "nameShort": "P ABIAN",
+              "nameShort2": "ABIAN",
+              "slug": "pablo-abian",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Pablo ABIAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899447/assets/players/thumbnail/14251.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "59956",
+              "nameDisplay": "Thomas FOURCADE",
+              "nameType": 0,
+              "firstName": "Thomas",
+              "lastName": "FOURCADE",
+              "initials": "TF",
+              "nameShort": "T FOURCADE",
+              "nameShort2": "FOURCADE",
+              "slug": "thomas-fourcade",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Thomas FOURCADE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 17:40:00",
+        "matchTimeUtc": "2023-06-22 15:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 51,
+        "time": "00:51",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405430,
+        "code": "144",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "54640",
+              "nameDisplay": "Haidee OJEDA",
+              "nameType": 0,
+              "firstName": "Haidee",
+              "lastName": "OJEDA",
+              "initials": "HO",
+              "nameShort": "H OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "haidee-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Haidee OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "57603",
+              "nameDisplay": "Laura SANTOS",
+              "nameType": 0,
+              "firstName": "Laura",
+              "lastName": "SANTOS",
+              "initials": "LS",
+              "nameShort": "L SANTOS",
+              "nameShort2": "SANTOS",
+              "slug": "laura-santos",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Laura SANTOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "95780",
+              "nameDisplay": "Beatriz CORRALES",
+              "nameType": 0,
+              "firstName": "Beatriz",
+              "lastName": "CORRALES",
+              "initials": "BC",
+              "nameShort": "B CORRALES",
+              "nameShort2": "CORRALES",
+              "slug": "beatriz-corrales",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Beatriz CORRALES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894712/assets/players/thumbnail/95780.jpg"
+              }
+            },
+            {
+              "id": "62186",
+              "nameDisplay": "XU Wei",
+              "nameType": 1,
+              "firstName": "Wei",
+              "lastName": "XU",
+              "initials": "XW",
+              "nameShort": "XU W",
+              "nameShort2": "XU",
+              "slug": "Wei-XU",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Wei XU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 18:30:00",
+        "matchTimeUtc": "2023-06-22 16:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405371,
+        "code": "143",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "61331",
+              "nameDisplay": "Alberto PERALS",
+              "nameType": 0,
+              "firstName": "Alberto",
+              "lastName": "PERALS",
+              "initials": "AP",
+              "nameShort": "A PERALS",
+              "nameShort2": "PERALS",
+              "slug": "alberto-perals",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Alberto PERALS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "62607",
+              "nameDisplay": "Alejandro PEREZ",
+              "nameType": 0,
+              "firstName": "Alejandro",
+              "lastName": "PEREZ",
+              "initials": "AP",
+              "nameShort": "A PEREZ",
+              "nameShort2": "PEREZ",
+              "slug": "alejandro-perez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Alejandro PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1211,
+          "teamName": "CB Rinconada - Sevilla",
+          "players": [
+            {
+              "id": "69167",
+              "nameDisplay": "Jaume PEREZ",
+              "nameType": 0,
+              "firstName": "Jaume",
+              "lastName": "PEREZ",
+              "initials": "JP",
+              "nameShort": "J PEREZ",
+              "nameShort2": "PEREZ",
+              "slug": "jaume-perez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Jaume PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "93670",
+              "nameDisplay": "Carlos PIRIS",
+              "nameType": 0,
+              "firstName": "Carlos",
+              "lastName": "PIRIS",
+              "initials": "CP",
+              "nameShort": "C PIRIS",
+              "nameShort2": "PIRIS",
+              "slug": "carlos-piris",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Carlos PIRIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 19:20:00",
+        "matchTimeUtc": "2023-06-22 17:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "1 - Oviedo",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405312,
+    "code": "68",
+    "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+    "tournamentName": "2023 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "ESP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+      "teamId": 1217,
+      "teamName": "Recreativo IES La Orden",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LUX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+      "teamId": 1209,
+      "teamName": "BC Jonglënster",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-22 09:30:00",
+    "matchTimeUtc": "2023-06-22 07:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC23",
+    "roundName": "QF",
+    "drawName": "ECC23",
+    "drawCode": "5",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Polideportivo Corredoria Arena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405409,
+        "code": "125",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "14251",
+              "nameDisplay": "Pablo ABIAN",
+              "nameType": 0,
+              "firstName": "Pablo",
+              "lastName": "ABIAN",
+              "initials": "PA",
+              "nameShort": "P ABIAN",
+              "nameShort2": "ABIAN",
+              "slug": "pablo-abian",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Pablo ABIAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899447/assets/players/thumbnail/14251.jpg"
+              }
+            },
+            {
+              "id": "54640",
+              "nameDisplay": "Haidee OJEDA",
+              "nameType": 0,
+              "firstName": "Haidee",
+              "lastName": "OJEDA",
+              "initials": "HO",
+              "nameShort": "H OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "haidee-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Haidee OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": 1209,
+          "teamName": "BC Jonglënster",
+          "players": [
+            {
+              "id": "55292",
+              "nameDisplay": "Philip SHISHOV",
+              "nameType": 0,
+              "firstName": "Philip",
+              "lastName": "SHISHOV",
+              "initials": "PS",
+              "nameShort": "P SHISHOV",
+              "nameShort2": "SHISHOV",
+              "slug": "philip-shishov",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Philip SHISHOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "89788",
+              "nameDisplay": "Anouk NAMBOT",
+              "nameType": 0,
+              "firstName": "Anouk",
+              "lastName": "NAMBOT",
+              "initials": "AN",
+              "nameShort": "A NAMBOT",
+              "nameShort2": "NAMBOT",
+              "slug": "anouk-nambot",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Anouk NAMBOT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 09:30:00",
+        "matchTimeUtc": "2023-06-22 07:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405401,
+        "code": "122",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "98804",
+              "nameDisplay": "Daniella GONDA",
+              "nameType": 0,
+              "firstName": "Daniella",
+              "lastName": "GONDA",
+              "initials": "DG",
+              "nameShort": "D GONDA",
+              "nameShort2": "GONDA",
+              "slug": "daniella-gonda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Daniella GONDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697438471/assets/players/thumbnail/98804.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": 1209,
+          "teamName": "BC Jonglënster",
+          "players": [
+            {
+              "id": "64151",
+              "nameDisplay": "Gergana PAVLOVA",
+              "nameType": 0,
+              "firstName": "Gergana",
+              "lastName": "PAVLOVA",
+              "initials": "GP",
+              "nameShort": "G PAVLOVA",
+              "nameShort2": "PAVLOVA",
+              "slug": "gergana-pavlova",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Gergana PAVLOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 10:20:00",
+        "matchTimeUtc": "2023-06-22 08:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405342,
+        "code": "121",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "14251",
+              "nameDisplay": "Pablo ABIAN",
+              "nameType": 0,
+              "firstName": "Pablo",
+              "lastName": "ABIAN",
+              "initials": "PA",
+              "nameShort": "P ABIAN",
+              "nameShort2": "ABIAN",
+              "slug": "pablo-abian",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Pablo ABIAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899447/assets/players/thumbnail/14251.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": 1209,
+          "teamName": "BC Jonglënster",
+          "players": [
+            {
+              "id": "55205",
+              "nameDisplay": "Sarkis AGOPYAN",
+              "nameType": 0,
+              "firstName": "Sarkis",
+              "lastName": "AGOPYAN",
+              "initials": "SA",
+              "nameShort": "S AGOPYAN",
+              "nameShort2": "AGOPYAN",
+              "slug": "sarkis-agopyan",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Sarkis AGOPYAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 11:10:00",
+        "matchTimeUtc": "2023-06-22 09:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405412,
+        "code": "124",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "54640",
+              "nameDisplay": "Haidee OJEDA",
+              "nameType": 0,
+              "firstName": "Haidee",
+              "lastName": "OJEDA",
+              "initials": "HO",
+              "nameShort": "H OJEDA",
+              "nameShort2": "OJEDA",
+              "slug": "haidee-ojeda",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Haidee OJEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "57603",
+              "nameDisplay": "Laura SANTOS",
+              "nameType": 0,
+              "firstName": "Laura",
+              "lastName": "SANTOS",
+              "initials": "LS",
+              "nameShort": "L SANTOS",
+              "nameShort2": "SANTOS",
+              "slug": "laura-santos",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Laura SANTOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": 1209,
+          "teamName": "BC Jonglënster",
+          "players": [
+            {
+              "id": "89788",
+              "nameDisplay": "Anouk NAMBOT",
+              "nameType": 0,
+              "firstName": "Anouk",
+              "lastName": "NAMBOT",
+              "initials": "AN",
+              "nameShort": "A NAMBOT",
+              "nameShort2": "NAMBOT",
+              "slug": "anouk-nambot",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Anouk NAMBOT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "64151",
+              "nameDisplay": "Gergana PAVLOVA",
+              "nameType": 0,
+              "firstName": "Gergana",
+              "lastName": "PAVLOVA",
+              "initials": "GP",
+              "nameShort": "G PAVLOVA",
+              "nameShort2": "PAVLOVA",
+              "slug": "gergana-pavlova",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Gergana PAVLOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:00:00",
+        "matchTimeUtc": "2023-06-22 10:00:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1405396,
+        "code": "123",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "ESP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+          "teamId": 1217,
+          "teamName": "Recreativo IES La Orden",
+          "players": [
+            {
+              "id": "61331",
+              "nameDisplay": "Alberto PERALS",
+              "nameType": 0,
+              "firstName": "Alberto",
+              "lastName": "PERALS",
+              "initials": "AP",
+              "nameShort": "A PERALS",
+              "nameShort2": "PERALS",
+              "slug": "alberto-perals",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Alberto PERALS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "62607",
+              "nameDisplay": "Alejandro PEREZ",
+              "nameType": 0,
+              "firstName": "Alejandro",
+              "lastName": "PEREZ",
+              "initials": "AP",
+              "nameShort": "A PEREZ",
+              "nameShort2": "PEREZ",
+              "slug": "alejandro-perez",
+              "countryCode": "ESP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESP.png",
+              "avatar": {
+                "title": "Alejandro PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": 1209,
+          "teamName": "BC Jonglënster",
+          "players": [
+            {
+              "id": "58231",
+              "nameDisplay": "Ivan PANEV",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "PANEV",
+              "initials": "IP",
+              "nameShort": "I PANEV",
+              "nameShort2": "PANEV",
+              "slug": "ivan-panev",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Ivan PANEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55292",
+              "nameDisplay": "Philip SHISHOV",
+              "nameType": 0,
+              "firstName": "Philip",
+              "lastName": "SHISHOV",
+              "initials": "PS",
+              "nameShort": "P SHISHOV",
+              "nameShort2": "SHISHOV",
+              "slug": "philip-shishov",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Philip SHISHOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:50:00",
+        "matchTimeUtc": "2023-06-22 10:50:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405314,
+    "code": "67",
+    "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+    "tournamentName": "2023 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "AZE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+      "teamId": 1216,
+      "teamName": "Port of Baku SC",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ITA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+      "teamId": 1215,
+      "teamName": "Matex Marabadminton",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-22 16:00:00",
+    "matchTimeUtc": "2023-06-22 14:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC23",
+    "roundName": "SF",
+    "drawName": "ECC23",
+    "drawCode": "5",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Polideportivo Corredoria Arena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405386,
+        "code": "150",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "86160",
+              "nameDisplay": "Muhammad KHADAFI",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "KHADAFI",
+              "initials": "MK",
+              "nameShort": "M KHADAFI",
+              "nameShort2": "KHADAFI",
+              "slug": "muhammad-khadafi",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Muhammad KHADAFI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "73120",
+              "nameDisplay": "Era MAFTUHA",
+              "nameType": 0,
+              "firstName": "Era",
+              "lastName": "MAFTUHA",
+              "initials": "EM",
+              "nameShort": "E MAFTUHA",
+              "nameShort2": "MAFTUHA",
+              "slug": "era-maftuha",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Era MAFTUHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689665872/assets/players/thumbnail/73120.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "73857",
+              "nameDisplay": "Andreas SØNDERGAARD",
+              "nameType": 0,
+              "firstName": "Andreas",
+              "lastName": "SØNDERGAARD",
+              "initials": "AS",
+              "nameShort": "A SØNDERGAARD",
+              "nameShort2": "SØNDERGAARD",
+              "slug": "andreas-sondergaard",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Andreas SØNDERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "78641",
+              "nameDisplay": "Malena NORRMAN",
+              "nameType": 0,
+              "firstName": "Malena",
+              "lastName": "NORRMAN",
+              "initials": "MN",
+              "nameShort": "M NORRMAN",
+              "nameShort2": "NORRMAN",
+              "slug": "malena-norrman",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Malena NORRMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 16:00:00",
+        "matchTimeUtc": "2023-06-22 14:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 5,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405389,
+        "code": "146",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "79604",
+              "nameDisplay": "Dicky Dwi PANGESTU",
+              "nameType": 0,
+              "firstName": "Dicky Dwi",
+              "lastName": "PANGESTU",
+              "initials": "DP",
+              "nameShort": "D PANGESTU",
+              "nameShort2": "PANGESTU",
+              "slug": "dicky-dwi-pangestu",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Dicky Dwi PANGESTU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "94104",
+              "nameDisplay": "Christopher VITTORIANI",
+              "nameType": 0,
+              "firstName": "Christopher",
+              "lastName": "VITTORIANI",
+              "initials": "CV",
+              "nameShort": "C VITTORIANI",
+              "nameShort2": "VITTORIANI",
+              "slug": "christopher-vittoriani",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Christopher VITTORIANI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697437917/assets/players/thumbnail/94104.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 16:50:00",
+        "matchTimeUtc": "2023-06-22 14:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 69,
+        "time": "01:09",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405354,
+        "code": "147",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "73120",
+              "nameDisplay": "Era MAFTUHA",
+              "nameType": 0,
+              "firstName": "Era",
+              "lastName": "MAFTUHA",
+              "initials": "EM",
+              "nameShort": "E MAFTUHA",
+              "nameShort2": "MAFTUHA",
+              "slug": "era-maftuha",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Era MAFTUHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689665872/assets/players/thumbnail/73120.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "73893",
+              "nameDisplay": "Ania SETIEN",
+              "nameType": 0,
+              "firstName": "Ania",
+              "lastName": "SETIEN",
+              "initials": "AS",
+              "nameShort": "A SETIEN",
+              "nameShort2": "SETIEN",
+              "slug": "ania-setien",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Ania SETIEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 17:40:00",
+        "matchTimeUtc": "2023-06-22 15:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405434,
+        "code": "148",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "86160",
+              "nameDisplay": "Muhammad KHADAFI",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "KHADAFI",
+              "initials": "MK",
+              "nameShort": "M KHADAFI",
+              "nameShort2": "KHADAFI",
+              "slug": "muhammad-khadafi",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Muhammad KHADAFI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "79604",
+              "nameDisplay": "Dicky Dwi PANGESTU",
+              "nameType": 0,
+              "firstName": "Dicky Dwi",
+              "lastName": "PANGESTU",
+              "initials": "DP",
+              "nameShort": "D PANGESTU",
+              "nameShort2": "PANGESTU",
+              "slug": "dicky-dwi-pangestu",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Dicky Dwi PANGESTU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "73857",
+              "nameDisplay": "Andreas SØNDERGAARD",
+              "nameType": 0,
+              "firstName": "Andreas",
+              "lastName": "SØNDERGAARD",
+              "initials": "AS",
+              "nameShort": "A SØNDERGAARD",
+              "nameShort2": "SØNDERGAARD",
+              "slug": "andreas-sondergaard",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Andreas SØNDERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "94104",
+              "nameDisplay": "Christopher VITTORIANI",
+              "nameType": 0,
+              "firstName": "Christopher",
+              "lastName": "VITTORIANI",
+              "initials": "CV",
+              "nameShort": "C VITTORIANI",
+              "nameShort2": "VITTORIANI",
+              "slug": "christopher-vittoriani",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Christopher VITTORIANI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697437917/assets/players/thumbnail/94104.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 18:30:00",
+        "matchTimeUtc": "2023-06-22 16:30:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1405378,
+        "code": "149",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "64598",
+              "nameDisplay": "Narmin HUSEYNOVA",
+              "nameType": 0,
+              "firstName": "Narmin",
+              "lastName": "HUSEYNOVA",
+              "initials": "NH",
+              "nameShort": "N HUSEYNOVA",
+              "nameShort2": "HUSEYNOVA",
+              "slug": "narmin-huseynova",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Narmin HUSEYNOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98705",
+              "nameDisplay": "Hajar NURIYEVA",
+              "nameType": 0,
+              "firstName": "Hajar",
+              "lastName": "NURIYEVA",
+              "initials": "HN",
+              "nameShort": "H NURIYEVA",
+              "nameShort2": "NURIYEVA",
+              "slug": "hajar-nuriyeva",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Hajar NURIYEVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "78641",
+              "nameDisplay": "Malena NORRMAN",
+              "nameType": 0,
+              "firstName": "Malena",
+              "lastName": "NORRMAN",
+              "initials": "MN",
+              "nameShort": "M NORRMAN",
+              "nameShort2": "NORRMAN",
+              "slug": "malena-norrman",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Malena NORRMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "92404",
+              "nameDisplay": "Lucia RODRIGUEZ",
+              "nameType": 0,
+              "firstName": "Lucia",
+              "lastName": "RODRIGUEZ",
+              "initials": "LR",
+              "nameShort": "L RODRIGUEZ",
+              "nameShort2": "RODRIGUEZ",
+              "slug": "lucia-rodriguez",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Lucia RODRIGUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634274067/assets/players/thumbnail/92404.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 19:20:00",
+        "matchTimeUtc": "2023-06-22 17:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "SF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405324,
+    "code": "71",
+    "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+    "tournamentName": "2023 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "FIN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+      "teamId": 1213,
+      "teamName": "Helsingfors BC RF",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ITA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+      "teamId": 1215,
+      "teamName": "Matex Marabadminton",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-22 09:30:00",
+    "matchTimeUtc": "2023-06-22 07:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC23",
+    "roundName": "QF",
+    "drawName": "ECC23",
+    "drawCode": "5",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Polideportivo Corredoria Arena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405330,
+        "code": "140",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 1213,
+          "teamName": "Helsingfors BC RF",
+          "players": [
+            {
+              "id": "80278",
+              "nameDisplay": "Julius VON PFALER",
+              "nameType": 0,
+              "firstName": "Julius",
+              "lastName": "VON PFALER",
+              "initials": "JV",
+              "nameShort": "J VON PFALER",
+              "nameShort2": "VON PFALER",
+              "slug": "julius-von-pfaler",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Julius VON PFALER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "64110",
+              "nameDisplay": "Jenny VÄHÄSARJA",
+              "nameType": 0,
+              "firstName": "Jenny",
+              "lastName": "VÄHÄSARJA",
+              "initials": "JV",
+              "nameShort": "J VÄHÄSARJA",
+              "nameShort2": "VÄHÄSARJA",
+              "slug": "jenny-vahasarja",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Jenny VÄHÄSARJA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895380/assets/players/thumbnail/64110.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "73857",
+              "nameDisplay": "Andreas SØNDERGAARD",
+              "nameType": 0,
+              "firstName": "Andreas",
+              "lastName": "SØNDERGAARD",
+              "initials": "AS",
+              "nameShort": "A SØNDERGAARD",
+              "nameShort2": "SØNDERGAARD",
+              "slug": "andreas-sondergaard",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Andreas SØNDERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "92404",
+              "nameDisplay": "Lucia RODRIGUEZ",
+              "nameType": 0,
+              "firstName": "Lucia",
+              "lastName": "RODRIGUEZ",
+              "initials": "LR",
+              "nameShort": "L RODRIGUEZ",
+              "nameShort2": "RODRIGUEZ",
+              "slug": "lucia-rodriguez",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Lucia RODRIGUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634274067/assets/players/thumbnail/92404.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 09:30:00",
+        "matchTimeUtc": "2023-06-22 07:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405335,
+        "code": "136",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 1213,
+          "teamName": "Helsingfors BC RF",
+          "players": [
+            {
+              "id": "74744",
+              "nameDisplay": "Eliel MELLERI",
+              "nameType": 0,
+              "firstName": "Eliel",
+              "lastName": "MELLERI",
+              "initials": "EM",
+              "nameShort": "E MELLERI",
+              "nameShort2": "MELLERI",
+              "slug": "eliel-melleri",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Eliel MELLERI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "94104",
+              "nameDisplay": "Christopher VITTORIANI",
+              "nameType": 0,
+              "firstName": "Christopher",
+              "lastName": "VITTORIANI",
+              "initials": "CV",
+              "nameShort": "C VITTORIANI",
+              "nameShort2": "VITTORIANI",
+              "slug": "christopher-vittoriani",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Christopher VITTORIANI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697437917/assets/players/thumbnail/94104.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 10:20:00",
+        "matchTimeUtc": "2023-06-22 08:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 5,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405419,
+        "code": "137",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 1213,
+          "teamName": "Helsingfors BC RF",
+          "players": [
+            {
+              "id": "82552",
+              "nameDisplay": "Nova DEB",
+              "nameType": 0,
+              "firstName": "Nova",
+              "lastName": "DEB",
+              "initials": "ND",
+              "nameShort": "N DEB",
+              "nameShort2": "DEB",
+              "slug": "nova-deb",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Nova DEB",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "84635",
+              "nameDisplay": "Gianna STIGLICH",
+              "nameType": 0,
+              "firstName": "Gianna",
+              "lastName": "STIGLICH",
+              "initials": "GS",
+              "nameShort": "G STIGLICH",
+              "nameShort2": "STIGLICH",
+              "slug": "gianna-stiglich",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Gianna STIGLICH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 11:10:00",
+        "matchTimeUtc": "2023-06-22 09:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405397,
+        "code": "138",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 1213,
+          "teamName": "Helsingfors BC RF",
+          "players": [
+            {
+              "id": "87460",
+              "nameDisplay": "Robin JÄNTTI",
+              "nameType": 0,
+              "firstName": "Robin",
+              "lastName": "JÄNTTI",
+              "initials": "RJ",
+              "nameShort": "R JÄNTTI",
+              "nameShort2": "JÄNTTI",
+              "slug": "robin-jantti",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Robin JÄNTTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "80278",
+              "nameDisplay": "Julius VON PFALER",
+              "nameType": 0,
+              "firstName": "Julius",
+              "lastName": "VON PFALER",
+              "initials": "JV",
+              "nameShort": "J VON PFALER",
+              "nameShort2": "VON PFALER",
+              "slug": "julius-von-pfaler",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Julius VON PFALER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "75847",
+              "nameDisplay": "Matteo MASSETTI",
+              "nameType": 0,
+              "firstName": "Matteo",
+              "lastName": "MASSETTI",
+              "initials": "MM",
+              "nameShort": "M MASSETTI",
+              "nameShort2": "MASSETTI",
+              "slug": "matteo-massetti",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Matteo MASSETTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "73857",
+              "nameDisplay": "Andreas SØNDERGAARD",
+              "nameType": 0,
+              "firstName": "Andreas",
+              "lastName": "SØNDERGAARD",
+              "initials": "AS",
+              "nameShort": "A SØNDERGAARD",
+              "nameShort2": "SØNDERGAARD",
+              "slug": "andreas-sondergaard",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Andreas SØNDERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:00:00",
+        "matchTimeUtc": "2023-06-22 10:00:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1405349,
+        "code": "139",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 1213,
+          "teamName": "Helsingfors BC RF",
+          "players": [
+            {
+              "id": "82552",
+              "nameDisplay": "Nova DEB",
+              "nameType": 0,
+              "firstName": "Nova",
+              "lastName": "DEB",
+              "initials": "ND",
+              "nameShort": "N DEB",
+              "nameShort2": "DEB",
+              "slug": "nova-deb",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Nova DEB",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "64110",
+              "nameDisplay": "Jenny VÄHÄSARJA",
+              "nameType": 0,
+              "firstName": "Jenny",
+              "lastName": "VÄHÄSARJA",
+              "initials": "JV",
+              "nameShort": "J VÄHÄSARJA",
+              "nameShort2": "VÄHÄSARJA",
+              "slug": "jenny-vahasarja",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Jenny VÄHÄSARJA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895380/assets/players/thumbnail/64110.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": 1215,
+          "teamName": "Matex Marabadminton",
+          "players": [
+            {
+              "id": "78641",
+              "nameDisplay": "Malena NORRMAN",
+              "nameType": 0,
+              "firstName": "Malena",
+              "lastName": "NORRMAN",
+              "initials": "MN",
+              "nameShort": "M NORRMAN",
+              "nameShort2": "NORRMAN",
+              "slug": "malena-norrman",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Malena NORRMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "92404",
+              "nameDisplay": "Lucia RODRIGUEZ",
+              "nameType": 0,
+              "firstName": "Lucia",
+              "lastName": "RODRIGUEZ",
+              "initials": "LR",
+              "nameShort": "L RODRIGUEZ",
+              "nameShort2": "RODRIGUEZ",
+              "slug": "lucia-rodriguez",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Lucia RODRIGUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634274067/assets/players/thumbnail/92404.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:50:00",
+        "matchTimeUtc": "2023-06-22 10:50:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405326,
+    "code": "70",
+    "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+    "tournamentName": "2023 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "AZE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+      "teamId": 1216,
+      "teamName": "Port of Baku SC",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+      "teamId": 1206,
+      "teamName": "ACD CHE Lagoense",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-22 09:30:00",
+    "matchTimeUtc": "2023-06-22 07:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "ECC23",
+    "roundName": "QF",
+    "drawName": "ECC23",
+    "drawCode": "5",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Polideportivo Corredoria Arena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405361,
+        "code": "131",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "79604",
+              "nameDisplay": "Dicky Dwi PANGESTU",
+              "nameType": 0,
+              "firstName": "Dicky Dwi",
+              "lastName": "PANGESTU",
+              "initials": "DP",
+              "nameShort": "D PANGESTU",
+              "nameShort2": "PANGESTU",
+              "slug": "dicky-dwi-pangestu",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Dicky Dwi PANGESTU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": 1206,
+          "teamName": "ACD CHE Lagoense",
+          "players": [
+            {
+              "id": "84096",
+              "nameDisplay": "Daniel MENDES",
+              "nameType": 0,
+              "firstName": "Daniel",
+              "lastName": "MENDES",
+              "initials": "DM",
+              "nameShort": "D MENDES",
+              "nameShort2": "MENDES",
+              "slug": "daniel-mendes",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Daniel MENDES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 09:30:00",
+        "matchTimeUtc": "2023-06-22 07:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405362,
+        "code": "132",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "73120",
+              "nameDisplay": "Era MAFTUHA",
+              "nameType": 0,
+              "firstName": "Era",
+              "lastName": "MAFTUHA",
+              "initials": "EM",
+              "nameShort": "E MAFTUHA",
+              "nameShort2": "MAFTUHA",
+              "slug": "era-maftuha",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Era MAFTUHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689665872/assets/players/thumbnail/73120.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": 1206,
+          "teamName": "ACD CHE Lagoense",
+          "players": [
+            {
+              "id": "59810",
+              "nameDisplay": "Anna MIKHALKOVA",
+              "nameType": 0,
+              "firstName": "Anna",
+              "lastName": "MIKHALKOVA",
+              "initials": "AM",
+              "nameShort": "A MIKHALKOVA",
+              "nameShort2": "MIKHALKOVA",
+              "slug": "anna-mikhalkova",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Anna MIKHALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899214/assets/players/thumbnail/59810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 10:20:00",
+        "matchTimeUtc": "2023-06-22 08:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405343,
+        "code": "133",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "86160",
+              "nameDisplay": "Muhammad KHADAFI",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "KHADAFI",
+              "initials": "MK",
+              "nameShort": "M KHADAFI",
+              "nameShort2": "KHADAFI",
+              "slug": "muhammad-khadafi",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Muhammad KHADAFI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "79604",
+              "nameDisplay": "Dicky Dwi PANGESTU",
+              "nameType": 0,
+              "firstName": "Dicky Dwi",
+              "lastName": "PANGESTU",
+              "initials": "DP",
+              "nameShort": "D PANGESTU",
+              "nameShort2": "PANGESTU",
+              "slug": "dicky-dwi-pangestu",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Dicky Dwi PANGESTU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": 1206,
+          "teamName": "ACD CHE Lagoense",
+          "players": [
+            {
+              "id": "85224",
+              "nameDisplay": "Bruno CARVALHO",
+              "nameType": 0,
+              "firstName": "Bruno",
+              "lastName": "CARVALHO",
+              "initials": "BC",
+              "nameShort": "B CARVALHO",
+              "nameShort2": "CARVALHO",
+              "slug": "bruno-carvalho",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Bruno CARVALHO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "95478",
+              "nameDisplay": "Tomas NERO",
+              "nameType": 0,
+              "firstName": "Tomas",
+              "lastName": "NERO",
+              "initials": "TN",
+              "nameShort": "T NERO",
+              "nameShort2": "NERO",
+              "slug": "tomas-nero",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Tomas NERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 11:10:00",
+        "matchTimeUtc": "2023-06-22 09:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 48,
+        "time": "00:48",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405403,
+        "code": "134",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "64598",
+              "nameDisplay": "Narmin HUSEYNOVA",
+              "nameType": 0,
+              "firstName": "Narmin",
+              "lastName": "HUSEYNOVA",
+              "initials": "NH",
+              "nameShort": "N HUSEYNOVA",
+              "nameShort2": "HUSEYNOVA",
+              "slug": "narmin-huseynova",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Narmin HUSEYNOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98705",
+              "nameDisplay": "Hajar NURIYEVA",
+              "nameType": 0,
+              "firstName": "Hajar",
+              "lastName": "NURIYEVA",
+              "initials": "HN",
+              "nameShort": "H NURIYEVA",
+              "nameShort2": "NURIYEVA",
+              "slug": "hajar-nuriyeva",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Hajar NURIYEVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": 1206,
+          "teamName": "ACD CHE Lagoense",
+          "players": [
+            {
+              "id": "56447",
+              "nameDisplay": "Madalena FORTUNATO",
+              "nameType": 0,
+              "firstName": "Madalena",
+              "lastName": "FORTUNATO",
+              "initials": "MF",
+              "nameShort": "M FORTUNATO",
+              "nameShort2": "FORTUNATO",
+              "slug": "madalena-fortunato",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Madalena FORTUNATO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "68535",
+              "nameDisplay": "Beatriz ROBERTO",
+              "nameType": 0,
+              "firstName": "Beatriz",
+              "lastName": "ROBERTO",
+              "initials": "BR",
+              "nameShort": "B ROBERTO",
+              "nameShort2": "ROBERTO",
+              "slug": "beatriz-roberto",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Beatriz ROBERTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:00:00",
+        "matchTimeUtc": "2023-06-22 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1405372,
+        "code": "135",
+        "tournamentCode": "288BB37A-5C52-45DA-B647-F73972FE258C",
+        "tournamentName": "2023 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 1216,
+          "teamName": "Port of Baku SC",
+          "players": [
+            {
+              "id": "86160",
+              "nameDisplay": "Muhammad KHADAFI",
+              "nameType": 0,
+              "firstName": "Muhammad",
+              "lastName": "KHADAFI",
+              "initials": "MK",
+              "nameShort": "M KHADAFI",
+              "nameShort2": "KHADAFI",
+              "slug": "muhammad-khadafi",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Muhammad KHADAFI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "73120",
+              "nameDisplay": "Era MAFTUHA",
+              "nameType": 0,
+              "firstName": "Era",
+              "lastName": "MAFTUHA",
+              "initials": "EM",
+              "nameShort": "E MAFTUHA",
+              "nameShort2": "MAFTUHA",
+              "slug": "era-maftuha",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Era MAFTUHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689665872/assets/players/thumbnail/73120.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": 1206,
+          "teamName": "ACD CHE Lagoense",
+          "players": [
+            {
+              "id": "85224",
+              "nameDisplay": "Bruno CARVALHO",
+              "nameType": 0,
+              "firstName": "Bruno",
+              "lastName": "CARVALHO",
+              "initials": "BC",
+              "nameShort": "B CARVALHO",
+              "nameShort2": "CARVALHO",
+              "slug": "bruno-carvalho",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Bruno CARVALHO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "59810",
+              "nameDisplay": "Anna MIKHALKOVA",
+              "nameType": 0,
+              "firstName": "Anna",
+              "lastName": "MIKHALKOVA",
+              "initials": "AM",
+              "nameShort": "A MIKHALKOVA",
+              "nameShort2": "MIKHALKOVA",
+              "slug": "anna-mikhalkova",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Anna MIKHALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899214/assets/players/thumbnail/59810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-22 12:50:00",
+        "matchTimeUtc": "2023-06-22 10:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "ECC23",
+        "roundName": "QF",
+        "drawName": "ECC23",
+        "drawCode": "5",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Polideportivo Corredoria Arena",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

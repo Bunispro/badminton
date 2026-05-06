@@ -1,0 +1,1425 @@
+[
+  {
+    "id": 1140757,
+    "code": "14",
+    "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+    "tournamentName": "European Mixed Team Championships Qualification Group 3",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 488,
+      "teamName": "Netherlands",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SUI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+      "teamId": 489,
+      "teamName": "Switzerland",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2018-12-09 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC Qualification Group 3",
+    "roundName": "R1",
+    "drawName": "EMTC Qualification Group 3",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "HPC Caldas da Rainha",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1140761,
+        "code": "20",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "93858",
+              "nameDisplay": "Ruben JILLE",
+              "nameType": 0,
+              "firstName": "Ruben",
+              "lastName": "JILLE",
+              "initials": "RJ",
+              "nameShort": "R JILLE",
+              "nameShort2": "JILLE",
+              "slug": "ruben-jille",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Ruben JILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895719/assets/players/thumbnail/93858.jpg"
+              }
+            },
+            {
+              "id": "70503",
+              "nameDisplay": "Cheryl SEINEN",
+              "nameType": 0,
+              "firstName": "Cheryl",
+              "lastName": "SEINEN",
+              "initials": "CS",
+              "nameShort": "C SEINEN",
+              "nameShort2": "SEINEN",
+              "slug": "cheryl-seinen",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Cheryl SEINEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895476/assets/players/thumbnail/70503.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 489,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "94367",
+              "nameDisplay": "Oliver SCHALLER",
+              "nameType": 0,
+              "firstName": "Oliver",
+              "lastName": "SCHALLER",
+              "initials": "OS",
+              "nameShort": "O SCHALLER",
+              "nameShort2": "SCHALLER",
+              "slug": "oliver-schaller",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Oliver SCHALLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895727/assets/players/thumbnail/94367.jpg"
+              }
+            },
+            {
+              "id": "59566",
+              "nameDisplay": "Jenjira STADELMANN",
+              "nameType": 0,
+              "firstName": "Jenjira",
+              "lastName": "STADELMANN",
+              "initials": "JS",
+              "nameShort": "J STADELMANN",
+              "nameShort2": "STADELMANN",
+              "slug": "jenjira-stadelmann",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Jenjira STADELMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721780344/assets/players/thumbnail/59566.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140877,
+        "code": "16",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "48202",
+              "nameDisplay": "Nick FRANSMAN",
+              "nameType": 0,
+              "firstName": "Nick",
+              "lastName": "FRANSMAN",
+              "initials": "NF",
+              "nameShort": "N FRANSMAN",
+              "nameShort2": "FRANSMAN",
+              "slug": "nick-fransman",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Nick FRANSMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897037/assets/players/thumbnail/48202.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "98222",
+              "nameDisplay": "Christian KIRCHMAYR",
+              "nameType": 0,
+              "firstName": "Christian",
+              "lastName": "KIRCHMAYR",
+              "initials": "CK",
+              "nameShort": "C KIRCHMAYR",
+              "nameShort2": "KIRCHMAYR",
+              "slug": "christian-kirchmayr",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Christian KIRCHMAYR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140758,
+        "code": "17",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "89454",
+              "nameDisplay": "Gayle MAHULETTE",
+              "nameType": 0,
+              "firstName": "Gayle",
+              "lastName": "MAHULETTE",
+              "initials": "GM",
+              "nameShort": "G MAHULETTE",
+              "nameShort2": "MAHULETTE",
+              "slug": "gayle-mahulette",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gayle MAHULETTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896049/assets/players/thumbnail/89454.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 489,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "81056",
+              "nameDisplay": "Ronja STERN",
+              "nameType": 0,
+              "firstName": "Ronja",
+              "lastName": "STERN",
+              "initials": "RS",
+              "nameShort": "R STERN",
+              "nameShort2": "STERN",
+              "slug": "ronja-stern",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Ronja STERN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 54,
+        "time": "00:54",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140759,
+        "code": "18",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "93858",
+              "nameDisplay": "Ruben JILLE",
+              "nameType": 0,
+              "firstName": "Ruben",
+              "lastName": "JILLE",
+              "initials": "RJ",
+              "nameShort": "R JILLE",
+              "nameShort2": "JILLE",
+              "slug": "ruben-jille",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Ruben JILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895719/assets/players/thumbnail/93858.jpg"
+              }
+            },
+            {
+              "id": "93455",
+              "nameDisplay": "Jelle MAAS",
+              "nameType": 0,
+              "firstName": "Jelle",
+              "lastName": "MAAS",
+              "initials": "JM",
+              "nameShort": "J MAAS",
+              "nameShort2": "MAAS",
+              "slug": "jelle-maas",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Jelle MAAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897346/assets/players/thumbnail/93455.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 489,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "60427",
+              "nameDisplay": "Tobias KUENZI",
+              "nameType": 0,
+              "firstName": "Tobias",
+              "lastName": "KUENZI",
+              "initials": "TK",
+              "nameShort": "T KUENZI",
+              "nameShort2": "KUENZI",
+              "slug": "tobias-kuenzi",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Tobias KUENZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719889666/assets/players/thumbnail/60427.jpg"
+              }
+            },
+            {
+              "id": "94367",
+              "nameDisplay": "Oliver SCHALLER",
+              "nameType": 0,
+              "firstName": "Oliver",
+              "lastName": "SCHALLER",
+              "initials": "OS",
+              "nameShort": "O SCHALLER",
+              "nameShort2": "SCHALLER",
+              "slug": "oliver-schaller",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Oliver SCHALLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895727/assets/players/thumbnail/94367.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140760,
+        "code": "19",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "67373",
+              "nameDisplay": "Debora JILLE",
+              "nameType": 0,
+              "firstName": "Debora",
+              "lastName": "JILLE",
+              "initials": "DJ",
+              "nameShort": "D JILLE",
+              "nameShort2": "JILLE",
+              "slug": "debora-jille",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Debora JILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895934/assets/players/thumbnail/67373.jpg"
+              }
+            },
+            {
+              "id": "70503",
+              "nameDisplay": "Cheryl SEINEN",
+              "nameType": 0,
+              "firstName": "Cheryl",
+              "lastName": "SEINEN",
+              "initials": "CS",
+              "nameShort": "C SEINEN",
+              "nameShort2": "SEINEN",
+              "slug": "cheryl-seinen",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Cheryl SEINEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895476/assets/players/thumbnail/70503.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 489,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "54068",
+              "nameDisplay": "Sabrina JAQUET",
+              "nameType": 0,
+              "firstName": "Sabrina",
+              "lastName": "JAQUET",
+              "initials": "SJ",
+              "nameShort": "S JAQUET",
+              "nameShort2": "JAQUET",
+              "slug": "sabrina-jaquet",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Sabrina JAQUET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897204/assets/players/thumbnail/54068.jpg"
+              }
+            },
+            {
+              "id": "59566",
+              "nameDisplay": "Jenjira STADELMANN",
+              "nameType": 0,
+              "firstName": "Jenjira",
+              "lastName": "STADELMANN",
+              "initials": "JS",
+              "nameShort": "J STADELMANN",
+              "nameShort2": "STADELMANN",
+              "slug": "jenjira-stadelmann",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Jenjira STADELMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721780344/assets/players/thumbnail/59566.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 54,
+        "time": "00:54",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1140762,
+    "code": "12",
+    "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+    "tournamentName": "European Mixed Team Championships Qualification Group 3",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "ISL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+      "teamId": 78,
+      "teamName": "Iceland",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+      "teamId": 503,
+      "teamName": "Portugal",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2018-12-09 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC Qualification Group 3",
+    "roundName": "R1",
+    "drawName": "EMTC Qualification Group 3",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "HPC Caldas da Rainha",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1140878,
+        "code": "15",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "82333",
+              "nameDisplay": "Kristofer Darri FINNSSON",
+              "nameType": 0,
+              "firstName": "Kristofer Darri",
+              "lastName": "FINNSSON",
+              "initials": "KF",
+              "nameShort": "K FINNSSON",
+              "nameShort2": "FINNSSON",
+              "slug": "kristofer-darri-finnsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Kristofer Darri FINNSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "77397",
+              "nameDisplay": "Margrét JOHANNSDOTTIR",
+              "nameType": 0,
+              "firstName": "Margrét",
+              "lastName": "JOHANNSDOTTIR",
+              "initials": "MJ",
+              "nameShort": "M JOHANNSDOTTIR",
+              "nameShort2": "JOHANNSDOTTIR",
+              "slug": "margret-johannsdottir",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Margrét JOHANNSDOTTIR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "64631",
+              "nameDisplay": "Duarte Nuno ANJO",
+              "nameType": 0,
+              "firstName": "Duarte Nuno",
+              "lastName": "ANJO",
+              "initials": "DA",
+              "nameShort": "D ANJO",
+              "nameShort2": "ANJO",
+              "slug": "duarte-nuno-anjo",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Duarte Nuno ANJO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "22795",
+              "nameDisplay": "Ana REIS",
+              "nameType": 0,
+              "firstName": "Ana",
+              "lastName": "REIS",
+              "initials": "AR",
+              "nameShort": "A REIS",
+              "nameShort2": "REIS",
+              "slug": "ana-reis",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Ana REIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140879,
+        "code": "11",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "98118",
+              "nameDisplay": "Kari GUNNARSSON",
+              "nameType": 0,
+              "firstName": "Kari",
+              "lastName": "GUNNARSSON",
+              "initials": "KG",
+              "nameShort": "K GUNNARSSON",
+              "nameShort2": "GUNNARSSON",
+              "slug": "kari-gunnarsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Kari GUNNARSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "83597",
+              "nameDisplay": "Bernardo ATILANO",
+              "nameType": 0,
+              "firstName": "Bernardo",
+              "lastName": "ATILANO",
+              "initials": "BA",
+              "nameShort": "B ATILANO",
+              "nameShort2": "ATILANO",
+              "slug": "bernardo-atilano",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Bernardo ATILANO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140880,
+        "code": "12",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "87859",
+              "nameDisplay": "Arna Karen JOHANNSDOTTIR",
+              "nameType": 0,
+              "firstName": "Arna Karen",
+              "lastName": "JOHANNSDOTTIR",
+              "initials": "AJ",
+              "nameShort": "A JOHANNSDOTTIR",
+              "nameShort2": "JOHANNSDOTTIR",
+              "slug": "arna-karen-johannsdottir",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Arna Karen JOHANNSDOTTIR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14195",
+              "nameDisplay": "Ana MOURA",
+              "nameType": 0,
+              "firstName": "Ana",
+              "lastName": "MOURA",
+              "initials": "AM",
+              "nameShort": "A MOURA",
+              "nameShort2": "MOURA",
+              "slug": "ana-moura",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Ana MOURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140763,
+        "code": "13",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": 78,
+          "teamName": "Iceland",
+          "players": [
+            {
+              "id": "85707",
+              "nameDisplay": "David Bjarni BJORNSSON",
+              "nameType": 0,
+              "firstName": "David Bjarni",
+              "lastName": "BJORNSSON",
+              "initials": "DB",
+              "nameShort": "D BJORNSSON",
+              "nameShort2": "BJORNSSON",
+              "slug": "david-bjarni-bjornsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "David Bjarni BJORNSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "82333",
+              "nameDisplay": "Kristofer Darri FINNSSON",
+              "nameType": 0,
+              "firstName": "Kristofer Darri",
+              "lastName": "FINNSSON",
+              "initials": "KF",
+              "nameShort": "K FINNSSON",
+              "nameShort2": "FINNSSON",
+              "slug": "kristofer-darri-finnsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Kristofer Darri FINNSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": 503,
+          "teamName": "Portugal",
+          "players": [
+            {
+              "id": "85224",
+              "nameDisplay": "Bruno CARVALHO",
+              "nameType": 0,
+              "firstName": "Bruno",
+              "lastName": "CARVALHO",
+              "initials": "BC",
+              "nameShort": "B CARVALHO",
+              "nameShort2": "CARVALHO",
+              "slug": "bruno-carvalho",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Bruno CARVALHO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "95478",
+              "nameDisplay": "Tomas NERO",
+              "nameType": 0,
+              "firstName": "Tomas",
+              "lastName": "NERO",
+              "initials": "TN",
+              "nameShort": "T NERO",
+              "nameShort2": "NERO",
+              "slug": "tomas-nero",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Tomas NERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 48,
+        "time": "00:48",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140881,
+        "code": "14",
+        "tournamentCode": "38EAEB66-533D-4E70-A65B-CD5927F8E8E8",
+        "tournamentName": "European Mixed Team Championships Qualification Group 3",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "69993",
+              "nameDisplay": "Sigridur ARNADOTTIR",
+              "nameType": 0,
+              "firstName": "Sigridur",
+              "lastName": "ARNADOTTIR",
+              "initials": "SA",
+              "nameShort": "S ARNADOTTIR",
+              "nameShort2": "ARNADOTTIR",
+              "slug": "sigridur-arnadottir",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Sigridur ARNADOTTIR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "77397",
+              "nameDisplay": "Margrét JOHANNSDOTTIR",
+              "nameType": 0,
+              "firstName": "Margrét",
+              "lastName": "JOHANNSDOTTIR",
+              "initials": "MJ",
+              "nameShort": "M JOHANNSDOTTIR",
+              "nameShort2": "JOHANNSDOTTIR",
+              "slug": "margret-johannsdottir",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Margrét JOHANNSDOTTIR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "POR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "72489",
+              "nameDisplay": "Sonia GONCALVES",
+              "nameType": 0,
+              "firstName": "Sonia",
+              "lastName": "GONCALVES",
+              "initials": "SG",
+              "nameShort": "S GONCALVES",
+              "nameShort2": "GONCALVES",
+              "slug": "sonia-goncalves",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Sonia GONCALVES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "22795",
+              "nameDisplay": "Ana REIS",
+              "nameType": 0,
+              "firstName": "Ana",
+              "lastName": "REIS",
+              "initials": "AR",
+              "nameShort": "A REIS",
+              "nameShort2": "REIS",
+              "slug": "ana-reis",
+              "countryCode": "POR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+              "avatar": {
+                "title": "Ana REIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-09 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 3",
+        "roundName": "R1",
+        "drawName": "EMTC Qualification Group 3",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "HPC Caldas da Rainha",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

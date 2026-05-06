@@ -1,0 +1,2119 @@
+[
+  {
+    "id": 1153501,
+    "code": "18",
+    "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+    "tournamentName": "Tong Yun Kai Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IND",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+      "teamId": 10,
+      "teamName": "India",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SGP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+      "teamId": 11,
+      "teamName": "Singapore",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-03-20 13:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "R1",
+    "drawName": "Mixed Team - Group B",
+    "drawCode": "2",
+    "courtName": "Court 　1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Queen Elizabeth Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1153506,
+        "code": "30",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "98935",
+              "nameDisplay": "M.R. ARJUN",
+              "nameType": 0,
+              "firstName": "M.R.",
+              "lastName": "ARJUN",
+              "initials": "MA",
+              "nameShort": "M ARJUN",
+              "nameShort2": "ARJUN",
+              "slug": "mr-arjun",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "M.R. ARJUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1649032332/assets/players/thumbnail/98935.jpg"
+              }
+            },
+            {
+              "id": "80547",
+              "nameDisplay": "Rutaparna PANDA",
+              "nameType": 0,
+              "firstName": "Rutaparna",
+              "lastName": "PANDA",
+              "initials": "RP",
+              "nameShort": "R PANDA",
+              "nameShort2": "PANDA",
+              "slug": "rutaparna-panda",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Rutaparna PANDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "66920",
+              "nameDisplay": "Danny Bawa CHRISNANTA",
+              "nameType": 0,
+              "firstName": "Danny Bawa",
+              "lastName": "CHRISNANTA",
+              "initials": "DC",
+              "nameShort": "D CHRISNANTA",
+              "nameShort2": "CHRISNANTA",
+              "slug": "danny-bawa-chrisnanta",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Danny Bawa CHRISNANTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897593/assets/players/thumbnail/66920.jpg"
+              }
+            },
+            {
+              "id": "59237",
+              "nameDisplay": "TAN Wei Han Jessica",
+              "nameType": 1,
+              "firstName": "Wei Han Jessica",
+              "lastName": "TAN",
+              "initials": "TW",
+              "nameShort": "TAN W H J ",
+              "nameShort2": "TAN",
+              "slug": "wei-han-jessica-tan",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Wei Han Jessica TAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092214/assets/players/thumbnail/59237.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group B",
+        "drawCode": "2",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153502,
+        "code": "26",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "83950",
+              "nameDisplay": "PRANNOY H. S.",
+              "nameType": 1,
+              "firstName": "H. S.",
+              "lastName": "PRANNOY",
+              "initials": "PH",
+              "nameShort": "PRANNOY H S ",
+              "nameShort2": "PRANNOY",
+              "slug": "h-s-prannoy",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "H. S. PRANNOY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773756/assets/players/thumbnail/83950.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "76115",
+              "nameDisplay": "LOH Kean Yew",
+              "nameType": 1,
+              "firstName": "Kean Yew",
+              "lastName": "LOH",
+              "initials": "LK",
+              "nameShort": "LOH K Y ",
+              "nameShort2": "LOH",
+              "slug": "kean-yew-loh",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Kean Yew LOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091040/assets/players/thumbnail/76115.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group B",
+        "drawCode": "2",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153504,
+        "code": "28",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "98935",
+              "nameDisplay": "M.R. ARJUN",
+              "nameType": 0,
+              "firstName": "M.R.",
+              "lastName": "ARJUN",
+              "initials": "MA",
+              "nameShort": "M ARJUN",
+              "nameShort2": "ARJUN",
+              "slug": "mr-arjun",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "M.R. ARJUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1649032332/assets/players/thumbnail/98935.jpg"
+              }
+            },
+            {
+              "id": "75231",
+              "nameDisplay": "Ramchandran SHLOK",
+              "nameType": 0,
+              "firstName": "Ramchandran",
+              "lastName": "SHLOK",
+              "initials": "RS",
+              "nameShort": "R SHLOK",
+              "nameShort2": "SHLOK",
+              "slug": "ramchandran-shlok",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Ramchandran SHLOK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895516/assets/players/thumbnail/75231.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "66920",
+              "nameDisplay": "Danny Bawa CHRISNANTA",
+              "nameType": 0,
+              "firstName": "Danny Bawa",
+              "lastName": "CHRISNANTA",
+              "initials": "DC",
+              "nameShort": "D CHRISNANTA",
+              "nameShort2": "CHRISNANTA",
+              "slug": "danny-bawa-chrisnanta",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Danny Bawa CHRISNANTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897593/assets/players/thumbnail/66920.jpg"
+              }
+            },
+            {
+              "id": "85184",
+              "nameDisplay": "LOH Kean Hean",
+              "nameType": 1,
+              "firstName": "Kean Hean",
+              "lastName": "LOH",
+              "initials": "LK",
+              "nameShort": "LOH K H ",
+              "nameShort2": "LOH",
+              "slug": "kean-hean-loh",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Kean Hean LOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092078/assets/players/thumbnail/85184.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group B",
+        "drawCode": "2",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153503,
+        "code": "27",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "75628",
+              "nameDisplay": "Ashmita CHALIHA",
+              "nameType": 0,
+              "firstName": "Ashmita",
+              "lastName": "CHALIHA",
+              "initials": "AC",
+              "nameShort": "A CHALIHA",
+              "nameShort2": "CHALIHA",
+              "slug": "ashmita-chaliha",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Ashmita CHALIHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897837/assets/players/thumbnail/75628.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "83822",
+              "nameDisplay": "YEO Jia Min",
+              "nameType": 1,
+              "firstName": "Jia Min",
+              "lastName": "YEO",
+              "initials": "YJ",
+              "nameShort": "YEO J M ",
+              "nameShort2": "YEO",
+              "slug": "jia-min-yeo",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Min YEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091660/assets/players/thumbnail/83822.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group B",
+        "drawCode": "2",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 47,
+        "time": "00:47",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153505,
+        "code": "29",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "80547",
+              "nameDisplay": "Rutaparna PANDA",
+              "nameType": 0,
+              "firstName": "Rutaparna",
+              "lastName": "PANDA",
+              "initials": "RP",
+              "nameShort": "R PANDA",
+              "nameShort2": "PANDA",
+              "slug": "rutaparna-panda",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Rutaparna PANDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "97262",
+              "nameDisplay": "Arathi Sara SUNIL",
+              "nameType": 0,
+              "firstName": "Arathi Sara",
+              "lastName": "SUNIL",
+              "initials": "AS",
+              "nameShort": "A SUNIL",
+              "nameShort2": "SUNIL",
+              "slug": "arathi-sara-sunil",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Arathi Sara SUNIL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "90662",
+              "nameDisplay": "Putri Sari Dewi CITRA",
+              "nameType": 0,
+              "firstName": "Putri Sari Dewi",
+              "lastName": "CITRA",
+              "initials": "PC",
+              "nameShort": "P CITRA",
+              "nameShort2": "CITRA",
+              "slug": "putri-sari-dewi-citra",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Putri Sari Dewi CITRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895783/assets/players/thumbnail/90662.jpg"
+              }
+            },
+            {
+              "id": "67745",
+              "nameDisplay": "Ming Hui LIM",
+              "nameType": 0,
+              "firstName": "Ming Hui",
+              "lastName": "LIM",
+              "initials": "ML",
+              "nameShort": "M LIM",
+              "nameShort2": "LIM",
+              "slug": "ming-hui-lim",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Ming Hui LIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group B",
+        "drawCode": "2",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 69,
+        "time": "01:09",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1153518,
+    "code": "27",
+    "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+    "tournamentName": "Tong Yun Kai Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 6,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SRI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+      "teamId": 485,
+      "teamName": "Sri Lanka",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-03-20 19:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "R1",
+    "drawName": "Mixed Team - Group C",
+    "drawCode": "3",
+    "courtName": "Court 　1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Queen Elizabeth Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1153523,
+        "code": "45",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "30342",
+              "nameDisplay": "Nipitphon PHUANGPHUAPET",
+              "nameType": 0,
+              "firstName": "Nipitphon",
+              "lastName": "PHUANGPHUAPET",
+              "initials": "NP",
+              "nameShort": "N PHUANGPHUAPET",
+              "nameShort2": "PHUANGPHUAPET",
+              "slug": "nipitphon-phuangphuapet",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nipitphon PHUANGPHUAPET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708402/assets/players/thumbnail/30342.tif"
+              }
+            },
+            {
+              "id": "53582",
+              "nameDisplay": "Savitree AMITRAPAI",
+              "nameType": 0,
+              "firstName": "Savitree",
+              "lastName": "AMITRAPAI",
+              "initials": "SA",
+              "nameShort": "S AMITRAPAI",
+              "nameShort2": "AMITRAPAI",
+              "slug": "savitree-amitrapai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Savitree AMITRAPAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895122/assets/players/thumbnail/53582.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 485,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "83966",
+              "nameDisplay": "Sachin DIAS",
+              "nameType": 0,
+              "firstName": "Sachin",
+              "lastName": "DIAS",
+              "initials": "SD",
+              "nameShort": "S DIAS",
+              "nameShort2": "DIAS",
+              "slug": "Sachin-DIAS",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Sachin DIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669189/assets/players/thumbnail/83966.jpg"
+              }
+            },
+            {
+              "id": "79705",
+              "nameDisplay": "Thilini HENDAHEWA",
+              "nameType": 0,
+              "firstName": "Thilini",
+              "lastName": "HENDAHEWA",
+              "initials": "TH",
+              "nameShort": "T HENDAHEWA",
+              "nameShort2": "HENDAHEWA",
+              "slug": "thilini-hendahewa",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Thilini HENDAHEWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669299/assets/players/thumbnail/79705.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group C",
+        "drawCode": "3",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153519,
+        "code": "41",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "92508",
+              "nameDisplay": "Kantaphon WANGCHAROEN",
+              "nameType": 0,
+              "firstName": "Kantaphon",
+              "lastName": "WANGCHAROEN",
+              "initials": "KW",
+              "nameShort": "K WANGCHAROEN",
+              "nameShort2": "WANGCHAROEN",
+              "slug": "kantaphon-wangcharoen",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Kantaphon WANGCHAROEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620362243/assets/players/thumbnail/92508.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 485,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "52229",
+              "nameDisplay": "Dinuka KARUNARATNE",
+              "nameType": 0,
+              "firstName": "Dinuka",
+              "lastName": "KARUNARATNE",
+              "initials": "DK",
+              "nameShort": "D KARUNARATNE",
+              "nameShort2": "KARUNARATNE",
+              "slug": "dinuka-karunaratne",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Dinuka KARUNARATNE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group C",
+        "drawCode": "3",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 55,
+        "time": "00:55",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153521,
+        "code": "43",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "96699",
+              "nameDisplay": "Tinn ISRIYANET",
+              "nameType": 0,
+              "firstName": "Tinn",
+              "lastName": "ISRIYANET",
+              "initials": "TI",
+              "nameShort": "T ISRIYANET",
+              "nameShort2": "ISRIYANET",
+              "slug": "tinn-isriyanet",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Tinn ISRIYANET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896190/assets/players/thumbnail/96699.jpg"
+              }
+            },
+            {
+              "id": "74233",
+              "nameDisplay": "Tanupat VIRIYANGKURA",
+              "nameType": 0,
+              "firstName": "Tanupat",
+              "lastName": "VIRIYANGKURA",
+              "initials": "TV",
+              "nameShort": "T VIRIYANGKURA",
+              "nameShort2": "VIRIYANGKURA",
+              "slug": "tanupat-viriyangkura",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Tanupat VIRIYANGKURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708429/assets/players/thumbnail/74233.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 485,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "83966",
+              "nameDisplay": "Sachin DIAS",
+              "nameType": 0,
+              "firstName": "Sachin",
+              "lastName": "DIAS",
+              "initials": "SD",
+              "nameShort": "S DIAS",
+              "nameShort2": "DIAS",
+              "slug": "Sachin-DIAS",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Sachin DIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669189/assets/players/thumbnail/83966.jpg"
+              }
+            },
+            {
+              "id": "68845",
+              "nameDisplay": "Buwaneka GOONETHILLEKA",
+              "nameType": 0,
+              "firstName": "Buwaneka",
+              "lastName": "GOONETHILLEKA",
+              "initials": "BG",
+              "nameShort": "B GOONETHILLEKA",
+              "nameShort2": "GOONETHILLEKA",
+              "slug": "buwaneka-goonethilleka",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Buwaneka GOONETHILLEKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669103/assets/players/thumbnail/68845.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group C",
+        "drawCode": "3",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 55,
+        "time": "00:55",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153520,
+        "code": "42",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "57971",
+              "nameDisplay": "Nitchaon JINDAPOL",
+              "nameType": 0,
+              "firstName": "Nitchaon",
+              "lastName": "JINDAPOL",
+              "initials": "NJ",
+              "nameShort": "N JINDAPOL",
+              "nameShort2": "JINDAPOL",
+              "slug": "nitchaon-jindapol",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nitchaon JINDAPOL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708247/assets/players/thumbnail/57971.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 485,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "87807",
+              "nameDisplay": "Dilmi DIAS",
+              "nameType": 0,
+              "firstName": "Dilmi",
+              "lastName": "DIAS",
+              "initials": "DD",
+              "nameShort": "D DIAS",
+              "nameShort2": "DIAS",
+              "slug": "dilmi-dias",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Dilmi DIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group C",
+        "drawCode": "3",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153522,
+        "code": "44",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "24686",
+              "nameDisplay": "Jongkolphan KITITHARAKUL",
+              "nameType": 0,
+              "firstName": "Jongkolphan",
+              "lastName": "KITITHARAKUL",
+              "initials": "JK",
+              "nameShort": "J KITITHARAKUL",
+              "nameShort2": "KITITHARAKUL",
+              "slug": "jongkolphan-kititharakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Jongkolphan KITITHARAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439020/assets/players/thumbnail/24686.jpg"
+              }
+            },
+            {
+              "id": "84669",
+              "nameDisplay": "Rawinda PRAJONGJAI",
+              "nameType": 0,
+              "firstName": "Rawinda",
+              "lastName": "PRAJONGJAI",
+              "initials": "RP",
+              "nameShort": "R PRAJONGJAI",
+              "nameShort2": "PRAJONGJAI",
+              "slug": "rawinda-prajongjai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Rawinda PRAJONGJAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439314/assets/players/thumbnail/84669.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": 485,
+          "teamName": "Sri Lanka",
+          "players": [
+            {
+              "id": "79705",
+              "nameDisplay": "Thilini HENDAHEWA",
+              "nameType": 0,
+              "firstName": "Thilini",
+              "lastName": "HENDAHEWA",
+              "initials": "TH",
+              "nameShort": "T HENDAHEWA",
+              "nameShort2": "HENDAHEWA",
+              "slug": "thilini-hendahewa",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Thilini HENDAHEWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669299/assets/players/thumbnail/79705.jpg"
+              }
+            },
+            {
+              "id": "92656",
+              "nameDisplay": "KAVIDI SIRIMANNAGE",
+              "nameType": 0,
+              "firstName": "KAVIDI",
+              "lastName": "SIRIMANNAGE",
+              "initials": "KS",
+              "nameShort": "K SIRIMANNAGE",
+              "nameShort2": "SIRIMANNAGE",
+              "slug": "kavidi-sirimannage",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "KAVIDI SIRIMANNAGE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group C",
+        "drawCode": "3",
+        "courtName": "Court 　1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1153536,
+    "code": "36",
+    "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+    "tournamentName": "Tong Yun Kai Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MAS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+      "teamId": 481,
+      "teamName": "Malaysia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MAC",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+      "teamId": 183,
+      "teamName": "Macau China",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-03-20 19:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "R1",
+    "drawName": "Mixed Team - Group D",
+    "drawCode": "4",
+    "courtName": "Court 　2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Queen Elizabeth Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1153539,
+        "code": "58",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "61834",
+              "nameDisplay": "LOW Hang Yee",
+              "nameType": 1,
+              "firstName": "Hang Yee",
+              "lastName": "LOW",
+              "initials": "LH",
+              "nameShort": "LOW H Y ",
+              "nameShort2": "LOW",
+              "slug": "hang-yee-low",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Hang Yee LOW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897647/assets/players/thumbnail/61834.jpg"
+              }
+            },
+            {
+              "id": "87270",
+              "nameDisplay": "NG Eng Cheong",
+              "nameType": 1,
+              "firstName": "Eng Cheong",
+              "lastName": "NG",
+              "initials": "NE",
+              "nameShort": "NG E C ",
+              "nameShort2": "NG",
+              "slug": "eng-cheong-ng",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Eng Cheong NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896014/assets/players/thumbnail/87270.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 183,
+          "teamName": "Macau China",
+          "players": [
+            {
+              "id": "98757",
+              "nameDisplay": "U Ieong IEK",
+              "nameType": 0,
+              "firstName": "U Ieong",
+              "lastName": "IEK",
+              "initials": "UI",
+              "nameShort": "U IEK",
+              "nameShort2": "IEK",
+              "slug": "u-ieong-iek",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "U Ieong IEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "86167",
+              "nameDisplay": "LEONG Iok Chong",
+              "nameType": 1,
+              "firstName": "Iok Chong",
+              "lastName": "LEONG",
+              "initials": "LI",
+              "nameShort": "LEONG I C ",
+              "nameShort2": "LEONG",
+              "slug": "iok-chong-leong",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Iok Chong LEONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group D",
+        "drawCode": "4",
+        "courtName": "Court 　2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153538,
+        "code": "57",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "87629",
+              "nameDisplay": "HO Yen Mei",
+              "nameType": 1,
+              "firstName": "Yen Mei",
+              "lastName": "HO",
+              "initials": "HY",
+              "nameShort": "HO Y M ",
+              "nameShort2": "HO",
+              "slug": "yen-mei-ho",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Yen Mei HO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895648/assets/players/thumbnail/87629.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 183,
+          "teamName": "Macau China",
+          "players": [
+            {
+              "id": "73164",
+              "nameDisplay": "PUI Chi Wa",
+              "nameType": 1,
+              "firstName": "Chi Wa",
+              "lastName": "PUI",
+              "initials": "PC",
+              "nameShort": "PUI C W ",
+              "nameShort2": "PUI",
+              "slug": "chi-wa-pui",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Chi Wa PUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group D",
+        "drawCode": "4",
+        "courtName": "Court 　2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153537,
+        "code": "56",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "87117",
+              "nameDisplay": "SOONG Joo Ven",
+              "nameType": 1,
+              "firstName": "Joo Ven",
+              "lastName": "SOONG",
+              "initials": "SJ",
+              "nameShort": "SOONG J V ",
+              "nameShort2": "SOONG",
+              "slug": "joo-ven-soong",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Joo Ven SOONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693968339/assets/players/thumbnail/87117.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 183,
+          "teamName": "Macau China",
+          "players": [
+            {
+              "id": "82093",
+              "nameDisplay": "AO Fei Long",
+              "nameType": 1,
+              "firstName": "Fei Long",
+              "lastName": "AO",
+              "initials": "AF",
+              "nameShort": "AO F L ",
+              "nameShort2": "AO",
+              "slug": "fei-long-ao",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Fei Long AO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group D",
+        "drawCode": "4",
+        "courtName": "Court 　2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153540,
+        "code": "59",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "62570",
+              "nameDisplay": "Anna Ching Yik CHEONG",
+              "nameType": 0,
+              "firstName": "Anna Ching Yik",
+              "lastName": "CHEONG",
+              "initials": "AC",
+              "nameShort": "A CHEONG",
+              "nameShort2": "CHEONG",
+              "slug": "anna-ching-yik-cheong",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Anna Ching Yik CHEONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1648716945/assets/players/thumbnail/62570.jpg"
+              }
+            },
+            {
+              "id": "63539",
+              "nameDisplay": "TEOH Mei Xing",
+              "nameType": 1,
+              "firstName": "Mei Xing",
+              "lastName": "TEOH",
+              "initials": "TM",
+              "nameShort": "TEOH M X ",
+              "nameShort2": "TEOH",
+              "slug": "mei-xing-teoh",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Mei Xing TEOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634091726/assets/players/thumbnail/63539.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 183,
+          "teamName": "Macau China",
+          "players": [
+            {
+              "id": "74979",
+              "nameDisplay": "Xue Xin GONG",
+              "nameType": 0,
+              "firstName": "Xue Xin",
+              "lastName": "GONG",
+              "initials": "XG",
+              "nameShort": "X GONG",
+              "nameShort2": "GONG",
+              "slug": "xue-xin-gong",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Xue Xin GONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "95068",
+              "nameDisplay": "NG Weng Chi",
+              "nameType": 1,
+              "firstName": "Weng Chi",
+              "lastName": "NG",
+              "initials": "NW",
+              "nameShort": "NG W C ",
+              "nameShort2": "NG",
+              "slug": "weng-chi-ng",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Weng Chi NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group D",
+        "drawCode": "4",
+        "courtName": "Court 　2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1153541,
+        "code": "60",
+        "tournamentCode": "6E16BA47-5B06-43A3-B610-CF6D436A233D",
+        "tournamentName": "Tong Yun Kai Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "72675",
+              "nameDisplay": "HOO Pang Ron",
+              "nameType": 1,
+              "firstName": "Pang Ron",
+              "lastName": "HOO",
+              "initials": "HP",
+              "nameShort": "HOO P R ",
+              "nameShort2": "HOO",
+              "slug": "pang-ron-hoo",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Pang Ron HOO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897655/assets/players/thumbnail/72675.jpg"
+              }
+            },
+            {
+              "id": "58879",
+              "nameDisplay": "CHEAH Yee See",
+              "nameType": 1,
+              "firstName": "Yee See",
+              "lastName": "CHEAH",
+              "initials": "CY",
+              "nameShort": "CHEAH Y S ",
+              "nameShort2": "CHEAH",
+              "slug": "yee-see-cheah",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Yee See CHEAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895183/assets/players/thumbnail/58879.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 183,
+          "teamName": "Macau China",
+          "players": [
+            {
+              "id": "98860",
+              "nameDisplay": "PUI Pang Fong",
+              "nameType": 1,
+              "firstName": "Pang Fong",
+              "lastName": "PUI",
+              "initials": "PP",
+              "nameShort": "PUI P F ",
+              "nameShort2": "PUI",
+              "slug": "pang-fong-pui",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Pang Fong PUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "90855",
+              "nameDisplay": "Chi Leng KUAN",
+              "nameType": 0,
+              "firstName": "Chi Leng",
+              "lastName": "KUAN",
+              "initials": "CK",
+              "nameShort": "C KUAN",
+              "nameShort2": "KUAN",
+              "slug": "chi-leng-kuan",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Chi Leng KUAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-03-20 19:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "R1",
+        "drawName": "Mixed Team - Group D",
+        "drawCode": "4",
+        "courtName": "Court 　2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Queen Elizabeth Stadium",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

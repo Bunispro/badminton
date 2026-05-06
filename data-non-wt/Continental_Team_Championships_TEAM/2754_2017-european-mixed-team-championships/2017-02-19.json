@@ -1,0 +1,666 @@
+[
+  {
+    "id": 474665,
+    "code": "37",
+    "tournamentCode": "C8862CB1-299E-4CCB-978F-62E4D66247D1",
+    "tournamentName": "2017 European Mixed Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 457,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "RUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+      "teamId": 14,
+      "teamName": "Russia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-02-19 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2017 EMTC",
+    "roundName": "Final",
+    "drawName": "2017 EMTC",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 474670,
+        "code": "95",
+        "tournamentCode": "C8862CB1-299E-4CCB-978F-62E4D66247D1",
+        "tournamentName": "2017 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "10513",
+              "nameDisplay": "Joachim FISCHER NIELSEN",
+              "nameType": 0,
+              "firstName": "Joachim",
+              "lastName": "FISCHER NIELSEN",
+              "initials": "JF",
+              "nameShort": "J FISCHER NIELSEN",
+              "nameShort2": "FISCHER NIELSEN",
+              "slug": "joachim-fischer-nielsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Joachim FISCHER NIELSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895039/assets/players/thumbnail/10513.jpg"
+              }
+            },
+            {
+              "id": "53759",
+              "nameDisplay": "Christinna PEDERSEN",
+              "nameType": 0,
+              "firstName": "Christinna",
+              "lastName": "PEDERSEN",
+              "initials": "CP",
+              "nameShort": "C PEDERSEN",
+              "nameShort2": "PEDERSEN",
+              "slug": "christinna-pedersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Christinna PEDERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895128/assets/players/thumbnail/53759.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "67068",
+              "nameDisplay": "Ivan SOZONOV",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "SOZONOV",
+              "initials": "IS",
+              "nameShort": "I SOZONOV",
+              "nameShort2": "SOZONOV",
+              "slug": "ivan-sozonov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ivan SOZONOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897570/assets/players/thumbnail/67068.jpg"
+              }
+            },
+            {
+              "id": "81907",
+              "nameDisplay": "Ekaterina MALKOVA",
+              "nameType": 0,
+              "firstName": "Ekaterina",
+              "lastName": "MALKOVA",
+              "initials": "EM",
+              "nameShort": "E MALKOVA",
+              "nameShort2": "MALKOVA",
+              "slug": "ekaterina-malkova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ekaterina MALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895599/assets/players/thumbnail/81907.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-19 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2017 EMTC",
+        "roundName": null,
+        "drawName": "2017 EMTC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474666,
+        "code": "91",
+        "tournamentCode": "C8862CB1-299E-4CCB-978F-62E4D66247D1",
+        "tournamentName": "2017 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "91554",
+              "nameDisplay": "Anders ANTONSEN",
+              "nameType": 0,
+              "firstName": "Anders",
+              "lastName": "ANTONSEN",
+              "initials": "AA",
+              "nameShort": "A ANTONSEN",
+              "nameShort2": "ANTONSEN",
+              "slug": "anders-antonsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Anders ANTONSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697434685/assets/players/thumbnail/91554.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "60783",
+              "nameDisplay": "Anatoliy YARTSEV",
+              "nameType": 0,
+              "firstName": "Anatoliy",
+              "lastName": "YARTSEV",
+              "initials": "AY",
+              "nameShort": "A YARTSEV",
+              "nameShort2": "YARTSEV",
+              "slug": "anatoliy-yartsev",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Anatoliy YARTSEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897293/assets/players/thumbnail/60783.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-19 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2017 EMTC",
+        "roundName": null,
+        "drawName": "2017 EMTC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474667,
+        "code": "92",
+        "tournamentCode": "C8862CB1-299E-4CCB-978F-62E4D66247D1",
+        "tournamentName": "2017 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "63437",
+              "nameDisplay": "Line Højmark KJAERSFELDT",
+              "nameType": 0,
+              "firstName": "Line Højmark",
+              "lastName": "KJAERSFELDT",
+              "initials": "LK",
+              "nameShort": "L KJAERSFELDT",
+              "nameShort2": "KJAERSFELDT",
+              "slug": "line-hojmark-kjaersfeldt",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Line Højmark KJAERSFELDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634092546/assets/players/thumbnail/63437.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "92400",
+              "nameDisplay": "Evgeniya KOSETSKAYA",
+              "nameType": 0,
+              "firstName": "Evgeniya",
+              "lastName": "KOSETSKAYA",
+              "initials": "EK",
+              "nameShort": "E KOSETSKAYA",
+              "nameShort2": "KOSETSKAYA",
+              "slug": "evgeniya-kosetskaya",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Evgeniya KOSETSKAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897355/assets/players/thumbnail/92400.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-19 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2017 EMTC",
+        "roundName": null,
+        "drawName": "2017 EMTC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 474668,
+        "code": "93",
+        "tournamentCode": "C8862CB1-299E-4CCB-978F-62E4D66247D1",
+        "tournamentName": "2017 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "50292",
+              "nameDisplay": "Mathias BOE",
+              "nameType": 0,
+              "firstName": "Mathias",
+              "lastName": "BOE",
+              "initials": "MB",
+              "nameShort": "M BOE",
+              "nameShort2": "BOE",
+              "slug": "mathias-boe",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mathias BOE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895102/assets/players/thumbnail/50292.jpg"
+              }
+            },
+            {
+              "id": "51304",
+              "nameDisplay": "Carsten MOGENSEN",
+              "nameType": 0,
+              "firstName": "Carsten",
+              "lastName": "MOGENSEN",
+              "initials": "CM",
+              "nameShort": "C MOGENSEN",
+              "nameShort2": "MOGENSEN",
+              "slug": "carsten-mogensen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Carsten MOGENSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895108/assets/players/thumbnail/51304.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "11606",
+              "nameDisplay": "Evgenij DREMIN",
+              "nameType": 0,
+              "firstName": "Evgenij",
+              "lastName": "DREMIN",
+              "initials": "ED",
+              "nameShort": "E DREMIN",
+              "nameShort2": "DREMIN",
+              "slug": "evgenij-dremin",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Evgenij DREMIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895041/assets/players/thumbnail/11606.jpg"
+              }
+            },
+            {
+              "id": "67068",
+              "nameDisplay": "Ivan SOZONOV",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "SOZONOV",
+              "initials": "IS",
+              "nameShort": "I SOZONOV",
+              "nameShort2": "SOZONOV",
+              "slug": "ivan-sozonov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ivan SOZONOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897570/assets/players/thumbnail/67068.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-19 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2017 EMTC",
+        "roundName": null,
+        "drawName": "2017 EMTC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 474669,
+        "code": "94",
+        "tournamentCode": "C8862CB1-299E-4CCB-978F-62E4D66247D1",
+        "tournamentName": "2017 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "51436",
+              "nameDisplay": "Kamilla Rytter JUHL",
+              "nameType": 0,
+              "firstName": "Kamilla Rytter",
+              "lastName": "JUHL",
+              "initials": "KJ",
+              "nameShort": "K JUHL",
+              "nameShort2": "JUHL",
+              "slug": "kamilla-rytter-juhl",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Kamilla Rytter JUHL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895110/assets/players/thumbnail/51436.jpg"
+              }
+            },
+            {
+              "id": "53759",
+              "nameDisplay": "Christinna PEDERSEN",
+              "nameType": 0,
+              "firstName": "Christinna",
+              "lastName": "PEDERSEN",
+              "initials": "CP",
+              "nameShort": "C PEDERSEN",
+              "nameShort2": "PEDERSEN",
+              "slug": "christinna-pedersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Christinna PEDERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895128/assets/players/thumbnail/53759.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "33989",
+              "nameDisplay": "Anastasiia AKCHURINA",
+              "nameType": 0,
+              "firstName": "Anastasiia",
+              "lastName": "AKCHURINA",
+              "initials": "AA",
+              "nameShort": "A AKCHURINA",
+              "nameShort2": "AKCHURINA",
+              "slug": "anastasiia-akchurina",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Anastasiia AKCHURINA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896990/assets/players/thumbnail/33989.jpg"
+              }
+            },
+            {
+              "id": "85822",
+              "nameDisplay": "Olga MOROZOVA",
+              "nameType": 0,
+              "firstName": "Olga",
+              "lastName": "MOROZOVA",
+              "initials": "OM",
+              "nameShort": "O MOROZOVA",
+              "nameShort2": "MOROZOVA",
+              "slug": "olga-morozova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Olga MOROZOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895629/assets/players/thumbnail/85822.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-02-19 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2017 EMTC",
+        "roundName": null,
+        "drawName": "2017 EMTC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

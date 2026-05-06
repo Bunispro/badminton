@@ -1,0 +1,5142 @@
+[
+  {
+    "id": 1211724,
+    "code": "287",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 15,
+      "teamName": "France",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SWE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+      "teamId": 20,
+      "teamName": "Sweden",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EWTC",
+    "roundName": "QF",
+    "drawName": "2020 EWTC",
+    "drawCode": "17",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211725,
+        "code": "551",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "77256",
+              "nameDisplay": "QI Xuefei",
+              "nameType": 1,
+              "firstName": "Xuefei",
+              "lastName": "QI",
+              "initials": "QX",
+              "nameShort": "QI X",
+              "nameShort2": "QI",
+              "slug": "xuefei-qi",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Xuefei QI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900632/assets/players/thumbnail/77256.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 20,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "81068",
+              "nameDisplay": "Ashwathi PILLAI",
+              "nameType": 0,
+              "firstName": "Ashwathi",
+              "lastName": "PILLAI",
+              "initials": "AP",
+              "nameShort": "A PILLAI",
+              "nameShort2": "PILLAI",
+              "slug": "ashwathi-pillai",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Ashwathi PILLAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": 48,
+        "time": "00:48",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211726,
+        "code": "552",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "94743",
+              "nameDisplay": "Marie BATOMENE",
+              "nameType": 0,
+              "firstName": "Marie",
+              "lastName": "BATOMENE",
+              "initials": "MB",
+              "nameShort": "M BATOMENE",
+              "nameShort2": "BATOMENE",
+              "slug": "marie-batomene",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Marie BATOMENE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899205/assets/players/thumbnail/94743.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 20,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "57304",
+              "nameDisplay": "Rebecca KUHL",
+              "nameType": 0,
+              "firstName": "Rebecca",
+              "lastName": "KUHL",
+              "initials": "RK",
+              "nameShort": "R KUHL",
+              "nameShort2": "KUHL",
+              "slug": "rebecca-kuhl",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Rebecca KUHL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211727,
+        "code": "553",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "82409",
+              "nameDisplay": "Yaelle HOYAUX",
+              "nameType": 0,
+              "firstName": "Yaelle",
+              "lastName": "HOYAUX",
+              "initials": "YH",
+              "nameShort": "Y HOYAUX",
+              "nameShort2": "HOYAUX",
+              "slug": "yaelle-hoyaux",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Yaelle HOYAUX",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634105558/assets/players/thumbnail/82409.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 20,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "57175",
+              "nameDisplay": "Edith URELL",
+              "nameType": 0,
+              "firstName": "Edith",
+              "lastName": "URELL",
+              "initials": "EU",
+              "nameShort": "E URELL",
+              "nameShort2": "URELL",
+              "slug": "edith-urell",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Edith URELL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211728,
+        "code": "554",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "70762",
+              "nameDisplay": "Delphine DELRUE",
+              "nameType": 0,
+              "firstName": "Delphine",
+              "lastName": "DELRUE",
+              "initials": "DD",
+              "nameShort": "D DELRUE",
+              "nameShort2": "DELRUE",
+              "slug": "delphine-delrue",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Delphine DELRUE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895480/assets/players/thumbnail/70762.jpg"
+              }
+            },
+            {
+              "id": "98854",
+              "nameDisplay": "Anne TRAN",
+              "nameType": 0,
+              "firstName": "Anne",
+              "lastName": "TRAN",
+              "initials": "AT",
+              "nameShort": "A TRAN",
+              "nameShort2": "TRAN",
+              "slug": "anne-tran",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Anne TRAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895767/assets/players/thumbnail/98854.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 20,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "98566",
+              "nameDisplay": "Emma KARLSSON",
+              "nameType": 0,
+              "firstName": "Emma",
+              "lastName": "KARLSSON",
+              "initials": "EK",
+              "nameShort": "E KARLSSON",
+              "nameShort2": "KARLSSON",
+              "slug": "emma-karlsson",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Emma KARLSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896084/assets/players/thumbnail/98566.jpg"
+              }
+            },
+            {
+              "id": "73556",
+              "nameDisplay": "Johanna MAGNUSSON",
+              "nameType": 0,
+              "firstName": "Johanna",
+              "lastName": "MAGNUSSON",
+              "initials": "JM",
+              "nameShort": "J MAGNUSSON",
+              "nameShort2": "MAGNUSSON",
+              "slug": "johanna-magnusson",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Johanna MAGNUSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896086/assets/players/thumbnail/73556.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211729,
+        "code": "555",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "90317",
+              "nameDisplay": "Vimala HERIAU",
+              "nameType": 0,
+              "firstName": "Vimala",
+              "lastName": "HERIAU",
+              "initials": "VH",
+              "nameShort": "V HERIAU",
+              "nameShort2": "HERIAU",
+              "slug": "vimala-heriau",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Vimala HERIAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895920/assets/players/thumbnail/90317.jpg"
+              }
+            },
+            {
+              "id": "99891",
+              "nameDisplay": "Margot LAMBERT",
+              "nameType": 0,
+              "firstName": "Margot",
+              "lastName": "LAMBERT",
+              "initials": "ML",
+              "nameShort": "M LAMBERT",
+              "nameShort2": "LAMBERT",
+              "slug": "margot-lambert",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Margot LAMBERT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896594/assets/players/thumbnail/99891.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 20,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "80474",
+              "nameDisplay": "Clara NISTAD",
+              "nameType": 0,
+              "firstName": "Clara",
+              "lastName": "NISTAD",
+              "initials": "CN",
+              "nameShort": "C NISTAD",
+              "nameShort2": "NISTAD",
+              "slug": "clara-nistad",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Clara NISTAD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895575/assets/players/thumbnail/80474.jpg"
+              }
+            },
+            {
+              "id": "57175",
+              "nameDisplay": "Edith URELL",
+              "nameType": 0,
+              "firstName": "Edith",
+              "lastName": "URELL",
+              "initials": "EU",
+              "nameShort": "E URELL",
+              "nameShort2": "URELL",
+              "slug": "edith-urell",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Edith URELL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211742,
+    "code": "152",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "UKR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+      "teamId": 21,
+      "teamName": "Ukraine",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 15,
+      "teamName": "France",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EMTC",
+    "roundName": "QF",
+    "drawName": "2020 EMTC",
+    "drawCode": "9",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211743,
+        "code": "291",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "20301",
+              "nameDisplay": "Artem POCHTAROV",
+              "nameType": 0,
+              "firstName": "Artem",
+              "lastName": "POCHTAROV",
+              "initials": "AP",
+              "nameShort": "A POCHTAROV",
+              "nameShort2": "POCHTAROV",
+              "slug": "artem-pochtarov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Artem POCHTAROV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896958/assets/players/thumbnail/20301.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "52968",
+              "nameDisplay": "Brice LEVERDEZ",
+              "nameType": 0,
+              "firstName": "Brice",
+              "lastName": "LEVERDEZ",
+              "initials": "BL",
+              "nameShort": "B LEVERDEZ",
+              "nameShort2": "LEVERDEZ",
+              "slug": "brice-leverdez",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Brice LEVERDEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897156/assets/players/thumbnail/52968.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": 54,
+        "time": "00:54",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211744,
+        "code": "292",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "58328",
+              "nameDisplay": "DANYLO BOSNIUK",
+              "nameType": 0,
+              "firstName": "DANYLO",
+              "lastName": "BOSNIUK",
+              "initials": "DB",
+              "nameShort": "D BOSNIUK",
+              "nameShort2": "BOSNIUK",
+              "slug": "danylo-bosniuk",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "DANYLO BOSNIUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693962457/assets/players/thumbnail/58328.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "61628",
+              "nameDisplay": "Toma Junior POPOV",
+              "nameType": 0,
+              "firstName": "Toma Junior",
+              "lastName": "POPOV",
+              "initials": "TP",
+              "nameShort": "T POPOV",
+              "nameShort2": "POPOV",
+              "slug": "toma-junior-popov",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Toma Junior POPOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991294/assets/players/thumbnail/61628.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211747,
+        "code": "295",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "52290",
+              "nameDisplay": "Valeriy ATRASHCHENKOV",
+              "nameType": 0,
+              "firstName": "Valeriy",
+              "lastName": "ATRASHCHENKOV",
+              "initials": "VA",
+              "nameShort": "V ATRASHCHENKOV",
+              "nameShort2": "ATRASHCHENKOV",
+              "slug": "valeriy-atrashchenkov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Valeriy ATRASHCHENKOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897729/assets/players/thumbnail/52290.jpg"
+              }
+            },
+            {
+              "id": "24056",
+              "nameDisplay": "Gennadiy NATAROV",
+              "nameType": 0,
+              "firstName": "Gennadiy",
+              "lastName": "NATAROV",
+              "initials": "GN",
+              "nameShort": "G NATAROV",
+              "nameShort2": "NATAROV",
+              "slug": "gennadiy-natarov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Gennadiy NATAROV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "73323",
+              "nameDisplay": "Julien MAIO",
+              "nameType": 0,
+              "firstName": "Julien",
+              "lastName": "MAIO",
+              "initials": "JM",
+              "nameShort": "J MAIO",
+              "nameShort2": "MAIO",
+              "slug": "julien-maio",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Julien MAIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895508/assets/players/thumbnail/73323.jpg"
+              }
+            },
+            {
+              "id": "72885",
+              "nameDisplay": "Christo POPOV",
+              "nameType": 0,
+              "firstName": "Christo",
+              "lastName": "POPOV",
+              "initials": "CP",
+              "nameShort": "C POPOV",
+              "nameShort2": "POPOV",
+              "slug": "christo-popov",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Christo POPOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991249/assets/players/thumbnail/72885.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211745,
+        "code": "293",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "54439",
+              "nameDisplay": "Dmytro ZAVADSKY",
+              "nameType": 0,
+              "firstName": "Dmytro",
+              "lastName": "ZAVADSKY",
+              "initials": "DZ",
+              "nameShort": "D ZAVADSKY",
+              "nameShort2": "ZAVADSKY",
+              "slug": "dmytro-zavadsky",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Dmytro ZAVADSKY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897223/assets/players/thumbnail/54439.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "89506",
+              "nameDisplay": "Lucas CLAERBOUT",
+              "nameType": 0,
+              "firstName": "Lucas",
+              "lastName": "CLAERBOUT",
+              "initials": "LC",
+              "nameShort": "L CLAERBOUT",
+              "nameShort2": "CLAERBOUT",
+              "slug": "lucas-claerbout",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Lucas CLAERBOUT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897360/assets/players/thumbnail/89506.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211746,
+        "code": "294",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 21,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "58328",
+              "nameDisplay": "DANYLO BOSNIUK",
+              "nameType": 0,
+              "firstName": "DANYLO",
+              "lastName": "BOSNIUK",
+              "initials": "DB",
+              "nameShort": "D BOSNIUK",
+              "nameShort2": "BOSNIUK",
+              "slug": "danylo-bosniuk",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "DANYLO BOSNIUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693962457/assets/players/thumbnail/58328.jpg"
+              }
+            },
+            {
+              "id": "69483",
+              "nameDisplay": "Ivan DRUZCHENKO",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "DRUZCHENKO",
+              "initials": "ID",
+              "nameShort": "I DRUZCHENKO",
+              "nameShort2": "DRUZCHENKO",
+              "slug": "ivan-druzchenko",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Ivan DRUZCHENKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "68544",
+              "nameDisplay": "Thom GICQUEL",
+              "nameType": 0,
+              "firstName": "Thom",
+              "lastName": "GICQUEL",
+              "initials": "TG",
+              "nameShort": "T GICQUEL",
+              "nameShort2": "GICQUEL",
+              "slug": "thom-gicquel",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Thom GICQUEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895451/assets/players/thumbnail/68544.jpg"
+              }
+            },
+            {
+              "id": "22038",
+              "nameDisplay": "Ronan LABAR",
+              "nameType": 0,
+              "firstName": "Ronan",
+              "lastName": "LABAR",
+              "initials": "RL",
+              "nameShort": "R LABAR",
+              "nameShort2": "LABAR",
+              "slug": "ronan-labar",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Ronan LABAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630720/assets/players/thumbnail/22038.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211736,
+    "code": "289",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SCO",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+      "teamId": 460,
+      "teamName": "Scotland",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "RUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+      "teamId": 14,
+      "teamName": "Russia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EWTC",
+    "roundName": "QF",
+    "drawName": "2020 EWTC",
+    "drawCode": "17",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211737,
+        "code": "561",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "48528",
+              "nameDisplay": "Kirsty GILMOUR",
+              "nameType": 0,
+              "firstName": "Kirsty",
+              "lastName": "GILMOUR",
+              "initials": "KG",
+              "nameShort": "K GILMOUR",
+              "nameShort2": "GILMOUR",
+              "slug": "kirsty-gilmour",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Kirsty GILMOUR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630927/assets/players/thumbnail/48528.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "92400",
+              "nameDisplay": "Evgeniya KOSETSKAYA",
+              "nameType": 0,
+              "firstName": "Evgeniya",
+              "lastName": "KOSETSKAYA",
+              "initials": "EK",
+              "nameShort": "E KOSETSKAYA",
+              "nameShort2": "KOSETSKAYA",
+              "slug": "evgeniya-kosetskaya",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Evgeniya KOSETSKAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897355/assets/players/thumbnail/92400.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 58,
+        "time": "00:58",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211738,
+        "code": "562",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "65401",
+              "nameDisplay": "Rachel SUGDEN",
+              "nameType": 0,
+              "firstName": "Rachel",
+              "lastName": "SUGDEN",
+              "initials": "RS",
+              "nameShort": "R SUGDEN",
+              "nameShort2": "SUGDEN",
+              "slug": "rachel-sugden",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Rachel SUGDEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634282000/assets/players/thumbnail/65401.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "78605",
+              "nameDisplay": "Natalia PERMINOVA",
+              "nameType": 0,
+              "firstName": "Natalia",
+              "lastName": "PERMINOVA",
+              "initials": "NP",
+              "nameShort": "N PERMINOVA",
+              "nameShort2": "PERMINOVA",
+              "slug": "natalia-perminova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Natalia PERMINOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897487/assets/players/thumbnail/78605.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211739,
+        "code": "563",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "91715",
+              "nameDisplay": "Julie MACPHERSON",
+              "nameType": 0,
+              "firstName": "Julie",
+              "lastName": "MACPHERSON",
+              "initials": "JM",
+              "nameShort": "J MACPHERSON",
+              "nameShort2": "MACPHERSON",
+              "slug": "julie-macpherson",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Julie MACPHERSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281746/assets/players/thumbnail/91715.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "59482",
+              "nameDisplay": "Mariia GOLUBEVA",
+              "nameType": 0,
+              "firstName": "Mariia",
+              "lastName": "GOLUBEVA",
+              "initials": "MG",
+              "nameShort": "M GOLUBEVA",
+              "nameShort2": "GOLUBEVA",
+              "slug": "mariia-golubeva",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Mariia GOLUBEVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211740,
+        "code": "564",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "79334",
+              "nameDisplay": "Eleanor O'DONNELL",
+              "nameType": 0,
+              "firstName": "Eleanor",
+              "lastName": "O'DONNELL",
+              "initials": "EO",
+              "nameShort": "E O'DONNELL",
+              "nameShort2": "O'DONNELL",
+              "slug": "eleanor-odonnell",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Eleanor O'DONNELL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895565/assets/players/thumbnail/79334.jpg"
+              }
+            },
+            {
+              "id": "92277",
+              "nameDisplay": "Ciara TORRANCE",
+              "nameType": 0,
+              "firstName": "Ciara",
+              "lastName": "TORRANCE",
+              "initials": "CT",
+              "nameShort": "C TORRANCE",
+              "nameShort2": "TORRANCE",
+              "slug": "ciara-torrance",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Ciara TORRANCE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281858/assets/players/thumbnail/92277.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "81907",
+              "nameDisplay": "Ekaterina MALKOVA",
+              "nameType": 0,
+              "firstName": "Ekaterina",
+              "lastName": "MALKOVA",
+              "initials": "EM",
+              "nameShort": "E MALKOVA",
+              "nameShort2": "MALKOVA",
+              "slug": "ekaterina-malkova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ekaterina MALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895599/assets/players/thumbnail/81907.jpg"
+              }
+            },
+            {
+              "id": "72565",
+              "nameDisplay": "Alina DAVLETOVA",
+              "nameType": 0,
+              "firstName": "Alina",
+              "lastName": "DAVLETOVA",
+              "initials": "AD",
+              "nameShort": "A DAVLETOVA",
+              "nameShort2": "DAVLETOVA",
+              "slug": "alina-davletova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Alina DAVLETOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895496/assets/players/thumbnail/72565.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211741,
+        "code": "565",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "SCO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+          "teamId": 460,
+          "teamName": "Scotland",
+          "players": [
+            {
+              "id": "48528",
+              "nameDisplay": "Kirsty GILMOUR",
+              "nameType": 0,
+              "firstName": "Kirsty",
+              "lastName": "GILMOUR",
+              "initials": "KG",
+              "nameShort": "K GILMOUR",
+              "nameShort2": "GILMOUR",
+              "slug": "kirsty-gilmour",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Kirsty GILMOUR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630927/assets/players/thumbnail/48528.jpg"
+              }
+            },
+            {
+              "id": "91715",
+              "nameDisplay": "Julie MACPHERSON",
+              "nameType": 0,
+              "firstName": "Julie",
+              "lastName": "MACPHERSON",
+              "initials": "JM",
+              "nameShort": "J MACPHERSON",
+              "nameShort2": "MACPHERSON",
+              "slug": "julie-macpherson",
+              "countryCode": "SCO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SCO.png",
+              "avatar": {
+                "title": "Julie MACPHERSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281746/assets/players/thumbnail/91715.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "33989",
+              "nameDisplay": "Anastasiia AKCHURINA",
+              "nameType": 0,
+              "firstName": "Anastasiia",
+              "lastName": "AKCHURINA",
+              "initials": "AA",
+              "nameShort": "A AKCHURINA",
+              "nameShort2": "AKCHURINA",
+              "slug": "anastasiia-akchurina",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Anastasiia AKCHURINA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896990/assets/players/thumbnail/33989.jpg"
+              }
+            },
+            {
+              "id": "15311",
+              "nameDisplay": "Nina VISLOVA",
+              "nameType": 0,
+              "firstName": "Nina",
+              "lastName": "VISLOVA",
+              "initials": "NV",
+              "nameShort": "N VISLOVA",
+              "nameShort2": "VISLOVA",
+              "slug": "nina-vislova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Nina VISLOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896920/assets/players/thumbnail/15311.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211760,
+    "code": "153",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 488,
+      "teamName": "Netherlands",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GBR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GBR.png",
+      "teamId": 458,
+      "teamName": "England",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EMTC",
+    "roundName": "QF",
+    "drawName": "2020 EMTC",
+    "drawCode": "9",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211761,
+        "code": "296",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "76973",
+              "nameDisplay": "Mark CALJOUW",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "CALJOUW",
+              "initials": "MC",
+              "nameShort": "M CALJOUW",
+              "nameShort2": "CALJOUW",
+              "slug": "mark-caljouw",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Mark CALJOUW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1630995513/assets/players/thumbnail/76973.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GBR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GBR.png",
+          "teamId": 458,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "88523",
+              "nameDisplay": "Toby PENTY",
+              "nameType": 0,
+              "firstName": "Toby",
+              "lastName": "PENTY",
+              "initials": "TP",
+              "nameShort": "T PENTY",
+              "nameShort2": "PENTY",
+              "slug": "toby-penty",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Toby PENTY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1661471677/assets/players/thumbnail/88523.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211762,
+        "code": "297",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "62286",
+              "nameDisplay": "Joran KWEEKEL",
+              "nameType": 0,
+              "firstName": "Joran",
+              "lastName": "KWEEKEL",
+              "initials": "JK",
+              "nameShort": "J KWEEKEL",
+              "nameShort2": "KWEEKEL",
+              "slug": "joran-kweekel",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Joran KWEEKEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693965324/assets/players/thumbnail/62286.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GBR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GBR.png",
+          "teamId": 458,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "79109",
+              "nameDisplay": "Alex LANE",
+              "nameType": 0,
+              "firstName": "Alex",
+              "lastName": "LANE",
+              "initials": "AL",
+              "nameShort": "A LANE",
+              "nameShort2": "LANE",
+              "slug": "alex-lane",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Alex LANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899187/assets/players/thumbnail/79109.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211763,
+        "code": "298",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "66041",
+              "nameDisplay": "Finn ACHTHOVEN",
+              "nameType": 0,
+              "firstName": "Finn",
+              "lastName": "ACHTHOVEN",
+              "initials": "FA",
+              "nameShort": "F ACHTHOVEN",
+              "nameShort2": "ACHTHOVEN",
+              "slug": "finn-achthoven",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Finn ACHTHOVEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GBR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GBR.png",
+          "teamId": 458,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "63170",
+              "nameDisplay": "Harry HUANG",
+              "nameType": 0,
+              "firstName": "Harry",
+              "lastName": "HUANG",
+              "initials": "HH",
+              "nameShort": "H HUANG",
+              "nameShort2": "HUANG",
+              "slug": "harry-huang",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Harry HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896553/assets/players/thumbnail/63170.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 4,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211764,
+        "code": "299",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "93455",
+              "nameDisplay": "Jelle MAAS",
+              "nameType": 0,
+              "firstName": "Jelle",
+              "lastName": "MAAS",
+              "initials": "JM",
+              "nameShort": "J MAAS",
+              "nameShort2": "MAAS",
+              "slug": "jelle-maas",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Jelle MAAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897346/assets/players/thumbnail/93455.jpg"
+              }
+            },
+            {
+              "id": "66357",
+              "nameDisplay": "Robin TABELING",
+              "nameType": 0,
+              "firstName": "Robin",
+              "lastName": "TABELING",
+              "initials": "RT",
+              "nameShort": "R TABELING",
+              "nameShort2": "TABELING",
+              "slug": "robin-tabeling",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Robin TABELING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895414/assets/players/thumbnail/66357.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GBR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GBR.png",
+          "teamId": 458,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "76278",
+              "nameDisplay": "Ben LANE",
+              "nameType": 0,
+              "firstName": "Ben",
+              "lastName": "LANE",
+              "initials": "BL",
+              "nameShort": "B LANE",
+              "nameShort2": "LANE",
+              "slug": "ben-lane",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Ben LANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895527/assets/players/thumbnail/76278.jpg"
+              }
+            },
+            {
+              "id": "72478",
+              "nameDisplay": "Sean VENDY",
+              "nameType": 0,
+              "firstName": "Sean",
+              "lastName": "VENDY",
+              "initials": "SV",
+              "nameShort": "S VENDY",
+              "nameShort2": "VENDY",
+              "slug": "sean-vendy",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Sean VENDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896409/assets/players/thumbnail/72478.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211765,
+        "code": "300",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "93858",
+              "nameDisplay": "Ruben JILLE",
+              "nameType": 0,
+              "firstName": "Ruben",
+              "lastName": "JILLE",
+              "initials": "RJ",
+              "nameShort": "R JILLE",
+              "nameShort2": "JILLE",
+              "slug": "ruben-jille",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Ruben JILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895719/assets/players/thumbnail/93858.jpg"
+              }
+            },
+            {
+              "id": "91971",
+              "nameDisplay": "Ties VAN DER LECQ",
+              "nameType": 0,
+              "firstName": "Ties",
+              "lastName": "VAN DER LECQ",
+              "initials": "TV",
+              "nameShort": "T VAN DER LECQ",
+              "nameShort2": "VAN DER LECQ",
+              "slug": "ties-van-der-lecq",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Ties VAN DER LECQ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899251/assets/players/thumbnail/91971.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GBR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GBR.png",
+          "teamId": 458,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "63170",
+              "nameDisplay": "Harry HUANG",
+              "nameType": 0,
+              "firstName": "Harry",
+              "lastName": "HUANG",
+              "initials": "HH",
+              "nameShort": "H HUANG",
+              "nameShort2": "HUANG",
+              "slug": "harry-huang",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Harry HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896553/assets/players/thumbnail/63170.jpg"
+              }
+            },
+            {
+              "id": "94003",
+              "nameDisplay": "Tom WOLFENDEN",
+              "nameType": 0,
+              "firstName": "Tom",
+              "lastName": "WOLFENDEN",
+              "initials": "TW",
+              "nameShort": "T WOLFENDEN",
+              "nameShort2": "WOLFENDEN",
+              "slug": "tom-wolfenden",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Tom WOLFENDEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894588/assets/players/thumbnail/94003.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Arena Stade Couvert",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211718,
+    "code": "286",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 457,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TUR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+      "teamId": 28,
+      "teamName": "Turkey",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EWTC",
+    "roundName": "QF",
+    "drawName": "2020 EWTC",
+    "drawCode": "17",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211719,
+        "code": "546",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "91224",
+              "nameDisplay": "Mia BLICHFELDT",
+              "nameType": 0,
+              "firstName": "Mia",
+              "lastName": "BLICHFELDT",
+              "initials": "MB",
+              "nameShort": "M BLICHFELDT",
+              "nameShort2": "BLICHFELDT",
+              "slug": "mia-blichfeldt",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mia BLICHFELDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630981/assets/players/thumbnail/91224.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 28,
+          "teamName": "Turkey",
+          "players": [
+            {
+              "id": "87885",
+              "nameDisplay": "Neslihan ARIN",
+              "nameType": 0,
+              "firstName": "Neslihan",
+              "lastName": "ARIN",
+              "initials": "NA",
+              "nameShort": "N ARIN",
+              "nameShort2": "ARIN",
+              "slug": "neslihan-arin",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Neslihan ARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897368/assets/players/thumbnail/87885.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": 66,
+        "time": "01:06",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211720,
+        "code": "547",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "77002",
+              "nameDisplay": "Julie Dawall JAKOBSEN",
+              "nameType": 0,
+              "firstName": "Julie Dawall",
+              "lastName": "JAKOBSEN",
+              "initials": "JJ",
+              "nameShort": "J JAKOBSEN",
+              "nameShort2": "JAKOBSEN",
+              "slug": "julie-dawall-jakobsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Julie Dawall JAKOBSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1614875091/assets/players/thumbnail/77002.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 28,
+          "teamName": "Turkey",
+          "players": [
+            {
+              "id": "98643",
+              "nameDisplay": "Aliye DEMIRBAG",
+              "nameType": 0,
+              "firstName": "Aliye",
+              "lastName": "DEMIRBAG",
+              "initials": "AD",
+              "nameShort": "A DEMIRBAG",
+              "nameShort2": "DEMIRBAG",
+              "slug": "aliye-demirbag",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Aliye DEMIRBAG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211721,
+        "code": "548",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "85302",
+              "nameDisplay": "Line CHRISTOPHERSEN",
+              "nameType": 0,
+              "firstName": "Line",
+              "lastName": "CHRISTOPHERSEN",
+              "initials": "LC",
+              "nameShort": "L CHRISTOPHERSEN",
+              "nameShort2": "CHRISTOPHERSEN",
+              "slug": "line-christophersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Line CHRISTOPHERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896471/assets/players/thumbnail/85302.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 28,
+          "teamName": "Turkey",
+          "players": [
+            {
+              "id": "94762",
+              "nameDisplay": "Ozge BAYRAK",
+              "nameType": 0,
+              "firstName": "Ozge",
+              "lastName": "BAYRAK",
+              "initials": "OB",
+              "nameShort": "O BAYRAK",
+              "nameShort2": "BAYRAK",
+              "slug": "ozge-bayrak",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Ozge BAYRAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897327/assets/players/thumbnail/94762.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211722,
+        "code": "549",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "88779",
+              "nameDisplay": "Alexandra BØJE",
+              "nameType": 0,
+              "firstName": "Alexandra",
+              "lastName": "BØJE",
+              "initials": "AB",
+              "nameShort": "A BØJE",
+              "nameShort2": "BØJE",
+              "slug": "alexandra-boje",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Alexandra BØJE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1635909299/assets/players/thumbnail/88779.jpg"
+              }
+            },
+            {
+              "id": "43761",
+              "nameDisplay": "Mette POULSEN",
+              "nameType": 0,
+              "firstName": "Mette",
+              "lastName": "POULSEN",
+              "initials": "MP",
+              "nameShort": "M POULSEN",
+              "nameShort2": "POULSEN",
+              "slug": "mette-poulsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mette POULSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894651/assets/players/thumbnail/43761.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 28,
+          "teamName": "Turkey",
+          "players": [
+            {
+              "id": "62426",
+              "nameDisplay": "Bengisu ERCETIN",
+              "nameType": 0,
+              "firstName": "Bengisu",
+              "lastName": "ERCETIN",
+              "initials": "BE",
+              "nameShort": "B ERCETIN",
+              "nameShort2": "ERCETIN",
+              "slug": "bengisu-ercetin",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Bengisu ERCETIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896034/assets/players/thumbnail/62426.jpg"
+              }
+            },
+            {
+              "id": "73023",
+              "nameDisplay": "Nazlıcan INCI",
+              "nameType": 0,
+              "firstName": "Nazlıcan",
+              "lastName": "INCI",
+              "initials": "NI",
+              "nameShort": "N INCI",
+              "nameShort2": "INCI",
+              "slug": "nazlcan-inci",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Nazlıcan INCI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896036/assets/players/thumbnail/73023.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211723,
+        "code": "550",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "70042",
+              "nameDisplay": "Maiken FRUERGAARD",
+              "nameType": 0,
+              "firstName": "Maiken",
+              "lastName": "FRUERGAARD",
+              "initials": "MF",
+              "nameShort": "M FRUERGAARD",
+              "nameShort2": "FRUERGAARD",
+              "slug": "maiken-fruergaard",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Maiken FRUERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631098/assets/players/thumbnail/70042.jpg"
+              }
+            },
+            {
+              "id": "95643",
+              "nameDisplay": "Amalie MAGELUND",
+              "nameType": 0,
+              "firstName": "Amalie",
+              "lastName": "MAGELUND",
+              "initials": "AM",
+              "nameShort": "A MAGELUND",
+              "nameShort2": "MAGELUND",
+              "slug": "amalie-magelund",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Amalie MAGELUND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634093078/assets/players/thumbnail/95643.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+          "teamId": 28,
+          "teamName": "Turkey",
+          "players": [
+            {
+              "id": "94762",
+              "nameDisplay": "Ozge BAYRAK",
+              "nameType": 0,
+              "firstName": "Ozge",
+              "lastName": "BAYRAK",
+              "initials": "OB",
+              "nameShort": "O BAYRAK",
+              "nameShort2": "BAYRAK",
+              "slug": "ozge-bayrak",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Ozge BAYRAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897327/assets/players/thumbnail/94762.jpg"
+              }
+            },
+            {
+              "id": "87885",
+              "nameDisplay": "Neslihan ARIN",
+              "nameType": 0,
+              "firstName": "Neslihan",
+              "lastName": "ARIN",
+              "initials": "NA",
+              "nameShort": "N ARIN",
+              "nameShort2": "ARIN",
+              "slug": "neslihan-arin",
+              "countryCode": "TUR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUR.png",
+              "avatar": {
+                "title": "Neslihan ARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897368/assets/players/thumbnail/87885.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211748,
+    "code": "150",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 457,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 459,
+      "teamName": "Germany",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EMTC",
+    "roundName": "QF",
+    "drawName": "2020 EMTC",
+    "drawCode": "9",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211749,
+        "code": "281",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "25831",
+              "nameDisplay": "Viktor AXELSEN",
+              "nameType": 0,
+              "firstName": "Viktor",
+              "lastName": "AXELSEN",
+              "initials": "VA",
+              "nameShort": "V AXELSEN",
+              "nameShort2": "AXELSEN",
+              "slug": "viktor-axelsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Viktor AXELSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697764072/assets/players/thumbnail/25831.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "20808",
+              "nameDisplay": "Kai SCHAEFER",
+              "nameType": 0,
+              "firstName": "Kai",
+              "lastName": "SCHAEFER",
+              "initials": "KS",
+              "nameShort": "K SCHAEFER",
+              "nameShort2": "SCHAEFER",
+              "slug": "kai-schaefer",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Kai SCHAEFER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1694656540/assets/players/thumbnail/20808.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211752,
+        "code": "284",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "92980",
+              "nameDisplay": "Kim ASTRUP",
+              "nameType": 0,
+              "firstName": "Kim",
+              "lastName": "ASTRUP",
+              "initials": "KA",
+              "nameShort": "K ASTRUP",
+              "nameShort2": "ASTRUP",
+              "slug": "Kim-ASTRUP",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Kim ASTRUP",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636531494/assets/players/thumbnail/92980.jpg"
+              }
+            },
+            {
+              "id": "44414",
+              "nameDisplay": "Anders Skaarup RASMUSSEN",
+              "nameType": 0,
+              "firstName": "Anders Skaarup",
+              "lastName": "RASMUSSEN",
+              "initials": "AR",
+              "nameShort": "A RASMUSSEN",
+              "nameShort2": "RASMUSSEN",
+              "slug": "anders-skaarup-rasmussen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Anders Skaarup RASMUSSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636531127/assets/players/thumbnail/44414.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "68045",
+              "nameDisplay": "Mark LAMSFUSS",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "LAMSFUSS",
+              "initials": "ML",
+              "nameShort": "M LAMSFUSS",
+              "nameShort2": "LAMSFUSS",
+              "slug": "mark-lamsfuss",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Mark LAMSFUSS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719992008/assets/players/thumbnail/68045.jpg"
+              }
+            },
+            {
+              "id": "64909",
+              "nameDisplay": "Marvin SEIDEL",
+              "nameType": 0,
+              "firstName": "Marvin",
+              "lastName": "SEIDEL",
+              "initials": "MS",
+              "nameShort": "M SEIDEL",
+              "nameShort2": "SEIDEL",
+              "slug": "marvin-seidel",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Marvin SEIDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636522316/assets/players/thumbnail/64909.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211750,
+        "code": "282",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "91554",
+              "nameDisplay": "Anders ANTONSEN",
+              "nameType": 0,
+              "firstName": "Anders",
+              "lastName": "ANTONSEN",
+              "initials": "AA",
+              "nameShort": "A ANTONSEN",
+              "nameShort2": "ANTONSEN",
+              "slug": "anders-antonsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Anders ANTONSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697434685/assets/players/thumbnail/91554.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "84815",
+              "nameDisplay": "Max WEISSKIRCHEN",
+              "nameType": 0,
+              "firstName": "Max",
+              "lastName": "WEISSKIRCHEN",
+              "initials": "MW",
+              "nameShort": "M WEISSKIRCHEN",
+              "nameShort2": "WEISSKIRCHEN",
+              "slug": "max-weisskirchen",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Max WEISSKIRCHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899193/assets/players/thumbnail/84815.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211753,
+        "code": "285",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "50292",
+              "nameDisplay": "Mathias BOE",
+              "nameType": 0,
+              "firstName": "Mathias",
+              "lastName": "BOE",
+              "initials": "MB",
+              "nameShort": "M BOE",
+              "nameShort2": "BOE",
+              "slug": "mathias-boe",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mathias BOE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895102/assets/players/thumbnail/50292.jpg"
+              }
+            },
+            {
+              "id": "42722",
+              "nameDisplay": "Mads CONRAD-PETERSEN",
+              "nameType": 0,
+              "firstName": "Mads",
+              "lastName": "CONRAD-PETERSEN",
+              "initials": "MC",
+              "nameShort": "M CONRAD-PETERSEN",
+              "nameShort2": "CONRAD-PETERSEN",
+              "slug": "mads-conrad-petersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mads CONRAD-PETERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894649/assets/players/thumbnail/42722.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "88726",
+              "nameDisplay": "Jones Ralfy JANSEN",
+              "nameType": 0,
+              "firstName": "Jones Ralfy",
+              "lastName": "JANSEN",
+              "initials": "JJ",
+              "nameShort": "J JANSEN",
+              "nameShort2": "JANSEN",
+              "slug": "jones-ralfy-jansen",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Jones Ralfy JANSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895658/assets/players/thumbnail/88726.jpg"
+              }
+            },
+            {
+              "id": "54440",
+              "nameDisplay": "Peter KAESBAUER",
+              "nameType": 0,
+              "firstName": "Peter",
+              "lastName": "KAESBAUER",
+              "initials": "PK",
+              "nameShort": "P KAESBAUER",
+              "nameShort2": "KAESBAUER",
+              "slug": "peter-kaesbauer",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Peter KAESBAUER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895138/assets/players/thumbnail/54440.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211751,
+        "code": "283",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "54431",
+              "nameDisplay": "Jan O JORGENSEN",
+              "nameType": 0,
+              "firstName": "Jan O",
+              "lastName": "JORGENSEN",
+              "initials": "JJ",
+              "nameShort": "J JORGENSEN",
+              "nameShort2": "JORGENSEN",
+              "slug": "jan-o-jorgensen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Jan O JORGENSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894662/assets/players/thumbnail/54431.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "73966",
+              "nameDisplay": "Samuel HSIAO",
+              "nameType": 0,
+              "firstName": "Samuel",
+              "lastName": "HSIAO",
+              "initials": "SH",
+              "nameShort": "S HSIAO",
+              "nameShort2": "HSIAO",
+              "slug": "samuel-hsiao",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Samuel HSIAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899195/assets/players/thumbnail/73966.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211730,
+    "code": "288",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "HUN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+      "teamId": 58,
+      "teamName": "Hungary",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 459,
+      "teamName": "Germany",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EWTC",
+    "roundName": "QF",
+    "drawName": "2020 EWTC",
+    "drawCode": "17",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211731,
+        "code": "556",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 58,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "34899",
+              "nameDisplay": "Laura SAROSI",
+              "nameType": 0,
+              "firstName": "Laura",
+              "lastName": "SAROSI",
+              "initials": "LS",
+              "nameShort": "L SAROSI",
+              "nameShort2": "SAROSI",
+              "slug": "laura-sarosi",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Laura SAROSI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896995/assets/players/thumbnail/34899.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "91106",
+              "nameDisplay": "Yvonne LI",
+              "nameType": 0,
+              "firstName": "Yvonne",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yvonne-li",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Yvonne LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991926/assets/players/thumbnail/91106.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211732,
+        "code": "557",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 58,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "74051",
+              "nameDisplay": "Agnes KOROSI",
+              "nameType": 0,
+              "firstName": "Agnes",
+              "lastName": "KOROSI",
+              "initials": "AK",
+              "nameShort": "A KOROSI",
+              "nameShort2": "KOROSI",
+              "slug": "agnes-korosi",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Agnes KOROSI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "21854",
+              "nameDisplay": "Fabienne DEPREZ",
+              "nameType": 0,
+              "firstName": "Fabienne",
+              "lastName": "DEPREZ",
+              "initials": "FD",
+              "nameShort": "F DEPREZ",
+              "nameShort2": "DEPREZ",
+              "slug": "fabienne-deprez",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Fabienne DEPREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895061/assets/players/thumbnail/21854.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211733,
+        "code": "558",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 58,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "61949",
+              "nameDisplay": "Vivien SANDORHAZI",
+              "nameType": 0,
+              "firstName": "Vivien",
+              "lastName": "SANDORHAZI",
+              "initials": "VS",
+              "nameShort": "V SANDORHAZI",
+              "nameShort2": "SANDORHAZI",
+              "slug": "vivien-sandorhazi",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Vivien SANDORHAZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895826/assets/players/thumbnail/61949.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "92606",
+              "nameDisplay": "Miranda WILSON",
+              "nameType": 0,
+              "firstName": "Miranda",
+              "lastName": "WILSON",
+              "initials": "MW",
+              "nameShort": "M WILSON",
+              "nameShort2": "WILSON",
+              "slug": "miranda-wilson",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Miranda WILSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899208/assets/players/thumbnail/92606.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": 51,
+        "time": "00:51",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211734,
+        "code": "559",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 58,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "98804",
+              "nameDisplay": "Daniella GONDA",
+              "nameType": 0,
+              "firstName": "Daniella",
+              "lastName": "GONDA",
+              "initials": "DG",
+              "nameShort": "D GONDA",
+              "nameShort2": "GONDA",
+              "slug": "daniella-gonda",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Daniella GONDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697438471/assets/players/thumbnail/98804.jpg"
+              }
+            },
+            {
+              "id": "74051",
+              "nameDisplay": "Agnes KOROSI",
+              "nameType": 0,
+              "firstName": "Agnes",
+              "lastName": "KOROSI",
+              "initials": "AK",
+              "nameShort": "A KOROSI",
+              "nameShort2": "KOROSI",
+              "slug": "agnes-korosi",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Agnes KOROSI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "83942",
+              "nameDisplay": "Linda EFLER",
+              "nameType": 0,
+              "firstName": "Linda",
+              "lastName": "EFLER",
+              "initials": "LE",
+              "nameShort": "L EFLER",
+              "nameShort2": "EFLER",
+              "slug": "linda-efler",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Linda EFLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895615/assets/players/thumbnail/83942.jpg"
+              }
+            },
+            {
+              "id": "98052",
+              "nameDisplay": "Isabel LOHAU",
+              "nameType": 0,
+              "firstName": "Isabel",
+              "lastName": "LOHAU",
+              "initials": "IL",
+              "nameShort": "I LOHAU",
+              "nameShort2": "LOHAU",
+              "slug": "isabel-lohau",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Isabel LOHAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637132670/assets/players/thumbnail/98052.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211735,
+        "code": "560",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 58,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "94323",
+              "nameDisplay": "Reka MADARASZ",
+              "nameType": 0,
+              "firstName": "Reka",
+              "lastName": "MADARASZ",
+              "initials": "RM",
+              "nameShort": "R MADARASZ",
+              "nameShort2": "MADARASZ",
+              "slug": "reka-madarasz",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Reka MADARASZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895828/assets/players/thumbnail/94323.jpg"
+              }
+            },
+            {
+              "id": "61949",
+              "nameDisplay": "Vivien SANDORHAZI",
+              "nameType": 0,
+              "firstName": "Vivien",
+              "lastName": "SANDORHAZI",
+              "initials": "VS",
+              "nameShort": "V SANDORHAZI",
+              "nameShort2": "SANDORHAZI",
+              "slug": "vivien-sandorhazi",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Vivien SANDORHAZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895826/assets/players/thumbnail/61949.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 459,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "88659",
+              "nameDisplay": "Lara KAEPPLEIN",
+              "nameType": 0,
+              "firstName": "Lara",
+              "lastName": "KAEPPLEIN",
+              "initials": "LK",
+              "nameShort": "L KAEPPLEIN",
+              "nameShort2": "KAEPPLEIN",
+              "slug": "lara-kaepplein",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Lara KAEPPLEIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895654/assets/players/thumbnail/88659.jpg"
+              }
+            },
+            {
+              "id": "74944",
+              "nameDisplay": "Kilasu OSTERMEYER",
+              "nameType": 0,
+              "firstName": "Kilasu",
+              "lastName": "OSTERMEYER",
+              "initials": "KO",
+              "nameShort": "K OSTERMEYER",
+              "nameShort2": "OSTERMEYER",
+              "slug": "kilasu-ostermeyer",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Kilasu OSTERMEYER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897746/assets/players/thumbnail/74944.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EWTC",
+        "roundName": "QF",
+        "drawName": "2020 EWTC",
+        "drawCode": "17",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211754,
+    "code": "151",
+    "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+    "tournamentName": "2020 European Men's & Women's Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "RUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+      "teamId": 14,
+      "teamName": "Russia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BUL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+      "teamId": 455,
+      "teamName": "Bulgaria",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 15:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2020 EMTC",
+    "roundName": "QF",
+    "drawName": "2020 EMTC",
+    "drawCode": "9",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Arena Stade Couvert",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211755,
+        "code": "286",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "51682",
+              "nameDisplay": "Vladimir MALKOV",
+              "nameType": 0,
+              "firstName": "Vladimir",
+              "lastName": "MALKOV",
+              "initials": "VM",
+              "nameShort": "V MALKOV",
+              "nameShort2": "MALKOV",
+              "slug": "vladimir-malkov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Vladimir MALKOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897092/assets/players/thumbnail/51682.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 455,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "70442",
+              "nameDisplay": "Daniel NIKOLOV",
+              "nameType": 0,
+              "firstName": "Daniel",
+              "lastName": "NIKOLOV",
+              "initials": "DN",
+              "nameShort": "D NIKOLOV",
+              "nameShort2": "NIKOLOV",
+              "slug": "daniel-nikolov",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Daniel NIKOLOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211756,
+        "code": "287",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "93878",
+              "nameDisplay": "Sergey SIRANT",
+              "nameType": 0,
+              "firstName": "Sergey",
+              "lastName": "SIRANT",
+              "initials": "SS",
+              "nameShort": "S SIRANT",
+              "nameShort2": "SIRANT",
+              "slug": "sergey-sirant",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Sergey SIRANT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895721/assets/players/thumbnail/93878.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 455,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "71797",
+              "nameDisplay": "Dimitar YANAKIEV",
+              "nameType": 0,
+              "firstName": "Dimitar",
+              "lastName": "YANAKIEV",
+              "initials": "DY",
+              "nameShort": "D YANAKIEV",
+              "nameShort2": "YANAKIEV",
+              "slug": "dimitar-yanakiev",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Dimitar YANAKIEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211757,
+        "code": "288",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "99186",
+              "nameDisplay": "Georgii KARPOV",
+              "nameType": 0,
+              "firstName": "Georgii",
+              "lastName": "KARPOV",
+              "initials": "GK",
+              "nameShort": "G KARPOV",
+              "nameShort2": "KARPOV",
+              "slug": "georgii-karpov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Georgii KARPOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 455,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "15084",
+              "nameDisplay": "Stilian MAKARSKI",
+              "nameType": 0,
+              "firstName": "Stilian",
+              "lastName": "MAKARSKI",
+              "initials": "SM",
+              "nameShort": "S MAKARSKI",
+              "nameShort2": "MAKARSKI",
+              "slug": "stilian-makarski",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Stilian MAKARSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211758,
+        "code": "289",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "53924",
+              "nameDisplay": "Vladimir IVANOV",
+              "nameType": 0,
+              "firstName": "Vladimir",
+              "lastName": "IVANOV",
+              "initials": "VI",
+              "nameShort": "V IVANOV",
+              "nameShort2": "IVANOV",
+              "slug": "vladimir-ivanov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Vladimir IVANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897196/assets/players/thumbnail/53924.jpg"
+              }
+            },
+            {
+              "id": "17576",
+              "nameDisplay": "Nikita KHAKIMOV",
+              "nameType": 0,
+              "firstName": "Nikita",
+              "lastName": "KHAKIMOV",
+              "initials": "NK",
+              "nameShort": "N KHAKIMOV",
+              "nameShort2": "KHAKIMOV",
+              "slug": "nikita-khakimov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Nikita KHAKIMOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 455,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "65723",
+              "nameDisplay": "Alex VLAAR",
+              "nameType": 0,
+              "firstName": "Alex",
+              "lastName": "VLAAR",
+              "initials": "AV",
+              "nameShort": "A VLAAR",
+              "nameShort2": "VLAAR",
+              "slug": "alex-vlaar",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Alex VLAAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896592/assets/players/thumbnail/65723.jpg"
+              }
+            },
+            {
+              "id": "71797",
+              "nameDisplay": "Dimitar YANAKIEV",
+              "nameType": 0,
+              "firstName": "Dimitar",
+              "lastName": "YANAKIEV",
+              "initials": "DY",
+              "nameShort": "D YANAKIEV",
+              "nameShort2": "YANAKIEV",
+              "slug": "dimitar-yanakiev",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Dimitar YANAKIEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211759,
+        "code": "290",
+        "tournamentCode": "D912EA28-F825-469A-8FB4-5E4137C7B7D7",
+        "tournamentName": "2020 European Men's & Women's Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "99484",
+              "nameDisplay": "Rodion ALIMOV",
+              "nameType": 0,
+              "firstName": "Rodion",
+              "lastName": "ALIMOV",
+              "initials": "RA",
+              "nameShort": "R ALIMOV",
+              "nameShort2": "ALIMOV",
+              "slug": "Rodion-ALIMOV",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Rodion ALIMOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895775/assets/players/thumbnail/99484.jpg"
+              }
+            },
+            {
+              "id": "67068",
+              "nameDisplay": "Ivan SOZONOV",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "SOZONOV",
+              "initials": "IS",
+              "nameShort": "I SOZONOV",
+              "nameShort2": "SOZONOV",
+              "slug": "ivan-sozonov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ivan SOZONOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897570/assets/players/thumbnail/67068.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 455,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "15084",
+              "nameDisplay": "Stilian MAKARSKI",
+              "nameType": 0,
+              "firstName": "Stilian",
+              "lastName": "MAKARSKI",
+              "initials": "SM",
+              "nameShort": "S MAKARSKI",
+              "nameShort2": "MAKARSKI",
+              "slug": "stilian-makarski",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Stilian MAKARSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "70442",
+              "nameDisplay": "Daniel NIKOLOV",
+              "nameType": 0,
+              "firstName": "Daniel",
+              "lastName": "NIKOLOV",
+              "initials": "DN",
+              "nameShort": "D NIKOLOV",
+              "nameShort2": "NIKOLOV",
+              "slug": "daniel-nikolov",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Daniel NIKOLOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 15:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2020 EMTC",
+        "roundName": "QF",
+        "drawName": "2020 EMTC",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Arena Stade Couvert",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

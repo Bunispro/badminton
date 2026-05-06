@@ -1,0 +1,1737 @@
+[
+  {
+    "id": 1405491,
+    "code": "290",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 1222,
+      "teamName": "FRANCE",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 1225,
+      "teamName": "NETHERLANDS",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 12:00:00",
+    "matchTimeUtc": "2023-06-11 10:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "SF",
+    "drawName": "Women's Triples - Individuals Women's Triples",
+    "drawCode": "21",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405499,
+        "code": "222",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1222,
+          "teamName": "FRANCE",
+          "players": [
+            {
+              "id": "94489",
+              "nameDisplay": "Lorraine BAUMANN",
+              "nameType": 0,
+              "firstName": "Lorraine",
+              "lastName": "BAUMANN",
+              "initials": "LB",
+              "nameShort": "L BAUMANN",
+              "nameShort2": "BAUMANN",
+              "slug": "lorraine-baumann",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Lorraine BAUMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895731/assets/players/thumbnail/94489.jpg"
+              }
+            },
+            {
+              "id": "84428",
+              "nameDisplay": "Ophelia CASIER",
+              "nameType": 0,
+              "firstName": "Ophelia",
+              "lastName": "CASIER",
+              "initials": "OC",
+              "nameShort": "O CASIER",
+              "nameShort2": "CASIER",
+              "slug": "ophelia-casier",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Ophelia CASIER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 1225,
+          "teamName": "NETHERLANDS",
+          "players": [
+            {
+              "id": "89454",
+              "nameDisplay": "Gayle MAHULETTE",
+              "nameType": 0,
+              "firstName": "Gayle",
+              "lastName": "MAHULETTE",
+              "initials": "GM",
+              "nameShort": "G MAHULETTE",
+              "nameShort2": "MAHULETTE",
+              "slug": "gayle-mahulette",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gayle MAHULETTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896049/assets/players/thumbnail/89454.jpg"
+              }
+            },
+            {
+              "id": "89732",
+              "nameDisplay": "Imke VAN DER AAR",
+              "nameType": 0,
+              "firstName": "Imke",
+              "lastName": "VAN DER AAR",
+              "initials": "IV",
+              "nameShort": "I VAN DER AAR",
+              "nameShort2": "VAN DER AAR",
+              "slug": "imke-van-der-aar",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Imke VAN DER AAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895674/assets/players/thumbnail/89732.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 12:00:00",
+        "matchTimeUtc": "2023-06-11 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "SF",
+        "drawName": "Women's Triples - Individuals Women's Triples",
+        "drawCode": "21",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 0,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 13,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405448,
+    "code": "289",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 1223,
+      "teamName": "GERMANY",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 1221,
+      "teamName": "DENMARK",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 12:40:00",
+    "matchTimeUtc": "2023-06-11 10:40:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "SF",
+    "drawName": "Women's Triples - Individuals Women's Triples",
+    "drawCode": "21",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405577,
+        "code": "221",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1223,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "21854",
+              "nameDisplay": "Fabienne DEPREZ",
+              "nameType": 0,
+              "firstName": "Fabienne",
+              "lastName": "DEPREZ",
+              "initials": "FD",
+              "nameShort": "F DEPREZ",
+              "nameShort2": "DEPREZ",
+              "slug": "fabienne-deprez",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Fabienne DEPREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895061/assets/players/thumbnail/21854.jpg"
+              }
+            },
+            {
+              "id": "98100",
+              "nameDisplay": "Annalena DIKS",
+              "nameType": 0,
+              "firstName": "Annalena",
+              "lastName": "DIKS",
+              "initials": "AD",
+              "nameShort": "A DIKS",
+              "nameShort2": "DIKS",
+              "slug": "annalena-diks",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Annalena DIKS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 1221,
+          "teamName": "DENMARK",
+          "players": [
+            {
+              "id": "96276",
+              "nameDisplay": "Irina Amalie ANDERSEN",
+              "nameType": 0,
+              "firstName": "Irina Amalie",
+              "lastName": "ANDERSEN",
+              "initials": "IA",
+              "nameShort": "I ANDERSEN",
+              "nameShort2": "ANDERSEN",
+              "slug": "irina-amalie-andersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Irina Amalie ANDERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895746/assets/players/thumbnail/96276.jpg"
+              }
+            },
+            {
+              "id": "76370",
+              "nameDisplay": "Iben BERGSTEIN",
+              "nameType": 0,
+              "firstName": "Iben",
+              "lastName": "BERGSTEIN",
+              "initials": "IB",
+              "nameShort": "I BERGSTEIN",
+              "nameShort2": "BERGSTEIN",
+              "slug": "iben-bergstein",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Iben BERGSTEIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899269/assets/players/thumbnail/76370.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 12:40:00",
+        "matchTimeUtc": "2023-06-11 10:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "SF",
+        "drawName": "Women's Triples - Individuals Women's Triples",
+        "drawCode": "21",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 5,
+            "home": 9,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405458,
+    "code": "246",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 1222,
+      "teamName": "FRANCE",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 1221,
+      "teamName": "DENMARK",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 13:20:00",
+    "matchTimeUtc": "2023-06-11 11:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "SF",
+    "drawName": "Men's Triples - Individuals Men's Triples",
+    "drawCode": "18",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405521,
+        "code": "206",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1222,
+          "teamName": "FRANCE",
+          "players": [
+            {
+              "id": "67665",
+              "nameDisplay": "Dimitri JACQUART",
+              "nameType": 0,
+              "firstName": "Dimitri",
+              "lastName": "JACQUART",
+              "initials": "DJ",
+              "nameShort": "D JACQUART",
+              "nameShort2": "JACQUART",
+              "slug": "dimitri-jacquart",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Dimitri JACQUART",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "71410",
+              "nameDisplay": "Corentin LECERF",
+              "nameType": 0,
+              "firstName": "Corentin",
+              "lastName": "LECERF",
+              "initials": "CL",
+              "nameShort": "C LECERF",
+              "nameShort2": "LECERF",
+              "slug": "corentin-lecerf",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Corentin LECERF",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 1221,
+          "teamName": "DENMARK",
+          "players": [
+            {
+              "id": "91167",
+              "nameDisplay": "Rasmus ESPERSEN",
+              "nameType": 0,
+              "firstName": "Rasmus",
+              "lastName": "ESPERSEN",
+              "initials": "RE",
+              "nameShort": "R ESPERSEN",
+              "nameShort2": "ESPERSEN",
+              "slug": "rasmus-espersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Rasmus ESPERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896571/assets/players/thumbnail/91167.jpg"
+              }
+            },
+            {
+              "id": "66221",
+              "nameDisplay": "Marcus RINDSHØJ",
+              "nameType": 0,
+              "firstName": "Marcus",
+              "lastName": "RINDSHØJ",
+              "initials": "MR",
+              "nameShort": "M RINDSHØJ",
+              "nameShort2": "RINDSHØJ",
+              "slug": "marcus-rindshoj",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Marcus RINDSHØJ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 13:20:00",
+        "matchTimeUtc": "2023-06-11 11:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "SF",
+        "drawName": "Men's Triples - Individuals Men's Triples",
+        "drawCode": "18",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 9,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405460,
+    "code": "245",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 1223,
+      "teamName": "GERMANY",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 1225,
+      "teamName": "NETHERLANDS",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 14:00:00",
+    "matchTimeUtc": "2023-06-11 12:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "SF",
+    "drawName": "Men's Triples - Individuals Men's Triples",
+    "drawCode": "18",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405570,
+        "code": "205",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1223,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "92555",
+              "nameDisplay": "Felix HAMMES",
+              "nameType": 0,
+              "firstName": "Felix",
+              "lastName": "HAMMES",
+              "initials": "FH",
+              "nameShort": "F HAMMES",
+              "nameShort2": "HAMMES",
+              "slug": "felix-hammes",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Felix HAMMES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55753",
+              "nameDisplay": "Johannes PISTORIUS",
+              "nameType": 0,
+              "firstName": "Johannes",
+              "lastName": "PISTORIUS",
+              "initials": "JP",
+              "nameShort": "J PISTORIUS",
+              "nameShort2": "PISTORIUS",
+              "slug": "johannes-pistorius",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Johannes PISTORIUS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899247/assets/players/thumbnail/55753.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 1225,
+          "teamName": "NETHERLANDS",
+          "players": [
+            {
+              "id": "58863",
+              "nameDisplay": "Gijs DUIJS",
+              "nameType": 0,
+              "firstName": "Gijs",
+              "lastName": "DUIJS",
+              "initials": "GD",
+              "nameShort": "G DUIJS",
+              "nameShort2": "DUIJS",
+              "slug": "gijs-duijs",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gijs DUIJS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634185713/assets/players/thumbnail/58863.jpg"
+              }
+            },
+            {
+              "id": "57142",
+              "nameDisplay": "Russell MUNS",
+              "nameType": 0,
+              "firstName": "Russell",
+              "lastName": "MUNS",
+              "initials": "RM",
+              "nameShort": "R MUNS",
+              "nameShort2": "MUNS",
+              "slug": "russell-muns",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Russell MUNS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 14:00:00",
+        "matchTimeUtc": "2023-06-11 12:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "SF",
+        "drawName": "Men's Triples - Individuals Men's Triples",
+        "drawCode": "18",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 67,
+        "time": "01:07",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 6,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 5,
+            "home": 8,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405466,
+    "code": "287",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 1223,
+      "teamName": "GERMANY",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 1225,
+      "teamName": "NETHERLANDS",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 14:40:00",
+    "matchTimeUtc": "2023-06-11 12:40:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "3/4",
+    "drawName": "Women's Triples - Individuals Women's Triples",
+    "drawCode": "21",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405515,
+        "code": "223",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1223,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "21854",
+              "nameDisplay": "Fabienne DEPREZ",
+              "nameType": 0,
+              "firstName": "Fabienne",
+              "lastName": "DEPREZ",
+              "initials": "FD",
+              "nameShort": "F DEPREZ",
+              "nameShort2": "DEPREZ",
+              "slug": "fabienne-deprez",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Fabienne DEPREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895061/assets/players/thumbnail/21854.jpg"
+              }
+            },
+            {
+              "id": "98100",
+              "nameDisplay": "Annalena DIKS",
+              "nameType": 0,
+              "firstName": "Annalena",
+              "lastName": "DIKS",
+              "initials": "AD",
+              "nameShort": "A DIKS",
+              "nameShort2": "DIKS",
+              "slug": "annalena-diks",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Annalena DIKS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 1225,
+          "teamName": "NETHERLANDS",
+          "players": [
+            {
+              "id": "89454",
+              "nameDisplay": "Gayle MAHULETTE",
+              "nameType": 0,
+              "firstName": "Gayle",
+              "lastName": "MAHULETTE",
+              "initials": "GM",
+              "nameShort": "G MAHULETTE",
+              "nameShort2": "MAHULETTE",
+              "slug": "gayle-mahulette",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gayle MAHULETTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896049/assets/players/thumbnail/89454.jpg"
+              }
+            },
+            {
+              "id": "89732",
+              "nameDisplay": "Imke VAN DER AAR",
+              "nameType": 0,
+              "firstName": "Imke",
+              "lastName": "VAN DER AAR",
+              "initials": "IV",
+              "nameShort": "I VAN DER AAR",
+              "nameShort2": "VAN DER AAR",
+              "slug": "imke-van-der-aar",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Imke VAN DER AAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895674/assets/players/thumbnail/89732.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 14:40:00",
+        "matchTimeUtc": "2023-06-11 12:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "3/4",
+        "drawName": "Women's Triples - Individuals Women's Triples",
+        "drawCode": "21",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 8,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405465,
+    "code": "243",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 1223,
+      "teamName": "GERMANY",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 1221,
+      "teamName": "DENMARK",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 15:20:00",
+    "matchTimeUtc": "2023-06-11 13:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "3/4",
+    "drawName": "Men's Triples - Individuals Men's Triples",
+    "drawCode": "18",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405512,
+        "code": "207",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1223,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "92555",
+              "nameDisplay": "Felix HAMMES",
+              "nameType": 0,
+              "firstName": "Felix",
+              "lastName": "HAMMES",
+              "initials": "FH",
+              "nameShort": "F HAMMES",
+              "nameShort2": "HAMMES",
+              "slug": "felix-hammes",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Felix HAMMES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55753",
+              "nameDisplay": "Johannes PISTORIUS",
+              "nameType": 0,
+              "firstName": "Johannes",
+              "lastName": "PISTORIUS",
+              "initials": "JP",
+              "nameShort": "J PISTORIUS",
+              "nameShort2": "PISTORIUS",
+              "slug": "johannes-pistorius",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Johannes PISTORIUS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899247/assets/players/thumbnail/55753.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 1221,
+          "teamName": "DENMARK",
+          "players": [
+            {
+              "id": "91167",
+              "nameDisplay": "Rasmus ESPERSEN",
+              "nameType": 0,
+              "firstName": "Rasmus",
+              "lastName": "ESPERSEN",
+              "initials": "RE",
+              "nameShort": "R ESPERSEN",
+              "nameShort2": "ESPERSEN",
+              "slug": "rasmus-espersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Rasmus ESPERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896571/assets/players/thumbnail/91167.jpg"
+              }
+            },
+            {
+              "id": "66221",
+              "nameDisplay": "Marcus RINDSHØJ",
+              "nameType": 0,
+              "firstName": "Marcus",
+              "lastName": "RINDSHØJ",
+              "initials": "MR",
+              "nameShort": "M RINDSHØJ",
+              "nameShort2": "RINDSHØJ",
+              "slug": "marcus-rindshoj",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Marcus RINDSHØJ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 15:20:00",
+        "matchTimeUtc": "2023-06-11 13:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "3/4",
+        "drawName": "Men's Triples - Individuals Men's Triples",
+        "drawCode": "18",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 9,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 6,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405455,
+    "code": "285",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 1221,
+      "teamName": "DENMARK",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 1222,
+      "teamName": "FRANCE",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 16:00:00",
+    "matchTimeUtc": "2023-06-11 14:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Triples",
+    "roundName": "Final",
+    "drawName": "Women's Triples - Individuals Women's Triples",
+    "drawCode": "21",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405598,
+        "code": "224",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 1221,
+          "teamName": "DENMARK",
+          "players": [
+            {
+              "id": "96276",
+              "nameDisplay": "Irina Amalie ANDERSEN",
+              "nameType": 0,
+              "firstName": "Irina Amalie",
+              "lastName": "ANDERSEN",
+              "initials": "IA",
+              "nameShort": "I ANDERSEN",
+              "nameShort2": "ANDERSEN",
+              "slug": "irina-amalie-andersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Irina Amalie ANDERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895746/assets/players/thumbnail/96276.jpg"
+              }
+            },
+            {
+              "id": "76370",
+              "nameDisplay": "Iben BERGSTEIN",
+              "nameType": 0,
+              "firstName": "Iben",
+              "lastName": "BERGSTEIN",
+              "initials": "IB",
+              "nameShort": "I BERGSTEIN",
+              "nameShort2": "BERGSTEIN",
+              "slug": "iben-bergstein",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Iben BERGSTEIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899269/assets/players/thumbnail/76370.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1222,
+          "teamName": "FRANCE",
+          "players": [
+            {
+              "id": "94489",
+              "nameDisplay": "Lorraine BAUMANN",
+              "nameType": 0,
+              "firstName": "Lorraine",
+              "lastName": "BAUMANN",
+              "initials": "LB",
+              "nameShort": "L BAUMANN",
+              "nameShort2": "BAUMANN",
+              "slug": "lorraine-baumann",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Lorraine BAUMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895731/assets/players/thumbnail/94489.jpg"
+              }
+            },
+            {
+              "id": "84428",
+              "nameDisplay": "Ophelia CASIER",
+              "nameType": 0,
+              "firstName": "Ophelia",
+              "lastName": "CASIER",
+              "initials": "OC",
+              "nameShort": "O CASIER",
+              "nameShort2": "CASIER",
+              "slug": "ophelia-casier",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Ophelia CASIER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 16:00:00",
+        "matchTimeUtc": "2023-06-11 14:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Triples",
+        "roundName": "Final",
+        "drawName": "Women's Triples - Individuals Women's Triples",
+        "drawCode": "21",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 4,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 4,
+            "home": 11,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 5,
+            "home": 11,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1405450,
+    "code": "241",
+    "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+    "tournamentName": "ANOC WBG Europe Qualification 2023",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 1225,
+      "teamName": "NETHERLANDS",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 1222,
+      "teamName": "FRANCE",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-06-11 16:45:00",
+    "matchTimeUtc": "2023-06-11 14:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Triples",
+    "roundName": "Final",
+    "drawName": "Men's Triples - Individuals Men's Triples",
+    "drawCode": "18",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Beachsport",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1405518,
+        "code": "208",
+        "tournamentCode": "2EFFA7C4-956B-4D67-A7CD-C5DE9DADFA54",
+        "tournamentName": "ANOC WBG Europe Qualification 2023",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 1225,
+          "teamName": "NETHERLANDS",
+          "players": [
+            {
+              "id": "58863",
+              "nameDisplay": "Gijs DUIJS",
+              "nameType": 0,
+              "firstName": "Gijs",
+              "lastName": "DUIJS",
+              "initials": "GD",
+              "nameShort": "G DUIJS",
+              "nameShort2": "DUIJS",
+              "slug": "gijs-duijs",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gijs DUIJS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634185713/assets/players/thumbnail/58863.jpg"
+              }
+            },
+            {
+              "id": "57142",
+              "nameDisplay": "Russell MUNS",
+              "nameType": 0,
+              "firstName": "Russell",
+              "lastName": "MUNS",
+              "initials": "RM",
+              "nameShort": "R MUNS",
+              "nameShort2": "MUNS",
+              "slug": "russell-muns",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Russell MUNS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 1222,
+          "teamName": "FRANCE",
+          "players": [
+            {
+              "id": "67665",
+              "nameDisplay": "Dimitri JACQUART",
+              "nameType": 0,
+              "firstName": "Dimitri",
+              "lastName": "JACQUART",
+              "initials": "DJ",
+              "nameShort": "D JACQUART",
+              "nameShort2": "JACQUART",
+              "slug": "dimitri-jacquart",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Dimitri JACQUART",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "71410",
+              "nameDisplay": "Corentin LECERF",
+              "nameType": 0,
+              "firstName": "Corentin",
+              "lastName": "LECERF",
+              "initials": "CL",
+              "nameShort": "C LECERF",
+              "nameShort2": "LECERF",
+              "slug": "corentin-lecerf",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Corentin LECERF",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-06-11 16:45:00",
+        "matchTimeUtc": "2023-06-11 14:45:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Triples",
+        "roundName": "Final",
+        "drawName": "Men's Triples - Individuals Men's Triples",
+        "drawCode": "18",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Beachsport",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 103,
+        "matchTypeValue": "Triple",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

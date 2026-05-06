@@ -1,0 +1,1418 @@
+[
+  {
+    "id": 1318058,
+    "code": "8",
+    "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+    "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 1,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 480,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-07-09 09:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Team Event",
+    "roundName": "R2",
+    "drawName": "Team Event - Group A",
+    "drawCode": "1",
+    "courtName": "Court CT-1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Among Raga",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 4,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1318059,
+        "code": "5",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "82167",
+              "nameDisplay": "ZHU Yi Jun",
+              "nameType": 1,
+              "firstName": "Yi Jun",
+              "lastName": "ZHU",
+              "initials": "ZY",
+              "nameShort": "ZHU Y J ",
+              "nameShort2": "ZHU",
+              "slug": "yi-jun-zhu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yi Jun ZHU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175488/assets/players/thumbnail/82167.png"
+              }
+            },
+            {
+              "id": "69931",
+              "nameDisplay": "HUANG Ke Xin",
+              "nameType": 1,
+              "firstName": "Ke Xin",
+              "lastName": "HUANG",
+              "initials": "HK",
+              "nameShort": "HUANG K X ",
+              "nameShort2": "HUANG",
+              "slug": "ke-xin-huang",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Ke Xin HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667179280/assets/players/thumbnail/69931.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "99362",
+              "nameDisplay": "Adrian PRATAMA",
+              "nameType": 0,
+              "firstName": "Adrian",
+              "lastName": "PRATAMA",
+              "initials": "AP",
+              "nameShort": "A PRATAMA",
+              "nameShort2": "PRATAMA",
+              "slug": "adrian-pratama",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Adrian PRATAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "69193",
+              "nameDisplay": "Felisha Alberta Nathaniel PASARIBU",
+              "nameType": 0,
+              "firstName": "Felisha Alberta Nathaniel",
+              "lastName": "PASARIBU",
+              "initials": "FP",
+              "nameShort": "F PASARIBU",
+              "nameShort2": "PASARIBU",
+              "slug": "felisha-alberta-nathaniel-pasaribu",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Felisha Alberta Nathaniel PASARIBU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group A",
+        "drawCode": "1",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Among Raga",
+        "duration": 71,
+        "time": "01:11",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 25,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318060,
+        "code": "2",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "60915",
+              "nameDisplay": "XU Wen Jing",
+              "nameType": 1,
+              "firstName": "Wen Jing",
+              "lastName": "XU",
+              "initials": "XW",
+              "nameShort": "XU W J ",
+              "nameShort2": "XU",
+              "slug": "wen-jing-xu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Wen Jing XU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696904597/assets/players/thumbnail/60915.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "64956",
+              "nameDisplay": "Mutiara Ayu PUSPITASARI",
+              "nameType": 0,
+              "firstName": "Mutiara Ayu",
+              "lastName": "PUSPITASARI",
+              "initials": "MP",
+              "nameShort": "M PUSPITASARI",
+              "nameShort2": "PUSPITASARI",
+              "slug": "mutiara-ayu-puspitasari",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Mutiara Ayu PUSPITASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group A",
+        "drawCode": "1",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Among Raga",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318061,
+        "code": "1",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "73591",
+              "nameDisplay": "HU Zhe An",
+              "nameType": 1,
+              "firstName": "Zhe An",
+              "lastName": "HU",
+              "initials": "HZ",
+              "nameShort": "HU Z A ",
+              "nameShort2": "HU",
+              "slug": "zhe-an-hu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Zhe An HU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696904133/assets/players/thumbnail/73591.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "58089",
+              "nameDisplay": "Alwi FARHAN",
+              "nameType": 0,
+              "firstName": "Alwi",
+              "lastName": "FARHAN",
+              "initials": "AF",
+              "nameShort": "A FARHAN",
+              "nameShort2": "FARHAN",
+              "slug": "alwi-farhan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Alwi FARHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693964609/assets/players/thumbnail/58089.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group A",
+        "drawCode": "1",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Among Raga",
+        "duration": 46,
+        "time": "00:46",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318062,
+        "code": "4",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "87119",
+              "nameDisplay": "LIAO Li Xi",
+              "nameType": 1,
+              "firstName": "Li Xi",
+              "lastName": "LIAO",
+              "initials": "LL",
+              "nameShort": "LIAO L X ",
+              "nameShort2": "LIAO",
+              "slug": "li-xi-liao",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Li Xi LIAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "96683",
+              "nameDisplay": "ZHANG Wen Xiao",
+              "nameType": 1,
+              "firstName": "Wen Xiao",
+              "lastName": "ZHANG",
+              "initials": "ZW",
+              "nameShort": "ZHANG W X ",
+              "nameShort2": "ZHANG",
+              "slug": "wen-xiao-zhang",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Wen Xiao ZHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "70465",
+              "nameDisplay": "Anisanaya KAMILA",
+              "nameType": 0,
+              "firstName": "Anisanaya",
+              "lastName": "KAMILA",
+              "initials": "AK",
+              "nameShort": "A KAMILA",
+              "nameShort2": "KAMILA",
+              "slug": "anisanaya-kamila",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Anisanaya KAMILA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "56042",
+              "nameDisplay": "Az Zahra Ditya RAMADHANI",
+              "nameType": 0,
+              "firstName": "Az Zahra Ditya",
+              "lastName": "RAMADHANI",
+              "initials": "AR",
+              "nameShort": "A RAMADHANI",
+              "nameShort2": "RAMADHANI",
+              "slug": "az-zahra-ditya-ramadhani",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Az Zahra Ditya RAMADHANI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group A",
+        "drawCode": "1",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Among Raga",
+        "duration": 73,
+        "time": "01:13",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318063,
+        "code": "3",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "90813",
+              "nameDisplay": "MA Shang",
+              "nameType": 1,
+              "firstName": "Shang",
+              "lastName": "MA",
+              "initials": "MS",
+              "nameShort": "MA S",
+              "nameShort2": "MA",
+              "slug": "shang-ma",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Shang MA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696905268/assets/players/thumbnail/90813.jpg"
+              }
+            },
+            {
+              "id": "82167",
+              "nameDisplay": "ZHU Yi Jun",
+              "nameType": 1,
+              "firstName": "Yi Jun",
+              "lastName": "ZHU",
+              "initials": "ZY",
+              "nameShort": "ZHU Y J ",
+              "nameShort2": "ZHU",
+              "slug": "yi-jun-zhu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yi Jun ZHU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175488/assets/players/thumbnail/82167.png"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "89728",
+              "nameDisplay": "Muhammad Al FARIZI",
+              "nameType": 0,
+              "firstName": "Muhammad Al",
+              "lastName": "FARIZI",
+              "initials": "MF",
+              "nameShort": "M FARIZI",
+              "nameShort2": "FARIZI",
+              "slug": "muhammad-al-farizi",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Muhammad Al FARIZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55669",
+              "nameDisplay": "Nikolaus JOAQUIN",
+              "nameType": 0,
+              "firstName": "Nikolaus",
+              "lastName": "JOAQUIN",
+              "initials": "NJ",
+              "nameShort": "N JOAQUIN",
+              "nameShort2": "JOAQUIN",
+              "slug": "nikolaus-joaquin",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Nikolaus JOAQUIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group A",
+        "drawCode": "1",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Among Raga",
+        "duration": 51,
+        "time": "00:51",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1318146,
+    "code": "56",
+    "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+    "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 6,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "UAE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+      "teamId": 560,
+      "teamName": "United Arab Emirates",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-07-09 09:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Team Event",
+    "roundName": "R2",
+    "drawName": "Team Event - Group D",
+    "drawCode": "4",
+    "courtName": "Court CT-2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Among Raga",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1318147,
+        "code": "95",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "86368",
+              "nameDisplay": "Phuwanat HORBANLUEKIT",
+              "nameType": 0,
+              "firstName": "Phuwanat",
+              "lastName": "HORBANLUEKIT",
+              "initials": "PH",
+              "nameShort": "P HORBANLUEKIT",
+              "nameShort2": "HORBANLUEKIT",
+              "slug": "phuwanat-horbanluekit",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Phuwanat HORBANLUEKIT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "90506",
+              "nameDisplay": "Patida SRISAWAT",
+              "nameType": 0,
+              "firstName": "Patida",
+              "lastName": "SRISAWAT",
+              "initials": "PS",
+              "nameShort": "P SRISAWAT",
+              "nameShort2": "SRISAWAT",
+              "slug": "patida-srisawat",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Patida SRISAWAT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UAE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+          "teamId": 560,
+          "teamName": "United Arab Emirates",
+          "players": [
+            {
+              "id": "84126",
+              "nameDisplay": "Dev VISHNU",
+              "nameType": 0,
+              "firstName": "Dev",
+              "lastName": "VISHNU",
+              "initials": "DV",
+              "nameShort": "D VISHNU",
+              "nameShort2": "VISHNU",
+              "slug": "dev-vishnu",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Dev VISHNU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "72013",
+              "nameDisplay": "Taabia KHAN",
+              "nameType": 0,
+              "firstName": "Taabia",
+              "lastName": "KHAN",
+              "initials": "TK",
+              "nameShort": "T KHAN",
+              "nameShort2": "KHAN",
+              "slug": "taabia-khan",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Taabia KHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group D",
+        "drawCode": "4",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Among Raga",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318148,
+        "code": "91",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "87787",
+              "nameDisplay": "Nachakorn PUSRI",
+              "nameType": 0,
+              "firstName": "Nachakorn",
+              "lastName": "PUSRI",
+              "initials": "NP",
+              "nameShort": "N PUSRI",
+              "nameShort2": "PUSRI",
+              "slug": "nachakorn-pusri",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nachakorn PUSRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UAE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+          "teamId": 560,
+          "teamName": "United Arab Emirates",
+          "players": [
+            {
+              "id": "86445",
+              "nameDisplay": "Bharath LATHEESH",
+              "nameType": 0,
+              "firstName": "Bharath",
+              "lastName": "LATHEESH",
+              "initials": "BL",
+              "nameShort": "B LATHEESH",
+              "nameShort2": "LATHEESH",
+              "slug": "bharath-latheesh",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Bharath LATHEESH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group D",
+        "drawCode": "4",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Among Raga",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318149,
+        "code": "92",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "69396",
+              "nameDisplay": "Sirada ROONGPIBOONSOPIT",
+              "nameType": 0,
+              "firstName": "Sirada",
+              "lastName": "ROONGPIBOONSOPIT",
+              "initials": "SR",
+              "nameShort": "S ROONGPIBOONSOPIT",
+              "nameShort2": "ROONGPIBOONSOPIT",
+              "slug": "sirada-roongpiboonsopit",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Sirada ROONGPIBOONSOPIT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697439390/assets/players/thumbnail/69396.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UAE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+          "teamId": 560,
+          "teamName": "United Arab Emirates",
+          "players": [
+            {
+              "id": "80947",
+              "nameDisplay": "Sanika Dhawan GURAV",
+              "nameType": 0,
+              "firstName": "Sanika Dhawan",
+              "lastName": "GURAV",
+              "initials": "SG",
+              "nameShort": "S GURAV",
+              "nameShort2": "GURAV",
+              "slug": "sanika-dhawan-gurav",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Sanika Dhawan GURAV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group D",
+        "drawCode": "4",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Among Raga",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318150,
+        "code": "93",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "72648",
+              "nameDisplay": "Nontakorn THONG-ON",
+              "nameType": 0,
+              "firstName": "Nontakorn",
+              "lastName": "THONG-ON",
+              "initials": "NT",
+              "nameShort": "N THONG-ON",
+              "nameShort2": "THONG-ON",
+              "slug": "nontakorn-thong-on",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nontakorn THONG-ON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "92243",
+              "nameDisplay": "Thanadol YUNMONGKOL",
+              "nameType": 0,
+              "firstName": "Thanadol",
+              "lastName": "YUNMONGKOL",
+              "initials": "TY",
+              "nameShort": "T YUNMONGKOL",
+              "nameShort2": "YUNMONGKOL",
+              "slug": "thanadol-yunmongkol",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Thanadol YUNMONGKOL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UAE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+          "teamId": 560,
+          "teamName": "United Arab Emirates",
+          "players": [
+            {
+              "id": "77168",
+              "nameDisplay": "Dev AYYAPPAN",
+              "nameType": 0,
+              "firstName": "Dev",
+              "lastName": "AYYAPPAN",
+              "initials": "DA",
+              "nameShort": "D AYYAPPAN",
+              "nameShort2": "AYYAPPAN",
+              "slug": "dev-ayyappan",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Dev AYYAPPAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "79739",
+              "nameDisplay": "Dhiren AYYAPPAN",
+              "nameType": 0,
+              "firstName": "Dhiren",
+              "lastName": "AYYAPPAN",
+              "initials": "DA",
+              "nameShort": "D AYYAPPAN",
+              "nameShort2": "AYYAPPAN",
+              "slug": "dhiren-ayyappan",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Dhiren AYYAPPAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group D",
+        "drawCode": "4",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Among Raga",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1318151,
+        "code": "94",
+        "tournamentCode": "2770A68E-35E1-485D-98CF-1B026E00C071",
+        "tournamentName": "BNI Badminton Asia Junior Championships 2023 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "76091",
+              "nameDisplay": "Hathaithip MIJAD",
+              "nameType": 0,
+              "firstName": "Hathaithip",
+              "lastName": "MIJAD",
+              "initials": "HM",
+              "nameShort": "H MIJAD",
+              "nameShort2": "MIJAD",
+              "slug": "hathaithip-mijad",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Hathaithip MIJAD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "88089",
+              "nameDisplay": "Huzwaney MOMIN",
+              "nameType": 0,
+              "firstName": "Huzwaney",
+              "lastName": "MOMIN",
+              "initials": "HM",
+              "nameShort": "H MOMIN",
+              "nameShort2": "MOMIN",
+              "slug": "huzwaney-momin",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Huzwaney MOMIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UAE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+          "teamId": 560,
+          "teamName": "United Arab Emirates",
+          "players": [
+            {
+              "id": "95366",
+              "nameDisplay": "Nayonika RAJESH",
+              "nameType": 0,
+              "firstName": "Nayonika",
+              "lastName": "RAJESH",
+              "initials": "NR",
+              "nameShort": "N RAJESH",
+              "nameShort2": "RAJESH",
+              "slug": "nayonika-rajesh",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Nayonika RAJESH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "89360",
+              "nameDisplay": "Sreeyuktha SREEJITH PAROL",
+              "nameType": 0,
+              "firstName": "Sreeyuktha",
+              "lastName": "SREEJITH PAROL",
+              "initials": "SS",
+              "nameShort": "S SREEJITH PAROL",
+              "nameShort2": "SREEJITH PAROL",
+              "slug": "sreeyuktha-sreejith-parol",
+              "countryCode": "UAE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UAE.png",
+              "avatar": {
+                "title": "Sreeyuktha SREEJITH PAROL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-07-09 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Team Event",
+        "roundName": "R2",
+        "drawName": "Team Event - Group D",
+        "drawCode": "4",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Among Raga",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1366 @@
+[
+  {
+    "id": 1148466,
+    "code": "35",
+    "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+    "tournamentName": "2019 European Mixed Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 459,
+      "teamName": "Germany",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "RUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+      "teamId": 14,
+      "teamName": "Russia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-02-16 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2019 EMTC",
+    "roundName": "SF",
+    "drawName": "2019 EMTC",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Frederiksberg Hallerne",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1148471,
+        "code": "70",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "98052",
+              "nameDisplay": "Isabel LOHAU",
+              "nameType": 0,
+              "firstName": "Isabel",
+              "lastName": "LOHAU",
+              "initials": "IL",
+              "nameShort": "I LOHAU",
+              "nameShort2": "LOHAU",
+              "slug": "isabel-lohau",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Isabel LOHAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637132670/assets/players/thumbnail/98052.jpg"
+              }
+            },
+            {
+              "id": "68045",
+              "nameDisplay": "Mark LAMSFUSS",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "LAMSFUSS",
+              "initials": "ML",
+              "nameShort": "M LAMSFUSS",
+              "nameShort2": "LAMSFUSS",
+              "slug": "mark-lamsfuss",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Mark LAMSFUSS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719992008/assets/players/thumbnail/68045.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "81907",
+              "nameDisplay": "Ekaterina MALKOVA",
+              "nameType": 0,
+              "firstName": "Ekaterina",
+              "lastName": "MALKOVA",
+              "initials": "EM",
+              "nameShort": "E MALKOVA",
+              "nameShort2": "MALKOVA",
+              "slug": "ekaterina-malkova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ekaterina MALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895599/assets/players/thumbnail/81907.jpg"
+              }
+            },
+            {
+              "id": "53924",
+              "nameDisplay": "Vladimir IVANOV",
+              "nameType": 0,
+              "firstName": "Vladimir",
+              "lastName": "IVANOV",
+              "initials": "VI",
+              "nameShort": "V IVANOV",
+              "nameShort2": "IVANOV",
+              "slug": "vladimir-ivanov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Vladimir IVANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897196/assets/players/thumbnail/53924.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148467,
+        "code": "66",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "20808",
+              "nameDisplay": "Kai SCHAEFER",
+              "nameType": 0,
+              "firstName": "Kai",
+              "lastName": "SCHAEFER",
+              "initials": "KS",
+              "nameShort": "K SCHAEFER",
+              "nameShort2": "SCHAEFER",
+              "slug": "kai-schaefer",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Kai SCHAEFER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1694656540/assets/players/thumbnail/20808.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "51682",
+              "nameDisplay": "Vladimir MALKOV",
+              "nameType": 0,
+              "firstName": "Vladimir",
+              "lastName": "MALKOV",
+              "initials": "VM",
+              "nameShort": "V MALKOV",
+              "nameShort2": "MALKOV",
+              "slug": "vladimir-malkov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Vladimir MALKOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897092/assets/players/thumbnail/51682.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": 66,
+        "time": "01:06",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148468,
+        "code": "67",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "91106",
+              "nameDisplay": "Yvonne LI",
+              "nameType": 0,
+              "firstName": "Yvonne",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yvonne-li",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Yvonne LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991926/assets/players/thumbnail/91106.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "92400",
+              "nameDisplay": "Evgeniya KOSETSKAYA",
+              "nameType": 0,
+              "firstName": "Evgeniya",
+              "lastName": "KOSETSKAYA",
+              "initials": "EK",
+              "nameShort": "E KOSETSKAYA",
+              "nameShort2": "KOSETSKAYA",
+              "slug": "evgeniya-kosetskaya",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Evgeniya KOSETSKAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897355/assets/players/thumbnail/92400.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": 51,
+        "time": "00:51",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148469,
+        "code": "68",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68045",
+              "nameDisplay": "Mark LAMSFUSS",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "LAMSFUSS",
+              "initials": "ML",
+              "nameShort": "M LAMSFUSS",
+              "nameShort2": "LAMSFUSS",
+              "slug": "mark-lamsfuss",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Mark LAMSFUSS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719992008/assets/players/thumbnail/68045.jpg"
+              }
+            },
+            {
+              "id": "64909",
+              "nameDisplay": "Marvin SEIDEL",
+              "nameType": 0,
+              "firstName": "Marvin",
+              "lastName": "SEIDEL",
+              "initials": "MS",
+              "nameShort": "M SEIDEL",
+              "nameShort2": "SEIDEL",
+              "slug": "marvin-seidel",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Marvin SEIDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636522316/assets/players/thumbnail/64909.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "53924",
+              "nameDisplay": "Vladimir IVANOV",
+              "nameType": 0,
+              "firstName": "Vladimir",
+              "lastName": "IVANOV",
+              "initials": "VI",
+              "nameShort": "V IVANOV",
+              "nameShort2": "IVANOV",
+              "slug": "vladimir-ivanov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Vladimir IVANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897196/assets/players/thumbnail/53924.jpg"
+              }
+            },
+            {
+              "id": "67068",
+              "nameDisplay": "Ivan SOZONOV",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "SOZONOV",
+              "initials": "IS",
+              "nameShort": "I SOZONOV",
+              "nameShort2": "SOZONOV",
+              "slug": "ivan-sozonov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ivan SOZONOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897570/assets/players/thumbnail/67068.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148470,
+        "code": "69",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52280",
+              "nameDisplay": "Johanna KÄPPLEIN",
+              "nameType": 0,
+              "firstName": "Johanna",
+              "lastName": "KÄPPLEIN",
+              "initials": "JK",
+              "nameShort": "J KÄPPLEIN",
+              "nameShort2": "KÄPPLEIN",
+              "slug": "johanna-kapplein",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Johanna KÄPPLEIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897121/assets/players/thumbnail/52280.jpg"
+              }
+            },
+            {
+              "id": "88659",
+              "nameDisplay": "Lara KAEPPLEIN",
+              "nameType": 0,
+              "firstName": "Lara",
+              "lastName": "KAEPPLEIN",
+              "initials": "LK",
+              "nameShort": "L KAEPPLEIN",
+              "nameShort2": "KAEPPLEIN",
+              "slug": "lara-kaepplein",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Lara KAEPPLEIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895654/assets/players/thumbnail/88659.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": 14,
+          "teamName": "Russia",
+          "players": [
+            {
+              "id": "81907",
+              "nameDisplay": "Ekaterina MALKOVA",
+              "nameType": 0,
+              "firstName": "Ekaterina",
+              "lastName": "MALKOVA",
+              "initials": "EM",
+              "nameShort": "E MALKOVA",
+              "nameShort2": "MALKOVA",
+              "slug": "ekaterina-malkova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ekaterina MALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895599/assets/players/thumbnail/81907.jpg"
+              }
+            },
+            {
+              "id": "72565",
+              "nameDisplay": "Alina DAVLETOVA",
+              "nameType": 0,
+              "firstName": "Alina",
+              "lastName": "DAVLETOVA",
+              "initials": "AD",
+              "nameShort": "A DAVLETOVA",
+              "nameShort2": "DAVLETOVA",
+              "slug": "alina-davletova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Alina DAVLETOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895496/assets/players/thumbnail/72565.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1148472,
+    "code": "34",
+    "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+    "tournamentName": "2019 European Mixed Team Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 457,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 488,
+      "teamName": "Netherlands",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-02-16 14:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2019 EMTC",
+    "roundName": "SF",
+    "drawName": "2019 EMTC",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Frederiksberg Hallerne",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1148477,
+        "code": "65",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "99521",
+              "nameDisplay": "Mathias CHRISTIANSEN",
+              "nameType": 0,
+              "firstName": "Mathias",
+              "lastName": "CHRISTIANSEN",
+              "initials": "MC",
+              "nameShort": "M CHRISTIANSEN",
+              "nameShort2": "CHRISTIANSEN",
+              "slug": "mathias-christiansen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mathias CHRISTIANSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896070/assets/players/thumbnail/99521.jpg"
+              }
+            },
+            {
+              "id": "53759",
+              "nameDisplay": "Christinna PEDERSEN",
+              "nameType": 0,
+              "firstName": "Christinna",
+              "lastName": "PEDERSEN",
+              "initials": "CP",
+              "nameShort": "C PEDERSEN",
+              "nameShort2": "PEDERSEN",
+              "slug": "christinna-pedersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Christinna PEDERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895128/assets/players/thumbnail/53759.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "67176",
+              "nameDisplay": "Selena PIEK",
+              "nameType": 0,
+              "firstName": "Selena",
+              "lastName": "PIEK",
+              "initials": "SP",
+              "nameShort": "S PIEK",
+              "nameShort2": "PIEK",
+              "slug": "selena-piek",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Selena PIEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633663097/assets/players/thumbnail/67176.jpg"
+              }
+            },
+            {
+              "id": "66357",
+              "nameDisplay": "Robin TABELING",
+              "nameType": 0,
+              "firstName": "Robin",
+              "lastName": "TABELING",
+              "initials": "RT",
+              "nameShort": "R TABELING",
+              "nameShort2": "TABELING",
+              "slug": "robin-tabeling",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Robin TABELING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895414/assets/players/thumbnail/66357.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148473,
+        "code": "61",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "25831",
+              "nameDisplay": "Viktor AXELSEN",
+              "nameType": 0,
+              "firstName": "Viktor",
+              "lastName": "AXELSEN",
+              "initials": "VA",
+              "nameShort": "V AXELSEN",
+              "nameShort2": "AXELSEN",
+              "slug": "viktor-axelsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Viktor AXELSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697764072/assets/players/thumbnail/25831.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "76973",
+              "nameDisplay": "Mark CALJOUW",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "CALJOUW",
+              "initials": "MC",
+              "nameShort": "M CALJOUW",
+              "nameShort2": "CALJOUW",
+              "slug": "mark-caljouw",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Mark CALJOUW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1630995513/assets/players/thumbnail/76973.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": 54,
+        "time": "00:54",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148474,
+        "code": "62",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "91224",
+              "nameDisplay": "Mia BLICHFELDT",
+              "nameType": 0,
+              "firstName": "Mia",
+              "lastName": "BLICHFELDT",
+              "initials": "MB",
+              "nameShort": "M BLICHFELDT",
+              "nameShort2": "BLICHFELDT",
+              "slug": "mia-blichfeldt",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mia BLICHFELDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630981/assets/players/thumbnail/91224.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "89454",
+              "nameDisplay": "Gayle MAHULETTE",
+              "nameType": 0,
+              "firstName": "Gayle",
+              "lastName": "MAHULETTE",
+              "initials": "GM",
+              "nameShort": "G MAHULETTE",
+              "nameShort2": "MAHULETTE",
+              "slug": "gayle-mahulette",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gayle MAHULETTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896049/assets/players/thumbnail/89454.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1148475,
+        "code": "63",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "92980",
+              "nameDisplay": "Kim ASTRUP",
+              "nameType": 0,
+              "firstName": "Kim",
+              "lastName": "ASTRUP",
+              "initials": "KA",
+              "nameShort": "K ASTRUP",
+              "nameShort2": "ASTRUP",
+              "slug": "Kim-ASTRUP",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Kim ASTRUP",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636531494/assets/players/thumbnail/92980.jpg"
+              }
+            },
+            {
+              "id": "44414",
+              "nameDisplay": "Anders Skaarup RASMUSSEN",
+              "nameType": 0,
+              "firstName": "Anders Skaarup",
+              "lastName": "RASMUSSEN",
+              "initials": "AR",
+              "nameShort": "A RASMUSSEN",
+              "nameShort2": "RASMUSSEN",
+              "slug": "anders-skaarup-rasmussen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Anders Skaarup RASMUSSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636531127/assets/players/thumbnail/44414.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "93455",
+              "nameDisplay": "Jelle MAAS",
+              "nameType": 0,
+              "firstName": "Jelle",
+              "lastName": "MAAS",
+              "initials": "JM",
+              "nameShort": "J MAAS",
+              "nameShort2": "MAAS",
+              "slug": "jelle-maas",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Jelle MAAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897346/assets/players/thumbnail/93455.jpg"
+              }
+            },
+            {
+              "id": "66357",
+              "nameDisplay": "Robin TABELING",
+              "nameType": 0,
+              "firstName": "Robin",
+              "lastName": "TABELING",
+              "initials": "RT",
+              "nameShort": "R TABELING",
+              "nameShort2": "TABELING",
+              "slug": "robin-tabeling",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Robin TABELING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895414/assets/players/thumbnail/66357.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1148476,
+        "code": "64",
+        "tournamentCode": "0CF2AF97-D399-4AA4-B60D-698FE28E40EB",
+        "tournamentName": "2019 European Mixed Team Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "88779",
+              "nameDisplay": "Alexandra BØJE",
+              "nameType": 0,
+              "firstName": "Alexandra",
+              "lastName": "BØJE",
+              "initials": "AB",
+              "nameShort": "A BØJE",
+              "nameShort2": "BØJE",
+              "slug": "alexandra-boje",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Alexandra BØJE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1635909299/assets/players/thumbnail/88779.jpg"
+              }
+            },
+            {
+              "id": "70042",
+              "nameDisplay": "Maiken FRUERGAARD",
+              "nameType": 0,
+              "firstName": "Maiken",
+              "lastName": "FRUERGAARD",
+              "initials": "MF",
+              "nameShort": "M FRUERGAARD",
+              "nameShort2": "FRUERGAARD",
+              "slug": "maiken-fruergaard",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Maiken FRUERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631098/assets/players/thumbnail/70042.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "67176",
+              "nameDisplay": "Selena PIEK",
+              "nameType": 0,
+              "firstName": "Selena",
+              "lastName": "PIEK",
+              "initials": "SP",
+              "nameShort": "S PIEK",
+              "nameShort2": "PIEK",
+              "slug": "selena-piek",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Selena PIEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633663097/assets/players/thumbnail/67176.jpg"
+              }
+            },
+            {
+              "id": "70503",
+              "nameDisplay": "Cheryl SEINEN",
+              "nameType": 0,
+              "firstName": "Cheryl",
+              "lastName": "SEINEN",
+              "initials": "CS",
+              "nameShort": "C SEINEN",
+              "nameShort2": "SEINEN",
+              "slug": "cheryl-seinen",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Cheryl SEINEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895476/assets/players/thumbnail/70503.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-02-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2019 EMTC",
+        "roundName": "SF",
+        "drawName": "2019 EMTC",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Frederiksberg Hallerne",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

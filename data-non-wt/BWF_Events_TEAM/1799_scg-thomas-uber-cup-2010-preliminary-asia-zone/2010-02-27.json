@@ -1,0 +1,3266 @@
+[
+  {
+    "id": 159130,
+    "code": "200",
+    "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+    "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 3,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IND",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+      "teamId": 10,
+      "teamName": "India",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2010-02-27 09:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Thomas Cup",
+    "roundName": null,
+    "drawName": "Thomas Cup",
+    "drawCode": "11",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Gymnasium2000seats",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 159131,
+        "code": "382",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "50905",
+              "nameDisplay": "Sho SASAKI",
+              "nameType": 0,
+              "firstName": "Sho",
+              "lastName": "SASAKI",
+              "initials": "SS",
+              "nameShort": "S SASAKI",
+              "nameShort2": "SASAKI",
+              "slug": "sho-sasaki",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Sho SASAKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897065/assets/players/thumbnail/50905.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "11691",
+              "nameDisplay": "Chetan ANAND",
+              "nameType": 0,
+              "firstName": "Chetan",
+              "lastName": "ANAND",
+              "initials": "CA",
+              "nameShort": "C ANAND",
+              "nameShort2": "ANAND",
+              "slug": "chetan-anand",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Chetan ANAND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159132,
+        "code": "385",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "74326",
+              "nameDisplay": "Hirokatsu HASHIMOTO",
+              "nameType": 0,
+              "firstName": "Hirokatsu",
+              "lastName": "HASHIMOTO",
+              "initials": "HH",
+              "nameShort": "H HASHIMOTO",
+              "nameShort2": "HASHIMOTO",
+              "slug": "hirokatsu-hashimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Hirokatsu HASHIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897531/assets/players/thumbnail/74326.jpg"
+              }
+            },
+            {
+              "id": "15380",
+              "nameDisplay": "Noriyasu HIRATA",
+              "nameType": 0,
+              "firstName": "Noriyasu",
+              "lastName": "HIRATA",
+              "initials": "NH",
+              "nameShort": "N HIRATA",
+              "nameShort2": "HIRATA",
+              "slug": "noriyasu-hirata",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Noriyasu HIRATA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896932/assets/players/thumbnail/15380.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51370",
+              "nameDisplay": "Sanave THOMAS",
+              "nameType": 0,
+              "firstName": "Sanave",
+              "lastName": "THOMAS",
+              "initials": "ST",
+              "nameShort": "S THOMAS",
+              "nameShort2": "THOMAS",
+              "slug": "sanave-thomas",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Sanave THOMAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "14768",
+              "nameDisplay": "K. T. Rupesh Kumar",
+              "nameType": 1,
+              "firstName": "Rupesh Kumar",
+              "lastName": "K. T.",
+              "initials": "KR",
+              "nameShort": "K. T. R K ",
+              "nameShort2": "K. T.",
+              "slug": "k-t-rupesh-kumar",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "K. T. Rupesh Kumar",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 48,
+        "time": "00:48",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159133,
+        "code": "383",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54025",
+              "nameDisplay": "Kazushi YAMADA",
+              "nameType": 0,
+              "firstName": "Kazushi",
+              "lastName": "YAMADA",
+              "initials": "KY",
+              "nameShort": "K YAMADA",
+              "nameShort2": "YAMADA",
+              "slug": "kazushi-yamada",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kazushi YAMADA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897202/assets/players/thumbnail/54025.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "15319",
+              "nameDisplay": "Arvind BHAT",
+              "nameType": 0,
+              "firstName": "Arvind",
+              "lastName": "BHAT",
+              "initials": "AB",
+              "nameShort": "A BHAT",
+              "nameShort2": "BHAT",
+              "slug": "arvind-bhat",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Arvind BHAT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896160/assets/players/thumbnail/15319.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 46,
+        "time": "00:46",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159134,
+        "code": "386",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "53161",
+              "nameDisplay": "Kenta KAZUNO",
+              "nameType": 0,
+              "firstName": "Kenta",
+              "lastName": "KAZUNO",
+              "initials": "KK",
+              "nameShort": "K KAZUNO",
+              "nameShort2": "KAZUNO",
+              "slug": "kenta-kazuno",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenta KAZUNO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897170/assets/players/thumbnail/53161.jpg"
+              }
+            },
+            {
+              "id": "54527",
+              "nameDisplay": "Kenichi HAYAKAWA",
+              "nameType": 0,
+              "firstName": "Kenichi",
+              "lastName": "HAYAKAWA",
+              "initials": "KH",
+              "nameShort": "K HAYAKAWA",
+              "nameShort2": "HAYAKAWA",
+              "slug": "kenichi-hayakawa",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenichi HAYAKAWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897234/assets/players/thumbnail/54527.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51369",
+              "nameDisplay": "V. Diju",
+              "nameType": 1,
+              "firstName": "Diju",
+              "lastName": "V.",
+              "initials": "VD",
+              "nameShort": "V. D",
+              "nameShort2": "V.",
+              "slug": "v-diju",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "V. Diju",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55356",
+              "nameDisplay": "Akshay DEWALKAR",
+              "nameType": 0,
+              "firstName": "Akshay",
+              "lastName": "DEWALKAR",
+              "initials": "AD",
+              "nameShort": "A DEWALKAR",
+              "nameShort2": "DEWALKAR",
+              "slug": "akshay-dewalkar",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Akshay DEWALKAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894731/assets/players/thumbnail/55356.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159135,
+        "code": "384",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "50658",
+              "nameDisplay": "Shoji SATO",
+              "nameType": 0,
+              "firstName": "Shoji",
+              "lastName": "SATO",
+              "initials": "SS",
+              "nameShort": "S SATO",
+              "nameShort2": "SATO",
+              "slug": "shoji-sato",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Shoji SATO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51310",
+              "nameDisplay": "Anup SRIDHAR",
+              "nameType": 0,
+              "firstName": "Anup",
+              "lastName": "SRIDHAR",
+              "initials": "AS",
+              "nameShort": "A SRIDHAR",
+              "nameShort2": "SRIDHAR",
+              "slug": "anup-sridhar",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Anup SRIDHAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 22,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 158962,
+    "code": "53",
+    "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+    "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 3,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2010-02-27 13:30:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Uber Cup",
+    "roundName": null,
+    "drawName": "Uber Cup",
+    "drawCode": "3",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Gymnasium2000seats",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 158963,
+        "code": "43",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51396",
+              "nameDisplay": "BAE Seung Hee",
+              "nameType": 1,
+              "firstName": "Seung Hee",
+              "lastName": "BAE",
+              "initials": "BS",
+              "nameShort": "BAE S H ",
+              "nameShort2": "BAE",
+              "slug": "bae-seung-hee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "BAE Seung Hee",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54531",
+              "nameDisplay": "Ai GOTO",
+              "nameType": 0,
+              "firstName": "Ai",
+              "lastName": "GOTO",
+              "initials": "AG",
+              "nameShort": "A GOTO",
+              "nameShort2": "GOTO",
+              "slug": "ai-goto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Ai GOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 158964,
+        "code": "44",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "15412",
+              "nameDisplay": "HA Jung Eun",
+              "nameType": 1,
+              "firstName": "Jung Eun",
+              "lastName": "HA",
+              "initials": "HJ",
+              "nameShort": "HA J E ",
+              "nameShort2": "HA",
+              "slug": "ha-jung-eun",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "HA Jung Eun",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896935/assets/players/thumbnail/15412.jpg"
+              }
+            },
+            {
+              "id": "8245",
+              "nameDisplay": "LEE Kyung Won",
+              "nameType": 1,
+              "firstName": "Kyung Won",
+              "lastName": "LEE",
+              "initials": "LK",
+              "nameShort": "LEE K W ",
+              "nameShort2": "LEE",
+              "slug": "lee-kyung-won",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "LEE Kyung Won",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896827/assets/players/thumbnail/8245.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54533",
+              "nameDisplay": "Mizuki FUJII",
+              "nameType": 0,
+              "firstName": "Mizuki",
+              "lastName": "FUJII",
+              "initials": "MF",
+              "nameShort": "M FUJII",
+              "nameShort2": "FUJII",
+              "slug": "mizuki-fujii",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Mizuki FUJII",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897236/assets/players/thumbnail/54533.jpg"
+              }
+            },
+            {
+              "id": "70308",
+              "nameDisplay": "Reika KAKIIWA",
+              "nameType": 0,
+              "firstName": "Reika",
+              "lastName": "KAKIIWA",
+              "initials": "RK",
+              "nameShort": "R KAKIIWA",
+              "nameShort2": "KAKIIWA",
+              "slug": "reika-kakiiwa",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Reika KAKIIWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897566/assets/players/thumbnail/70308.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 158965,
+        "code": "158",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "22455",
+              "nameDisplay": "BAE Yeon Ju",
+              "nameType": 1,
+              "firstName": "Yeon Ju",
+              "lastName": "BAE",
+              "initials": "BY",
+              "nameShort": "BAE Y J ",
+              "nameShort2": "BAE",
+              "slug": "bae-yeon-ju",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "BAE Yeon Ju",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896965/assets/players/thumbnail/22455.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "77317",
+              "nameDisplay": "Sayaka SATO",
+              "nameType": 0,
+              "firstName": "Sayaka",
+              "lastName": "SATO",
+              "initials": "SS",
+              "nameShort": "S SATO",
+              "nameShort2": "SATO",
+              "slug": "sayaka-sato",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Sayaka SATO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895541/assets/players/thumbnail/77317.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 158966,
+        "code": "160",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "12193",
+              "nameDisplay": "LEE Hyo Jung",
+              "nameType": 1,
+              "firstName": "Hyo Jung",
+              "lastName": "LEE",
+              "initials": "LH",
+              "nameShort": "LEE H J ",
+              "nameShort2": "LEE",
+              "slug": "lee-hyo-jung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "LEE Hyo Jung",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896867/assets/players/thumbnail/12193.jpg"
+              }
+            },
+            {
+              "id": "16745",
+              "nameDisplay": "JUNG Kyung Eun",
+              "nameType": 1,
+              "firstName": "Kyung Eun",
+              "lastName": "JUNG",
+              "initials": "JK",
+              "nameShort": "JUNG K E ",
+              "nameShort2": "JUNG",
+              "slug": "kyung-eun-jung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Kyung Eun JUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896951/assets/players/thumbnail/16745.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "53150",
+              "nameDisplay": "Miyuki MAEDA",
+              "nameType": 0,
+              "firstName": "Miyuki",
+              "lastName": "MAEDA",
+              "initials": "MM",
+              "nameShort": "M MAEDA",
+              "nameShort2": "MAEDA",
+              "slug": "miyuki-maeda",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Miyuki MAEDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897165/assets/players/thumbnail/53150.jpg"
+              }
+            },
+            {
+              "id": "50267",
+              "nameDisplay": "Satoko SUETSUNA",
+              "nameType": 0,
+              "firstName": "Satoko",
+              "lastName": "SUETSUNA",
+              "initials": "SS",
+              "nameShort": "S SUETSUNA",
+              "nameShort2": "SUETSUNA",
+              "slug": "satoko-suetsuna",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Satoko SUETSUNA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897054/assets/players/thumbnail/50267.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 158967,
+        "code": "159",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "76594",
+              "nameDisplay": "SUNG Jihyun",
+              "nameType": 1,
+              "firstName": "Jihyun",
+              "lastName": "SUNG",
+              "initials": "SJ",
+              "nameShort": "SUNG J",
+              "nameShort2": "SUNG",
+              "slug": "jihyun-sung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Jihyun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897520/assets/players/thumbnail/76594.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "15417",
+              "nameDisplay": "Eriko HIROSE",
+              "nameType": 0,
+              "firstName": "Eriko",
+              "lastName": "HIROSE",
+              "initials": "EH",
+              "nameShort": "E HIROSE",
+              "nameShort2": "HIROSE",
+              "slug": "eriko-hirose",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Eriko HIROSE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896937/assets/players/thumbnail/15417.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 159142,
+    "code": "178",
+    "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+    "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "IDN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IDN.png",
+      "teamId": 5,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2010-02-27 17:30:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Thomas Cup",
+    "roundName": null,
+    "drawName": "Thomas Cup",
+    "drawCode": "11",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Gymnasium2000seats",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 159143,
+        "code": "362",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "10337",
+              "nameDisplay": "Taufik HIDAYAT",
+              "nameType": 0,
+              "firstName": "Taufik",
+              "lastName": "HIDAYAT",
+              "initials": "TH",
+              "nameShort": "T HIDAYAT",
+              "nameShort2": "HIDAYAT",
+              "slug": "taufik-hidayat",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Taufik HIDAYAT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894907/assets/players/thumbnail/10337.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51324",
+              "nameDisplay": "PARK Sung Hwan",
+              "nameType": 1,
+              "firstName": "Sung Hwan",
+              "lastName": "PARK",
+              "initials": "PS",
+              "nameShort": "PARK S H ",
+              "nameShort2": "PARK",
+              "slug": "park-sung-hwan",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "PARK Sung Hwan",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897079/assets/players/thumbnail/51324.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 17:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159144,
+        "code": "365",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "50420",
+              "nameDisplay": "Markis KIDO",
+              "nameType": 0,
+              "firstName": "Markis",
+              "lastName": "KIDO",
+              "initials": "MK",
+              "nameShort": "M KIDO",
+              "nameShort2": "KIDO",
+              "slug": "markis-kido",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Markis KIDO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894942/assets/players/thumbnail/50420.jpg"
+              }
+            },
+            {
+              "id": "11354",
+              "nameDisplay": "Alvent Yulianto CHANDRA",
+              "nameType": 0,
+              "firstName": "Alvent Yulianto",
+              "lastName": "CHANDRA",
+              "initials": "AC",
+              "nameShort": "A CHANDRA",
+              "nameShort2": "CHANDRA",
+              "slug": "alvent-yulianto-chandra",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Alvent Yulianto CHANDRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894913/assets/players/thumbnail/11354.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "88094",
+              "nameDisplay": "KO Sung Hyun",
+              "nameType": 1,
+              "firstName": "Sung Hyun",
+              "lastName": "KO",
+              "initials": "KS",
+              "nameShort": "KO S H ",
+              "nameShort2": "KO",
+              "slug": "sung-hyun-ko",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sung Hyun KO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637048793/assets/players/thumbnail/88094.jpg"
+              }
+            },
+            {
+              "id": "52273",
+              "nameDisplay": "YOO Yeon Seong",
+              "nameType": 1,
+              "firstName": "Yeon Seong",
+              "lastName": "YOO",
+              "initials": "YY",
+              "nameShort": "YOO Y S ",
+              "nameShort2": "YOO",
+              "slug": "yoo-yeon-seong",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "YOO Yeon Seong",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897119/assets/players/thumbnail/52273.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 17:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159145,
+        "code": "363",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "50427",
+              "nameDisplay": "Sony Dwi KUNCORO",
+              "nameType": 0,
+              "firstName": "Sony Dwi",
+              "lastName": "KUNCORO",
+              "initials": "SK",
+              "nameShort": "S KUNCORO",
+              "nameShort2": "KUNCORO",
+              "slug": "sony-dwi-kuncoro",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Sony Dwi KUNCORO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894944/assets/players/thumbnail/50427.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "84007",
+              "nameDisplay": "KIM Sa Rang",
+              "nameType": 1,
+              "firstName": "Sa Rang",
+              "lastName": "KIM",
+              "initials": "KS",
+              "nameShort": "KIM S R ",
+              "nameShort2": "KIM",
+              "slug": "sa-rang-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sa Rang KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897480/assets/players/thumbnail/84007.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 17:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159146,
+        "code": "366",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51625",
+              "nameDisplay": "Rian SUKMAWAN",
+              "nameType": 0,
+              "firstName": "Rian",
+              "lastName": "SUKMAWAN",
+              "initials": "RS",
+              "nameShort": "R SUKMAWAN",
+              "nameShort2": "SUKMAWAN",
+              "slug": "rian-sukmawan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Rian SUKMAWAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "15826",
+              "nameDisplay": "Yonathan Suryatama DASUKI",
+              "nameType": 0,
+              "firstName": "Yonathan Suryatama",
+              "lastName": "DASUKI",
+              "initials": "YD",
+              "nameShort": "Y DASUKI",
+              "nameShort2": "DASUKI",
+              "slug": "yonathan-suryatama-dasuki",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Yonathan Suryatama DASUKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51328",
+              "nameDisplay": "HWANG Ji Man",
+              "nameType": 1,
+              "firstName": "Ji Man",
+              "lastName": "HWANG",
+              "initials": "HJ",
+              "nameShort": "HWANG J M ",
+              "nameShort2": "HWANG",
+              "slug": "hwang-ji-man",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "HWANG Ji Man",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897082/assets/players/thumbnail/51328.jpg"
+              }
+            },
+            {
+              "id": "39276",
+              "nameDisplay": "KIM Gi Jung",
+              "nameType": 1,
+              "firstName": "Gi Jung",
+              "lastName": "KIM",
+              "initials": "KG",
+              "nameShort": "KIM G J ",
+              "nameShort2": "KIM",
+              "slug": "gi-jung-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Gi Jung KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1590501423/assets/players/thumbnail/39276.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 17:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159147,
+        "code": "364",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51599",
+              "nameDisplay": "Simon SANTOSO",
+              "nameType": 0,
+              "firstName": "Simon",
+              "lastName": "SANTOSO",
+              "initials": "SS",
+              "nameShort": "S SANTOSO",
+              "nameShort2": "SANTOSO",
+              "slug": "simon-santoso",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Simon SANTOSO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894950/assets/players/thumbnail/51599.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "70797",
+              "nameDisplay": "CHOI Ho Jin",
+              "nameType": 1,
+              "firstName": "Ho Jin",
+              "lastName": "CHOI",
+              "initials": "CH",
+              "nameShort": "CHOI H J ",
+              "nameShort2": "CHOI",
+              "slug": "choi-ho-jin",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "CHOI Ho Jin",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 17:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gymnasium2000seats",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 159136,
+    "code": "193",
+    "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+    "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 8,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "HKG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+      "teamId": 282,
+      "teamName": "HONGKONG CHINA",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2010-02-27 09:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Thomas Cup",
+    "roundName": null,
+    "drawName": "Thomas Cup",
+    "drawCode": "11",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Gymnasium2000seats",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 159137,
+        "code": "377",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52983",
+              "nameDisplay": "HSUEH Hsuan Yi",
+              "nameType": 1,
+              "firstName": "Hsuan Yi",
+              "lastName": "HSUEH",
+              "initials": "HH",
+              "nameShort": "HSUEH H Y ",
+              "nameShort2": "HSUEH",
+              "slug": "hsueh-hsuan-yi",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "HSUEH Hsuan Yi",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895118/assets/players/thumbnail/52983.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14869",
+              "nameDisplay": "HU Yun",
+              "nameType": 1,
+              "firstName": "Yun",
+              "lastName": "HU",
+              "initials": "HY",
+              "nameShort": "HU Y",
+              "nameShort2": "HU",
+              "slug": "hu-yun",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "HU Yun",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896908/assets/players/thumbnail/14869.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159138,
+        "code": "378",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "67100",
+              "nameDisplay": "HSU Jen Hao",
+              "nameType": 1,
+              "firstName": "Jen Hao",
+              "lastName": "HSU",
+              "initials": "HJ",
+              "nameShort": "HSU J H ",
+              "nameShort2": "HSU",
+              "slug": "hsu-jen-hao",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "HSU Jen Hao",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897574/assets/players/thumbnail/67100.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51306",
+              "nameDisplay": "CHAN Yan Kit",
+              "nameType": 1,
+              "firstName": "Yan Kit",
+              "lastName": "CHAN",
+              "initials": "CY",
+              "nameShort": "CHAN Y K ",
+              "nameShort2": "CHAN",
+              "slug": "chan-yan-kit",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "CHAN Yan Kit",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897077/assets/players/thumbnail/51306.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159139,
+        "code": "379",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "34810",
+              "nameDisplay": "CHOU Tien Chen",
+              "nameType": 1,
+              "firstName": "Tien Chen",
+              "lastName": "CHOU",
+              "initials": "CT",
+              "nameShort": "CHOU T C ",
+              "nameShort2": "CHOU",
+              "slug": "tien-chen-chou",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Tien Chen CHOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658715713/assets/players/thumbnail/34810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "NZL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "3907",
+              "nameDisplay": "CHAN Alan Yun Lung",
+              "nameType": 1,
+              "firstName": "Alan Yun Lung",
+              "lastName": "CHAN",
+              "initials": "CA",
+              "nameShort": "CHAN A Y L ",
+              "nameShort2": "CHAN",
+              "slug": "chan-alan-yun-lung",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Alan Yun Lung CHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896790/assets/players/thumbnail/3907.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 159140,
+        "code": "380",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "13189",
+              "nameDisplay": "TSAI Chia Hsin",
+              "nameType": 1,
+              "firstName": "Chia Hsin",
+              "lastName": "TSAI",
+              "initials": "TC",
+              "nameShort": "TSAI C H ",
+              "nameShort2": "TSAI",
+              "slug": "tsai-chia-hsin",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "TSAI Chia Hsin",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896878/assets/players/thumbnail/13189.jpg"
+              }
+            },
+            {
+              "id": "7285",
+              "nameDisplay": "HU Chung Shien",
+              "nameType": 1,
+              "firstName": "Chung Shien",
+              "lastName": "HU",
+              "initials": "HC",
+              "nameShort": "HU C S ",
+              "nameShort2": "HU",
+              "slug": "hu-chung-shien",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "HU Chung Shien",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52925",
+              "nameDisplay": "LEUNG Chun Yiu",
+              "nameType": 1,
+              "firstName": "Chun Yiu",
+              "lastName": "LEUNG",
+              "initials": "LC",
+              "nameShort": "LEUNG C Y ",
+              "nameShort2": "LEUNG",
+              "slug": "leung-chun-yiu",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "LEUNG Chun Yiu",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55291",
+              "nameDisplay": "LO Lok Kei",
+              "nameType": 1,
+              "firstName": "Lok Kei",
+              "lastName": "LO",
+              "initials": "LL",
+              "nameShort": "LO L K ",
+              "nameShort2": "LO",
+              "slug": "lo-lok-kei",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "LO Lok Kei",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 159141,
+        "code": "381",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "67100",
+              "nameDisplay": "HSU Jen Hao",
+              "nameType": 1,
+              "firstName": "Jen Hao",
+              "lastName": "HSU",
+              "initials": "HJ",
+              "nameShort": "HSU J H ",
+              "nameShort2": "HSU",
+              "slug": "hsu-jen-hao",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "HSU Jen Hao",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897574/assets/players/thumbnail/67100.jpg"
+              }
+            },
+            {
+              "id": "53614",
+              "nameDisplay": "LIN Yu Lang",
+              "nameType": 1,
+              "firstName": "Yu Lang",
+              "lastName": "LIN",
+              "initials": "LY",
+              "nameShort": "LIN Y L ",
+              "nameShort2": "LIN",
+              "slug": "lin-yu-lang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "LIN Yu Lang",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": null,
+          "countryFlagUrl": null,
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51306",
+              "nameDisplay": "CHAN Yan Kit",
+              "nameType": 1,
+              "firstName": "Yan Kit",
+              "lastName": "CHAN",
+              "initials": "CY",
+              "nameShort": "CHAN Y K ",
+              "nameShort2": "CHAN",
+              "slug": "chan-yan-kit",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "CHAN Yan Kit",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897077/assets/players/thumbnail/51306.jpg"
+              }
+            },
+            {
+              "id": "3907",
+              "nameDisplay": "CHAN Alan Yun Lung",
+              "nameType": 1,
+              "firstName": "Alan Yun Lung",
+              "lastName": "CHAN",
+              "initials": "CA",
+              "nameShort": "CHAN A Y L ",
+              "nameShort2": "CHAN",
+              "slug": "chan-alan-yun-lung",
+              "countryCode": "NZL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NZL.png",
+              "avatar": {
+                "title": "Alan Yun Lung CHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896790/assets/players/thumbnail/3907.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Thomas Cup",
+        "roundName": null,
+        "drawName": "Thomas Cup",
+        "drawCode": "11",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 158956,
+    "code": "52",
+    "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+    "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "IDN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IDN.png",
+      "teamId": 5,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IND",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+      "teamId": 10,
+      "teamName": "India",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2010-02-27 13:30:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Uber Cup",
+    "roundName": null,
+    "drawName": "Uber Cup",
+    "drawCode": "3",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Gymnasium2000seats",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 158957,
+        "code": "41",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14710",
+              "nameDisplay": "Adrianti FIRDASARI",
+              "nameType": 0,
+              "firstName": "Adrianti",
+              "lastName": "FIRDASARI",
+              "initials": "AF",
+              "nameShort": "A FIRDASARI",
+              "nameShort2": "FIRDASARI",
+              "slug": "adrianti-firdasari",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Adrianti FIRDASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894921/assets/players/thumbnail/14710.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52748",
+              "nameDisplay": "Saina NEHWAL",
+              "nameType": 0,
+              "firstName": "Saina",
+              "lastName": "NEHWAL",
+              "initials": "SN",
+              "nameShort": "S NEHWAL",
+              "nameShort2": "NEHWAL",
+              "slug": "saina-nehwal",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Saina NEHWAL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657874213/assets/players/thumbnail/52748.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 158958,
+        "code": "42",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14729",
+              "nameDisplay": "Greysia POLII",
+              "nameType": 0,
+              "firstName": "Greysia",
+              "lastName": "POLII",
+              "initials": "GP",
+              "nameShort": "G POLII",
+              "nameShort2": "POLII",
+              "slug": "greysia-polii",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Greysia POLII",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627950703/assets/players/thumbnail/14729.jpg"
+              }
+            },
+            {
+              "id": "54272",
+              "nameDisplay": "Nitya Krishinda MAHESWARI",
+              "nameType": 0,
+              "firstName": "Nitya Krishinda",
+              "lastName": "MAHESWARI",
+              "initials": "NM",
+              "nameShort": "N MAHESWARI",
+              "nameShort2": "MAHESWARI",
+              "slug": "nitya-krishinda-maheswari",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Nitya Krishinda MAHESWARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894968/assets/players/thumbnail/54272.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51651",
+              "nameDisplay": "Aparna BALAN",
+              "nameType": 0,
+              "firstName": "Aparna",
+              "lastName": "BALAN",
+              "initials": "AB",
+              "nameShort": "A BALAN",
+              "nameShort2": "BALAN",
+              "slug": "aparna-balan",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Aparna BALAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896285/assets/players/thumbnail/51651.jpg"
+              }
+            },
+            {
+              "id": "13711",
+              "nameDisplay": "Shruti KURIEN",
+              "nameType": 0,
+              "firstName": "Shruti",
+              "lastName": "KURIEN",
+              "initials": "SK",
+              "nameShort": "S KURIEN",
+              "nameShort2": "KURIEN",
+              "slug": "shruti-kurien",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Shruti KURIEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 158959,
+        "code": "155",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14711",
+              "nameDisplay": "Maria Kristin YULIANTI",
+              "nameType": 0,
+              "firstName": "Maria Kristin",
+              "lastName": "YULIANTI",
+              "initials": "MY",
+              "nameShort": "M YULIANTI",
+              "nameShort2": "YULIANTI",
+              "slug": "maria-kristin-yulianti",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Maria Kristin YULIANTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894923/assets/players/thumbnail/14711.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "53962",
+              "nameDisplay": "Sayali GOKHALE",
+              "nameType": 0,
+              "firstName": "Sayali",
+              "lastName": "GOKHALE",
+              "initials": "SG",
+              "nameShort": "S GOKHALE",
+              "nameShort2": "GOKHALE",
+              "slug": "sayali-gokhale",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Sayali GOKHALE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 158960,
+        "code": "157",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "15813",
+              "nameDisplay": "Shendy Puspa IRAWATI",
+              "nameType": 0,
+              "firstName": "Shendy Puspa",
+              "lastName": "IRAWATI",
+              "initials": "SI",
+              "nameShort": "S IRAWATI",
+              "nameShort2": "IRAWATI",
+              "slug": "shendy-puspa-irawati",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Shendy Puspa IRAWATI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894927/assets/players/thumbnail/15813.jpg"
+              }
+            },
+            {
+              "id": "14727",
+              "nameDisplay": "Liliyana NATSIR",
+              "nameType": 0,
+              "firstName": "Liliyana",
+              "lastName": "NATSIR",
+              "initials": "LN",
+              "nameShort": "L NATSIR",
+              "nameShort2": "NATSIR",
+              "slug": "liliyana-natsir",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Liliyana NATSIR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895051/assets/players/thumbnail/14727.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "50884",
+              "nameDisplay": "Jwala GUTTA",
+              "nameType": 0,
+              "firstName": "Jwala",
+              "lastName": "GUTTA",
+              "initials": "JG",
+              "nameShort": "J GUTTA",
+              "nameShort2": "GUTTA",
+              "slug": "jwala-gutta",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Jwala GUTTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894724/assets/players/thumbnail/50884.jpg"
+              }
+            },
+            {
+              "id": "49765",
+              "nameDisplay": "Ashwini PONNAPPA",
+              "nameType": 0,
+              "firstName": "Ashwini",
+              "lastName": "PONNAPPA",
+              "initials": "AP",
+              "nameShort": "A PONNAPPA",
+              "nameShort2": "PONNAPPA",
+              "slug": "ashwini-ponnappa",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Ashwini PONNAPPA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631224/assets/players/thumbnail/49765.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 158961,
+        "code": "156",
+        "tournamentCode": "2157EAE5-4152-43EE-9E2B-5B15F230316E",
+        "tournamentName": "SCG Thomas&Uber Cup 2010 Preliminary Asia Zone",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "15828",
+              "nameDisplay": "Aprillia YUSWANDARI",
+              "nameType": 0,
+              "firstName": "Aprillia",
+              "lastName": "YUSWANDARI",
+              "initials": "AY",
+              "nameShort": "A YUSWANDARI",
+              "nameShort2": "YUSWANDARI",
+              "slug": "aprillia-yuswandari",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Aprillia YUSWANDARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894929/assets/players/thumbnail/15828.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "13710",
+              "nameDisplay": "Trupti MURGUNDE",
+              "nameType": 0,
+              "firstName": "Trupti",
+              "lastName": "MURGUNDE",
+              "initials": "TM",
+              "nameShort": "T MURGUNDE",
+              "nameShort2": "MURGUNDE",
+              "slug": "trupti-murgunde",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Trupti MURGUNDE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2010-02-27 13:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Uber Cup",
+        "roundName": null,
+        "drawName": "Uber Cup",
+        "drawCode": "3",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Gymnasium2000seats",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

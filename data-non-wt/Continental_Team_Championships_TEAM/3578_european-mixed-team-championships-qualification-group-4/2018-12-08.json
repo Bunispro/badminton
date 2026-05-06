@@ -1,0 +1,1338 @@
+[
+  {
+    "id": 1140774,
+    "code": "16",
+    "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+    "tournamentName": "European Mixed Team Championships Qualification Group 4",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "EST",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+      "teamId": 43,
+      "teamName": "Estonia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FRO",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+      "teamId": 131,
+      "teamName": "Faroe Islands",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2018-12-08 13:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC Qualification Group 4",
+    "roundName": "R2",
+    "drawName": "EMTC Qualification Group 4",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1140779,
+        "code": "30",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": 43,
+          "teamName": "Estonia",
+          "players": [
+            {
+              "id": "54753",
+              "nameDisplay": "Raul KÄSNER",
+              "nameType": 0,
+              "firstName": "Raul",
+              "lastName": "KÄSNER",
+              "initials": "RK",
+              "nameShort": "R KÄSNER",
+              "nameShort2": "KÄSNER",
+              "slug": "raul-kasner",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Raul KÄSNER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "66267",
+              "nameDisplay": "Kati-Kreet KÄSNER",
+              "nameType": 0,
+              "firstName": "Kati-Kreet",
+              "lastName": "KÄSNER",
+              "initials": "KK",
+              "nameShort": "K KÄSNER",
+              "nameShort2": "KÄSNER",
+              "slug": "kati-kreet-kasner",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kati-Kreet KÄSNER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+          "teamId": 131,
+          "teamName": "Faroe Islands",
+          "players": [
+            {
+              "id": "56857",
+              "nameDisplay": "Rannva Djurhuus CARLSSON",
+              "nameType": 0,
+              "firstName": "Rannva Djurhuus",
+              "lastName": "CARLSSON",
+              "initials": "RC",
+              "nameShort": "R CARLSSON",
+              "nameShort2": "CARLSSON",
+              "slug": "rannva-djurhuus-carlsson",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Rannva Djurhuus CARLSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "60189",
+              "nameDisplay": "Niclas Hojgaard EYSTUROY",
+              "nameType": 0,
+              "firstName": "Niclas Hojgaard",
+              "lastName": "EYSTUROY",
+              "initials": "NE",
+              "nameShort": "N EYSTUROY",
+              "nameShort2": "EYSTUROY",
+              "slug": "niclas-hojgaard-eysturoy",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Niclas Hojgaard EYSTUROY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140775,
+        "code": "26",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": 43,
+          "teamName": "Estonia",
+          "players": [
+            {
+              "id": "51531",
+              "nameDisplay": "Raul MUST",
+              "nameType": 0,
+              "firstName": "Raul",
+              "lastName": "MUST",
+              "initials": "RM",
+              "nameShort": "R MUST",
+              "nameShort2": "MUST",
+              "slug": "raul-must",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Raul MUST",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897086/assets/players/thumbnail/51531.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+          "teamId": 131,
+          "teamName": "Faroe Islands",
+          "players": [
+            {
+              "id": "96562",
+              "nameDisplay": "Bartal POULSEN",
+              "nameType": 0,
+              "firstName": "Bartal",
+              "lastName": "POULSEN",
+              "initials": "BP",
+              "nameShort": "B POULSEN",
+              "nameShort2": "POULSEN",
+              "slug": "bartal-poulsen",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Bartal POULSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140776,
+        "code": "27",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": 43,
+          "teamName": "Estonia",
+          "players": [
+            {
+              "id": "73015",
+              "nameDisplay": "Kristin KUUBA",
+              "nameType": 0,
+              "firstName": "Kristin",
+              "lastName": "KUUBA",
+              "initials": "KK",
+              "nameShort": "K KUUBA",
+              "nameShort2": "KUUBA",
+              "slug": "kristin-kuuba",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kristin KUUBA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900226/assets/players/thumbnail/73015.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+          "teamId": 131,
+          "teamName": "Faroe Islands",
+          "players": [
+            {
+              "id": "98424",
+              "nameDisplay": "Gunnva JACOBSEN",
+              "nameType": 0,
+              "firstName": "Gunnva",
+              "lastName": "JACOBSEN",
+              "initials": "GJ",
+              "nameShort": "G JACOBSEN",
+              "nameShort2": "JACOBSEN",
+              "slug": "gunnva-jacobsen",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Gunnva JACOBSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140777,
+        "code": "28",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": 43,
+          "teamName": "Estonia",
+          "players": [
+            {
+              "id": "68926",
+              "nameDisplay": "Kristjan KALJURAND",
+              "nameType": 0,
+              "firstName": "Kristjan",
+              "lastName": "KALJURAND",
+              "initials": "KK",
+              "nameShort": "K KALJURAND",
+              "nameShort2": "KALJURAND",
+              "slug": "kristjan-kaljurand",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kristjan KALJURAND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "54753",
+              "nameDisplay": "Raul KÄSNER",
+              "nameType": 0,
+              "firstName": "Raul",
+              "lastName": "KÄSNER",
+              "initials": "RK",
+              "nameShort": "R KÄSNER",
+              "nameShort2": "KÄSNER",
+              "slug": "raul-kasner",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Raul KÄSNER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+          "teamId": 131,
+          "teamName": "Faroe Islands",
+          "players": [
+            {
+              "id": "60189",
+              "nameDisplay": "Niclas Hojgaard EYSTUROY",
+              "nameType": 0,
+              "firstName": "Niclas Hojgaard",
+              "lastName": "EYSTUROY",
+              "initials": "NE",
+              "nameShort": "N EYSTUROY",
+              "nameShort2": "EYSTUROY",
+              "slug": "niclas-hojgaard-eysturoy",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Niclas Hojgaard EYSTUROY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67841",
+              "nameDisplay": "Benjamin GUNNARSTEIN",
+              "nameType": 0,
+              "firstName": "Benjamin",
+              "lastName": "GUNNARSTEIN",
+              "initials": "BG",
+              "nameShort": "B GUNNARSTEIN",
+              "nameShort2": "GUNNARSTEIN",
+              "slug": "benjamin-gunnarstein",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Benjamin GUNNARSTEIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140778,
+        "code": "29",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": 43,
+          "teamName": "Estonia",
+          "players": [
+            {
+              "id": "66267",
+              "nameDisplay": "Kati-Kreet KÄSNER",
+              "nameType": 0,
+              "firstName": "Kati-Kreet",
+              "lastName": "KÄSNER",
+              "initials": "KK",
+              "nameShort": "K KÄSNER",
+              "nameShort2": "KÄSNER",
+              "slug": "kati-kreet-kasner",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kati-Kreet KÄSNER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "75821",
+              "nameDisplay": "Helina RÜÜTEL",
+              "nameType": 0,
+              "firstName": "Helina",
+              "lastName": "RÜÜTEL",
+              "initials": "HR",
+              "nameShort": "H RÜÜTEL",
+              "nameShort2": "RÜÜTEL",
+              "slug": "helina-ruutel",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Helina RÜÜTEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899273/assets/players/thumbnail/75821.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+          "teamId": 131,
+          "teamName": "Faroe Islands",
+          "players": [
+            {
+              "id": "56857",
+              "nameDisplay": "Rannva Djurhuus CARLSSON",
+              "nameType": 0,
+              "firstName": "Rannva Djurhuus",
+              "lastName": "CARLSSON",
+              "initials": "RC",
+              "nameShort": "R CARLSSON",
+              "nameShort2": "CARLSSON",
+              "slug": "rannva-djurhuus-carlsson",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Rannva Djurhuus CARLSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "99184",
+              "nameDisplay": "Kristina ERIKSEN",
+              "nameType": 0,
+              "firstName": "Kristina",
+              "lastName": "ERIKSEN",
+              "initials": "KE",
+              "nameShort": "K ERIKSEN",
+              "nameShort2": "ERIKSEN",
+              "slug": "kristina-eriksen",
+              "countryCode": "FRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRO.png",
+              "avatar": {
+                "title": "Kristina ERIKSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 13:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1140780,
+    "code": "8",
+    "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+    "tournamentName": "European Mixed Team Championships Qualification Group 4",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 15,
+      "teamName": "France",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SVK",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+      "teamId": 50,
+      "teamName": "Slovakia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2018-12-08 17:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC Qualification Group 4",
+    "roundName": "R2",
+    "drawName": "EMTC Qualification Group 4",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1140785,
+        "code": "5",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "70762",
+              "nameDisplay": "Delphine DELRUE",
+              "nameType": 0,
+              "firstName": "Delphine",
+              "lastName": "DELRUE",
+              "initials": "DD",
+              "nameShort": "D DELRUE",
+              "nameShort2": "DELRUE",
+              "slug": "delphine-delrue",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Delphine DELRUE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895480/assets/players/thumbnail/70762.jpg"
+              }
+            },
+            {
+              "id": "68544",
+              "nameDisplay": "Thom GICQUEL",
+              "nameType": 0,
+              "firstName": "Thom",
+              "lastName": "GICQUEL",
+              "initials": "TG",
+              "nameShort": "T GICQUEL",
+              "nameShort2": "GICQUEL",
+              "slug": "thom-gicquel",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Thom GICQUEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895451/assets/players/thumbnail/68544.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": 50,
+          "teamName": "Slovakia",
+          "players": [
+            {
+              "id": "75188",
+              "nameDisplay": "Martina REPISKA",
+              "nameType": 0,
+              "firstName": "Martina",
+              "lastName": "REPISKA",
+              "initials": "MR",
+              "nameShort": "M REPISKA",
+              "nameShort2": "REPISKA",
+              "slug": "martina-repiska",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Martina REPISKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899181/assets/players/thumbnail/75188.jpg"
+              }
+            },
+            {
+              "id": "30856",
+              "nameDisplay": "Juraj VACHALEK",
+              "nameType": 0,
+              "firstName": "Juraj",
+              "lastName": "VACHALEK",
+              "initials": "JV",
+              "nameShort": "J VACHALEK",
+              "nameShort2": "VACHALEK",
+              "slug": "juraj-vachalek",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Juraj VACHALEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 25,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140781,
+        "code": "1",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "61628",
+              "nameDisplay": "Toma Junior POPOV",
+              "nameType": 0,
+              "firstName": "Toma Junior",
+              "lastName": "POPOV",
+              "initials": "TP",
+              "nameShort": "T POPOV",
+              "nameShort2": "POPOV",
+              "slug": "toma-junior-popov",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Toma Junior POPOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991294/assets/players/thumbnail/61628.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": 50,
+          "teamName": "Slovakia",
+          "players": [
+            {
+              "id": "68819",
+              "nameDisplay": "Milan DRATVA",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "DRATVA",
+              "initials": "MD",
+              "nameShort": "M DRATVA",
+              "nameShort2": "DRATVA",
+              "slug": "milan-dratva",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Milan DRATVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899202/assets/players/thumbnail/68819.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140782,
+        "code": "2",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "94743",
+              "nameDisplay": "Marie BATOMENE",
+              "nameType": 0,
+              "firstName": "Marie",
+              "lastName": "BATOMENE",
+              "initials": "MB",
+              "nameShort": "M BATOMENE",
+              "nameShort2": "BATOMENE",
+              "slug": "marie-batomene",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Marie BATOMENE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899205/assets/players/thumbnail/94743.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": 50,
+          "teamName": "Slovakia",
+          "players": [
+            {
+              "id": "75188",
+              "nameDisplay": "Martina REPISKA",
+              "nameType": 0,
+              "firstName": "Martina",
+              "lastName": "REPISKA",
+              "initials": "MR",
+              "nameShort": "M REPISKA",
+              "nameShort2": "REPISKA",
+              "slug": "martina-repiska",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Martina REPISKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899181/assets/players/thumbnail/75188.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140783,
+        "code": "3",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "68544",
+              "nameDisplay": "Thom GICQUEL",
+              "nameType": 0,
+              "firstName": "Thom",
+              "lastName": "GICQUEL",
+              "initials": "TG",
+              "nameShort": "T GICQUEL",
+              "nameShort2": "GICQUEL",
+              "slug": "thom-gicquel",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Thom GICQUEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895451/assets/players/thumbnail/68544.jpg"
+              }
+            },
+            {
+              "id": "22038",
+              "nameDisplay": "Ronan LABAR",
+              "nameType": 0,
+              "firstName": "Ronan",
+              "lastName": "LABAR",
+              "initials": "RL",
+              "nameShort": "R LABAR",
+              "nameShort2": "LABAR",
+              "slug": "ronan-labar",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Ronan LABAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630720/assets/players/thumbnail/22038.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": 50,
+          "teamName": "Slovakia",
+          "players": [
+            {
+              "id": "68819",
+              "nameDisplay": "Milan DRATVA",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "DRATVA",
+              "initials": "MD",
+              "nameShort": "M DRATVA",
+              "nameShort2": "DRATVA",
+              "slug": "milan-dratva",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Milan DRATVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899202/assets/players/thumbnail/68819.jpg"
+              }
+            },
+            {
+              "id": "30856",
+              "nameDisplay": "Juraj VACHALEK",
+              "nameType": 0,
+              "firstName": "Juraj",
+              "lastName": "VACHALEK",
+              "initials": "JV",
+              "nameShort": "J VACHALEK",
+              "nameShort2": "VACHALEK",
+              "slug": "juraj-vachalek",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Juraj VACHALEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1140784,
+        "code": "4",
+        "tournamentCode": "54ECC945-FF32-4099-9DE8-EE6E2E0E6ECC",
+        "tournamentName": "European Mixed Team Championships Qualification Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 1,
+        "scoreStatusValue": "Walkover",
+        "winner": 1,
+        "team1": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": 15,
+          "teamName": "France",
+          "players": [
+            {
+              "id": "54079",
+              "nameDisplay": "Emilie LEFEL",
+              "nameType": 0,
+              "firstName": "Emilie",
+              "lastName": "LEFEL",
+              "initials": "EL",
+              "nameShort": "E LEFEL",
+              "nameShort2": "LEFEL",
+              "slug": "emilie-lefel",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Emilie LEFEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897208/assets/players/thumbnail/54079.jpg"
+              }
+            },
+            {
+              "id": "98854",
+              "nameDisplay": "Anne TRAN",
+              "nameType": 0,
+              "firstName": "Anne",
+              "lastName": "TRAN",
+              "initials": "AT",
+              "nameShort": "A TRAN",
+              "nameShort2": "TRAN",
+              "slug": "anne-tran",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Anne TRAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895767/assets/players/thumbnail/98854.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": 50,
+          "teamName": "Slovakia",
+          "players": [],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-12-08 17:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC Qualification Group 4",
+        "roundName": "R2",
+        "drawName": "EMTC Qualification Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

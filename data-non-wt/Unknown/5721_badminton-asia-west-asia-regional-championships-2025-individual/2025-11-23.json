@@ -1,0 +1,5354 @@
+[
+  {
+    "id": 1486486,
+    "code": "13",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "82795",
+          "nameDisplay": "TALAL KHODER AGHA ALMLY",
+          "nameType": 0,
+          "firstName": "TALAL",
+          "lastName": "KHODER AGHA ALMLY",
+          "initials": "TK",
+          "nameShort": "T KHODER AGHA ALMLY",
+          "nameShort2": "KHODER AGHA ALMLY",
+          "slug": "talal-khoder-agha-almly",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "TALAL KHODER AGHA ALMLY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "61719",
+          "nameDisplay": "Karwan Nozad ABDULLAH",
+          "nameType": 0,
+          "firstName": "Karwan Nozad",
+          "lastName": "ABDULLAH",
+          "initials": "KA",
+          "nameShort": "K ABDULLAH",
+          "nameShort2": "ABDULLAH",
+          "slug": "karwan-nozad-abdullah",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Karwan Nozad ABDULLAH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:00:00",
+    "matchTimeUtc": "2025-11-23 01:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "R16",
+    "drawName": "MS",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 24,
+    "time": "00:24",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 6,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 17,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486459,
+    "code": "137",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "33616",
+          "nameDisplay": "Ammar TAHER",
+          "nameType": 0,
+          "firstName": "Ammar",
+          "lastName": "TAHER",
+          "initials": "AT",
+          "nameShort": "A TAHER",
+          "nameShort2": "TAHER",
+          "slug": "ammar-taher",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Ammar TAHER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": null,
+      "countryFlagUrl": null,
+      "teamId": null,
+      "teamName": null,
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:45:00",
+    "matchTimeUtc": "2025-11-23 02:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U15",
+    "roundName": "R16",
+    "drawName": "MS-U15",
+    "drawCode": "6",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 24,
+    "time": "00:24",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 12,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 5,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486576,
+    "code": "134",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": null,
+      "countryFlagUrl": null,
+      "teamId": null,
+      "teamName": null,
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "28323",
+          "nameDisplay": "Charbel MOUSSALEM",
+          "nameType": 0,
+          "firstName": "Charbel",
+          "lastName": "MOUSSALEM",
+          "initials": "CM",
+          "nameShort": "C MOUSSALEM",
+          "nameShort2": "MOUSSALEM",
+          "slug": "charbel-moussalem",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Charbel MOUSSALEM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:45:00",
+    "matchTimeUtc": "2025-11-23 02:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U15",
+    "roundName": "R16",
+    "drawName": "MS-U15",
+    "drawCode": "6",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 21,
+    "time": "00:21",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 7,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486586,
+    "code": "239",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "50863",
+          "nameDisplay": "SHADI ALANSARI",
+          "nameType": 0,
+          "firstName": "SHADI",
+          "lastName": "ALANSARI",
+          "initials": "SA",
+          "nameShort": "S ALANSARI",
+          "nameShort2": "ALANSARI",
+          "slug": "shadi-alansari",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SHADI ALANSARI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "23742",
+          "nameDisplay": "Mohammed RASHAD",
+          "nameType": 0,
+          "firstName": "Mohammed",
+          "lastName": "RASHAD",
+          "initials": "MR",
+          "nameShort": "M RASHAD",
+          "nameShort2": "RASHAD",
+          "slug": "mohammed-rashad",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Mohammed RASHAD",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:20:00",
+    "matchTimeUtc": "2025-11-23 03:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U17",
+    "roundName": "R16",
+    "drawName": "MS-U17",
+    "drawCode": "11",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 54,
+    "time": "00:54",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 16,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 15,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 21,
+        "away": 23,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486529,
+    "code": "240",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "23600",
+          "nameDisplay": "Ahmad ALMALKI",
+          "nameType": 0,
+          "firstName": "Ahmad",
+          "lastName": "ALMALKI",
+          "initials": "AA",
+          "nameShort": "A ALMALKI",
+          "nameShort2": "ALMALKI",
+          "slug": "ahmad-almalki",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Ahmad ALMALKI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "OMA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/OMA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "20477",
+          "nameDisplay": "Mohammed AL-MAQRASHI",
+          "nameType": 0,
+          "firstName": "Mohammed",
+          "lastName": "AL-MAQRASHI",
+          "initials": "MA",
+          "nameShort": "M AL-MAQRASHI",
+          "nameShort2": "AL-MAQRASHI",
+          "slug": "mohammed-al-maqrashi",
+          "countryCode": "OMA",
+          "countryName": "Oman",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/OMA.png",
+          "avatar": {
+            "title": "Mohammed AL-MAQRASHI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:20:00",
+    "matchTimeUtc": "2025-11-23 03:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U17",
+    "roundName": "R16",
+    "drawName": "MS-U17",
+    "drawCode": "11",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 20,
+    "time": "00:20",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 6,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486430,
+    "code": "242",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "36145",
+          "nameDisplay": "Hamad ALMALKI",
+          "nameType": 0,
+          "firstName": "Hamad",
+          "lastName": "ALMALKI",
+          "initials": "HA",
+          "nameShort": "H ALMALKI",
+          "nameShort2": "ALMALKI",
+          "slug": "hamad-almalki",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Hamad ALMALKI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40542",
+          "nameDisplay": "Karl SALLOUM",
+          "nameType": 0,
+          "firstName": "Karl",
+          "lastName": "SALLOUM",
+          "initials": "KS",
+          "nameShort": "K SALLOUM",
+          "nameShort2": "SALLOUM",
+          "slug": "karl-salloum",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Karl SALLOUM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:55:00",
+    "matchTimeUtc": "2025-11-23 03:55:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U17",
+    "roundName": "R16",
+    "drawName": "MS-U17",
+    "drawCode": "11",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 44,
+    "time": "00:44",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 19,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 17,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486438,
+    "code": "270",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "66744",
+          "nameDisplay": "SANA ALZOUBI",
+          "nameType": 0,
+          "firstName": "SANA",
+          "lastName": "ALZOUBI",
+          "initials": "SA",
+          "nameShort": "S ALZOUBI",
+          "nameShort2": "ALZOUBI",
+          "slug": "sana-alzoubi",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SANA ALZOUBI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "46904",
+          "nameDisplay": "Bana SHEER",
+          "nameType": 0,
+          "firstName": "Bana",
+          "lastName": "SHEER",
+          "initials": "BS",
+          "nameShort": "B SHEER",
+          "nameShort2": "SHEER",
+          "slug": "bana-sheer",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Bana SHEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 15:00:00",
+    "matchTimeUtc": "2025-11-23 07:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U17",
+    "roundName": "R16",
+    "drawName": "WS-U17",
+    "drawCode": "12",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 18,
+    "time": "00:18",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 8,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 11,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486528,
+    "code": "312",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "16522",
+          "nameDisplay": "MOHAMAD KHALED AL REFAEE",
+          "nameType": 0,
+          "firstName": "MOHAMAD KHALED",
+          "lastName": "AL REFAEE",
+          "initials": "MA",
+          "nameShort": "M AL REFAEE",
+          "nameShort2": "AL REFAEE",
+          "slug": "mohamad-khaled-al-refaee",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "MOHAMAD KHALED AL REFAEE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "50863",
+          "nameDisplay": "SHADI ALANSARI",
+          "nameType": 0,
+          "firstName": "SHADI",
+          "lastName": "ALANSARI",
+          "initials": "SA",
+          "nameShort": "S ALANSARI",
+          "nameShort2": "ALANSARI",
+          "slug": "shadi-alansari",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SHADI ALANSARI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "21549",
+          "nameDisplay": "Yahya HUSSEIN",
+          "nameType": 0,
+          "firstName": "Yahya",
+          "lastName": "HUSSEIN",
+          "initials": "YH",
+          "nameShort": "Y HUSSEIN",
+          "nameShort2": "HUSSEIN",
+          "slug": "yahya-hussein",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Yahya HUSSEIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "25989",
+          "nameDisplay": "Osama SALEM",
+          "nameType": 0,
+          "firstName": "Osama",
+          "lastName": "SALEM",
+          "initials": "OS",
+          "nameShort": "O SALEM",
+          "nameShort2": "SALEM",
+          "slug": "osama-salem",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Osama SALEM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 15:35:00",
+    "matchTimeUtc": "2025-11-23 07:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MD-U17",
+    "roundName": "QF",
+    "drawName": "MD-U17",
+    "drawCode": "14",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 15,
+    "time": "00:15",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 18,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 22,
+        "away": 20,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486425,
+    "code": "82",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40929",
+          "nameDisplay": "Rebecca ABDO",
+          "nameType": 0,
+          "firstName": "Rebecca",
+          "lastName": "ABDO",
+          "initials": "RA",
+          "nameShort": "R ABDO",
+          "nameShort2": "ABDO",
+          "slug": "rebecca-abdo",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Rebecca ABDO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "85925",
+          "nameDisplay": "Zeina KAZMA",
+          "nameType": 0,
+          "firstName": "Zeina",
+          "lastName": "KAZMA",
+          "initials": "ZK",
+          "nameShort": "Z KAZMA",
+          "nameShort2": "KAZMA",
+          "slug": "zeina-kazma",
+          "countryCode": "LBN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Zeina KAZMA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "60327",
+          "nameDisplay": "Hajir HANEER",
+          "nameType": 0,
+          "firstName": "Hajir",
+          "lastName": "HANEER",
+          "initials": "HH",
+          "nameShort": "H HANEER",
+          "nameShort2": "HANEER",
+          "slug": "hajir-haneer",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Hajir HANEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "82954",
+          "nameDisplay": "Urnina POLOUS",
+          "nameType": 0,
+          "firstName": "Urnina",
+          "lastName": "POLOUS",
+          "initials": "UP",
+          "nameShort": "U POLOUS",
+          "nameShort2": "POLOUS",
+          "slug": "urnina-polous",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Urnina POLOUS",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:10:00",
+    "matchTimeUtc": "2025-11-23 08:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WD",
+    "roundName": "QF",
+    "drawName": "WD",
+    "drawCode": "4",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 46,
+    "time": "00:46",
+    "matchOrder": null,
+    "matchTypeId": 4,
+    "matchTypeValue": "Women's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 16,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 14,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 19,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486429,
+    "code": "331",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "49787",
+          "nameDisplay": "Robin CHOUEIRY",
+          "nameType": 0,
+          "firstName": "Robin",
+          "lastName": "CHOUEIRY",
+          "initials": "RC",
+          "nameShort": "R CHOUEIRY",
+          "nameShort2": "CHOUEIRY",
+          "slug": "robin-choueiry",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Robin CHOUEIRY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "41714",
+          "nameDisplay": "Sarah-Maria ALHELOU",
+          "nameType": 0,
+          "firstName": "Sarah-Maria",
+          "lastName": "ALHELOU",
+          "initials": "SA",
+          "nameShort": "S ALHELOU",
+          "nameShort2": "ALHELOU",
+          "slug": "sarah-maria-alhelou",
+          "countryCode": "LBN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Sarah-Maria ALHELOU",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "50863",
+          "nameDisplay": "SHADI ALANSARI",
+          "nameType": 0,
+          "firstName": "SHADI",
+          "lastName": "ALANSARI",
+          "initials": "SA",
+          "nameShort": "S ALANSARI",
+          "nameShort2": "ALANSARI",
+          "slug": "shadi-alansari",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SHADI ALANSARI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "48271",
+          "nameDisplay": "DANIA KURDI",
+          "nameType": 0,
+          "firstName": "DANIA",
+          "lastName": "KURDI",
+          "initials": "DK",
+          "nameShort": "D KURDI",
+          "nameShort2": "KURDI",
+          "slug": "dania-kurdi",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "DANIA KURDI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 17:20:00",
+    "matchTimeUtc": "2025-11-23 09:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD-U17",
+    "roundName": "R16",
+    "drawName": "XD-U17",
+    "drawCode": "15",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Location 2",
+    "duration": 45,
+    "time": "00:45",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 15,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 14,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 21,
+        "away": 14,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486490,
+    "code": "11",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "51813",
+          "nameDisplay": "Abi Younes CHRISTOPHE",
+          "nameType": 0,
+          "firstName": "Abi Younes",
+          "lastName": "CHRISTOPHE",
+          "initials": "AC",
+          "nameShort": "A CHRISTOPHE",
+          "nameShort2": "CHRISTOPHE",
+          "slug": "abi-younes-christophe",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Abi Younes CHRISTOPHE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "56868",
+          "nameDisplay": "Zakariya ADIL",
+          "nameType": 0,
+          "firstName": "Zakariya",
+          "lastName": "ADIL",
+          "initials": "ZA",
+          "nameShort": "Z ADIL",
+          "nameShort2": "ADIL",
+          "slug": "zakariya-adil",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Zakariya ADIL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:00:00",
+    "matchTimeUtc": "2025-11-23 01:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "R16",
+    "drawName": "MS",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 50,
+    "time": "00:50",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 24,
+        "away": 26,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 11,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 21,
+        "away": 11,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486451,
+    "code": "165",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "20956",
+          "nameDisplay": "Farah MAHDI",
+          "nameType": 0,
+          "firstName": "Farah",
+          "lastName": "MAHDI",
+          "initials": "FM",
+          "nameShort": "F MAHDI",
+          "nameShort2": "MAHDI",
+          "slug": "farah-mahdi",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Farah MAHDI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40032",
+          "nameDisplay": "MAYAS KABBANI",
+          "nameType": 0,
+          "firstName": "MAYAS",
+          "lastName": "KABBANI",
+          "initials": "MK",
+          "nameShort": "M KABBANI",
+          "nameShort2": "KABBANI",
+          "slug": "mayas-kabbani",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "MAYAS KABBANI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:10:00",
+    "matchTimeUtc": "2025-11-23 02:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U15",
+    "roundName": "R16",
+    "drawName": "WS-U15",
+    "drawCode": "7",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 18,
+    "time": "00:18",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 13,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 16,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486585,
+    "code": "135",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "20862",
+          "nameDisplay": "Hussien QUSAY",
+          "nameType": 0,
+          "firstName": "Hussien",
+          "lastName": "QUSAY",
+          "initials": "HQ",
+          "nameShort": "H QUSAY",
+          "nameShort2": "QUSAY",
+          "slug": "hussien-qusay",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Hussien QUSAY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40435",
+          "nameDisplay": "Jad EL CHEIKH HUSSEIN",
+          "nameType": 0,
+          "firstName": "Jad",
+          "lastName": "EL CHEIKH HUSSEIN",
+          "initials": "JE",
+          "nameShort": "J EL CHEIKH HUSSEIN",
+          "nameShort2": "EL CHEIKH HUSSEIN",
+          "slug": "jad-el-cheikh-hussein",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Jad EL CHEIKH HUSSEIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:45:00",
+    "matchTimeUtc": "2025-11-23 02:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U15",
+    "roundName": "R16",
+    "drawName": "MS-U15",
+    "drawCode": "6",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 32,
+    "time": "00:32",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 16,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 11,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 15,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486452,
+    "code": "275",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "89994",
+          "nameDisplay": "Maria ABU ARRAH",
+          "nameType": 0,
+          "firstName": "Maria",
+          "lastName": "ABU ARRAH",
+          "initials": "MA",
+          "nameShort": "M ABU ARRAH",
+          "nameShort2": "ABU ARRAH",
+          "slug": "maria-abu-arrah",
+          "countryCode": "JOR",
+          "countryName": "Jordan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Maria ABU ARRAH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "47076",
+          "nameDisplay": "Maria-Christina BOU NASSAR",
+          "nameType": 0,
+          "firstName": "Maria-Christina",
+          "lastName": "BOU NASSAR",
+          "initials": "MB",
+          "nameShort": "M BOU NASSAR",
+          "nameShort2": "BOU NASSAR",
+          "slug": "maria-christina-bou-nassar",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Maria-Christina BOU NASSAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 15:00:00",
+    "matchTimeUtc": "2025-11-23 07:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U17",
+    "roundName": "R16",
+    "drawName": "WS-U17",
+    "drawCode": "12",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 16,
+    "time": "00:16",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 6,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 6,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486437,
+    "code": "314",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "49787",
+          "nameDisplay": "Robin CHOUEIRY",
+          "nameType": 0,
+          "firstName": "Robin",
+          "lastName": "CHOUEIRY",
+          "initials": "RC",
+          "nameShort": "R CHOUEIRY",
+          "nameShort2": "CHOUEIRY",
+          "slug": "robin-choueiry",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Robin CHOUEIRY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "40542",
+          "nameDisplay": "Karl SALLOUM",
+          "nameType": 0,
+          "firstName": "Karl",
+          "lastName": "SALLOUM",
+          "initials": "KS",
+          "nameShort": "K SALLOUM",
+          "nameShort2": "SALLOUM",
+          "slug": "karl-salloum",
+          "countryCode": "LBN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Karl SALLOUM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "23600",
+          "nameDisplay": "Ahmad ALMALKI",
+          "nameType": 0,
+          "firstName": "Ahmad",
+          "lastName": "ALMALKI",
+          "initials": "AA",
+          "nameShort": "A ALMALKI",
+          "nameShort2": "ALMALKI",
+          "slug": "ahmad-almalki",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Ahmad ALMALKI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "36145",
+          "nameDisplay": "Hamad ALMALKI",
+          "nameType": 0,
+          "firstName": "Hamad",
+          "lastName": "ALMALKI",
+          "initials": "HA",
+          "nameShort": "H ALMALKI",
+          "nameShort2": "ALMALKI",
+          "slug": "hamad-almalki",
+          "countryCode": "QAT",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Hamad ALMALKI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": "2",
+    "matchTime": "2025-11-23 15:35:00",
+    "matchTimeUtc": "2025-11-23 07:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MD-U17",
+    "roundName": "QF",
+    "drawName": "MD-U17",
+    "drawCode": "14",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 58,
+    "time": "00:58",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 15,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486505,
+    "code": "68",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "42909",
+          "nameDisplay": "HUSAM DAHASH",
+          "nameType": 0,
+          "firstName": "HUSAM",
+          "lastName": "DAHASH",
+          "initials": "HD",
+          "nameShort": "H DAHASH",
+          "nameShort2": "DAHASH",
+          "slug": "husam-dahash",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "HUSAM DAHASH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "82795",
+          "nameDisplay": "TALAL KHODER AGHA ALMLY",
+          "nameType": 0,
+          "firstName": "TALAL",
+          "lastName": "KHODER AGHA ALMLY",
+          "initials": "TK",
+          "nameShort": "T KHODER AGHA ALMLY",
+          "nameShort2": "KHODER AGHA ALMLY",
+          "slug": "talal-khoder-agha-almly",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "TALAL KHODER AGHA ALMLY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "56868",
+          "nameDisplay": "Zakariya ADIL",
+          "nameType": 0,
+          "firstName": "Zakariya",
+          "lastName": "ADIL",
+          "initials": "ZA",
+          "nameShort": "Z ADIL",
+          "nameShort2": "ADIL",
+          "slug": "zakariya-adil",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Zakariya ADIL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "70960",
+          "nameDisplay": "Rami SALAH",
+          "nameType": 0,
+          "firstName": "Rami",
+          "lastName": "SALAH",
+          "initials": "RS",
+          "nameShort": "R SALAH",
+          "nameShort2": "SALAH",
+          "slug": "rami-salah",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Rami SALAH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:10:00",
+    "matchTimeUtc": "2025-11-23 08:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MD",
+    "roundName": "QF",
+    "drawName": "MD",
+    "drawCode": "3",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 23,
+    "time": "00:23",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 16,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 19,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486479,
+    "code": "205",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "26800",
+          "nameDisplay": "Murdhada HATAM",
+          "nameType": 0,
+          "firstName": "Murdhada",
+          "lastName": "HATAM",
+          "initials": "MH",
+          "nameShort": "M HATAM",
+          "nameShort2": "HATAM",
+          "slug": "murdhada-hatam",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Murdhada HATAM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "20862",
+          "nameDisplay": "Hussien QUSAY",
+          "nameType": 0,
+          "firstName": "Hussien",
+          "lastName": "QUSAY",
+          "initials": "HQ",
+          "nameShort": "H QUSAY",
+          "nameShort2": "QUSAY",
+          "slug": "hussien-qusay",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Hussien QUSAY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40435",
+          "nameDisplay": "Jad EL CHEIKH HUSSEIN",
+          "nameType": 0,
+          "firstName": "Jad",
+          "lastName": "EL CHEIKH HUSSEIN",
+          "initials": "JE",
+          "nameShort": "J EL CHEIKH HUSSEIN",
+          "nameShort2": "EL CHEIKH HUSSEIN",
+          "slug": "jad-el-cheikh-hussein",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Jad EL CHEIKH HUSSEIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "28323",
+          "nameDisplay": "Charbel MOUSSALEM",
+          "nameType": 0,
+          "firstName": "Charbel",
+          "lastName": "MOUSSALEM",
+          "initials": "CM",
+          "nameShort": "C MOUSSALEM",
+          "nameShort2": "MOUSSALEM",
+          "slug": "charbel-moussalem",
+          "countryCode": "LBN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Charbel MOUSSALEM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:45:00",
+    "matchTimeUtc": "2025-11-23 08:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MD-U15",
+    "roundName": "QF",
+    "drawName": "MD-U15",
+    "drawCode": "9",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 25,
+    "time": "00:25",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 16,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486488,
+    "code": "333",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "23600",
+          "nameDisplay": "Ahmad ALMALKI",
+          "nameType": 0,
+          "firstName": "Ahmad",
+          "lastName": "ALMALKI",
+          "initials": "AA",
+          "nameShort": "A ALMALKI",
+          "nameShort2": "ALMALKI",
+          "slug": "ahmad-almalki",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Ahmad ALMALKI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "45580",
+          "nameDisplay": "Noor ABEL",
+          "nameType": 0,
+          "firstName": "Noor",
+          "lastName": "ABEL",
+          "initials": "NA",
+          "nameShort": "N ABEL",
+          "nameShort2": "ABEL",
+          "slug": "noor-abel",
+          "countryCode": "QAT",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Noor ABEL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "65433",
+          "nameDisplay": "Ismail OMAR",
+          "nameType": 0,
+          "firstName": "Ismail",
+          "lastName": "OMAR",
+          "initials": "IO",
+          "nameShort": "I OMAR",
+          "nameShort2": "OMAR",
+          "slug": "ismail-omar",
+          "countryCode": "JOR",
+          "countryName": "Jordan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Ismail OMAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "89994",
+          "nameDisplay": "Maria ABU ARRAH",
+          "nameType": 0,
+          "firstName": "Maria",
+          "lastName": "ABU ARRAH",
+          "initials": "MA",
+          "nameShort": "M ABU ARRAH",
+          "nameShort2": "ABU ARRAH",
+          "slug": "maria-abu-arrah",
+          "countryCode": "JOR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Maria ABU ARRAH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 17:20:00",
+    "matchTimeUtc": "2025-11-23 09:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD-U17",
+    "roundName": "R16",
+    "drawName": "XD-U17",
+    "drawCode": "15",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Location 2",
+    "duration": 22,
+    "time": "00:22",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 12,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 16,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486548,
+    "code": "40",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "17204",
+          "nameDisplay": "Almas ZUBEER",
+          "nameType": 0,
+          "firstName": "Almas",
+          "lastName": "ZUBEER",
+          "initials": "AZ",
+          "nameShort": "A ZUBEER",
+          "nameShort2": "ZUBEER",
+          "slug": "almas-zubeer",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Almas ZUBEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "99251",
+          "nameDisplay": "FULLA ALNAJJAR",
+          "nameType": 0,
+          "firstName": "FULLA",
+          "lastName": "ALNAJJAR",
+          "initials": "FA",
+          "nameShort": "F ALNAJJAR",
+          "nameShort2": "ALNAJJAR",
+          "slug": "fulla-alnajjar",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "FULLA ALNAJJAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:35:00",
+    "matchTimeUtc": "2025-11-23 01:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS",
+    "roundName": "R16",
+    "drawName": "WS",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 16,
+    "time": "00:16",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 7,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 3,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486506,
+    "code": "43",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "91932",
+          "nameDisplay": "SIDRA ALHOSNI",
+          "nameType": 0,
+          "firstName": "SIDRA",
+          "lastName": "ALHOSNI",
+          "initials": "SA",
+          "nameShort": "S ALHOSNI",
+          "nameShort2": "ALHOSNI",
+          "slug": "sidra-alhosni",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SIDRA ALHOSNI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "82954",
+          "nameDisplay": "Urnina POLOUS",
+          "nameType": 0,
+          "firstName": "Urnina",
+          "lastName": "POLOUS",
+          "initials": "UP",
+          "nameShort": "U POLOUS",
+          "nameShort2": "POLOUS",
+          "slug": "urnina-polous",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Urnina POLOUS",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:35:00",
+    "matchTimeUtc": "2025-11-23 01:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS",
+    "roundName": "R16",
+    "drawName": "WS",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 41,
+    "time": "00:41",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 17,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 22,
+        "away": 20,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486478,
+    "code": "103",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "56686",
+          "nameDisplay": "Saif ABU EID",
+          "nameType": 0,
+          "firstName": "Saif",
+          "lastName": "ABU EID",
+          "initials": "SA",
+          "nameShort": "S ABU EID",
+          "nameShort2": "ABU EID",
+          "slug": "saif-abu-eid",
+          "countryCode": "JOR",
+          "countryName": "Jordan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Saif ABU EID",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "94765",
+          "nameDisplay": "Maryam ABUARRAH",
+          "nameType": 0,
+          "firstName": "Maryam",
+          "lastName": "ABUARRAH",
+          "initials": "MA",
+          "nameShort": "M ABUARRAH",
+          "nameShort2": "ABUARRAH",
+          "slug": "maryam-abuarrah",
+          "countryCode": "JOR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Maryam ABUARRAH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "56868",
+          "nameDisplay": "Zakariya ADIL",
+          "nameType": 0,
+          "firstName": "Zakariya",
+          "lastName": "ADIL",
+          "initials": "ZA",
+          "nameShort": "Z ADIL",
+          "nameShort2": "ADIL",
+          "slug": "zakariya-adil",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Zakariya ADIL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "60327",
+          "nameDisplay": "Hajir HANEER",
+          "nameType": 0,
+          "firstName": "Hajir",
+          "lastName": "HANEER",
+          "initials": "HH",
+          "nameShort": "H HANEER",
+          "nameShort2": "HANEER",
+          "slug": "hajir-haneer",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Hajir HANEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:45:00",
+    "matchTimeUtc": "2025-11-23 02:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD",
+    "roundName": "R16",
+    "drawName": "XD",
+    "drawCode": "5",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 20,
+    "time": "00:20",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 15,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 18,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486550,
+    "code": "106",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "61719",
+          "nameDisplay": "Karwan Nozad ABDULLAH",
+          "nameType": 0,
+          "firstName": "Karwan Nozad",
+          "lastName": "ABDULLAH",
+          "initials": "KA",
+          "nameShort": "K ABDULLAH",
+          "nameShort2": "ABDULLAH",
+          "slug": "karwan-nozad-abdullah",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Karwan Nozad ABDULLAH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "17204",
+          "nameDisplay": "Almas ZUBEER",
+          "nameType": 0,
+          "firstName": "Almas",
+          "lastName": "ZUBEER",
+          "initials": "AZ",
+          "nameShort": "A ZUBEER",
+          "nameShort2": "ZUBEER",
+          "slug": "almas-zubeer",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Almas ZUBEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "60267",
+          "nameDisplay": "Oliver KHOURY",
+          "nameType": 0,
+          "firstName": "Oliver",
+          "lastName": "KHOURY",
+          "initials": "OK",
+          "nameShort": "O KHOURY",
+          "nameShort2": "KHOURY",
+          "slug": "oliver-khoury",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Oliver KHOURY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "40929",
+          "nameDisplay": "Rebecca ABDO",
+          "nameType": 0,
+          "firstName": "Rebecca",
+          "lastName": "ABDO",
+          "initials": "RA",
+          "nameShort": "R ABDO",
+          "nameShort2": "ABDO",
+          "slug": "rebecca-abdo",
+          "countryCode": "LBN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Rebecca ABDO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:20:00",
+    "matchTimeUtc": "2025-11-23 03:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD",
+    "roundName": "R16",
+    "drawName": "XD",
+    "drawCode": "5",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 21,
+    "time": "00:21",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 11,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 11,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486444,
+    "code": "241",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "25989",
+          "nameDisplay": "Osama SALEM",
+          "nameType": 0,
+          "firstName": "Osama",
+          "lastName": "SALEM",
+          "initials": "OS",
+          "nameShort": "O SALEM",
+          "nameShort2": "SALEM",
+          "slug": "osama-salem",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Osama SALEM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "49787",
+          "nameDisplay": "Robin CHOUEIRY",
+          "nameType": 0,
+          "firstName": "Robin",
+          "lastName": "CHOUEIRY",
+          "initials": "RC",
+          "nameShort": "R CHOUEIRY",
+          "nameShort2": "CHOUEIRY",
+          "slug": "robin-choueiry",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Robin CHOUEIRY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:55:00",
+    "matchTimeUtc": "2025-11-23 03:55:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U17",
+    "roundName": "R16",
+    "drawName": "MS-U17",
+    "drawCode": "11",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 33,
+    "time": "00:33",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 20,
+        "away": 22,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486556,
+    "code": "244",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "65433",
+          "nameDisplay": "Ismail OMAR",
+          "nameType": 0,
+          "firstName": "Ismail",
+          "lastName": "OMAR",
+          "initials": "IO",
+          "nameShort": "I OMAR",
+          "nameShort2": "OMAR",
+          "slug": "ismail-omar",
+          "countryCode": "JOR",
+          "countryName": "Jordan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Ismail OMAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "21549",
+          "nameDisplay": "Yahya HUSSEIN",
+          "nameType": 0,
+          "firstName": "Yahya",
+          "lastName": "HUSSEIN",
+          "initials": "YH",
+          "nameShort": "Y HUSSEIN",
+          "nameShort2": "HUSSEIN",
+          "slug": "yahya-hussein",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Yahya HUSSEIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:55:00",
+    "matchTimeUtc": "2025-11-23 03:55:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U17",
+    "roundName": "R16",
+    "drawName": "MS-U17",
+    "drawCode": "11",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 42,
+    "time": "00:42",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 23,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 12,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 21,
+        "away": 6,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486498,
+    "code": "272",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "44655",
+          "nameDisplay": "Sundos ABEL",
+          "nameType": 0,
+          "firstName": "Sundos",
+          "lastName": "ABEL",
+          "initials": "SA",
+          "nameShort": "S ABEL",
+          "nameShort2": "ABEL",
+          "slug": "sundos-abel",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Sundos ABEL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "41714",
+          "nameDisplay": "Sarah-Maria ALHELOU",
+          "nameType": 0,
+          "firstName": "Sarah-Maria",
+          "lastName": "ALHELOU",
+          "initials": "SA",
+          "nameShort": "S ALHELOU",
+          "nameShort2": "ALHELOU",
+          "slug": "sarah-maria-alhelou",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Sarah-Maria ALHELOU",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 15:00:00",
+    "matchTimeUtc": "2025-11-23 07:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U17",
+    "roundName": "R16",
+    "drawName": "WS-U17",
+    "drawCode": "12",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 15,
+    "time": "00:15",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 5,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 5,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486537,
+    "code": "83",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "91932",
+          "nameDisplay": "SIDRA ALHOSNI",
+          "nameType": 0,
+          "firstName": "SIDRA",
+          "lastName": "ALHOSNI",
+          "initials": "SA",
+          "nameShort": "S ALHOSNI",
+          "nameShort2": "ALHOSNI",
+          "slug": "sidra-alhosni",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SIDRA ALHOSNI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "99251",
+          "nameDisplay": "FULLA ALNAJJAR",
+          "nameType": 0,
+          "firstName": "FULLA",
+          "lastName": "ALNAJJAR",
+          "initials": "FA",
+          "nameShort": "F ALNAJJAR",
+          "nameShort2": "ALNAJJAR",
+          "slug": "fulla-alnajjar",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "FULLA ALNAJJAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "63904",
+          "nameDisplay": "Maryam S.HANEER",
+          "nameType": 0,
+          "firstName": "Maryam",
+          "lastName": "S.HANEER",
+          "initials": "MS",
+          "nameShort": "M S.HANEER",
+          "nameShort2": "S.HANEER",
+          "slug": "maryam-shaneer",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Maryam S.HANEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "17204",
+          "nameDisplay": "Almas ZUBEER",
+          "nameType": 0,
+          "firstName": "Almas",
+          "lastName": "ZUBEER",
+          "initials": "AZ",
+          "nameShort": "A ZUBEER",
+          "nameShort2": "ZUBEER",
+          "slug": "almas-zubeer",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Almas ZUBEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:10:00",
+    "matchTimeUtc": "2025-11-23 08:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WD",
+    "roundName": "QF",
+    "drawName": "WD",
+    "drawCode": "4",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 25,
+    "time": "00:25",
+    "matchOrder": null,
+    "matchTypeId": 4,
+    "matchTypeValue": "Women's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 15,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 6,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486520,
+    "code": "221",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "47115",
+          "nameDisplay": "Baneen ABDULRAZZAQ",
+          "nameType": 0,
+          "firstName": "Baneen",
+          "lastName": "ABDULRAZZAQ",
+          "initials": "BA",
+          "nameShort": "B ABDULRAZZAQ",
+          "nameShort2": "ABDULRAZZAQ",
+          "slug": "baneen-abdulrazzaq",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Baneen ABDULRAZZAQ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "20956",
+          "nameDisplay": "Farah MAHDI",
+          "nameType": 0,
+          "firstName": "Farah",
+          "lastName": "MAHDI",
+          "initials": "FM",
+          "nameShort": "F MAHDI",
+          "nameShort2": "MAHDI",
+          "slug": "farah-mahdi",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Farah MAHDI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "11146",
+          "nameDisplay": "HELINA ALJAWABRA",
+          "nameType": 0,
+          "firstName": "HELINA",
+          "lastName": "ALJAWABRA",
+          "initials": "HA",
+          "nameShort": "H ALJAWABRA",
+          "nameShort2": "ALJAWABRA",
+          "slug": "helina-aljawabra",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "HELINA ALJAWABRA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "40032",
+          "nameDisplay": "MAYAS KABBANI",
+          "nameType": 0,
+          "firstName": "MAYAS",
+          "lastName": "KABBANI",
+          "initials": "MK",
+          "nameShort": "M KABBANI",
+          "nameShort2": "KABBANI",
+          "slug": "mayas-kabbani",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "MAYAS KABBANI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:45:00",
+    "matchTimeUtc": "2025-11-23 08:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WD-U15",
+    "roundName": "QF",
+    "drawName": "WD-U15",
+    "drawCode": "10",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 32,
+    "time": "00:32",
+    "matchOrder": null,
+    "matchTypeId": 4,
+    "matchTypeValue": "Women's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 17,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 22,
+        "away": 20,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486581,
+    "code": "334",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "21549",
+          "nameDisplay": "Yahya HUSSEIN",
+          "nameType": 0,
+          "firstName": "Yahya",
+          "lastName": "HUSSEIN",
+          "initials": "YH",
+          "nameShort": "Y HUSSEIN",
+          "nameShort2": "HUSSEIN",
+          "slug": "yahya-hussein",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Yahya HUSSEIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "27703",
+          "nameDisplay": "Areena ABDULSALAM",
+          "nameType": 0,
+          "firstName": "Areena",
+          "lastName": "ABDULSALAM",
+          "initials": "AA",
+          "nameShort": "A ABDULSALAM",
+          "nameShort2": "ABDULSALAM",
+          "slug": "areena-abdulsalam",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Areena ABDULSALAM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "33021",
+          "nameDisplay": "MOHAMAD KHALED ALREFAEI",
+          "nameType": 0,
+          "firstName": "MOHAMAD KHALED",
+          "lastName": "ALREFAEI",
+          "initials": "MA",
+          "nameShort": "M ALREFAEI",
+          "nameShort2": "ALREFAEI",
+          "slug": "mohamad-khaled-alrefaei",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "MOHAMAD KHALED ALREFAEI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "66744",
+          "nameDisplay": "SANA ALZOUBI",
+          "nameType": 0,
+          "firstName": "SANA",
+          "lastName": "ALZOUBI",
+          "initials": "SA",
+          "nameShort": "S ALZOUBI",
+          "nameShort2": "ALZOUBI",
+          "slug": "sana-alzoubi",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SANA ALZOUBI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 17:20:00",
+    "matchTimeUtc": "2025-11-23 09:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD-U17",
+    "roundName": "R16",
+    "drawName": "XD-U17",
+    "drawCode": "15",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Location 2",
+    "duration": 22,
+    "time": "00:22",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486518,
+    "code": "9",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 1,
+    "scoreStatusValue": "Walkover",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "98173",
+          "nameDisplay": "Yousif M. KHUDHUR",
+          "nameType": 0,
+          "firstName": "Yousif",
+          "lastName": "M. KHUDHUR",
+          "initials": "YM",
+          "nameShort": "Y M. KHUDHUR",
+          "nameShort2": "M. KHUDHUR",
+          "slug": "yousif-m-khudhur",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Yousif M. KHUDHUR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PLE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "43489",
+          "nameDisplay": "Shafiq ABDALWAHAB",
+          "nameType": 0,
+          "firstName": "Shafiq",
+          "lastName": "ABDALWAHAB",
+          "initials": "SA",
+          "nameShort": "S ABDALWAHAB",
+          "nameShort2": "ABDALWAHAB",
+          "slug": "shafiq-abdalwahab",
+          "countryCode": "PLE",
+          "countryName": "Palestine",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+          "avatar": {
+            "title": "Shafiq ABDALWAHAB",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:00:00",
+    "matchTimeUtc": "2025-11-23 01:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "R16",
+    "drawName": "MS",
+    "drawCode": "1",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [],
+    "matches": []
+  },
+  {
+    "id": 1486471,
+    "code": "45",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40929",
+          "nameDisplay": "Rebecca ABDO",
+          "nameType": 0,
+          "firstName": "Rebecca",
+          "lastName": "ABDO",
+          "initials": "RA",
+          "nameShort": "R ABDO",
+          "nameShort2": "ABDO",
+          "slug": "rebecca-abdo",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Rebecca ABDO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PLE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "37724",
+          "nameDisplay": "Lara HDDAD",
+          "nameType": 0,
+          "firstName": "Lara",
+          "lastName": "HDDAD",
+          "initials": "LH",
+          "nameShort": "L HDDAD",
+          "nameShort2": "HDDAD",
+          "slug": "lara-hddad",
+          "countryCode": "PLE",
+          "countryName": "Palestine",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+          "avatar": {
+            "title": "Lara HDDAD",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:35:00",
+    "matchTimeUtc": "2025-11-23 01:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS",
+    "roundName": "R16",
+    "drawName": "WS",
+    "drawCode": "2",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 13,
+    "time": "00:13",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 6,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486477,
+    "code": "42",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "85925",
+          "nameDisplay": "Zeina KAZMA",
+          "nameType": 0,
+          "firstName": "Zeina",
+          "lastName": "KAZMA",
+          "initials": "ZK",
+          "nameShort": "Z KAZMA",
+          "nameShort2": "KAZMA",
+          "slug": "zeina-kazma",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Zeina KAZMA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "70690",
+          "nameDisplay": "Lamees ALKHATEEB",
+          "nameType": 0,
+          "firstName": "Lamees",
+          "lastName": "ALKHATEEB",
+          "initials": "LA",
+          "nameShort": "L ALKHATEEB",
+          "nameShort2": "ALKHATEEB",
+          "slug": "lamees-alkhateeb",
+          "countryCode": "JOR",
+          "countryName": "Jordan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Lamees ALKHATEEB",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:35:00",
+    "matchTimeUtc": "2025-11-23 01:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS",
+    "roundName": "R16",
+    "drawName": "WS",
+    "drawCode": "2",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 22,
+    "time": "00:22",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 17,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 10,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486544,
+    "code": "168",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "20389",
+          "nameDisplay": "Asma ABEL",
+          "nameType": 0,
+          "firstName": "Asma",
+          "lastName": "ABEL",
+          "initials": "AA",
+          "nameShort": "A ABEL",
+          "nameShort2": "ABEL",
+          "slug": "asma-abel",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Asma ABEL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "47115",
+          "nameDisplay": "Baneen ABDULRAZZAQ",
+          "nameType": 0,
+          "firstName": "Baneen",
+          "lastName": "ABDULRAZZAQ",
+          "initials": "BA",
+          "nameShort": "B ABDULRAZZAQ",
+          "nameShort2": "ABDULRAZZAQ",
+          "slug": "baneen-abdulrazzaq",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Baneen ABDULRAZZAQ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:10:00",
+    "matchTimeUtc": "2025-11-23 02:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U15",
+    "roundName": "R16",
+    "drawName": "WS-U15",
+    "drawCode": "7",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 28,
+    "time": "00:28",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 19,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 16,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 14,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486567,
+    "code": "104",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "42909",
+          "nameDisplay": "HUSAM DAHASH",
+          "nameType": 0,
+          "firstName": "HUSAM",
+          "lastName": "DAHASH",
+          "initials": "HD",
+          "nameShort": "H DAHASH",
+          "nameShort2": "DAHASH",
+          "slug": "husam-dahash",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "HUSAM DAHASH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "91932",
+          "nameDisplay": "SIDRA ALHOSNI",
+          "nameType": 0,
+          "firstName": "SIDRA",
+          "lastName": "ALHOSNI",
+          "initials": "SA",
+          "nameShort": "S ALHOSNI",
+          "nameShort2": "ALHOSNI",
+          "slug": "sidra-alhosni",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "SIDRA ALHOSNI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PLE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "43489",
+          "nameDisplay": "Shafiq ABDALWAHAB",
+          "nameType": 0,
+          "firstName": "Shafiq",
+          "lastName": "ABDALWAHAB",
+          "initials": "SA",
+          "nameShort": "S ABDALWAHAB",
+          "nameShort2": "ABDALWAHAB",
+          "slug": "shafiq-abdalwahab",
+          "countryCode": "PLE",
+          "countryName": "Palestine",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+          "avatar": {
+            "title": "Shafiq ABDALWAHAB",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "37724",
+          "nameDisplay": "Lara HDDAD",
+          "nameType": 0,
+          "firstName": "Lara",
+          "lastName": "HDDAD",
+          "initials": "LH",
+          "nameShort": "L HDDAD",
+          "nameShort2": "HDDAD",
+          "slug": "lara-hddad",
+          "countryCode": "PLE",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+          "avatar": {
+            "title": "Lara HDDAD",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:20:00",
+    "matchTimeUtc": "2025-11-23 03:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD",
+    "roundName": "R16",
+    "drawName": "XD",
+    "drawCode": "5",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 20,
+    "time": "00:20",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 7,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 8,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486521,
+    "code": "243",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "OMA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/OMA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "44090",
+          "nameDisplay": "Shihab AL-HINAAI",
+          "nameType": 0,
+          "firstName": "Shihab",
+          "lastName": "AL-HINAAI",
+          "initials": "SA",
+          "nameShort": "S AL-HINAAI",
+          "nameShort2": "AL-HINAAI",
+          "slug": "shihab-al-hinaai",
+          "countryCode": "OMA",
+          "countryName": "Oman",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/OMA.png",
+          "avatar": {
+            "title": "Shihab AL-HINAAI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "16522",
+          "nameDisplay": "MOHAMAD KHALED AL REFAEE",
+          "nameType": 0,
+          "firstName": "MOHAMAD KHALED",
+          "lastName": "AL REFAEE",
+          "initials": "MA",
+          "nameShort": "M AL REFAEE",
+          "nameShort2": "AL REFAEE",
+          "slug": "mohamad-khaled-al-refaee",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "MOHAMAD KHALED AL REFAEE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 11:55:00",
+    "matchTimeUtc": "2025-11-23 03:55:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS-U17",
+    "roundName": "R16",
+    "drawName": "MS-U17",
+    "drawCode": "11",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 23,
+    "time": "00:23",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 11,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 6,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486424,
+    "code": "273",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "48271",
+          "nameDisplay": "DANIA KURDI",
+          "nameType": 0,
+          "firstName": "DANIA",
+          "lastName": "KURDI",
+          "initials": "DK",
+          "nameShort": "D KURDI",
+          "nameShort2": "KURDI",
+          "slug": "dania-kurdi",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "DANIA KURDI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "27703",
+          "nameDisplay": "Areena ABDULSALAM",
+          "nameType": 0,
+          "firstName": "Areena",
+          "lastName": "ABDULSALAM",
+          "initials": "AA",
+          "nameShort": "A ABDULSALAM",
+          "nameShort2": "ABDULSALAM",
+          "slug": "areena-abdulsalam",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Areena ABDULSALAM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 15:00:00",
+    "matchTimeUtc": "2025-11-23 07:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U17",
+    "roundName": "R16",
+    "drawName": "WS-U17",
+    "drawCode": "12",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 45,
+    "time": "00:45",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 9,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 17,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 18,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486442,
+    "code": "313",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "OMA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/OMA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "44090",
+          "nameDisplay": "Shihab AL-HINAAI",
+          "nameType": 0,
+          "firstName": "Shihab",
+          "lastName": "AL-HINAAI",
+          "initials": "SA",
+          "nameShort": "S AL-HINAAI",
+          "nameShort2": "AL-HINAAI",
+          "slug": "shihab-al-hinaai",
+          "countryCode": "OMA",
+          "countryName": "Oman",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/OMA.png",
+          "avatar": {
+            "title": "Shihab AL-HINAAI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "20477",
+          "nameDisplay": "Mohammed AL-MAQRASHI",
+          "nameType": 0,
+          "firstName": "Mohammed",
+          "lastName": "AL-MAQRASHI",
+          "initials": "MA",
+          "nameShort": "M AL-MAQRASHI",
+          "nameShort2": "AL-MAQRASHI",
+          "slug": "mohammed-al-maqrashi",
+          "countryCode": "OMA",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/OMA.png",
+          "avatar": {
+            "title": "Mohammed AL-MAQRASHI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40776",
+          "nameDisplay": "Hussein HATEM",
+          "nameType": 0,
+          "firstName": "Hussein",
+          "lastName": "HATEM",
+          "initials": "HH",
+          "nameShort": "H HATEM",
+          "nameShort2": "HATEM",
+          "slug": "hussein-hatem",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Hussein HATEM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "23742",
+          "nameDisplay": "Mohammed RASHAD",
+          "nameType": 0,
+          "firstName": "Mohammed",
+          "lastName": "RASHAD",
+          "initials": "MR",
+          "nameShort": "M RASHAD",
+          "nameShort2": "RASHAD",
+          "slug": "mohammed-rashad",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Mohammed RASHAD",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 15:35:00",
+    "matchTimeUtc": "2025-11-23 07:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MD-U17",
+    "roundName": "QF",
+    "drawName": "MD-U17",
+    "drawCode": "14",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 21,
+    "time": "00:21",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 10,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 7,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486489,
+    "code": "206",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": null,
+      "countryFlagUrl": null,
+      "teamId": null,
+      "teamName": null,
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SYR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "37448",
+          "nameDisplay": "MUHAMMADAUDI ALHASAN",
+          "nameType": 0,
+          "firstName": "MUHAMMADAUDI",
+          "lastName": "ALHASAN",
+          "initials": "MA",
+          "nameShort": "M ALHASAN",
+          "nameShort2": "ALHASAN",
+          "slug": "muhammadaudi-alhasan",
+          "countryCode": "SYR",
+          "countryName": "Syrian Arab Republic",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "MUHAMMADAUDI ALHASAN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "37194",
+          "nameDisplay": "ABDUIRAHMAN KABBANI",
+          "nameType": 0,
+          "firstName": "ABDUIRAHMAN",
+          "lastName": "KABBANI",
+          "initials": "AK",
+          "nameShort": "A KABBANI",
+          "nameShort2": "KABBANI",
+          "slug": "abduirahman-kabbani",
+          "countryCode": "SYR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SYR.png",
+          "avatar": {
+            "title": "ABDUIRAHMAN KABBANI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:45:00",
+    "matchTimeUtc": "2025-11-23 08:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MD-U15",
+    "roundName": "QF",
+    "drawName": "MD-U15",
+    "drawCode": "9",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 15,
+    "time": "00:15",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 2,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 5,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486449,
+    "code": "220",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "48232",
+          "nameDisplay": "Sara FARIS",
+          "nameType": 0,
+          "firstName": "Sara",
+          "lastName": "FARIS",
+          "initials": "SF",
+          "nameShort": "S FARIS",
+          "nameShort2": "FARIS",
+          "slug": "sara-faris",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Sara FARIS",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "37788",
+          "nameDisplay": "Varya OMAR",
+          "nameType": 0,
+          "firstName": "Varya",
+          "lastName": "OMAR",
+          "initials": "VO",
+          "nameShort": "V OMAR",
+          "nameShort2": "OMAR",
+          "slug": "varya-omar",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Varya OMAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "20389",
+          "nameDisplay": "Asma ABEL",
+          "nameType": 0,
+          "firstName": "Asma",
+          "lastName": "ABEL",
+          "initials": "AA",
+          "nameShort": "A ABEL",
+          "nameShort2": "ABEL",
+          "slug": "asma-abel",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Asma ABEL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "42163",
+          "nameDisplay": "Alyaa ALKUWARI",
+          "nameType": 0,
+          "firstName": "Alyaa",
+          "lastName": "ALKUWARI",
+          "initials": "AA",
+          "nameShort": "A ALKUWARI",
+          "nameShort2": "ALKUWARI",
+          "slug": "alyaa-alkuwari",
+          "countryCode": "QAT",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Alyaa ALKUWARI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:45:00",
+    "matchTimeUtc": "2025-11-23 08:45:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WD-U15",
+    "roundName": "QF",
+    "drawName": "WD-U15",
+    "drawCode": "10",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 16,
+    "time": "00:16",
+    "matchOrder": null,
+    "matchTypeId": 4,
+    "matchTypeValue": "Women's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 7,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 5,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486545,
+    "code": "336",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "36145",
+          "nameDisplay": "Hamad ALMALKI",
+          "nameType": 0,
+          "firstName": "Hamad",
+          "lastName": "ALMALKI",
+          "initials": "HA",
+          "nameShort": "H ALMALKI",
+          "nameShort2": "ALMALKI",
+          "slug": "hamad-almalki",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Hamad ALMALKI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "44655",
+          "nameDisplay": "Sundos ABEL",
+          "nameType": 0,
+          "firstName": "Sundos",
+          "lastName": "ABEL",
+          "initials": "SA",
+          "nameShort": "S ABEL",
+          "nameShort2": "ABEL",
+          "slug": "sundos-abel",
+          "countryCode": "QAT",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Sundos ABEL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40776",
+          "nameDisplay": "Hussein HATEM",
+          "nameType": 0,
+          "firstName": "Hussein",
+          "lastName": "HATEM",
+          "initials": "HH",
+          "nameShort": "H HATEM",
+          "nameShort2": "HATEM",
+          "slug": "hussein-hatem",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Hussein HATEM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "46904",
+          "nameDisplay": "Bana SHEER",
+          "nameType": 0,
+          "firstName": "Bana",
+          "lastName": "SHEER",
+          "initials": "BS",
+          "nameShort": "B SHEER",
+          "nameShort2": "SHEER",
+          "slug": "bana-sheer",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Bana SHEER",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 17:20:00",
+    "matchTimeUtc": "2025-11-23 09:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD-U17",
+    "roundName": "R16",
+    "drawName": "XD-U17",
+    "drawCode": "15",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Location 2",
+    "duration": 36,
+    "time": "00:36",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 16,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486516,
+    "code": "12",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 2,
+    "scoreStatusValue": "Retired",
+    "winner": 2,
+    "team1": {
+      "countryCode": "PLE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "37952",
+          "nameDisplay": "Yazan JOULANI",
+          "nameType": 0,
+          "firstName": "Yazan",
+          "lastName": "JOULANI",
+          "initials": "YJ",
+          "nameShort": "Y JOULANI",
+          "nameShort2": "JOULANI",
+          "slug": "yazan-joulani",
+          "countryCode": "PLE",
+          "countryName": "Palestine",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+          "avatar": {
+            "title": "Yazan JOULANI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "56686",
+          "nameDisplay": "Saif ABU EID",
+          "nameType": 0,
+          "firstName": "Saif",
+          "lastName": "ABU EID",
+          "initials": "SA",
+          "nameShort": "S ABU EID",
+          "nameShort2": "ABU EID",
+          "slug": "saif-abu-eid",
+          "countryCode": "JOR",
+          "countryName": "Jordan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JOR.png",
+          "avatar": {
+            "title": "Saif ABU EID",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:00:00",
+    "matchTimeUtc": "2025-11-23 01:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "R16",
+    "drawName": "MS",
+    "drawCode": "1",
+    "courtName": "",
+    "courtCode": null,
+    "courtIndex": null,
+    "locationName": null,
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 0,
+        "away": 7,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486559,
+    "code": "14",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 1,
+    "scoreStatusValue": "Walkover",
+    "winner": 1,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "60267",
+          "nameDisplay": "Oliver KHOURY",
+          "nameType": 0,
+          "firstName": "Oliver",
+          "lastName": "KHOURY",
+          "initials": "OK",
+          "nameShort": "O KHOURY",
+          "nameShort2": "KHOURY",
+          "slug": "oliver-khoury",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Oliver KHOURY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "41836",
+          "nameDisplay": "Saoud ABDULKAREEM",
+          "nameType": 0,
+          "firstName": "Saoud",
+          "lastName": "ABDULKAREEM",
+          "initials": "SA",
+          "nameShort": "S ABDULKAREEM",
+          "nameShort2": "ABDULKAREEM",
+          "slug": "saoud-abdulkareem",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Saoud ABDULKAREEM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 09:35:00",
+    "matchTimeUtc": "2025-11-23 01:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "R16",
+    "drawName": "MS",
+    "drawCode": "1",
+    "courtName": "",
+    "courtCode": null,
+    "courtIndex": null,
+    "locationName": null,
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [],
+    "matches": []
+  },
+  {
+    "id": 1486465,
+    "code": "166",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "37788",
+          "nameDisplay": "Varya OMAR",
+          "nameType": 0,
+          "firstName": "Varya",
+          "lastName": "OMAR",
+          "initials": "VO",
+          "nameShort": "V OMAR",
+          "nameShort2": "OMAR",
+          "slug": "varya-omar",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Varya OMAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "25229",
+          "nameDisplay": "Yasmina KHOURY",
+          "nameType": 0,
+          "firstName": "Yasmina",
+          "lastName": "KHOURY",
+          "initials": "YK",
+          "nameShort": "Y KHOURY",
+          "nameShort2": "KHOURY",
+          "slug": "yasmina-khoury",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Yasmina KHOURY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:10:00",
+    "matchTimeUtc": "2025-11-23 02:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U15",
+    "roundName": "R16",
+    "drawName": "WS-U15",
+    "drawCode": "7",
+    "courtName": "",
+    "courtCode": null,
+    "courtIndex": null,
+    "locationName": null,
+    "duration": 14,
+    "time": "00:14",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 7,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 9,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486428,
+    "code": "163",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "21503",
+          "nameDisplay": "Seane BOU ABBOUD",
+          "nameType": 0,
+          "firstName": "Seane",
+          "lastName": "BOU ABBOUD",
+          "initials": "SB",
+          "nameShort": "S BOU ABBOUD",
+          "nameShort2": "BOU ABBOUD",
+          "slug": "seane-bou-abboud",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Seane BOU ABBOUD",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "QAT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "42163",
+          "nameDisplay": "Alyaa ALKUWARI",
+          "nameType": 0,
+          "firstName": "Alyaa",
+          "lastName": "ALKUWARI",
+          "initials": "AA",
+          "nameShort": "A ALKUWARI",
+          "nameShort2": "ALKUWARI",
+          "slug": "alyaa-alkuwari",
+          "countryCode": "QAT",
+          "countryName": "Qatar",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/QAT.png",
+          "avatar": {
+            "title": "Alyaa ALKUWARI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 10:10:00",
+    "matchTimeUtc": "2025-11-23 02:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "WS-U15",
+    "roundName": "R16",
+    "drawName": "WS-U15",
+    "drawCode": "7",
+    "courtName": "",
+    "courtCode": null,
+    "courtIndex": null,
+    "locationName": null,
+    "duration": 20,
+    "time": "00:20",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 8,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 5,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486669,
+    "code": "365",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "20862",
+          "nameDisplay": "Hussien QUSAY",
+          "nameType": 0,
+          "firstName": "Hussien",
+          "lastName": "QUSAY",
+          "initials": "HQ",
+          "nameShort": "H QUSAY",
+          "nameShort2": "QUSAY",
+          "slug": "hussien-qusay",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Hussien QUSAY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "37788",
+          "nameDisplay": "Varya OMAR",
+          "nameType": 0,
+          "firstName": "Varya",
+          "lastName": "OMAR",
+          "initials": "VO",
+          "nameShort": "V OMAR",
+          "nameShort2": "OMAR",
+          "slug": "varya-omar",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Varya OMAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LBN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "40435",
+          "nameDisplay": "Jad EL CHEIKH HUSSEIN",
+          "nameType": 0,
+          "firstName": "Jad",
+          "lastName": "EL CHEIKH HUSSEIN",
+          "initials": "JE",
+          "nameShort": "J EL CHEIKH HUSSEIN",
+          "nameShort2": "EL CHEIKH HUSSEIN",
+          "slug": "jad-el-cheikh-hussein",
+          "countryCode": "LBN",
+          "countryName": "Lebanon",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Jad EL CHEIKH HUSSEIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "21503",
+          "nameDisplay": "Seane BOU ABBOUD",
+          "nameType": 0,
+          "firstName": "Seane",
+          "lastName": "BOU ABBOUD",
+          "initials": "SB",
+          "nameShort": "S BOU ABBOUD",
+          "nameShort2": "BOU ABBOUD",
+          "slug": "seane-bou-abboud",
+          "countryCode": "LBN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LBN.png",
+          "avatar": {
+            "title": "Seane BOU ABBOUD",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 15:35:00",
+    "matchTimeUtc": "2025-11-23 07:35:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XD-U15",
+    "roundName": "R16",
+    "drawName": "XD-U15",
+    "drawCode": "8",
+    "courtName": "",
+    "courtCode": null,
+    "courtIndex": null,
+    "locationName": null,
+    "duration": 23,
+    "time": "00:23",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 13,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 17,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1486587,
+    "code": "67",
+    "tournamentCode": "4908E48F-CF45-4ED0-BC7B-3A65EBC1B785",
+    "tournamentName": "Badminton Asia West Asia Regional Championships 2025 (Individual)",
+    "isTeamMatch": false,
+    "scoreStatus": 1,
+    "scoreStatusValue": "Walkover",
+    "winner": 1,
+    "team1": {
+      "countryCode": "PLE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "43489",
+          "nameDisplay": "Shafiq ABDALWAHAB",
+          "nameType": 0,
+          "firstName": "Shafiq",
+          "lastName": "ABDALWAHAB",
+          "initials": "SA",
+          "nameShort": "S ABDALWAHAB",
+          "nameShort2": "ABDALWAHAB",
+          "slug": "shafiq-abdalwahab",
+          "countryCode": "PLE",
+          "countryName": "Palestine",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+          "avatar": {
+            "title": "Shafiq ABDALWAHAB",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "37952",
+          "nameDisplay": "Yazan JOULANI",
+          "nameType": 0,
+          "firstName": "Yazan",
+          "lastName": "JOULANI",
+          "initials": "YJ",
+          "nameShort": "Y JOULANI",
+          "nameShort2": "JOULANI",
+          "slug": "yazan-joulani",
+          "countryCode": "PLE",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PLE.png",
+          "avatar": {
+            "title": "Yazan JOULANI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IRQ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "61719",
+          "nameDisplay": "Karwan Nozad ABDULLAH",
+          "nameType": 0,
+          "firstName": "Karwan Nozad",
+          "lastName": "ABDULLAH",
+          "initials": "KA",
+          "nameShort": "K ABDULLAH",
+          "nameShort2": "ABDULLAH",
+          "slug": "karwan-nozad-abdullah",
+          "countryCode": "IRQ",
+          "countryName": "Iraq",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Karwan Nozad ABDULLAH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "98173",
+          "nameDisplay": "Yousif M. KHUDHUR",
+          "nameType": 0,
+          "firstName": "Yousif",
+          "lastName": "M. KHUDHUR",
+          "initials": "YM",
+          "nameShort": "Y M. KHUDHUR",
+          "nameShort2": "M. KHUDHUR",
+          "slug": "yousif-m-khudhur",
+          "countryCode": "IRQ",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IRQ.png",
+          "avatar": {
+            "title": "Yousif M. KHUDHUR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-23 16:10:00",
+    "matchTimeUtc": "2025-11-23 08:10:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MD",
+    "roundName": "QF",
+    "drawName": "MD",
+    "drawCode": "3",
+    "courtName": "",
+    "courtCode": null,
+    "courtIndex": null,
+    "locationName": null,
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [],
+    "matches": []
+  }
+]

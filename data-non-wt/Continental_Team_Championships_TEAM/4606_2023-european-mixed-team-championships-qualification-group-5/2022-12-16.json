@@ -1,0 +1,1411 @@
+[
+  {
+    "id": 1295377,
+    "code": "17",
+    "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+    "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "AUT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+      "teamId": 23,
+      "teamName": "Austria",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "LTU",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+      "teamId": 36,
+      "teamName": "Lithuania",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-12-16 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC23 Qualification Group 5",
+    "roundName": "R3",
+    "drawName": "EMTC23 Qualification Group 5 - Subgroup 2",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Badminton Hall Europe",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1295382,
+        "code": "25",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 23,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "78121",
+              "nameDisplay": "Philip BIRKER",
+              "nameType": 0,
+              "firstName": "Philip",
+              "lastName": "BIRKER",
+              "initials": "PB",
+              "nameShort": "P BIRKER",
+              "nameShort2": "BIRKER",
+              "slug": "philip-birker",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Philip BIRKER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "75414",
+              "nameDisplay": "Serena AU YEONG",
+              "nameType": 0,
+              "firstName": "Serena",
+              "lastName": "AU YEONG",
+              "initials": "SA",
+              "nameShort": "S AU YEONG",
+              "nameShort2": "AU YEONG",
+              "slug": "serena-au-yeong",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Serena AU YEONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 36,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "93868",
+              "nameDisplay": "Danielius BERZANSKIS",
+              "nameType": 0,
+              "firstName": "Danielius",
+              "lastName": "BERZANSKIS",
+              "initials": "DB",
+              "nameShort": "D BERZANSKIS",
+              "nameShort2": "BERZANSKIS",
+              "slug": "danielius-berzanskis",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Danielius BERZANSKIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "70098",
+              "nameDisplay": "Samanta GOLUBICKAITE",
+              "nameType": 0,
+              "firstName": "Samanta",
+              "lastName": "GOLUBICKAITE",
+              "initials": "SG",
+              "nameShort": "S GOLUBICKAITE",
+              "nameShort2": "GOLUBICKAITE",
+              "slug": "samanta-golubickaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Samanta GOLUBICKAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": "R3",
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295378,
+        "code": "21",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 23,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "56274",
+              "nameDisplay": "Luka WRABER",
+              "nameType": 0,
+              "firstName": "Luka",
+              "lastName": "WRABER",
+              "initials": "LW",
+              "nameShort": "L WRABER",
+              "nameShort2": "WRABER",
+              "slug": "luka-wraber",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Luka WRABER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897272/assets/players/thumbnail/56274.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 36,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "77902",
+              "nameDisplay": "Jonas PETKUS",
+              "nameType": 0,
+              "firstName": "Jonas",
+              "lastName": "PETKUS",
+              "initials": "JP",
+              "nameShort": "J PETKUS",
+              "nameShort2": "PETKUS",
+              "slug": "jonas-petkus",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Jonas PETKUS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295379,
+        "code": "22",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 23,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "87854",
+              "nameDisplay": "Katrin NEUDOLT",
+              "nameType": 0,
+              "firstName": "Katrin",
+              "lastName": "NEUDOLT",
+              "initials": "KN",
+              "nameShort": "K NEUDOLT",
+              "nameShort2": "NEUDOLT",
+              "slug": "katrin-neudolt",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Katrin NEUDOLT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 36,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "70098",
+              "nameDisplay": "Samanta GOLUBICKAITE",
+              "nameType": 0,
+              "firstName": "Samanta",
+              "lastName": "GOLUBICKAITE",
+              "initials": "SG",
+              "nameShort": "S GOLUBICKAITE",
+              "nameShort2": "GOLUBICKAITE",
+              "slug": "samanta-golubickaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Samanta GOLUBICKAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295380,
+        "code": "23",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 23,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "78121",
+              "nameDisplay": "Philip BIRKER",
+              "nameType": 0,
+              "firstName": "Philip",
+              "lastName": "BIRKER",
+              "initials": "PB",
+              "nameShort": "P BIRKER",
+              "nameShort2": "BIRKER",
+              "slug": "philip-birker",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Philip BIRKER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "80054",
+              "nameDisplay": "Philipp DREXLER",
+              "nameType": 0,
+              "firstName": "Philipp",
+              "lastName": "DREXLER",
+              "initials": "PD",
+              "nameShort": "P DREXLER",
+              "nameShort2": "DREXLER",
+              "slug": "philipp-drexler",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Philipp DREXLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 36,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "93868",
+              "nameDisplay": "Danielius BERZANSKIS",
+              "nameType": 0,
+              "firstName": "Danielius",
+              "lastName": "BERZANSKIS",
+              "initials": "DB",
+              "nameShort": "D BERZANSKIS",
+              "nameShort2": "BERZANSKIS",
+              "slug": "danielius-berzanskis",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Danielius BERZANSKIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "77902",
+              "nameDisplay": "Jonas PETKUS",
+              "nameType": 0,
+              "firstName": "Jonas",
+              "lastName": "PETKUS",
+              "initials": "JP",
+              "nameShort": "J PETKUS",
+              "nameShort2": "PETKUS",
+              "slug": "jonas-petkus",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Jonas PETKUS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295381,
+        "code": "24",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 23,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "75414",
+              "nameDisplay": "Serena AU YEONG",
+              "nameType": 0,
+              "firstName": "Serena",
+              "lastName": "AU YEONG",
+              "initials": "SA",
+              "nameShort": "S AU YEONG",
+              "nameShort2": "AU YEONG",
+              "slug": "serena-au-yeong",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Serena AU YEONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "85127",
+              "nameDisplay": "Katharina HOCHMEIR",
+              "nameType": 0,
+              "firstName": "Katharina",
+              "lastName": "HOCHMEIR",
+              "initials": "KH",
+              "nameShort": "K HOCHMEIR",
+              "nameShort2": "HOCHMEIR",
+              "slug": "katharina-hochmeir",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Katharina HOCHMEIR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "LTU",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+          "teamId": 36,
+          "teamName": "Lithuania",
+          "players": [
+            {
+              "id": "72367",
+              "nameDisplay": "Vytaute FOMKINAITE",
+              "nameType": 0,
+              "firstName": "Vytaute",
+              "lastName": "FOMKINAITE",
+              "initials": "VF",
+              "nameShort": "V FOMKINAITE",
+              "nameShort2": "FOMKINAITE",
+              "slug": "vytaute-fomkinaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Vytaute FOMKINAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "62406",
+              "nameDisplay": "Vilte PAULAUSKAITE",
+              "nameType": 0,
+              "firstName": "Vilte",
+              "lastName": "PAULAUSKAITE",
+              "initials": "VP",
+              "nameShort": "V PAULAUSKAITE",
+              "nameShort2": "PAULAUSKAITE",
+              "slug": "vilte-paulauskaite",
+              "countryCode": "LTU",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LTU.png",
+              "avatar": {
+                "title": "Vilte PAULAUSKAITE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1295362,
+    "code": "9",
+    "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+    "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "SLO",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+      "teamId": 461,
+      "teamName": "Slovenia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BEL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+      "teamId": 33,
+      "teamName": "Belgium",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-12-16 14:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "EMTC23 Qualification Group 5",
+    "roundName": "R1",
+    "drawName": "EMTC23 Qualification Group 5 - Subgroup 1",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Badminton Hall Europe",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1295367,
+        "code": "15",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 461,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "86567",
+              "nameDisplay": "Miha IVANČIČ",
+              "nameType": 0,
+              "firstName": "Miha",
+              "lastName": "IVANČIČ",
+              "initials": "MI",
+              "nameShort": "M IVANČIČ",
+              "nameShort2": "IVANČIČ",
+              "slug": "miha-ivani",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Miha IVANČIČ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "61268",
+              "nameDisplay": "Petra POLANC",
+              "nameType": 0,
+              "firstName": "Petra",
+              "lastName": "POLANC",
+              "initials": "PP",
+              "nameShort": "P POLANC",
+              "nameShort2": "POLANC",
+              "slug": "petra-polanc",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Petra POLANC",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+          "teamId": 33,
+          "teamName": "Belgium",
+          "players": [
+            {
+              "id": "55858",
+              "nameDisplay": "Senne HOUTHOOFD",
+              "nameType": 0,
+              "firstName": "Senne",
+              "lastName": "HOUTHOOFD",
+              "initials": "SH",
+              "nameShort": "S HOUTHOOFD",
+              "nameShort2": "HOUTHOOFD",
+              "slug": "senne-houthoofd",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Senne HOUTHOOFD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "96665",
+              "nameDisplay": "Lise JAQUES",
+              "nameType": 0,
+              "firstName": "Lise",
+              "lastName": "JAQUES",
+              "initials": "LJ",
+              "nameShort": "L JAQUES",
+              "nameShort2": "JAQUES",
+              "slug": "lise-jaques",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Lise JAQUES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896267/assets/players/thumbnail/96665.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295363,
+        "code": "11",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 461,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "98248",
+              "nameDisplay": "Andraz KRAPEZ",
+              "nameType": 0,
+              "firstName": "Andraz",
+              "lastName": "KRAPEZ",
+              "initials": "AK",
+              "nameShort": "A KRAPEZ",
+              "nameShort2": "KRAPEZ",
+              "slug": "andraz-krapez",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Andraz KRAPEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+          "teamId": 33,
+          "teamName": "Belgium",
+          "players": [
+            {
+              "id": "70399",
+              "nameDisplay": "Julien CARRAGGI",
+              "nameType": 0,
+              "firstName": "Julien",
+              "lastName": "CARRAGGI",
+              "initials": "JC",
+              "nameShort": "J CARRAGGI",
+              "nameShort2": "CARRAGGI",
+              "slug": "julien-carraggi",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Julien CARRAGGI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719989160/assets/players/thumbnail/70399.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295364,
+        "code": "12",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 461,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "61268",
+              "nameDisplay": "Petra POLANC",
+              "nameType": 0,
+              "firstName": "Petra",
+              "lastName": "POLANC",
+              "initials": "PP",
+              "nameShort": "P POLANC",
+              "nameShort2": "POLANC",
+              "slug": "petra-polanc",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Petra POLANC",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+          "teamId": 33,
+          "teamName": "Belgium",
+          "players": [
+            {
+              "id": "55318",
+              "nameDisplay": "Lianne TAN",
+              "nameType": 0,
+              "firstName": "Lianne",
+              "lastName": "TAN",
+              "initials": "LT",
+              "nameShort": "L TAN",
+              "nameShort2": "TAN",
+              "slug": "lianne-tan",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Lianne TAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636594404/assets/players/thumbnail/55318.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295365,
+        "code": "13",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 461,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "86567",
+              "nameDisplay": "Miha IVANČIČ",
+              "nameType": 0,
+              "firstName": "Miha",
+              "lastName": "IVANČIČ",
+              "initials": "MI",
+              "nameShort": "M IVANČIČ",
+              "nameShort2": "IVANČIČ",
+              "slug": "miha-ivani",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Miha IVANČIČ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67693",
+              "nameDisplay": "Maj POBOLJŠAJ",
+              "nameType": 0,
+              "firstName": "Maj",
+              "lastName": "POBOLJŠAJ",
+              "initials": "MP",
+              "nameShort": "M POBOLJŠAJ",
+              "nameShort2": "POBOLJŠAJ",
+              "slug": "maj-poboljaj",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Maj POBOLJŠAJ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+          "teamId": 33,
+          "teamName": "Belgium",
+          "players": [
+            {
+              "id": "67251",
+              "nameDisplay": "Elias BRACKE",
+              "nameType": 0,
+              "firstName": "Elias",
+              "lastName": "BRACKE",
+              "initials": "EB",
+              "nameShort": "E BRACKE",
+              "nameShort2": "BRACKE",
+              "slug": "elias-bracke",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Elias BRACKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689649233/assets/players/thumbnail/67251.jpg"
+              }
+            },
+            {
+              "id": "70399",
+              "nameDisplay": "Julien CARRAGGI",
+              "nameType": 0,
+              "firstName": "Julien",
+              "lastName": "CARRAGGI",
+              "initials": "JC",
+              "nameShort": "J CARRAGGI",
+              "nameShort2": "CARRAGGI",
+              "slug": "julien-carraggi",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Julien CARRAGGI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719989160/assets/players/thumbnail/70399.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1295366,
+        "code": "14",
+        "tournamentCode": "16698638-22C9-4405-A3C2-A7C255E64096",
+        "tournamentName": "2023 European Mixed Team Championships - Qualification Group 5",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 461,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "97161",
+              "nameDisplay": "Zoja NOVAK",
+              "nameType": 0,
+              "firstName": "Zoja",
+              "lastName": "NOVAK",
+              "initials": "ZN",
+              "nameShort": "Z NOVAK",
+              "nameShort2": "NOVAK",
+              "slug": "zoja-novak",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Zoja NOVAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "99177",
+              "nameDisplay": "Lia SALEHAR",
+              "nameType": 0,
+              "firstName": "Lia",
+              "lastName": "SALEHAR",
+              "initials": "LS",
+              "nameShort": "L SALEHAR",
+              "nameShort2": "SALEHAR",
+              "slug": "lia-salehar",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Lia SALEHAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+          "teamId": 33,
+          "teamName": "Belgium",
+          "players": [
+            {
+              "id": "96665",
+              "nameDisplay": "Lise JAQUES",
+              "nameType": 0,
+              "firstName": "Lise",
+              "lastName": "JAQUES",
+              "initials": "LJ",
+              "nameShort": "L JAQUES",
+              "nameShort2": "JAQUES",
+              "slug": "lise-jaques",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Lise JAQUES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896267/assets/players/thumbnail/96665.jpg"
+              }
+            },
+            {
+              "id": "94823",
+              "nameDisplay": "Lien LAMMERTYN",
+              "nameType": 0,
+              "firstName": "Lien",
+              "lastName": "LAMMERTYN",
+              "initials": "LL",
+              "nameShort": "L LAMMERTYN",
+              "nameShort2": "LAMMERTYN",
+              "slug": "lien-lammertyn",
+              "countryCode": "BEL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEL.png",
+              "avatar": {
+                "title": "Lien LAMMERTYN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2022-12-16 14:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "EMTC23 Qualification Group 5",
+        "roundName": null,
+        "drawName": "EMTC23 Qualification Group 5 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton Hall Europe",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

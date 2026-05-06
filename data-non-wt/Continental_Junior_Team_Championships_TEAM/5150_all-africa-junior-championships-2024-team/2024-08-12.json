@@ -1,0 +1,5539 @@
+[
+  {
+    "id": 1379180,
+    "code": "12",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "ALG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+      "teamId": 506,
+      "teamName": "Algeria",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TUN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+      "teamId": 707,
+      "teamName": "Tunisie",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 10:00:00",
+    "matchTimeUtc": "2024-08-12 10:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R1",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379184,
+        "code": "15",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "84409",
+              "nameDisplay": "Ryane MAZRI",
+              "nameType": 0,
+              "firstName": "Ryane",
+              "lastName": "MAZRI",
+              "initials": "RM",
+              "nameShort": "R MAZRI",
+              "nameShort2": "MAZRI",
+              "slug": "ryane-mazri",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Ryane MAZRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "45055",
+              "nameDisplay": "Ines MADI",
+              "nameType": 0,
+              "firstName": "Ines",
+              "lastName": "MADI",
+              "initials": "IM",
+              "nameShort": "I MADI",
+              "nameShort2": "MADI",
+              "slug": "ines-madi",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Ines MADI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "40474",
+              "nameDisplay": "Abderrahmen TRABELSI",
+              "nameType": 0,
+              "firstName": "Abderrahmen",
+              "lastName": "TRABELSI",
+              "initials": "AT",
+              "nameShort": "A TRABELSI",
+              "nameShort2": "TRABELSI",
+              "slug": "abderrahmen-trabelsi",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Abderrahmen TRABELSI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "33663",
+              "nameDisplay": "Narim JEBALI",
+              "nameType": 0,
+              "firstName": "Narim",
+              "lastName": "JEBALI",
+              "initials": "NJ",
+              "nameShort": "N JEBALI",
+              "nameShort2": "JEBALI",
+              "slug": "narim-jebali",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Narim JEBALI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:00:00",
+        "matchTimeUtc": "2024-08-12 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379189,
+        "code": "11",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "57937",
+              "nameDisplay": "Oussama KEDDOU",
+              "nameType": 0,
+              "firstName": "Oussama",
+              "lastName": "KEDDOU",
+              "initials": "OK",
+              "nameShort": "O KEDDOU",
+              "nameShort2": "KEDDOU",
+              "slug": "oussama-keddou",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Oussama KEDDOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "40510",
+              "nameDisplay": "Oubeid Errahmen KASRAOUI",
+              "nameType": 0,
+              "firstName": "Oubeid Errahmen",
+              "lastName": "KASRAOUI",
+              "initials": "OK",
+              "nameShort": "O KASRAOUI",
+              "nameShort2": "KASRAOUI",
+              "slug": "oubeid-errahmen-kasraoui",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Oubeid Errahmen KASRAOUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:50:00",
+        "matchTimeUtc": "2024-08-12 10:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379188,
+        "code": "12",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "79879",
+              "nameDisplay": "Amira BOUHRIRA",
+              "nameType": 0,
+              "firstName": "Amira",
+              "lastName": "BOUHRIRA",
+              "initials": "AB",
+              "nameShort": "A BOUHRIRA",
+              "nameShort2": "BOUHRIRA",
+              "slug": "amira-bouhrira",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Amira BOUHRIRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "71953",
+              "nameDisplay": "Elaa KHEDHIRI",
+              "nameType": 0,
+              "firstName": "Elaa",
+              "lastName": "KHEDHIRI",
+              "initials": "EK",
+              "nameShort": "E KHEDHIRI",
+              "nameShort2": "KHEDHIRI",
+              "slug": "elaa-khedhiri",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Elaa KHEDHIRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 11:40:00",
+        "matchTimeUtc": "2024-08-12 11:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379186,
+        "code": "13",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "62837",
+              "nameDisplay": "Daoud AIMEN",
+              "nameType": 0,
+              "firstName": "Daoud",
+              "lastName": "AIMEN",
+              "initials": "DA",
+              "nameShort": "D AIMEN",
+              "nameShort2": "AIMEN",
+              "slug": "daoud-aimen",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Daoud AIMEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "91043",
+              "nameDisplay": "YACINE Laichi",
+              "nameType": 1,
+              "firstName": "Laichi",
+              "lastName": "YACINE",
+              "initials": "YL",
+              "nameShort": "YACINE L",
+              "nameShort2": "YACINE",
+              "slug": "laichi-yacine",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Laichi YACINE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "39981",
+              "nameDisplay": "Ahmed CHTIOUI",
+              "nameType": 0,
+              "firstName": "Ahmed",
+              "lastName": "CHTIOUI",
+              "initials": "AC",
+              "nameShort": "A CHTIOUI",
+              "nameShort2": "CHTIOUI",
+              "slug": "ahmed-chtioui",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Ahmed CHTIOUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "40510",
+              "nameDisplay": "Oubeid Errahmen KASRAOUI",
+              "nameType": 0,
+              "firstName": "Oubeid Errahmen",
+              "lastName": "KASRAOUI",
+              "initials": "OK",
+              "nameShort": "O KASRAOUI",
+              "nameShort2": "KASRAOUI",
+              "slug": "oubeid-errahmen-kasraoui",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Oubeid Errahmen KASRAOUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 12:30:00",
+        "matchTimeUtc": "2024-08-12 12:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379194,
+        "code": "14",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "38902",
+              "nameDisplay": "Manel HAMZA",
+              "nameType": 0,
+              "firstName": "Manel",
+              "lastName": "HAMZA",
+              "initials": "MH",
+              "nameShort": "M HAMZA",
+              "nameShort2": "HAMZA",
+              "slug": "manel-hamza",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Manel HAMZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "80339",
+              "nameDisplay": "Deloum RIHAM",
+              "nameType": 0,
+              "firstName": "Deloum",
+              "lastName": "RIHAM",
+              "initials": "DR",
+              "nameShort": "D RIHAM",
+              "nameShort2": "RIHAM",
+              "slug": "deloum-riham",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Deloum RIHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "33663",
+              "nameDisplay": "Narim JEBALI",
+              "nameType": 0,
+              "firstName": "Narim",
+              "lastName": "JEBALI",
+              "initials": "NJ",
+              "nameShort": "N JEBALI",
+              "nameShort2": "JEBALI",
+              "slug": "narim-jebali",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Narim JEBALI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "71953",
+              "nameDisplay": "Elaa KHEDHIRI",
+              "nameType": 0,
+              "firstName": "Elaa",
+              "lastName": "KHEDHIRI",
+              "initials": "EK",
+              "nameShort": "E KHEDHIRI",
+              "nameShort2": "KHEDHIRI",
+              "slug": "elaa-khedhiri",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Elaa KHEDHIRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 13:20:00",
+        "matchTimeUtc": "2024-08-12 13:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1379177,
+    "code": "15",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "ALG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+      "teamId": 506,
+      "teamName": "Algeria",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BDI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+      "teamId": 126,
+      "teamName": "Burundi",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 15:00:00",
+    "matchTimeUtc": "2024-08-12 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R3",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379219,
+        "code": "25",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "91043",
+              "nameDisplay": "YACINE Laichi",
+              "nameType": 1,
+              "firstName": "Laichi",
+              "lastName": "YACINE",
+              "initials": "YL",
+              "nameShort": "YACINE L",
+              "nameShort2": "YACINE",
+              "slug": "laichi-yacine",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Laichi YACINE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "38902",
+              "nameDisplay": "Manel HAMZA",
+              "nameType": 0,
+              "firstName": "Manel",
+              "lastName": "HAMZA",
+              "initials": "MH",
+              "nameShort": "M HAMZA",
+              "nameShort2": "HAMZA",
+              "slug": "manel-hamza",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Manel HAMZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "16415",
+              "nameDisplay": "Orcella UWUMUHOZA",
+              "nameType": 0,
+              "firstName": "Orcella",
+              "lastName": "UWUMUHOZA",
+              "initials": "OU",
+              "nameShort": "O UWUMUHOZA",
+              "nameShort2": "UWUMUHOZA",
+              "slug": "orcella-uwumuhoza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Orcella UWUMUHOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "19958",
+              "nameDisplay": "Keren IGIRANEZA",
+              "nameType": 0,
+              "firstName": "Keren",
+              "lastName": "IGIRANEZA",
+              "initials": "KI",
+              "nameShort": "K IGIRANEZA",
+              "nameShort2": "IGIRANEZA",
+              "slug": "keren-igiraneza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Keren IGIRANEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:00:00",
+        "matchTimeUtc": "2024-08-12 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379205,
+        "code": "21",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "62837",
+              "nameDisplay": "Daoud AIMEN",
+              "nameType": 0,
+              "firstName": "Daoud",
+              "lastName": "AIMEN",
+              "initials": "DA",
+              "nameShort": "D AIMEN",
+              "nameShort2": "AIMEN",
+              "slug": "daoud-aimen",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Daoud AIMEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "30446",
+              "nameDisplay": "Bertrand ITANZENEZA",
+              "nameType": 0,
+              "firstName": "Bertrand",
+              "lastName": "ITANZENEZA",
+              "initials": "BI",
+              "nameShort": "B ITANZENEZA",
+              "nameShort2": "ITANZENEZA",
+              "slug": "bertrand-itanzeneza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Bertrand ITANZENEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:50:00",
+        "matchTimeUtc": "2024-08-12 15:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379226,
+        "code": "22",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "80339",
+              "nameDisplay": "Deloum RIHAM",
+              "nameType": 0,
+              "firstName": "Deloum",
+              "lastName": "RIHAM",
+              "initials": "DR",
+              "nameShort": "D RIHAM",
+              "nameShort2": "RIHAM",
+              "slug": "deloum-riham",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Deloum RIHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "22872",
+              "nameDisplay": "Reine Nicole IRUMVA",
+              "nameType": 0,
+              "firstName": "Reine Nicole",
+              "lastName": "IRUMVA",
+              "initials": "RI",
+              "nameShort": "R IRUMVA",
+              "nameShort2": "IRUMVA",
+              "slug": "reine-nicole-irumva",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Reine Nicole IRUMVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 16:40:00",
+        "matchTimeUtc": "2024-08-12 16:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 1,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379225,
+        "code": "23",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "43478",
+              "nameDisplay": "Ayoub Rayan DAOUD",
+              "nameType": 0,
+              "firstName": "Ayoub Rayan",
+              "lastName": "DAOUD",
+              "initials": "AD",
+              "nameShort": "A DAOUD",
+              "nameShort2": "DAOUD",
+              "slug": "ayoub-rayan-daoud",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Ayoub Rayan DAOUD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57937",
+              "nameDisplay": "Oussama KEDDOU",
+              "nameType": 0,
+              "firstName": "Oussama",
+              "lastName": "KEDDOU",
+              "initials": "OK",
+              "nameShort": "O KEDDOU",
+              "nameShort2": "KEDDOU",
+              "slug": "oussama-keddou",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Oussama KEDDOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "23882",
+              "nameDisplay": "Prince IRAKOZE",
+              "nameType": 0,
+              "firstName": "Prince",
+              "lastName": "IRAKOZE",
+              "initials": "PI",
+              "nameShort": "P IRAKOZE",
+              "nameShort2": "IRAKOZE",
+              "slug": "prince-irakoze",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Prince IRAKOZE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "16415",
+              "nameDisplay": "Orcella UWUMUHOZA",
+              "nameType": 0,
+              "firstName": "Orcella",
+              "lastName": "UWUMUHOZA",
+              "initials": "OU",
+              "nameShort": "O UWUMUHOZA",
+              "nameShort2": "UWUMUHOZA",
+              "slug": "orcella-uwumuhoza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Orcella UWUMUHOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 17:30:00",
+        "matchTimeUtc": "2024-08-12 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379222,
+        "code": "24",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "ALG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+          "teamId": 506,
+          "teamName": "Algeria",
+          "players": [
+            {
+              "id": "79879",
+              "nameDisplay": "Amira BOUHRIRA",
+              "nameType": 0,
+              "firstName": "Amira",
+              "lastName": "BOUHRIRA",
+              "initials": "AB",
+              "nameShort": "A BOUHRIRA",
+              "nameShort2": "BOUHRIRA",
+              "slug": "amira-bouhrira",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Amira BOUHRIRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "99240",
+              "nameDisplay": "Tinhinane CHILA",
+              "nameType": 0,
+              "firstName": "Tinhinane",
+              "lastName": "CHILA",
+              "initials": "TC",
+              "nameShort": "T CHILA",
+              "nameShort2": "CHILA",
+              "slug": "tinhinane-chila",
+              "countryCode": "ALG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ALG.png",
+              "avatar": {
+                "title": "Tinhinane CHILA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "19958",
+              "nameDisplay": "Keren IGIRANEZA",
+              "nameType": 0,
+              "firstName": "Keren",
+              "lastName": "IGIRANEZA",
+              "initials": "KI",
+              "nameShort": "K IGIRANEZA",
+              "nameShort2": "IGIRANEZA",
+              "slug": "keren-igiraneza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Keren IGIRANEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "22872",
+              "nameDisplay": "Reine Nicole IRUMVA",
+              "nameType": 0,
+              "firstName": "Reine Nicole",
+              "lastName": "IRUMVA",
+              "initials": "RI",
+              "nameShort": "R IRUMVA",
+              "nameShort2": "IRUMVA",
+              "slug": "reine-nicole-irumva",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Reine Nicole IRUMVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 18:20:00",
+        "matchTimeUtc": "2024-08-12 18:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Stadium Lat Dior",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1379170,
+    "code": "14",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "EGY",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+      "teamId": 56,
+      "teamName": "Egypt",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BDI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+      "teamId": 126,
+      "teamName": "Burundi",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 10:00:00",
+    "matchTimeUtc": "2024-08-12 10:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R1",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379195,
+        "code": "20",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "77748",
+              "nameDisplay": "Mahmoud MOHAMED MAHMOUD",
+              "nameType": 0,
+              "firstName": "Mahmoud",
+              "lastName": "MOHAMED MAHMOUD",
+              "initials": "MM",
+              "nameShort": "M MOHAMED MAHMOUD",
+              "nameShort2": "MOHAMED MAHMOUD",
+              "slug": "mahmoud-mohamed-mahmoud",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Mahmoud MOHAMED MAHMOUD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "81779",
+              "nameDisplay": "Fatema RABIE",
+              "nameType": 0,
+              "firstName": "Fatema",
+              "lastName": "RABIE",
+              "initials": "FR",
+              "nameShort": "F RABIE",
+              "nameShort2": "RABIE",
+              "slug": "fatema-rabie",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Fatema RABIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "23882",
+              "nameDisplay": "Prince IRAKOZE",
+              "nameType": 0,
+              "firstName": "Prince",
+              "lastName": "IRAKOZE",
+              "initials": "PI",
+              "nameShort": "P IRAKOZE",
+              "nameShort2": "IRAKOZE",
+              "slug": "prince-irakoze",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Prince IRAKOZE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "19958",
+              "nameDisplay": "Keren IGIRANEZA",
+              "nameType": 0,
+              "firstName": "Keren",
+              "lastName": "IGIRANEZA",
+              "initials": "KI",
+              "nameShort": "K IGIRANEZA",
+              "nameShort2": "IGIRANEZA",
+              "slug": "keren-igiraneza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Keren IGIRANEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:00:00",
+        "matchTimeUtc": "2024-08-12 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379187,
+        "code": "16",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "91573",
+              "nameDisplay": "Seif OMAR",
+              "nameType": 0,
+              "firstName": "Seif",
+              "lastName": "OMAR",
+              "initials": "SO",
+              "nameShort": "S OMAR",
+              "nameShort2": "OMAR",
+              "slug": "seif-omar",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Seif OMAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "16415",
+              "nameDisplay": "Orcella UWUMUHOZA",
+              "nameType": 0,
+              "firstName": "Orcella",
+              "lastName": "UWUMUHOZA",
+              "initials": "OU",
+              "nameShort": "O UWUMUHOZA",
+              "nameShort2": "UWUMUHOZA",
+              "slug": "orcella-uwumuhoza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Orcella UWUMUHOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:50:00",
+        "matchTimeUtc": "2024-08-12 10:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379185,
+        "code": "17",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "93807",
+              "nameDisplay": "Reem HUSSIEN",
+              "nameType": 0,
+              "firstName": "Reem",
+              "lastName": "HUSSIEN",
+              "initials": "RH",
+              "nameShort": "R HUSSIEN",
+              "nameShort2": "HUSSIEN",
+              "slug": "reem-hussien",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Reem HUSSIEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "80807",
+              "nameDisplay": "Berthila NIYOMWUNGERE",
+              "nameType": 0,
+              "firstName": "Berthila",
+              "lastName": "NIYOMWUNGERE",
+              "initials": "BN",
+              "nameShort": "B NIYOMWUNGERE",
+              "nameShort2": "NIYOMWUNGERE",
+              "slug": "berthila-niyomwungere",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Berthila NIYOMWUNGERE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 11:40:00",
+        "matchTimeUtc": "2024-08-12 11:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379193,
+        "code": "18",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "75536",
+              "nameDisplay": "Kareem HATEM",
+              "nameType": 0,
+              "firstName": "Kareem",
+              "lastName": "HATEM",
+              "initials": "KH",
+              "nameShort": "K HATEM",
+              "nameShort2": "HATEM",
+              "slug": "kareem-hatem",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Kareem HATEM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "90511",
+              "nameDisplay": "Ziad HESHAM",
+              "nameType": 0,
+              "firstName": "Ziad",
+              "lastName": "HESHAM",
+              "initials": "ZH",
+              "nameShort": "Z HESHAM",
+              "nameShort2": "HESHAM",
+              "slug": "ziad-hesham",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Ziad HESHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "23882",
+              "nameDisplay": "Prince IRAKOZE",
+              "nameType": 0,
+              "firstName": "Prince",
+              "lastName": "IRAKOZE",
+              "initials": "PI",
+              "nameShort": "P IRAKOZE",
+              "nameShort2": "IRAKOZE",
+              "slug": "prince-irakoze",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Prince IRAKOZE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "16415",
+              "nameDisplay": "Orcella UWUMUHOZA",
+              "nameType": 0,
+              "firstName": "Orcella",
+              "lastName": "UWUMUHOZA",
+              "initials": "OU",
+              "nameShort": "O UWUMUHOZA",
+              "nameShort2": "UWUMUHOZA",
+              "slug": "orcella-uwumuhoza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Orcella UWUMUHOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 12:30:00",
+        "matchTimeUtc": "2024-08-12 12:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379183,
+        "code": "19",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "96465",
+              "nameDisplay": "ELGENDY Hadia",
+              "nameType": 1,
+              "firstName": "Hadia",
+              "lastName": "ELGENDY",
+              "initials": "EH",
+              "nameShort": "ELGENDY H",
+              "nameShort2": "ELGENDY",
+              "slug": "hadia-elgendy",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Hadia ELGENDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "63885",
+              "nameDisplay": "Lojaine WASFY",
+              "nameType": 0,
+              "firstName": "Lojaine",
+              "lastName": "WASFY",
+              "initials": "LW",
+              "nameShort": "L WASFY",
+              "nameShort2": "WASFY",
+              "slug": "lojaine-wasfy",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Lojaine WASFY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BDI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+          "teamId": 126,
+          "teamName": "Burundi",
+          "players": [
+            {
+              "id": "19958",
+              "nameDisplay": "Keren IGIRANEZA",
+              "nameType": 0,
+              "firstName": "Keren",
+              "lastName": "IGIRANEZA",
+              "initials": "KI",
+              "nameShort": "K IGIRANEZA",
+              "nameShort2": "IGIRANEZA",
+              "slug": "keren-igiraneza",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Keren IGIRANEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "80807",
+              "nameDisplay": "Berthila NIYOMWUNGERE",
+              "nameType": 0,
+              "firstName": "Berthila",
+              "lastName": "NIYOMWUNGERE",
+              "initials": "BN",
+              "nameShort": "B NIYOMWUNGERE",
+              "nameShort2": "NIYOMWUNGERE",
+              "slug": "berthila-niyomwungere",
+              "countryCode": "BDI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BDI.png",
+              "avatar": {
+                "title": "Berthila NIYOMWUNGERE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 13:20:00",
+        "matchTimeUtc": "2024-08-12 13:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1379174,
+    "code": "27",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MRI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+      "teamId": 51,
+      "teamName": "Mauritius",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+      "teamId": 708,
+      "teamName": "Sénégal",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 15:00:00",
+    "matchTimeUtc": "2024-08-12 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R3",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+    "drawCode": "2",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379223,
+        "code": "36",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "56114",
+              "nameDisplay": "Lucas DOUCE",
+              "nameType": 0,
+              "firstName": "Lucas",
+              "lastName": "DOUCE",
+              "initials": "LD",
+              "nameShort": "L DOUCE",
+              "nameShort2": "DOUCE",
+              "slug": "lucas-douce",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Lucas DOUCE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "48749",
+              "nameDisplay": "Demba NDIAYE",
+              "nameType": 0,
+              "firstName": "Demba",
+              "lastName": "NDIAYE",
+              "initials": "DN",
+              "nameShort": "D NDIAYE",
+              "nameShort2": "NDIAYE",
+              "slug": "demba-ndiaye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Demba NDIAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:00:00",
+        "matchTimeUtc": "2024-08-12 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 14,
+        "time": "00:14",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 1,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 1,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379215,
+        "code": "37",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "69917",
+              "nameDisplay": "Tiya BHURTUN",
+              "nameType": 0,
+              "firstName": "Tiya",
+              "lastName": "BHURTUN",
+              "initials": "TB",
+              "nameShort": "T BHURTUN",
+              "nameShort2": "BHURTUN",
+              "slug": "tiya-bhurtun",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Tiya BHURTUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "32555",
+              "nameDisplay": "Aissatou FAYE",
+              "nameType": 0,
+              "firstName": "Aissatou",
+              "lastName": "FAYE",
+              "initials": "AF",
+              "nameShort": "A FAYE",
+              "nameShort2": "FAYE",
+              "slug": "aissatou-faye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aissatou FAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:50:00",
+        "matchTimeUtc": "2024-08-12 15:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379217,
+        "code": "38",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "58129",
+              "nameDisplay": "Nyanesh Anand CHANGEA",
+              "nameType": 0,
+              "firstName": "Nyanesh Anand",
+              "lastName": "CHANGEA",
+              "initials": "NC",
+              "nameShort": "N CHANGEA",
+              "nameShort2": "CHANGEA",
+              "slug": "nyanesh-anand-changea",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Nyanesh Anand CHANGEA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "73284",
+              "nameDisplay": "Tejas SAVOO",
+              "nameType": 0,
+              "firstName": "Tejas",
+              "lastName": "SAVOO",
+              "initials": "TS",
+              "nameShort": "T SAVOO",
+              "nameShort2": "SAVOO",
+              "slug": "tejas-savoo",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Tejas SAVOO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "48749",
+              "nameDisplay": "Demba NDIAYE",
+              "nameType": 0,
+              "firstName": "Demba",
+              "lastName": "NDIAYE",
+              "initials": "DN",
+              "nameShort": "D NDIAYE",
+              "nameShort2": "NDIAYE",
+              "slug": "demba-ndiaye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Demba NDIAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "48562",
+              "nameDisplay": "Lamine TRAORE",
+              "nameType": 0,
+              "firstName": "Lamine",
+              "lastName": "TRAORE",
+              "initials": "LT",
+              "nameShort": "L TRAORE",
+              "nameShort2": "TRAORE",
+              "slug": "lamine-traore",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Lamine TRAORE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 16:40:00",
+        "matchTimeUtc": "2024-08-12 16:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379216,
+        "code": "39",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "64108",
+              "nameDisplay": "Layna Luxmi CHINIAH",
+              "nameType": 0,
+              "firstName": "Layna Luxmi",
+              "lastName": "CHINIAH",
+              "initials": "LC",
+              "nameShort": "L CHINIAH",
+              "nameShort2": "CHINIAH",
+              "slug": "layna-luxmi-chiniah",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Layna Luxmi CHINIAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "65503",
+              "nameDisplay": "Chiara HOW HONG",
+              "nameType": 0,
+              "firstName": "Chiara",
+              "lastName": "HOW HONG",
+              "initials": "CH",
+              "nameShort": "C HOW HONG",
+              "nameShort2": "HOW HONG",
+              "slug": "chiara-how-hong",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Chiara HOW HONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "42550",
+              "nameDisplay": "Kartoumy DOUCOURE",
+              "nameType": 0,
+              "firstName": "Kartoumy",
+              "lastName": "DOUCOURE",
+              "initials": "KD",
+              "nameShort": "K DOUCOURE",
+              "nameShort2": "DOUCOURE",
+              "slug": "kartoumy-doucoure",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Kartoumy DOUCOURE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "26762",
+              "nameDisplay": "Aissatou LY",
+              "nameType": 0,
+              "firstName": "Aissatou",
+              "lastName": "LY",
+              "initials": "AL",
+              "nameShort": "A LY",
+              "nameShort2": "LY",
+              "slug": "aissatou-ly",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aissatou LY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 17:30:00",
+        "matchTimeUtc": "2024-08-12 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379220,
+        "code": "40",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "36945",
+              "nameDisplay": "Agnivesh RAGOONUNDUN",
+              "nameType": 0,
+              "firstName": "Agnivesh",
+              "lastName": "RAGOONUNDUN",
+              "initials": "AR",
+              "nameShort": "A RAGOONUNDUN",
+              "nameShort2": "RAGOONUNDUN",
+              "slug": "agnivesh-ragoonundun",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Agnivesh RAGOONUNDUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "38943",
+              "nameDisplay": "Mia Mi Lin SIOW YIN YOUNG",
+              "nameType": 0,
+              "firstName": "Mia Mi Lin",
+              "lastName": "SIOW YIN YOUNG",
+              "initials": "MS",
+              "nameShort": "M SIOW YIN YOUNG",
+              "nameShort2": "SIOW YIN YOUNG",
+              "slug": "mia-mi-lin-siow-yin-young",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Mia Mi Lin SIOW YIN YOUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "26291",
+              "nameDisplay": "Aly Amadou KANE",
+              "nameType": 0,
+              "firstName": "Aly Amadou",
+              "lastName": "KANE",
+              "initials": "AK",
+              "nameShort": "A KANE",
+              "nameShort2": "KANE",
+              "slug": "aly-amadou-kane",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aly Amadou KANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "32555",
+              "nameDisplay": "Aissatou FAYE",
+              "nameType": 0,
+              "firstName": "Aissatou",
+              "lastName": "FAYE",
+              "initials": "AF",
+              "nameShort": "A FAYE",
+              "nameShort2": "FAYE",
+              "slug": "aissatou-faye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aissatou FAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 18:20:00",
+        "matchTimeUtc": "2024-08-12 18:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Stadium Lat Dior",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1379181,
+    "code": "30",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MRI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+      "teamId": 51,
+      "teamName": "Mauritius",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+      "teamId": 103,
+      "teamName": "Benin",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 10:00:00",
+    "matchTimeUtc": "2024-08-12 10:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R1",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379239,
+        "code": "50",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "84106",
+              "nameDisplay": "Aidan Yu Kiat SIOW YIN YOUNG",
+              "nameType": 0,
+              "firstName": "Aidan Yu Kiat",
+              "lastName": "SIOW YIN YOUNG",
+              "initials": "AS",
+              "nameShort": "A SIOW YIN YOUNG",
+              "nameShort2": "SIOW YIN YOUNG",
+              "slug": "aidan-yu-kiat-siow-yin-young",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Aidan Yu Kiat SIOW YIN YOUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65503",
+              "nameDisplay": "Chiara HOW HONG",
+              "nameType": 0,
+              "firstName": "Chiara",
+              "lastName": "HOW HONG",
+              "initials": "CH",
+              "nameShort": "C HOW HONG",
+              "nameShort2": "HOW HONG",
+              "slug": "chiara-how-hong",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Chiara HOW HONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "98826",
+              "nameDisplay": "Lewis KPANOU",
+              "nameType": 0,
+              "firstName": "Lewis",
+              "lastName": "KPANOU",
+              "initials": "LK",
+              "nameShort": "L KPANOU",
+              "nameShort2": "KPANOU",
+              "slug": "lewis-kpanou",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Lewis KPANOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57383",
+              "nameDisplay": "Blessing ATCHADE",
+              "nameType": 0,
+              "firstName": "Blessing",
+              "lastName": "ATCHADE",
+              "initials": "BA",
+              "nameShort": "B ATCHADE",
+              "nameShort2": "ATCHADE",
+              "slug": "blessing-atchade",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Blessing ATCHADE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:00:00",
+        "matchTimeUtc": "2024-08-12 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379235,
+        "code": "46",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "36945",
+              "nameDisplay": "Agnivesh RAGOONUNDUN",
+              "nameType": 0,
+              "firstName": "Agnivesh",
+              "lastName": "RAGOONUNDUN",
+              "initials": "AR",
+              "nameShort": "A RAGOONUNDUN",
+              "nameShort2": "RAGOONUNDUN",
+              "slug": "agnivesh-ragoonundun",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Agnivesh RAGOONUNDUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "86052",
+              "nameDisplay": "Jeredy Steve BASSA",
+              "nameType": 0,
+              "firstName": "Jeredy Steve",
+              "lastName": "BASSA",
+              "initials": "JB",
+              "nameShort": "J BASSA",
+              "nameShort2": "BASSA",
+              "slug": "jeredy-steve-bassa",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Jeredy Steve BASSA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:50:00",
+        "matchTimeUtc": "2024-08-12 10:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379234,
+        "code": "47",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "64108",
+              "nameDisplay": "Layna Luxmi CHINIAH",
+              "nameType": 0,
+              "firstName": "Layna Luxmi",
+              "lastName": "CHINIAH",
+              "initials": "LC",
+              "nameShort": "L CHINIAH",
+              "nameShort2": "CHINIAH",
+              "slug": "layna-luxmi-chiniah",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Layna Luxmi CHINIAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "90963",
+              "nameDisplay": "Anna Gladys AKAKPO",
+              "nameType": 0,
+              "firstName": "Anna Gladys",
+              "lastName": "AKAKPO",
+              "initials": "AA",
+              "nameShort": "A AKAKPO",
+              "nameShort2": "AKAKPO",
+              "slug": "anna-gladys-akakpo",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Anna Gladys AKAKPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 11:40:00",
+        "matchTimeUtc": "2024-08-12 11:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379233,
+        "code": "48",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "58129",
+              "nameDisplay": "Nyanesh Anand CHANGEA",
+              "nameType": 0,
+              "firstName": "Nyanesh Anand",
+              "lastName": "CHANGEA",
+              "initials": "NC",
+              "nameShort": "N CHANGEA",
+              "nameShort2": "CHANGEA",
+              "slug": "nyanesh-anand-changea",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Nyanesh Anand CHANGEA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "73284",
+              "nameDisplay": "Tejas SAVOO",
+              "nameType": 0,
+              "firstName": "Tejas",
+              "lastName": "SAVOO",
+              "initials": "TS",
+              "nameShort": "T SAVOO",
+              "nameShort2": "SAVOO",
+              "slug": "tejas-savoo",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Tejas SAVOO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "86052",
+              "nameDisplay": "Jeredy Steve BASSA",
+              "nameType": 0,
+              "firstName": "Jeredy Steve",
+              "lastName": "BASSA",
+              "initials": "JB",
+              "nameShort": "J BASSA",
+              "nameShort2": "BASSA",
+              "slug": "jeredy-steve-bassa",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Jeredy Steve BASSA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "98826",
+              "nameDisplay": "Lewis KPANOU",
+              "nameType": 0,
+              "firstName": "Lewis",
+              "lastName": "KPANOU",
+              "initials": "LK",
+              "nameShort": "L KPANOU",
+              "nameShort2": "KPANOU",
+              "slug": "lewis-kpanou",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Lewis KPANOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 12:30:00",
+        "matchTimeUtc": "2024-08-12 12:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379232,
+        "code": "49",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+          "teamId": 51,
+          "teamName": "Mauritius",
+          "players": [
+            {
+              "id": "88581",
+              "nameDisplay": "Elsa HOW HONG",
+              "nameType": 0,
+              "firstName": "Elsa",
+              "lastName": "HOW HONG",
+              "initials": "EH",
+              "nameShort": "E HOW HONG",
+              "nameShort2": "HOW HONG",
+              "slug": "elsa-how-hong",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Elsa HOW HONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "38943",
+              "nameDisplay": "Mia Mi Lin SIOW YIN YOUNG",
+              "nameType": 0,
+              "firstName": "Mia Mi Lin",
+              "lastName": "SIOW YIN YOUNG",
+              "initials": "MS",
+              "nameShort": "M SIOW YIN YOUNG",
+              "nameShort2": "SIOW YIN YOUNG",
+              "slug": "mia-mi-lin-siow-yin-young",
+              "countryCode": "MRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MRI.png",
+              "avatar": {
+                "title": "Mia Mi Lin SIOW YIN YOUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "90963",
+              "nameDisplay": "Anna Gladys AKAKPO",
+              "nameType": 0,
+              "firstName": "Anna Gladys",
+              "lastName": "AKAKPO",
+              "initials": "AA",
+              "nameShort": "A AKAKPO",
+              "nameShort2": "AKAKPO",
+              "slug": "anna-gladys-akakpo",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Anna Gladys AKAKPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "57383",
+              "nameDisplay": "Blessing ATCHADE",
+              "nameType": 0,
+              "firstName": "Blessing",
+              "lastName": "ATCHADE",
+              "initials": "BA",
+              "nameShort": "B ATCHADE",
+              "nameShort2": "ATCHADE",
+              "slug": "blessing-atchade",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Blessing ATCHADE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 13:20:00",
+        "matchTimeUtc": "2024-08-12 13:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1379171,
+    "code": "31",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "RSA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+      "teamId": 39,
+      "teamName": "South Africa",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "BEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+      "teamId": 103,
+      "teamName": "Benin",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 15:00:00",
+    "matchTimeUtc": "2024-08-12 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R3",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379251,
+        "code": "55",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "57769",
+              "nameDisplay": "Ricardo VIGARIO",
+              "nameType": 0,
+              "firstName": "Ricardo",
+              "lastName": "VIGARIO",
+              "initials": "RV",
+              "nameShort": "R VIGARIO",
+              "nameShort2": "VIGARIO",
+              "slug": "ricardo-vigario",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Ricardo VIGARIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "18838",
+              "nameDisplay": "Chloe LAI",
+              "nameType": 0,
+              "firstName": "Chloe",
+              "lastName": "LAI",
+              "initials": "CL",
+              "nameShort": "C LAI",
+              "nameShort2": "LAI",
+              "slug": "chloe-lai",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Chloe LAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "98826",
+              "nameDisplay": "Lewis KPANOU",
+              "nameType": 0,
+              "firstName": "Lewis",
+              "lastName": "KPANOU",
+              "initials": "LK",
+              "nameShort": "L KPANOU",
+              "nameShort2": "KPANOU",
+              "slug": "lewis-kpanou",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Lewis KPANOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "90963",
+              "nameDisplay": "Anna Gladys AKAKPO",
+              "nameType": 0,
+              "firstName": "Anna Gladys",
+              "lastName": "AKAKPO",
+              "initials": "AA",
+              "nameShort": "A AKAKPO",
+              "nameShort2": "AKAKPO",
+              "slug": "anna-gladys-akakpo",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Anna Gladys AKAKPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:00:00",
+        "matchTimeUtc": "2024-08-12 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379238,
+        "code": "51",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "78298",
+              "nameDisplay": "Miguel VIGARIO",
+              "nameType": 0,
+              "firstName": "Miguel",
+              "lastName": "VIGARIO",
+              "initials": "MV",
+              "nameShort": "M VIGARIO",
+              "nameShort2": "VIGARIO",
+              "slug": "miguel-vigario",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Miguel VIGARIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "86052",
+              "nameDisplay": "Jeredy Steve BASSA",
+              "nameType": 0,
+              "firstName": "Jeredy Steve",
+              "lastName": "BASSA",
+              "initials": "JB",
+              "nameShort": "J BASSA",
+              "nameShort2": "BASSA",
+              "slug": "jeredy-steve-bassa",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Jeredy Steve BASSA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:50:00",
+        "matchTimeUtc": "2024-08-12 15:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379237,
+        "code": "52",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "87856",
+              "nameDisplay": "Yiwen LI",
+              "nameType": 0,
+              "firstName": "Yiwen",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yiwen-li",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Yiwen LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "57383",
+              "nameDisplay": "Blessing ATCHADE",
+              "nameType": 0,
+              "firstName": "Blessing",
+              "lastName": "ATCHADE",
+              "initials": "BA",
+              "nameShort": "B ATCHADE",
+              "nameShort2": "ATCHADE",
+              "slug": "blessing-atchade",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Blessing ATCHADE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 16:40:00",
+        "matchTimeUtc": "2024-08-12 16:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379236,
+        "code": "53",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 1,
+        "scoreStatusValue": "Walkover",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "25534",
+              "nameDisplay": "Timothy GABRIELS",
+              "nameType": 0,
+              "firstName": "Timothy",
+              "lastName": "GABRIELS",
+              "initials": "TG",
+              "nameShort": "T GABRIELS",
+              "nameShort2": "GABRIELS",
+              "slug": "timothy-gabriels",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Timothy GABRIELS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65565",
+              "nameDisplay": "Lourens SCHEFFER",
+              "nameType": 0,
+              "firstName": "Lourens",
+              "lastName": "SCHEFFER",
+              "initials": "LS",
+              "nameShort": "L SCHEFFER",
+              "nameShort2": "SCHEFFER",
+              "slug": "lourens-scheffer",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Lourens SCHEFFER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "86052",
+              "nameDisplay": "Jeredy Steve BASSA",
+              "nameType": 0,
+              "firstName": "Jeredy Steve",
+              "lastName": "BASSA",
+              "initials": "JB",
+              "nameShort": "J BASSA",
+              "nameShort2": "BASSA",
+              "slug": "jeredy-steve-bassa",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Jeredy Steve BASSA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "98826",
+              "nameDisplay": "Lewis KPANOU",
+              "nameType": 0,
+              "firstName": "Lewis",
+              "lastName": "KPANOU",
+              "initials": "LK",
+              "nameShort": "L KPANOU",
+              "nameShort2": "KPANOU",
+              "slug": "lewis-kpanou",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Lewis KPANOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 17:30:00",
+        "matchTimeUtc": "2024-08-12 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1379240,
+        "code": "54",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "87856",
+              "nameDisplay": "Yiwen LI",
+              "nameType": 0,
+              "firstName": "Yiwen",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yiwen-li",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Yiwen LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "99165",
+              "nameDisplay": "Anika VAN DER MERWE",
+              "nameType": 0,
+              "firstName": "Anika",
+              "lastName": "VAN DER MERWE",
+              "initials": "AV",
+              "nameShort": "A VAN DER MERWE",
+              "nameShort2": "VAN DER MERWE",
+              "slug": "anika-van-der-merwe",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Anika VAN DER MERWE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "BEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+          "teamId": 103,
+          "teamName": "Benin",
+          "players": [
+            {
+              "id": "90963",
+              "nameDisplay": "Anna Gladys AKAKPO",
+              "nameType": 0,
+              "firstName": "Anna Gladys",
+              "lastName": "AKAKPO",
+              "initials": "AA",
+              "nameShort": "A AKAKPO",
+              "nameShort2": "AKAKPO",
+              "slug": "anna-gladys-akakpo",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Anna Gladys AKAKPO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "57383",
+              "nameDisplay": "Blessing ATCHADE",
+              "nameType": 0,
+              "firstName": "Blessing",
+              "lastName": "ATCHADE",
+              "initials": "BA",
+              "nameShort": "B ATCHADE",
+              "nameShort2": "ATCHADE",
+              "slug": "blessing-atchade",
+              "countryCode": "BEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BEN.png",
+              "avatar": {
+                "title": "Blessing ATCHADE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 18:20:00",
+        "matchTimeUtc": "2024-08-12 18:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Stadium Lat Dior",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1379178,
+    "code": "28",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "RSA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+      "teamId": 39,
+      "teamName": "South Africa",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+      "teamId": 708,
+      "teamName": "Sénégal",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 10:00:00",
+    "matchTimeUtc": "2024-08-12 10:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R1",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+    "drawCode": "2",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379229,
+        "code": "41",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "78298",
+              "nameDisplay": "Miguel VIGARIO",
+              "nameType": 0,
+              "firstName": "Miguel",
+              "lastName": "VIGARIO",
+              "initials": "MV",
+              "nameShort": "M VIGARIO",
+              "nameShort2": "VIGARIO",
+              "slug": "miguel-vigario",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Miguel VIGARIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "48749",
+              "nameDisplay": "Demba NDIAYE",
+              "nameType": 0,
+              "firstName": "Demba",
+              "lastName": "NDIAYE",
+              "initials": "DN",
+              "nameShort": "D NDIAYE",
+              "nameShort2": "NDIAYE",
+              "slug": "demba-ndiaye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Demba NDIAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:00:00",
+        "matchTimeUtc": "2024-08-12 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379228,
+        "code": "42",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "87856",
+              "nameDisplay": "Yiwen LI",
+              "nameType": 0,
+              "firstName": "Yiwen",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yiwen-li",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Yiwen LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "32555",
+              "nameDisplay": "Aissatou FAYE",
+              "nameType": 0,
+              "firstName": "Aissatou",
+              "lastName": "FAYE",
+              "initials": "AF",
+              "nameShort": "A FAYE",
+              "nameShort2": "FAYE",
+              "slug": "aissatou-faye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aissatou FAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 10:50:00",
+        "matchTimeUtc": "2024-08-12 10:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379227,
+        "code": "43",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "25534",
+              "nameDisplay": "Timothy GABRIELS",
+              "nameType": 0,
+              "firstName": "Timothy",
+              "lastName": "GABRIELS",
+              "initials": "TG",
+              "nameShort": "T GABRIELS",
+              "nameShort2": "GABRIELS",
+              "slug": "timothy-gabriels",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Timothy GABRIELS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65565",
+              "nameDisplay": "Lourens SCHEFFER",
+              "nameType": 0,
+              "firstName": "Lourens",
+              "lastName": "SCHEFFER",
+              "initials": "LS",
+              "nameShort": "L SCHEFFER",
+              "nameShort2": "SCHEFFER",
+              "slug": "lourens-scheffer",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Lourens SCHEFFER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "48749",
+              "nameDisplay": "Demba NDIAYE",
+              "nameType": 0,
+              "firstName": "Demba",
+              "lastName": "NDIAYE",
+              "initials": "DN",
+              "nameShort": "D NDIAYE",
+              "nameShort2": "NDIAYE",
+              "slug": "demba-ndiaye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Demba NDIAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "48562",
+              "nameDisplay": "Lamine TRAORE",
+              "nameType": 0,
+              "firstName": "Lamine",
+              "lastName": "TRAORE",
+              "initials": "LT",
+              "nameShort": "L TRAORE",
+              "nameShort2": "TRAORE",
+              "slug": "lamine-traore",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Lamine TRAORE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 11:40:00",
+        "matchTimeUtc": "2024-08-12 11:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379245,
+        "code": "44",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "18838",
+              "nameDisplay": "Chloe LAI",
+              "nameType": 0,
+              "firstName": "Chloe",
+              "lastName": "LAI",
+              "initials": "CL",
+              "nameShort": "C LAI",
+              "nameShort2": "LAI",
+              "slug": "chloe-lai",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Chloe LAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "87856",
+              "nameDisplay": "Yiwen LI",
+              "nameType": 0,
+              "firstName": "Yiwen",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yiwen-li",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Yiwen LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "42550",
+              "nameDisplay": "Kartoumy DOUCOURE",
+              "nameType": 0,
+              "firstName": "Kartoumy",
+              "lastName": "DOUCOURE",
+              "initials": "KD",
+              "nameShort": "K DOUCOURE",
+              "nameShort2": "DOUCOURE",
+              "slug": "kartoumy-doucoure",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Kartoumy DOUCOURE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "26762",
+              "nameDisplay": "Aissatou LY",
+              "nameType": 0,
+              "firstName": "Aissatou",
+              "lastName": "LY",
+              "initials": "AL",
+              "nameShort": "A LY",
+              "nameShort2": "LY",
+              "slug": "aissatou-ly",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aissatou LY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 12:30:00",
+        "matchTimeUtc": "2024-08-12 12:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379244,
+        "code": "45",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RSA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+          "teamId": 39,
+          "teamName": "South Africa",
+          "players": [
+            {
+              "id": "78298",
+              "nameDisplay": "Miguel VIGARIO",
+              "nameType": 0,
+              "firstName": "Miguel",
+              "lastName": "VIGARIO",
+              "initials": "MV",
+              "nameShort": "M VIGARIO",
+              "nameShort2": "VIGARIO",
+              "slug": "miguel-vigario",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Miguel VIGARIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "93333",
+              "nameDisplay": "Hadiyah CARRIM",
+              "nameType": 0,
+              "firstName": "Hadiyah",
+              "lastName": "CARRIM",
+              "initials": "HC",
+              "nameShort": "H CARRIM",
+              "nameShort2": "CARRIM",
+              "slug": "hadiyah-carrim",
+              "countryCode": "RSA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RSA.png",
+              "avatar": {
+                "title": "Hadiyah CARRIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+          "teamId": 708,
+          "teamName": "Sénégal",
+          "players": [
+            {
+              "id": "26291",
+              "nameDisplay": "Aly Amadou KANE",
+              "nameType": 0,
+              "firstName": "Aly Amadou",
+              "lastName": "KANE",
+              "initials": "AK",
+              "nameShort": "A KANE",
+              "nameShort2": "KANE",
+              "slug": "aly-amadou-kane",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aly Amadou KANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "32555",
+              "nameDisplay": "Aissatou FAYE",
+              "nameType": 0,
+              "firstName": "Aissatou",
+              "lastName": "FAYE",
+              "initials": "AF",
+              "nameShort": "A FAYE",
+              "nameShort2": "FAYE",
+              "slug": "aissatou-faye",
+              "countryCode": "SEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SEN.png",
+              "avatar": {
+                "title": "Aissatou FAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 13:20:00",
+        "matchTimeUtc": "2024-08-12 13:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R1",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1379172,
+    "code": "11",
+    "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+    "tournamentName": "All Africa Junior Championships 2024 (Team)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "EGY",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+      "teamId": 56,
+      "teamName": "Egypt",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TUN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+      "teamId": 707,
+      "teamName": "Tunisie",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-08-12 15:00:00",
+    "matchTimeUtc": "2024-08-12 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "AAU19 Mixed Team Event 2024",
+    "roundName": "R3",
+    "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+    "drawCode": "1",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Stadium Lat Dior",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1379253,
+        "code": "10",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "90511",
+              "nameDisplay": "Ziad HESHAM",
+              "nameType": 0,
+              "firstName": "Ziad",
+              "lastName": "HESHAM",
+              "initials": "ZH",
+              "nameShort": "Z HESHAM",
+              "nameShort2": "HESHAM",
+              "slug": "ziad-hesham",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Ziad HESHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "96465",
+              "nameDisplay": "ELGENDY Hadia",
+              "nameType": 1,
+              "firstName": "Hadia",
+              "lastName": "ELGENDY",
+              "initials": "EH",
+              "nameShort": "ELGENDY H",
+              "nameShort2": "ELGENDY",
+              "slug": "hadia-elgendy",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Hadia ELGENDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "39981",
+              "nameDisplay": "Ahmed CHTIOUI",
+              "nameType": 0,
+              "firstName": "Ahmed",
+              "lastName": "CHTIOUI",
+              "initials": "AC",
+              "nameShort": "A CHTIOUI",
+              "nameShort2": "CHTIOUI",
+              "slug": "ahmed-chtioui",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Ahmed CHTIOUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "33663",
+              "nameDisplay": "Narim JEBALI",
+              "nameType": 0,
+              "firstName": "Narim",
+              "lastName": "JEBALI",
+              "initials": "NJ",
+              "nameShort": "N JEBALI",
+              "nameShort2": "JEBALI",
+              "slug": "narim-jebali",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Narim JEBALI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:00:00",
+        "matchTimeUtc": "2024-08-12 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379204,
+        "code": "6",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "91573",
+              "nameDisplay": "Seif OMAR",
+              "nameType": 0,
+              "firstName": "Seif",
+              "lastName": "OMAR",
+              "initials": "SO",
+              "nameShort": "S OMAR",
+              "nameShort2": "OMAR",
+              "slug": "seif-omar",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Seif OMAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "40510",
+              "nameDisplay": "Oubeid Errahmen KASRAOUI",
+              "nameType": 0,
+              "firstName": "Oubeid Errahmen",
+              "lastName": "KASRAOUI",
+              "initials": "OK",
+              "nameShort": "O KASRAOUI",
+              "nameShort2": "KASRAOUI",
+              "slug": "oubeid-errahmen-kasraoui",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Oubeid Errahmen KASRAOUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 15:50:00",
+        "matchTimeUtc": "2024-08-12 15:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379203,
+        "code": "7",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "93807",
+              "nameDisplay": "Reem HUSSIEN",
+              "nameType": 0,
+              "firstName": "Reem",
+              "lastName": "HUSSIEN",
+              "initials": "RH",
+              "nameShort": "R HUSSIEN",
+              "nameShort2": "HUSSIEN",
+              "slug": "reem-hussien",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Reem HUSSIEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "71953",
+              "nameDisplay": "Elaa KHEDHIRI",
+              "nameType": 0,
+              "firstName": "Elaa",
+              "lastName": "KHEDHIRI",
+              "initials": "EK",
+              "nameShort": "E KHEDHIRI",
+              "nameShort2": "KHEDHIRI",
+              "slug": "elaa-khedhiri",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Elaa KHEDHIRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 16:40:00",
+        "matchTimeUtc": "2024-08-12 16:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379192,
+        "code": "8",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "75536",
+              "nameDisplay": "Kareem HATEM",
+              "nameType": 0,
+              "firstName": "Kareem",
+              "lastName": "HATEM",
+              "initials": "KH",
+              "nameShort": "K HATEM",
+              "nameShort2": "HATEM",
+              "slug": "kareem-hatem",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Kareem HATEM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "77748",
+              "nameDisplay": "Mahmoud MOHAMED MAHMOUD",
+              "nameType": 0,
+              "firstName": "Mahmoud",
+              "lastName": "MOHAMED MAHMOUD",
+              "initials": "MM",
+              "nameShort": "M MOHAMED MAHMOUD",
+              "nameShort2": "MOHAMED MAHMOUD",
+              "slug": "mahmoud-mohamed-mahmoud",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Mahmoud MOHAMED MAHMOUD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "39981",
+              "nameDisplay": "Ahmed CHTIOUI",
+              "nameType": 0,
+              "firstName": "Ahmed",
+              "lastName": "CHTIOUI",
+              "initials": "AC",
+              "nameShort": "A CHTIOUI",
+              "nameShort2": "CHTIOUI",
+              "slug": "ahmed-chtioui",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Ahmed CHTIOUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "40510",
+              "nameDisplay": "Oubeid Errahmen KASRAOUI",
+              "nameType": 0,
+              "firstName": "Oubeid Errahmen",
+              "lastName": "KASRAOUI",
+              "initials": "OK",
+              "nameShort": "O KASRAOUI",
+              "nameShort2": "KASRAOUI",
+              "slug": "oubeid-errahmen-kasraoui",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Oubeid Errahmen KASRAOUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 17:30:00",
+        "matchTimeUtc": "2024-08-12 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1379190,
+        "code": "9",
+        "tournamentCode": "AA33B79A-12F5-48E9-83A9-9534D273FE8C",
+        "tournamentName": "All Africa Junior Championships 2024 (Team)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 56,
+          "teamName": "Egypt",
+          "players": [
+            {
+              "id": "81779",
+              "nameDisplay": "Fatema RABIE",
+              "nameType": 0,
+              "firstName": "Fatema",
+              "lastName": "RABIE",
+              "initials": "FR",
+              "nameShort": "F RABIE",
+              "nameShort2": "RABIE",
+              "slug": "fatema-rabie",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Fatema RABIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "63885",
+              "nameDisplay": "Lojaine WASFY",
+              "nameType": 0,
+              "firstName": "Lojaine",
+              "lastName": "WASFY",
+              "initials": "LW",
+              "nameShort": "L WASFY",
+              "nameShort2": "WASFY",
+              "slug": "lojaine-wasfy",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Lojaine WASFY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+          "teamId": 707,
+          "teamName": "Tunisie",
+          "players": [
+            {
+              "id": "33663",
+              "nameDisplay": "Narim JEBALI",
+              "nameType": 0,
+              "firstName": "Narim",
+              "lastName": "JEBALI",
+              "initials": "NJ",
+              "nameShort": "N JEBALI",
+              "nameShort2": "JEBALI",
+              "slug": "narim-jebali",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Narim JEBALI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "71953",
+              "nameDisplay": "Elaa KHEDHIRI",
+              "nameType": 0,
+              "firstName": "Elaa",
+              "lastName": "KHEDHIRI",
+              "initials": "EK",
+              "nameShort": "E KHEDHIRI",
+              "nameShort2": "KHEDHIRI",
+              "slug": "elaa-khedhiri",
+              "countryCode": "TUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TUN.png",
+              "avatar": {
+                "title": "Elaa KHEDHIRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-08-12 18:20:00",
+        "matchTimeUtc": "2024-08-12 18:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "AAU19 Mixed Team Event 2024",
+        "roundName": "R3",
+        "drawName": "AAU19 Mixed Team Event 2024 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Stadium Lat Dior",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

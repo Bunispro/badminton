@@ -1,0 +1,4194 @@
+[
+  {
+    "id": 1419692,
+    "code": "26",
+    "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+    "tournamentName": "Pan American Cup 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": 1600,
+      "teamName": "Brazil",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ESA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+      "teamId": 1604,
+      "teamName": "El Salvador",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-13 10:00:00",
+    "matchTimeUtc": "2025-02-13 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Pan American Cup 2025",
+    "roundName": "R3",
+    "drawName": "Pan American Cup 2025 - Group C",
+    "drawCode": "3",
+    "courtName": "Court 2",
+    "courtCode": "10",
+    "courtIndex": 0,
+    "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1419760,
+        "code": "38",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1600,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "77228",
+              "nameDisplay": "Izak BATALHA",
+              "nameType": 0,
+              "firstName": "Izak",
+              "lastName": "BATALHA",
+              "initials": "IB",
+              "nameShort": "I BATALHA",
+              "nameShort2": "BATALHA",
+              "slug": "izak-batalha",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Izak BATALHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85056",
+              "nameDisplay": "Matheus VOIGT",
+              "nameType": 0,
+              "firstName": "Matheus",
+              "lastName": "VOIGT",
+              "initials": "MV",
+              "nameShort": "M VOIGT",
+              "nameShort2": "VOIGT",
+              "slug": "matheus-voigt",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Matheus VOIGT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "91004",
+              "nameDisplay": "Javier Armando ALAS",
+              "nameType": 0,
+              "firstName": "Javier Armando",
+              "lastName": "ALAS",
+              "initials": "JA",
+              "nameShort": "J ALAS",
+              "nameShort2": "ALAS",
+              "slug": "javier-armando-alas",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Javier Armando ALAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "86109",
+              "nameDisplay": "Manuel MEJIA",
+              "nameType": 0,
+              "firstName": "Manuel",
+              "lastName": "MEJIA",
+              "initials": "MM",
+              "nameShort": "M MEJIA",
+              "nameShort2": "MEJIA",
+              "slug": "manuel-mejia",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Manuel MEJIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 11:05:00",
+        "matchTimeUtc": "2025-02-13 16:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419761,
+        "code": "37",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1600,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "84897",
+              "nameDisplay": "Juliana Viana VIEIRA",
+              "nameType": 0,
+              "firstName": "Juliana Viana",
+              "lastName": "VIEIRA",
+              "initials": "JV",
+              "nameShort": "J VIEIRA",
+              "nameShort2": "VIEIRA",
+              "slug": "juliana-viana-vieira",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Juliana Viana VIEIRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900379/assets/players/thumbnail/84897.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "80852",
+              "nameDisplay": "Gabriela BARRIOS",
+              "nameType": 0,
+              "firstName": "Gabriela",
+              "lastName": "BARRIOS",
+              "initials": "GB",
+              "nameShort": "G BARRIOS",
+              "nameShort2": "BARRIOS",
+              "slug": "gabriela-barrios",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Gabriela BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 11:35:00",
+        "matchTimeUtc": "2025-02-13 16:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419764,
+        "code": "36",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1600,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "86470",
+              "nameDisplay": "Jonathan MATIAS",
+              "nameType": 0,
+              "firstName": "Jonathan",
+              "lastName": "MATIAS",
+              "initials": "JM",
+              "nameShort": "J MATIAS",
+              "nameShort2": "MATIAS",
+              "slug": "jonathan-matias",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Jonathan MATIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "74579",
+              "nameDisplay": "Uriel Francisco CANJURA ARTIGA",
+              "nameType": 0,
+              "firstName": "Uriel Francisco",
+              "lastName": "CANJURA ARTIGA",
+              "initials": "UC",
+              "nameShort": "U CANJURA ARTIGA",
+              "nameShort2": "CANJURA ARTIGA",
+              "slug": "uriel-francisco-canjura-artiga",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Uriel Francisco CANJURA ARTIGA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899690/assets/players/thumbnail/74579.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 12:00:00",
+        "matchTimeUtc": "2025-02-13 17:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 50,
+        "time": "00:50",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419759,
+        "code": "39",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1600,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "56522",
+              "nameDisplay": "Sania LIMA",
+              "nameType": 0,
+              "firstName": "Sania",
+              "lastName": "LIMA",
+              "initials": "SL",
+              "nameShort": "S LIMA",
+              "nameShort2": "LIMA",
+              "slug": "sania-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Sania LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690355834/assets/players/thumbnail/56522.jpg"
+              }
+            },
+            {
+              "id": "84917",
+              "nameDisplay": "Tamires SANTOS",
+              "nameType": 0,
+              "firstName": "Tamires",
+              "lastName": "SANTOS",
+              "initials": "TS",
+              "nameShort": "T SANTOS",
+              "nameShort2": "SANTOS",
+              "slug": "tamires-santos",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Tamires SANTOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "80852",
+              "nameDisplay": "Gabriela BARRIOS",
+              "nameType": 0,
+              "firstName": "Gabriela",
+              "lastName": "BARRIOS",
+              "initials": "GB",
+              "nameShort": "G BARRIOS",
+              "nameShort2": "BARRIOS",
+              "slug": "gabriela-barrios",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Gabriela BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "86383",
+              "nameDisplay": "Margareth REVELO",
+              "nameType": 0,
+              "firstName": "Margareth",
+              "lastName": "REVELO",
+              "initials": "MR",
+              "nameShort": "M REVELO",
+              "nameShort2": "REVELO",
+              "slug": "margareth-revelo",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Margareth REVELO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 13:00:00",
+        "matchTimeUtc": "2025-02-13 18:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419758,
+        "code": "40",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "teamId": 1600,
+          "teamName": "Brazil",
+          "players": [
+            {
+              "id": "69649",
+              "nameDisplay": "Fabricio FARIAS",
+              "nameType": 0,
+              "firstName": "Fabricio",
+              "lastName": "FARIAS",
+              "initials": "FF",
+              "nameShort": "F FARIAS",
+              "nameShort2": "FARIAS",
+              "slug": "fabricio-farias",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Fabricio FARIAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897670/assets/players/thumbnail/69649.jpg"
+              }
+            },
+            {
+              "id": "57457",
+              "nameDisplay": "Jaqueline LIMA",
+              "nameType": 0,
+              "firstName": "Jaqueline",
+              "lastName": "LIMA",
+              "initials": "JL",
+              "nameShort": "J LIMA",
+              "nameShort2": "LIMA",
+              "slug": "jaqueline-lima",
+              "countryCode": "BRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+              "avatar": {
+                "title": "Jaqueline LIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897668/assets/players/thumbnail/57457.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "86109",
+              "nameDisplay": "Manuel MEJIA",
+              "nameType": 0,
+              "firstName": "Manuel",
+              "lastName": "MEJIA",
+              "initials": "MM",
+              "nameShort": "M MEJIA",
+              "nameShort2": "MEJIA",
+              "slug": "manuel-mejia",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Manuel MEJIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "83786",
+              "nameDisplay": "Daniela HERNANDEZ",
+              "nameType": 0,
+              "firstName": "Daniela",
+              "lastName": "HERNANDEZ",
+              "initials": "DH",
+              "nameShort": "D HERNANDEZ",
+              "nameShort2": "HERNANDEZ",
+              "slug": "daniela-hernandez",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Daniela HERNANDEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 13:30:00",
+        "matchTimeUtc": "2025-02-13 18:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1419694,
+    "code": "27",
+    "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+    "tournamentName": "Pan American Cup 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": 1607,
+      "teamName": "PERU",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ESA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+      "teamId": 1604,
+      "teamName": "El Salvador",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-13 15:00:00",
+    "matchTimeUtc": "2025-02-13 20:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Pan American Cup 2025",
+    "roundName": "R1",
+    "drawName": "Pan American Cup 2025 - Group C",
+    "drawCode": "3",
+    "courtName": "Court 2",
+    "courtCode": "10",
+    "courtIndex": 0,
+    "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1419756,
+        "code": "43",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1607,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "58402",
+              "nameDisplay": "Jose GUEVARA",
+              "nameType": 0,
+              "firstName": "Jose",
+              "lastName": "GUEVARA",
+              "initials": "JG",
+              "nameShort": "J GUEVARA",
+              "nameShort2": "GUEVARA",
+              "slug": "jose-guevara",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Jose GUEVARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "93754",
+              "nameDisplay": "Diego SUBAUSTE",
+              "nameType": 0,
+              "firstName": "Diego",
+              "lastName": "SUBAUSTE",
+              "initials": "DS",
+              "nameShort": "D SUBAUSTE",
+              "nameShort2": "SUBAUSTE",
+              "slug": "diego-subauste",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Diego SUBAUSTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "91004",
+              "nameDisplay": "Javier Armando ALAS",
+              "nameType": 0,
+              "firstName": "Javier Armando",
+              "lastName": "ALAS",
+              "initials": "JA",
+              "nameShort": "J ALAS",
+              "nameShort2": "ALAS",
+              "slug": "javier-armando-alas",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Javier Armando ALAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "86109",
+              "nameDisplay": "Manuel MEJIA",
+              "nameType": 0,
+              "firstName": "Manuel",
+              "lastName": "MEJIA",
+              "initials": "MM",
+              "nameShort": "M MEJIA",
+              "nameShort2": "MEJIA",
+              "slug": "manuel-mejia",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Manuel MEJIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 16:00:00",
+        "matchTimeUtc": "2025-02-13 21:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419739,
+        "code": "42",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1607,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "79258",
+              "nameDisplay": "Ines Lucia CASTILLO",
+              "nameType": 0,
+              "firstName": "Ines Lucia",
+              "lastName": "CASTILLO",
+              "initials": "IC",
+              "nameShort": "I CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "ines-lucia-castillo",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Ines Lucia CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899604/assets/players/thumbnail/79258.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "86383",
+              "nameDisplay": "Margareth REVELO",
+              "nameType": 0,
+              "firstName": "Margareth",
+              "lastName": "REVELO",
+              "initials": "MR",
+              "nameShort": "M REVELO",
+              "nameShort2": "REVELO",
+              "slug": "margareth-revelo",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Margareth REVELO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 16:35:00",
+        "matchTimeUtc": "2025-02-13 21:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419742,
+        "code": "41",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1607,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "55942",
+              "nameDisplay": "Adriano VIALE",
+              "nameType": 0,
+              "firstName": "Adriano",
+              "lastName": "VIALE",
+              "initials": "AV",
+              "nameShort": "A VIALE",
+              "nameShort2": "VIALE",
+              "slug": "adriano-viale",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Adriano VIALE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "74579",
+              "nameDisplay": "Uriel Francisco CANJURA ARTIGA",
+              "nameType": 0,
+              "firstName": "Uriel Francisco",
+              "lastName": "CANJURA ARTIGA",
+              "initials": "UC",
+              "nameShort": "U CANJURA ARTIGA",
+              "nameShort2": "CANJURA ARTIGA",
+              "slug": "uriel-francisco-canjura-artiga",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Uriel Francisco CANJURA ARTIGA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899690/assets/players/thumbnail/74579.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 17:00:00",
+        "matchTimeUtc": "2025-02-13 22:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 46,
+        "time": "00:46",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419793,
+        "code": "44",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1607,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "77280",
+              "nameDisplay": "Fernanda MUNAR",
+              "nameType": 0,
+              "firstName": "Fernanda",
+              "lastName": "MUNAR",
+              "initials": "FM",
+              "nameShort": "F MUNAR",
+              "nameShort2": "MUNAR",
+              "slug": "fernanda-munar",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Fernanda MUNAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "69671",
+              "nameDisplay": "Rafaela MUNAR",
+              "nameType": 0,
+              "firstName": "Rafaela",
+              "lastName": "MUNAR",
+              "initials": "RM",
+              "nameShort": "R MUNAR",
+              "nameShort2": "MUNAR",
+              "slug": "rafaela-munar",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Rafaela MUNAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "83786",
+              "nameDisplay": "Daniela HERNANDEZ",
+              "nameType": 0,
+              "firstName": "Daniela",
+              "lastName": "HERNANDEZ",
+              "initials": "DH",
+              "nameShort": "D HERNANDEZ",
+              "nameShort2": "HERNANDEZ",
+              "slug": "daniela-hernandez",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Daniela HERNANDEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "86383",
+              "nameDisplay": "Margareth REVELO",
+              "nameType": 0,
+              "firstName": "Margareth",
+              "lastName": "REVELO",
+              "initials": "MR",
+              "nameShort": "M REVELO",
+              "nameShort2": "REVELO",
+              "slug": "margareth-revelo",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Margareth REVELO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 17:55:00",
+        "matchTimeUtc": "2025-02-13 22:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419792,
+        "code": "45",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "PER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "teamId": 1607,
+          "teamName": "PERU",
+          "players": [
+            {
+              "id": "58402",
+              "nameDisplay": "Jose GUEVARA",
+              "nameType": 0,
+              "firstName": "Jose",
+              "lastName": "GUEVARA",
+              "initials": "JG",
+              "nameShort": "J GUEVARA",
+              "nameShort2": "GUEVARA",
+              "slug": "jose-guevara",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Jose GUEVARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "79258",
+              "nameDisplay": "Ines Lucia CASTILLO",
+              "nameType": 0,
+              "firstName": "Ines Lucia",
+              "lastName": "CASTILLO",
+              "initials": "IC",
+              "nameShort": "I CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "ines-lucia-castillo",
+              "countryCode": "PER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+              "avatar": {
+                "title": "Ines Lucia CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899604/assets/players/thumbnail/79258.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ESA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "teamId": 1604,
+          "teamName": "El Salvador",
+          "players": [
+            {
+              "id": "91004",
+              "nameDisplay": "Javier Armando ALAS",
+              "nameType": 0,
+              "firstName": "Javier Armando",
+              "lastName": "ALAS",
+              "initials": "JA",
+              "nameShort": "J ALAS",
+              "nameShort2": "ALAS",
+              "slug": "javier-armando-alas",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Javier Armando ALAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "80852",
+              "nameDisplay": "Gabriela BARRIOS",
+              "nameType": 0,
+              "firstName": "Gabriela",
+              "lastName": "BARRIOS",
+              "initials": "GB",
+              "nameShort": "G BARRIOS",
+              "nameShort2": "BARRIOS",
+              "slug": "gabriela-barrios",
+              "countryCode": "ESA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+              "avatar": {
+                "title": "Gabriela BARRIOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 18:25:00",
+        "matchTimeUtc": "2025-02-13 23:25:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group C",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "10",
+        "courtIndex": 0,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1419705,
+    "code": "8",
+    "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+    "tournamentName": "Pan American Cup 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 1601,
+      "teamName": "Canada",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 1606,
+      "teamName": "México",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-13 10:00:00",
+    "matchTimeUtc": "2025-02-13 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Pan American Cup 2025",
+    "roundName": "R3",
+    "drawName": "Pan American Cup 2025 - Group A",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "11",
+    "courtIndex": 1,
+    "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1419757,
+        "code": "10",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1601,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "63683",
+              "nameDisplay": "Ty Alexander LINDEMAN",
+              "nameType": 0,
+              "firstName": "Ty Alexander",
+              "lastName": "LINDEMAN",
+              "initials": "TL",
+              "nameShort": "T LINDEMAN",
+              "nameShort2": "LINDEMAN",
+              "slug": "ty-alexander-lindeman",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Ty Alexander LINDEMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896382/assets/players/thumbnail/63683.jpg"
+              }
+            },
+            {
+              "id": "86226",
+              "nameDisplay": "Josephine WU",
+              "nameType": 0,
+              "firstName": "Josephine",
+              "lastName": "WU",
+              "initials": "JW",
+              "nameShort": "J WU",
+              "nameShort2": "WU",
+              "slug": "josephine-wu",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Josephine WU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895635/assets/players/thumbnail/86226.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "81923",
+              "nameDisplay": "Maximiliano PEREGRINA TORRES",
+              "nameType": 0,
+              "firstName": "Maximiliano",
+              "lastName": "PEREGRINA TORRES",
+              "initials": "MP",
+              "nameShort": "M PEREGRINA TORRES",
+              "nameShort2": "PEREGRINA TORRES",
+              "slug": "maximiliano-peregrina-torres",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Maximiliano PEREGRINA TORRES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "95072",
+              "nameDisplay": "Miriam Jacqueline RODRIGUEZ PEREZ",
+              "nameType": 0,
+              "firstName": "Miriam Jacqueline",
+              "lastName": "RODRIGUEZ PEREZ",
+              "initials": "MR",
+              "nameShort": "M RODRIGUEZ PEREZ",
+              "nameShort2": "RODRIGUEZ PEREZ",
+              "slug": "miriam-jacqueline-rodriguez-perez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Miriam Jacqueline RODRIGUEZ PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 11:05:00",
+        "matchTimeUtc": "2025-02-13 16:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419720,
+        "code": "6",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1601,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "63122",
+              "nameDisplay": "Brian YANG",
+              "nameType": 0,
+              "firstName": "Brian",
+              "lastName": "YANG",
+              "initials": "BY",
+              "nameShort": "B YANG",
+              "nameShort2": "YANG",
+              "slug": "brian-yang",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Brian YANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630821/assets/players/thumbnail/63122.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "93101",
+              "nameDisplay": "Job CASTILLO",
+              "nameType": 0,
+              "firstName": "Job",
+              "lastName": "CASTILLO",
+              "initials": "JC",
+              "nameShort": "J CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "job-castillo",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Job CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897342/assets/players/thumbnail/93101.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 11:30:00",
+        "matchTimeUtc": "2025-02-13 16:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419719,
+        "code": "7",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1601,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "91560",
+              "nameDisplay": "Wen Yu ZHANG",
+              "nameType": 0,
+              "firstName": "Wen Yu",
+              "lastName": "ZHANG",
+              "initials": "WZ",
+              "nameShort": "W ZHANG",
+              "nameShort2": "ZHANG",
+              "slug": "wen-yu-zhang",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Wen Yu ZHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896559/assets/players/thumbnail/91560.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "96612",
+              "nameDisplay": "Vanessa Maricela GARCIA CONTRERAS",
+              "nameType": 0,
+              "firstName": "Vanessa Maricela",
+              "lastName": "GARCIA CONTRERAS",
+              "initials": "VG",
+              "nameShort": "V GARCIA CONTRERAS",
+              "nameShort2": "GARCIA CONTRERAS",
+              "slug": "vanessa-maricela-garcia-contreras",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Vanessa Maricela GARCIA CONTRERAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 12:05:00",
+        "matchTimeUtc": "2025-02-13 17:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 52,
+        "time": "00:52",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419730,
+        "code": "8",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1601,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "96537",
+              "nameDisplay": "Jonathan Bing Tsan LAI",
+              "nameType": 0,
+              "firstName": "Jonathan Bing Tsan",
+              "lastName": "LAI",
+              "initials": "JL",
+              "nameShort": "J LAI",
+              "nameShort2": "LAI",
+              "slug": "jonathan-bing-tsan-lai",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Jonathan Bing Tsan LAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "25322",
+              "nameDisplay": "Nyl YAKURA",
+              "nameType": 0,
+              "firstName": "Nyl",
+              "lastName": "YAKURA",
+              "initials": "NY",
+              "nameShort": "N YAKURA",
+              "nameShort2": "YAKURA",
+              "slug": "nyl-yakura",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Nyl YAKURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991492/assets/players/thumbnail/25322.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "93101",
+              "nameDisplay": "Job CASTILLO",
+              "nameType": 0,
+              "firstName": "Job",
+              "lastName": "CASTILLO",
+              "initials": "JC",
+              "nameShort": "J CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "job-castillo",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Job CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897342/assets/players/thumbnail/93101.jpg"
+              }
+            },
+            {
+              "id": "86253",
+              "nameDisplay": "Juan TORRES",
+              "nameType": 0,
+              "firstName": "Juan",
+              "lastName": "TORRES",
+              "initials": "JT",
+              "nameShort": "J TORRES",
+              "nameShort2": "TORRES",
+              "slug": "juan-torres",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Juan TORRES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 13:05:00",
+        "matchTimeUtc": "2025-02-13 18:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419729,
+        "code": "9",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 1601,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "56934",
+              "nameDisplay": "Jackie DENT",
+              "nameType": 0,
+              "firstName": "Jackie",
+              "lastName": "DENT",
+              "initials": "JD",
+              "nameShort": "J DENT",
+              "nameShort2": "DENT",
+              "slug": "jackie-dent",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Jackie DENT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "64767",
+              "nameDisplay": "Crystal LAI",
+              "nameType": 0,
+              "firstName": "Crystal",
+              "lastName": "LAI",
+              "initials": "CL",
+              "nameShort": "C LAI",
+              "nameShort2": "LAI",
+              "slug": "crystal-lai",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Crystal LAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896491/assets/players/thumbnail/64767.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "99678",
+              "nameDisplay": "Romina FREGOSO",
+              "nameType": 0,
+              "firstName": "Romina",
+              "lastName": "FREGOSO",
+              "initials": "RF",
+              "nameShort": "R FREGOSO",
+              "nameShort2": "FREGOSO",
+              "slug": "romina-fregoso",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Romina FREGOSO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "95072",
+              "nameDisplay": "Miriam Jacqueline RODRIGUEZ PEREZ",
+              "nameType": 0,
+              "firstName": "Miriam Jacqueline",
+              "lastName": "RODRIGUEZ PEREZ",
+              "initials": "MR",
+              "nameShort": "M RODRIGUEZ PEREZ",
+              "nameShort2": "RODRIGUEZ PEREZ",
+              "slug": "miriam-jacqueline-rodriguez-perez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Miriam Jacqueline RODRIGUEZ PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 13:55:00",
+        "matchTimeUtc": "2025-02-13 18:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1419697,
+    "code": "9",
+    "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+    "tournamentName": "Pan American Cup 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CUB",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+      "teamId": 1603,
+      "teamName": "Cuba",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": 1606,
+      "teamName": "México",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-13 15:00:00",
+    "matchTimeUtc": "2025-02-13 20:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Pan American Cup 2025",
+    "roundName": "R1",
+    "drawName": "Pan American Cup 2025 - Group A",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "11",
+    "courtIndex": 1,
+    "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 4,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1419745,
+        "code": "15",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 1603,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "65384",
+              "nameDisplay": "Juan Carlos BENCOMO OTAÑO",
+              "nameType": 0,
+              "firstName": "Juan Carlos",
+              "lastName": "BENCOMO OTAÑO",
+              "initials": "JB",
+              "nameShort": "J BENCOMO OTAÑO",
+              "nameShort2": "BENCOMO OTAÑO",
+              "slug": "juan-carlos-bencomo-otano",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Juan Carlos BENCOMO OTAÑO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "85892",
+              "nameDisplay": "Leyanis CONTRERAS CABEZA",
+              "nameType": 0,
+              "firstName": "Leyanis",
+              "lastName": "CONTRERAS CABEZA",
+              "initials": "LC",
+              "nameShort": "L CONTRERAS CABEZA",
+              "nameShort2": "CONTRERAS CABEZA",
+              "slug": "leyanis-contreras-cabeza",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Leyanis CONTRERAS CABEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "81923",
+              "nameDisplay": "Maximiliano PEREGRINA TORRES",
+              "nameType": 0,
+              "firstName": "Maximiliano",
+              "lastName": "PEREGRINA TORRES",
+              "initials": "MP",
+              "nameShort": "M PEREGRINA TORRES",
+              "nameShort2": "PEREGRINA TORRES",
+              "slug": "maximiliano-peregrina-torres",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Maximiliano PEREGRINA TORRES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "95072",
+              "nameDisplay": "Miriam Jacqueline RODRIGUEZ PEREZ",
+              "nameType": 0,
+              "firstName": "Miriam Jacqueline",
+              "lastName": "RODRIGUEZ PEREZ",
+              "initials": "MR",
+              "nameShort": "M RODRIGUEZ PEREZ",
+              "nameShort2": "RODRIGUEZ PEREZ",
+              "slug": "miriam-jacqueline-rodriguez-perez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Miriam Jacqueline RODRIGUEZ PEREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 16:00:00",
+        "matchTimeUtc": "2025-02-13 21:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419743,
+        "code": "11",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 1603,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "76678",
+              "nameDisplay": "Roberto Carlos HERRERA VAZQUEZ",
+              "nameType": 0,
+              "firstName": "Roberto Carlos",
+              "lastName": "HERRERA VAZQUEZ",
+              "initials": "RH",
+              "nameShort": "R HERRERA VAZQUEZ",
+              "nameShort2": "HERRERA VAZQUEZ",
+              "slug": "roberto-carlos-herrera-vazquez",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Roberto Carlos HERRERA VAZQUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "60066",
+              "nameDisplay": "Edwin GARCIA",
+              "nameType": 0,
+              "firstName": "Edwin",
+              "lastName": "GARCIA",
+              "initials": "EG",
+              "nameShort": "E GARCIA",
+              "nameShort2": "GARCIA",
+              "slug": "edwin-garcia",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Edwin GARCIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 16:30:00",
+        "matchTimeUtc": "2025-02-13 21:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419741,
+        "code": "12",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 1603,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "19703",
+              "nameDisplay": "Alina SANZ RIZO",
+              "nameType": 0,
+              "firstName": "Alina",
+              "lastName": "SANZ RIZO",
+              "initials": "AS",
+              "nameShort": "A SANZ RIZO",
+              "nameShort2": "SANZ RIZO",
+              "slug": "alina-sanz-rizo",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Alina SANZ RIZO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "91792",
+              "nameDisplay": "Mayté MACIAS MARIN",
+              "nameType": 0,
+              "firstName": "Mayté",
+              "lastName": "MACIAS MARIN",
+              "initials": "MM",
+              "nameShort": "M MACIAS MARIN",
+              "nameShort2": "MACIAS MARIN",
+              "slug": "mayte-macias-marin",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Mayté MACIAS MARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 17:10:00",
+        "matchTimeUtc": "2025-02-13 22:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 1,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419738,
+        "code": "13",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 1603,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "65384",
+              "nameDisplay": "Juan Carlos BENCOMO OTAÑO",
+              "nameType": 0,
+              "firstName": "Juan Carlos",
+              "lastName": "BENCOMO OTAÑO",
+              "initials": "JB",
+              "nameShort": "J BENCOMO OTAÑO",
+              "nameShort2": "BENCOMO OTAÑO",
+              "slug": "juan-carlos-bencomo-otano",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Juan Carlos BENCOMO OTAÑO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "76678",
+              "nameDisplay": "Roberto Carlos HERRERA VAZQUEZ",
+              "nameType": 0,
+              "firstName": "Roberto Carlos",
+              "lastName": "HERRERA VAZQUEZ",
+              "initials": "RH",
+              "nameShort": "R HERRERA VAZQUEZ",
+              "nameShort2": "HERRERA VAZQUEZ",
+              "slug": "roberto-carlos-herrera-vazquez",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Roberto Carlos HERRERA VAZQUEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "93101",
+              "nameDisplay": "Job CASTILLO",
+              "nameType": 0,
+              "firstName": "Job",
+              "lastName": "CASTILLO",
+              "initials": "JC",
+              "nameShort": "J CASTILLO",
+              "nameShort2": "CASTILLO",
+              "slug": "job-castillo",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Job CASTILLO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897342/assets/players/thumbnail/93101.jpg"
+              }
+            },
+            {
+              "id": "94979",
+              "nameDisplay": "Nestor Israel GONZÁLEZ GÓMEZ",
+              "nameType": 0,
+              "firstName": "Nestor Israel",
+              "lastName": "GONZÁLEZ GÓMEZ",
+              "initials": "NG",
+              "nameShort": "N GONZÁLEZ GÓMEZ",
+              "nameShort2": "GONZÁLEZ GÓMEZ",
+              "slug": "nestor-israel-gonzalez-gomez",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Nestor Israel GONZÁLEZ GÓMEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 17:30:00",
+        "matchTimeUtc": "2025-02-13 22:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419755,
+        "code": "14",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CUB",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+          "teamId": 1603,
+          "teamName": "Cuba",
+          "players": [
+            {
+              "id": "85892",
+              "nameDisplay": "Leyanis CONTRERAS CABEZA",
+              "nameType": 0,
+              "firstName": "Leyanis",
+              "lastName": "CONTRERAS CABEZA",
+              "initials": "LC",
+              "nameShort": "L CONTRERAS CABEZA",
+              "nameShort2": "CONTRERAS CABEZA",
+              "slug": "leyanis-contreras-cabeza",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Leyanis CONTRERAS CABEZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "19703",
+              "nameDisplay": "Alina SANZ RIZO",
+              "nameType": 0,
+              "firstName": "Alina",
+              "lastName": "SANZ RIZO",
+              "initials": "AS",
+              "nameShort": "A SANZ RIZO",
+              "nameShort2": "SANZ RIZO",
+              "slug": "alina-sanz-rizo",
+              "countryCode": "CUB",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CUB.png",
+              "avatar": {
+                "title": "Alina SANZ RIZO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MEX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "teamId": 1606,
+          "teamName": "México",
+          "players": [
+            {
+              "id": "96511",
+              "nameDisplay": "Cecilia MADERA",
+              "nameType": 0,
+              "firstName": "Cecilia",
+              "lastName": "MADERA",
+              "initials": "CM",
+              "nameShort": "C MADERA",
+              "nameShort2": "MADERA",
+              "slug": "cecilia-madera",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Cecilia MADERA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "30959",
+              "nameDisplay": "Isabella PUENTE",
+              "nameType": 0,
+              "firstName": "Isabella",
+              "lastName": "PUENTE",
+              "initials": "IP",
+              "nameShort": "I PUENTE",
+              "nameShort2": "PUENTE",
+              "slug": "isabella-puente",
+              "countryCode": "MEX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+              "avatar": {
+                "title": "Isabella PUENTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 18:00:00",
+        "matchTimeUtc": "2025-02-13 23:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "11",
+        "courtIndex": 1,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1419690,
+    "code": "17",
+    "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+    "tournamentName": "Pan American Cup 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": 1608,
+      "teamName": "U.S.A.",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CRC",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+      "teamId": 1602,
+      "teamName": "Costa Rica",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-13 10:00:00",
+    "matchTimeUtc": "2025-02-13 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Pan American Cup 2025",
+    "roundName": "R3",
+    "drawName": "Pan American Cup 2025 - Group B",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "12",
+    "courtIndex": 2,
+    "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1419773,
+        "code": "23",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 1608,
+          "teamName": "U.S.A.",
+          "players": [
+            {
+              "id": "88711",
+              "nameDisplay": "Enrico Keoni ASUNCION",
+              "nameType": 0,
+              "firstName": "Enrico Keoni",
+              "lastName": "ASUNCION",
+              "initials": "EA",
+              "nameShort": "E ASUNCION",
+              "nameShort2": "ASUNCION",
+              "slug": "enrico-keoni-asuncion",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Enrico Keoni ASUNCION",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1675735597/assets/players/thumbnail/88711.jpg"
+              }
+            },
+            {
+              "id": "60145",
+              "nameDisplay": "Garret TAN",
+              "nameType": 0,
+              "firstName": "Garret",
+              "lastName": "TAN",
+              "initials": "GT",
+              "nameShort": "G TAN",
+              "nameShort2": "TAN",
+              "slug": "garret-tan",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Garret TAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1768792956/assets/players/thumbnail/60145.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "21791",
+              "nameDisplay": "Jose Fabricio CAMBRONERO",
+              "nameType": 0,
+              "firstName": "Jose Fabricio",
+              "lastName": "CAMBRONERO",
+              "initials": "JC",
+              "nameShort": "J CAMBRONERO",
+              "nameShort2": "CAMBRONERO",
+              "slug": "jose-fabricio-cambronero",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Jose Fabricio CAMBRONERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "82673",
+              "nameDisplay": "Ethan JIMÉNEZ",
+              "nameType": 0,
+              "firstName": "Ethan",
+              "lastName": "JIMÉNEZ",
+              "initials": "EJ",
+              "nameShort": "E JIMÉNEZ",
+              "nameShort2": "JIMÉNEZ",
+              "slug": "ethan-jimenez",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Ethan JIMÉNEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 11:05:00",
+        "matchTimeUtc": "2025-02-13 16:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419775,
+        "code": "22",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 1608,
+          "teamName": "U.S.A.",
+          "players": [
+            {
+              "id": "69091",
+              "nameDisplay": "Lauren LAM",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "LAM",
+              "initials": "LL",
+              "nameShort": "L LAM",
+              "nameShort2": "LAM",
+              "slug": "lauren-lam",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Lauren LAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1675735492/assets/players/thumbnail/69091.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "84697",
+              "nameDisplay": "Lauren VILLALOBOS",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "VILLALOBOS",
+              "initials": "LV",
+              "nameShort": "L VILLALOBOS",
+              "nameShort2": "VILLALOBOS",
+              "slug": "lauren-villalobos",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Lauren VILLALOBOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 11:30:00",
+        "matchTimeUtc": "2025-02-13 16:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419709,
+        "code": "21",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 1608,
+          "teamName": "U.S.A.",
+          "players": [
+            {
+              "id": "98305",
+              "nameDisplay": "Adrian King-Sun MAR",
+              "nameType": 0,
+              "firstName": "Adrian King-Sun",
+              "lastName": "MAR",
+              "initials": "AM",
+              "nameShort": "A MAR",
+              "nameShort2": "MAR",
+              "slug": "adrian-king-sun-mar",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Adrian King-Sun MAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "75385",
+              "nameDisplay": "Gianpiero CAVALLOTTI",
+              "nameType": 0,
+              "firstName": "Gianpiero",
+              "lastName": "CAVALLOTTI",
+              "initials": "GC",
+              "nameShort": "G CAVALLOTTI",
+              "nameShort2": "CAVALLOTTI",
+              "slug": "gianpiero-cavallotti",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Gianpiero CAVALLOTTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 11:50:00",
+        "matchTimeUtc": "2025-02-13 16:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419771,
+        "code": "24",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 1608,
+          "teamName": "U.S.A.",
+          "players": [
+            {
+              "id": "65708",
+              "nameDisplay": "Allison Quynh LEE",
+              "nameType": 0,
+              "firstName": "Allison Quynh",
+              "lastName": "LEE",
+              "initials": "AL",
+              "nameShort": "A LEE",
+              "nameShort2": "LEE",
+              "slug": "allison-quynh-lee",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Allison Quynh LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1675734827/assets/players/thumbnail/65708.jpg"
+              }
+            },
+            {
+              "id": "85542",
+              "nameDisplay": "Ella LIN",
+              "nameType": 0,
+              "firstName": "Ella",
+              "lastName": "LIN",
+              "initials": "EL",
+              "nameShort": "E LIN",
+              "nameShort2": "LIN",
+              "slug": "ella-lin",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Ella LIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728426744/assets/players/thumbnail/85542.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "64150",
+              "nameDisplay": "Alison JIMÉNEZ",
+              "nameType": 0,
+              "firstName": "Alison",
+              "lastName": "JIMÉNEZ",
+              "initials": "AJ",
+              "nameShort": "A JIMÉNEZ",
+              "nameShort2": "JIMÉNEZ",
+              "slug": "alison-jimenez",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Alison JIMÉNEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "24619",
+              "nameDisplay": "Kimberly VINDAS",
+              "nameType": 0,
+              "firstName": "Kimberly",
+              "lastName": "VINDAS",
+              "initials": "KV",
+              "nameShort": "K VINDAS",
+              "nameShort2": "VINDAS",
+              "slug": "kimberly-vindas",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Kimberly VINDAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 12:15:00",
+        "matchTimeUtc": "2025-02-13 17:15:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419769,
+        "code": "25",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 1608,
+          "teamName": "U.S.A.",
+          "players": [
+            {
+              "id": "63739",
+              "nameDisplay": "Presley SMITH",
+              "nameType": 0,
+              "firstName": "Presley",
+              "lastName": "SMITH",
+              "initials": "PS",
+              "nameShort": "P SMITH",
+              "nameShort2": "SMITH",
+              "slug": "presley-smith",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Presley SMITH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696986069/assets/players/thumbnail/63739.jpg"
+              }
+            },
+            {
+              "id": "83074",
+              "nameDisplay": "Jennie GAI",
+              "nameType": 0,
+              "firstName": "Jennie",
+              "lastName": "GAI",
+              "initials": "JG",
+              "nameShort": "J GAI",
+              "nameShort2": "GAI",
+              "slug": "jennie-gai",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Jennie GAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991965/assets/players/thumbnail/83074.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "75385",
+              "nameDisplay": "Gianpiero CAVALLOTTI",
+              "nameType": 0,
+              "firstName": "Gianpiero",
+              "lastName": "CAVALLOTTI",
+              "initials": "GC",
+              "nameShort": "G CAVALLOTTI",
+              "nameShort2": "CAVALLOTTI",
+              "slug": "gianpiero-cavallotti",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Gianpiero CAVALLOTTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "84697",
+              "nameDisplay": "Lauren VILLALOBOS",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "VILLALOBOS",
+              "initials": "LV",
+              "nameShort": "L VILLALOBOS",
+              "nameShort2": "VILLALOBOS",
+              "slug": "lauren-villalobos",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Lauren VILLALOBOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 12:40:00",
+        "matchTimeUtc": "2025-02-13 17:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R3",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1419691,
+    "code": "18",
+    "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+    "tournamentName": "Pan American Cup 2025",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "GUA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+      "teamId": 1605,
+      "teamName": "Guatemala",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CRC",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+      "teamId": 1602,
+      "teamName": "Costa Rica",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-02-13 15:00:00",
+    "matchTimeUtc": "2025-02-13 20:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Pan American Cup 2025",
+    "roundName": "R1",
+    "drawName": "Pan American Cup 2025 - Group B",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "12",
+    "courtIndex": 2,
+    "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1419772,
+        "code": "28",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": 1605,
+          "teamName": "Guatemala",
+          "players": [
+            {
+              "id": "93205",
+              "nameDisplay": "Christopher MARTINEZ",
+              "nameType": 0,
+              "firstName": "Christopher",
+              "lastName": "MARTINEZ",
+              "initials": "CM",
+              "nameShort": "C MARTINEZ",
+              "nameShort2": "MARTINEZ",
+              "slug": "christopher-martinez",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Christopher MARTINEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "25684",
+              "nameDisplay": "jonathan SOLIS",
+              "nameType": 0,
+              "firstName": "jonathan",
+              "lastName": "SOLIS",
+              "initials": "jS",
+              "nameShort": "j SOLIS",
+              "nameShort2": "SOLIS",
+              "slug": "jonathan-solis",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "jonathan SOLIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896376/assets/players/thumbnail/25684.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "21791",
+              "nameDisplay": "Jose Fabricio CAMBRONERO",
+              "nameType": 0,
+              "firstName": "Jose Fabricio",
+              "lastName": "CAMBRONERO",
+              "initials": "JC",
+              "nameShort": "J CAMBRONERO",
+              "nameShort2": "CAMBRONERO",
+              "slug": "jose-fabricio-cambronero",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Jose Fabricio CAMBRONERO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "82673",
+              "nameDisplay": "Ethan JIMÉNEZ",
+              "nameType": 0,
+              "firstName": "Ethan",
+              "lastName": "JIMÉNEZ",
+              "initials": "EJ",
+              "nameShort": "E JIMÉNEZ",
+              "nameShort2": "JIMÉNEZ",
+              "slug": "ethan-jimenez",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Ethan JIMÉNEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 16:00:00",
+        "matchTimeUtc": "2025-02-13 21:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419774,
+        "code": "27",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": 1605,
+          "teamName": "Guatemala",
+          "players": [
+            {
+              "id": "66598",
+              "nameDisplay": "GUTIERREZ Fatima",
+              "nameType": 1,
+              "firstName": "Fatima",
+              "lastName": "GUTIERREZ",
+              "initials": "GF",
+              "nameShort": "GUTIERREZ F",
+              "nameShort2": "GUTIERREZ",
+              "slug": "fatima-gutierrez",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Fatima GUTIERREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "84697",
+              "nameDisplay": "Lauren VILLALOBOS",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "VILLALOBOS",
+              "initials": "LV",
+              "nameShort": "L VILLALOBOS",
+              "nameShort2": "VILLALOBOS",
+              "slug": "lauren-villalobos",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Lauren VILLALOBOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 16:20:00",
+        "matchTimeUtc": "2025-02-13 21:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419776,
+        "code": "26",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": 1605,
+          "teamName": "Guatemala",
+          "players": [
+            {
+              "id": "54897",
+              "nameDisplay": "Kevin CORDON",
+              "nameType": 0,
+              "firstName": "Kevin",
+              "lastName": "CORDON",
+              "initials": "KC",
+              "nameShort": "K CORDON",
+              "nameShort2": "CORDON",
+              "slug": "kevin-cordon",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Kevin CORDON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991167/assets/players/thumbnail/54897.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "75385",
+              "nameDisplay": "Gianpiero CAVALLOTTI",
+              "nameType": 0,
+              "firstName": "Gianpiero",
+              "lastName": "CAVALLOTTI",
+              "initials": "GC",
+              "nameShort": "G CAVALLOTTI",
+              "nameShort2": "CAVALLOTTI",
+              "slug": "gianpiero-cavallotti",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Gianpiero CAVALLOTTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 16:45:00",
+        "matchTimeUtc": "2025-02-13 21:45:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419770,
+        "code": "29",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": 1605,
+          "teamName": "Guatemala",
+          "players": [
+            {
+              "id": "56401",
+              "nameDisplay": "Diana CORLETO",
+              "nameType": 0,
+              "firstName": "Diana",
+              "lastName": "CORLETO",
+              "initials": "DC",
+              "nameShort": "D CORLETO",
+              "nameShort2": "CORLETO",
+              "slug": "diana-corleto",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Diana CORLETO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896380/assets/players/thumbnail/56401.jpg"
+              }
+            },
+            {
+              "id": "17774",
+              "nameDisplay": "Nikte SOTOMAYOR",
+              "nameType": 0,
+              "firstName": "Nikte",
+              "lastName": "SOTOMAYOR",
+              "initials": "NS",
+              "nameShort": "N SOTOMAYOR",
+              "nameShort2": "SOTOMAYOR",
+              "slug": "nikte-sotomayor",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Nikte SOTOMAYOR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896953/assets/players/thumbnail/17774.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "64150",
+              "nameDisplay": "Alison JIMÉNEZ",
+              "nameType": 0,
+              "firstName": "Alison",
+              "lastName": "JIMÉNEZ",
+              "initials": "AJ",
+              "nameShort": "A JIMÉNEZ",
+              "nameShort2": "JIMÉNEZ",
+              "slug": "alison-jimenez",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Alison JIMÉNEZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "24619",
+              "nameDisplay": "Kimberly VINDAS",
+              "nameType": 0,
+              "firstName": "Kimberly",
+              "lastName": "VINDAS",
+              "initials": "KV",
+              "nameShort": "K VINDAS",
+              "nameShort2": "VINDAS",
+              "slug": "kimberly-vindas",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Kimberly VINDAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 17:10:00",
+        "matchTimeUtc": "2025-02-13 22:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1419766,
+        "code": "30",
+        "tournamentCode": "8BA83C35-B88D-4A2D-8334-AD18E6258AB9",
+        "tournamentName": "Pan American Cup 2025",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "teamId": 1605,
+          "teamName": "Guatemala",
+          "players": [
+            {
+              "id": "58155",
+              "nameDisplay": "Ramiro ALONSO ESPINOZA",
+              "nameType": 0,
+              "firstName": "Ramiro",
+              "lastName": "ALONSO ESPINOZA",
+              "initials": "RA",
+              "nameShort": "R ALONSO ESPINOZA",
+              "nameShort2": "ALONSO ESPINOZA",
+              "slug": "ramiro-alonso-espinoza",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Ramiro ALONSO ESPINOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "68457",
+              "nameDisplay": "Adriana BARRIOS CHIONG",
+              "nameType": 0,
+              "firstName": "Adriana",
+              "lastName": "BARRIOS CHIONG",
+              "initials": "AB",
+              "nameShort": "A BARRIOS CHIONG",
+              "nameShort2": "BARRIOS CHIONG",
+              "slug": "adriana-barrios-chiong",
+              "countryCode": "GUA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+              "avatar": {
+                "title": "Adriana BARRIOS CHIONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+          "teamId": 1602,
+          "teamName": "Costa Rica",
+          "players": [
+            {
+              "id": "75385",
+              "nameDisplay": "Gianpiero CAVALLOTTI",
+              "nameType": 0,
+              "firstName": "Gianpiero",
+              "lastName": "CAVALLOTTI",
+              "initials": "GC",
+              "nameShort": "G CAVALLOTTI",
+              "nameShort2": "CAVALLOTTI",
+              "slug": "gianpiero-cavallotti",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Gianpiero CAVALLOTTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "84697",
+              "nameDisplay": "Lauren VILLALOBOS",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "VILLALOBOS",
+              "initials": "LV",
+              "nameShort": "L VILLALOBOS",
+              "nameShort2": "VILLALOBOS",
+              "slug": "lauren-villalobos",
+              "countryCode": "CRC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRC.png",
+              "avatar": {
+                "title": "Lauren VILLALOBOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-02-13 17:30:00",
+        "matchTimeUtc": "2025-02-13 22:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Pan American Cup 2025",
+        "roundName": "R1",
+        "drawName": "Pan American Cup 2025 - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "12",
+        "courtIndex": 2,
+        "locationName": "GIMNASIO OLÍMPICO DE AGUASCALIENTES",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

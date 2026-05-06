@@ -1,0 +1,1339 @@
+[
+  {
+    "id": 1480420,
+    "code": "6",
+    "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+    "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "BUL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+      "teamId": 2259,
+      "teamName": "Bulgaria",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "HUN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+      "teamId": 2262,
+      "teamName": "Hungary",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-12-05 10:00:00",
+    "matchTimeUtc": "2025-12-05 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Group 3",
+    "roundName": "R2",
+    "drawName": "Men's Group 3 - Subgroup 1",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Sports hall Repy",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1480430,
+        "code": "1",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 2259,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "63140",
+              "nameDisplay": "Iliyan STOYNOV",
+              "nameType": 0,
+              "firstName": "Iliyan",
+              "lastName": "STOYNOV",
+              "initials": "IS",
+              "nameShort": "I STOYNOV",
+              "nameShort2": "STOYNOV",
+              "slug": "iliyan-stoynov",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Iliyan STOYNOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 2262,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "80961",
+              "nameDisplay": "Adam KONCZOL",
+              "nameType": 0,
+              "firstName": "Adam",
+              "lastName": "KONCZOL",
+              "initials": "AK",
+              "nameShort": "A KONCZOL",
+              "nameShort2": "KONCZOL",
+              "slug": "adam-konczol",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Adam KONCZOL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 10:00:00",
+        "matchTimeUtc": "2025-12-05 09:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 60,
+        "time": "01:00",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480429,
+        "code": "2",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 2259,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "65715",
+              "nameDisplay": "Tsvetomir STOYANOV",
+              "nameType": 0,
+              "firstName": "Tsvetomir",
+              "lastName": "STOYANOV",
+              "initials": "TS",
+              "nameShort": "T STOYANOV",
+              "nameShort2": "STOYANOV",
+              "slug": "tsvetomir-stoyanov",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Tsvetomir STOYANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 2262,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "83482",
+              "nameDisplay": "Kristof TOTH",
+              "nameType": 0,
+              "firstName": "Kristof",
+              "lastName": "TOTH",
+              "initials": "KT",
+              "nameShort": "K TOTH",
+              "nameShort2": "TOTH",
+              "slug": "kristof-toth",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Kristof TOTH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 10:30:00",
+        "matchTimeUtc": "2025-12-05 09:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480428,
+        "code": "3",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 2259,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "86244",
+              "nameDisplay": "Tsvetan IVANOV",
+              "nameType": 0,
+              "firstName": "Tsvetan",
+              "lastName": "IVANOV",
+              "initials": "TI",
+              "nameShort": "T IVANOV",
+              "nameShort2": "IVANOV",
+              "slug": "tsvetan-ivanov",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Tsvetan IVANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 2262,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "81801",
+              "nameDisplay": "Milan MESTERHAZY",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "MESTERHAZY",
+              "initials": "MM",
+              "nameShort": "M MESTERHAZY",
+              "nameShort2": "MESTERHAZY",
+              "slug": "milan-mesterhazy",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Milan MESTERHAZY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 11:00:00",
+        "matchTimeUtc": "2025-12-05 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480427,
+        "code": "4",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 2259,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "78842",
+              "nameDisplay": "Evgeni PANEV",
+              "nameType": 0,
+              "firstName": "Evgeni",
+              "lastName": "PANEV",
+              "initials": "EP",
+              "nameShort": "E PANEV",
+              "nameShort2": "PANEV",
+              "slug": "evgeni-panev",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Evgeni PANEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "63140",
+              "nameDisplay": "Iliyan STOYNOV",
+              "nameType": 0,
+              "firstName": "Iliyan",
+              "lastName": "STOYNOV",
+              "initials": "IS",
+              "nameShort": "I STOYNOV",
+              "nameShort2": "STOYNOV",
+              "slug": "iliyan-stoynov",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Iliyan STOYNOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 2262,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "92143",
+              "nameDisplay": "Csanad HORVATH",
+              "nameType": 0,
+              "firstName": "Csanad",
+              "lastName": "HORVATH",
+              "initials": "CH",
+              "nameShort": "C HORVATH",
+              "nameShort2": "HORVATH",
+              "slug": "csanad-horvath",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Csanad HORVATH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "79515",
+              "nameDisplay": "Miklos KIS-KASZA",
+              "nameType": 0,
+              "firstName": "Miklos",
+              "lastName": "KIS-KASZA",
+              "initials": "MK",
+              "nameShort": "M KIS-KASZA",
+              "nameShort2": "KIS-KASZA",
+              "slug": "miklos-kis-kasza",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Miklos KIS-KASZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 11:30:00",
+        "matchTimeUtc": "2025-12-05 10:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480426,
+        "code": "5",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "BUL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+          "teamId": 2259,
+          "teamName": "Bulgaria",
+          "players": [
+            {
+              "id": "98589",
+              "nameDisplay": "Ivan RUSEV",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "RUSEV",
+              "initials": "IR",
+              "nameShort": "I RUSEV",
+              "nameShort2": "RUSEV",
+              "slug": "ivan-rusev",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Ivan RUSEV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895765/assets/players/thumbnail/98589.jpg"
+              }
+            },
+            {
+              "id": "65715",
+              "nameDisplay": "Tsvetomir STOYANOV",
+              "nameType": 0,
+              "firstName": "Tsvetomir",
+              "lastName": "STOYANOV",
+              "initials": "TS",
+              "nameShort": "T STOYANOV",
+              "nameShort2": "STOYANOV",
+              "slug": "tsvetomir-stoyanov",
+              "countryCode": "BUL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BUL.png",
+              "avatar": {
+                "title": "Tsvetomir STOYANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 2262,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "81801",
+              "nameDisplay": "Milan MESTERHAZY",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "MESTERHAZY",
+              "initials": "MM",
+              "nameShort": "M MESTERHAZY",
+              "nameShort2": "MESTERHAZY",
+              "slug": "milan-mesterhazy",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Milan MESTERHAZY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "99364",
+              "nameDisplay": "Peter PALKOVICS",
+              "nameType": 0,
+              "firstName": "Peter",
+              "lastName": "PALKOVICS",
+              "initials": "PP",
+              "nameShort": "P PALKOVICS",
+              "nameShort2": "PALKOVICS",
+              "slug": "peter-palkovics",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Peter PALKOVICS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 12:00:00",
+        "matchTimeUtc": "2025-12-05 11:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 1",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 64,
+        "time": "01:04",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 25,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1480421,
+    "code": "15",
+    "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+    "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "AUT",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+      "teamId": 2258,
+      "teamName": "Austria",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ISL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+      "teamId": 2263,
+      "teamName": "Iceland",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-12-05 14:00:00",
+    "matchTimeUtc": "2025-12-05 13:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Group 3",
+    "roundName": "R2",
+    "drawName": "Men's Group 3 - Subgroup 2",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Sports hall Repy",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1480423,
+        "code": "16",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 2258,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "86887",
+              "nameDisplay": "Collins Valentine FILIMON",
+              "nameType": 0,
+              "firstName": "Collins Valentine",
+              "lastName": "FILIMON",
+              "initials": "CF",
+              "nameShort": "C FILIMON",
+              "nameShort2": "FILIMON",
+              "slug": "collins-valentine-filimon",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Collins Valentine FILIMON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719889463/assets/players/thumbnail/86887.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": 2263,
+          "teamName": "Iceland",
+          "players": [
+            {
+              "id": "62341",
+              "nameDisplay": "Gustav NILSSON",
+              "nameType": 0,
+              "firstName": "Gustav",
+              "lastName": "NILSSON",
+              "initials": "GN",
+              "nameShort": "G NILSSON",
+              "nameShort2": "NILSSON",
+              "slug": "gustav-nilsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Gustav NILSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 14:00:00",
+        "matchTimeUtc": "2025-12-05 13:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480422,
+        "code": "17",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 2258,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "66003",
+              "nameDisplay": "Kai NIEDERHUBER",
+              "nameType": 0,
+              "firstName": "Kai",
+              "lastName": "NIEDERHUBER",
+              "initials": "KN",
+              "nameShort": "K NIEDERHUBER",
+              "nameShort2": "NIEDERHUBER",
+              "slug": "kai-niederhuber",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Kai NIEDERHUBER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": 2263,
+          "teamName": "Iceland",
+          "players": [
+            {
+              "id": "91131",
+              "nameDisplay": "Einar Oli GUDBJORNSSON",
+              "nameType": 0,
+              "firstName": "Einar Oli",
+              "lastName": "GUDBJORNSSON",
+              "initials": "EG",
+              "nameShort": "E GUDBJORNSSON",
+              "nameShort2": "GUDBJORNSSON",
+              "slug": "einar-oli-gudbjornsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Einar Oli GUDBJORNSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 14:30:00",
+        "matchTimeUtc": "2025-12-05 13:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480432,
+        "code": "18",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 2258,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "83016",
+              "nameDisplay": "Leon SEIWALD",
+              "nameType": 0,
+              "firstName": "Leon",
+              "lastName": "SEIWALD",
+              "initials": "LS",
+              "nameShort": "L SEIWALD",
+              "nameShort2": "SEIWALD",
+              "slug": "leon-seiwald",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Leon SEIWALD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897690/assets/players/thumbnail/83016.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": 2263,
+          "teamName": "Iceland",
+          "players": [
+            {
+              "id": "36741",
+              "nameDisplay": "Eggert Thor EGGERTSSON",
+              "nameType": 0,
+              "firstName": "Eggert Thor",
+              "lastName": "EGGERTSSON",
+              "initials": "EE",
+              "nameShort": "E EGGERTSSON",
+              "nameShort2": "EGGERTSSON",
+              "slug": "eggert-thor-eggertsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Eggert Thor EGGERTSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 15:00:00",
+        "matchTimeUtc": "2025-12-05 14:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480431,
+        "code": "19",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 2258,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "61916",
+              "nameDisplay": "Wolfgang GNEDT",
+              "nameType": 0,
+              "firstName": "Wolfgang",
+              "lastName": "GNEDT",
+              "initials": "WG",
+              "nameShort": "W GNEDT",
+              "nameShort2": "GNEDT",
+              "slug": "wolfgang-gnedt",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Wolfgang GNEDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "66003",
+              "nameDisplay": "Kai NIEDERHUBER",
+              "nameType": 0,
+              "firstName": "Kai",
+              "lastName": "NIEDERHUBER",
+              "initials": "KN",
+              "nameShort": "K NIEDERHUBER",
+              "nameShort2": "NIEDERHUBER",
+              "slug": "kai-niederhuber",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Kai NIEDERHUBER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": 2263,
+          "teamName": "Iceland",
+          "players": [
+            {
+              "id": "85707",
+              "nameDisplay": "David Bjarni BJORNSSON",
+              "nameType": 0,
+              "firstName": "David Bjarni",
+              "lastName": "BJORNSSON",
+              "initials": "DB",
+              "nameShort": "D BJORNSSON",
+              "nameShort2": "BJORNSSON",
+              "slug": "david-bjarni-bjornsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "David Bjarni BJORNSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "82333",
+              "nameDisplay": "Kristofer Darri FINNSSON",
+              "nameType": 0,
+              "firstName": "Kristofer Darri",
+              "lastName": "FINNSSON",
+              "initials": "KF",
+              "nameShort": "K FINNSSON",
+              "nameShort2": "FINNSSON",
+              "slug": "kristofer-darri-finnsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Kristofer Darri FINNSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 15:30:00",
+        "matchTimeUtc": "2025-12-05 14:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480456,
+        "code": "20",
+        "tournamentCode": "41555F65-76D1-4F09-BE45-66C4B7D364ED",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Czechia",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "AUT",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+          "teamId": 2258,
+          "teamName": "Austria",
+          "players": [
+            {
+              "id": "86887",
+              "nameDisplay": "Collins Valentine FILIMON",
+              "nameType": 0,
+              "firstName": "Collins Valentine",
+              "lastName": "FILIMON",
+              "initials": "CF",
+              "nameShort": "C FILIMON",
+              "nameShort2": "FILIMON",
+              "slug": "collins-valentine-filimon",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Collins Valentine FILIMON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719889463/assets/players/thumbnail/86887.jpg"
+              }
+            },
+            {
+              "id": "32326",
+              "nameDisplay": "Adi PRATAMA",
+              "nameType": 0,
+              "firstName": "Adi",
+              "lastName": "PRATAMA",
+              "initials": "AP",
+              "nameShort": "A PRATAMA",
+              "nameShort2": "PRATAMA",
+              "slug": "adi-pratama",
+              "countryCode": "AUT",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUT.png",
+              "avatar": {
+                "title": "Adi PRATAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894937/assets/players/thumbnail/32326.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+          "teamId": 2263,
+          "teamName": "Iceland",
+          "players": [
+            {
+              "id": "91131",
+              "nameDisplay": "Einar Oli GUDBJORNSSON",
+              "nameType": 0,
+              "firstName": "Einar Oli",
+              "lastName": "GUDBJORNSSON",
+              "initials": "EG",
+              "nameShort": "E GUDBJORNSSON",
+              "nameShort2": "GUDBJORNSSON",
+              "slug": "einar-oli-gudbjornsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Einar Oli GUDBJORNSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "62341",
+              "nameDisplay": "Gustav NILSSON",
+              "nameType": 0,
+              "firstName": "Gustav",
+              "lastName": "NILSSON",
+              "initials": "GN",
+              "nameShort": "G NILSSON",
+              "nameShort2": "NILSSON",
+              "slug": "gustav-nilsson",
+              "countryCode": "ISL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISL.png",
+              "avatar": {
+                "title": "Gustav NILSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-05 16:00:00",
+        "matchTimeUtc": "2025-12-05 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 3",
+        "roundName": "R2",
+        "drawName": "Men's Group 3 - Subgroup 2",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Sports hall Repy",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]
