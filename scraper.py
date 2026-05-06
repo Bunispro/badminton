@@ -259,6 +259,25 @@ class BwfScraper:
 
         print("⚠ Logged failure to file.")
 
+    def handle_cookie_banner(self):
+        """Checks for and accepts a common cookie banner if it appears."""
+        try:
+            # This ID is specific to the cookie-script.com banner seen in the logs
+            accept_button = self.page.locator("#cookiescript_accept")
+            
+            # Wait up to 5 seconds for the banner to appear.
+            if accept_button.is_visible(timeout=5000):
+                print("🍪 Cookie banner detected. Clicking accept.")
+                # Use force=True to click even if something is on top,
+                # which is the exact problem described in the error log.
+                accept_button.click(force=True)
+                # Wait a moment for the banner to animate and disappear.
+                self.page.wait_for_timeout(1500)
+        except Exception:
+            # This is expected if no banner is present or it times out.
+            # We can safely ignore this and continue.
+            pass
+
 
     # -----------------------------
     # Core scraping
@@ -278,6 +297,8 @@ class BwfScraper:
         print("Scraping NON-WT:", tournament_url)
 
         self.page.goto(tournament_url, wait_until="domcontentloaded")
+        self.page.wait_for_selector("#ajaxTabsResults li a:not([data-key='podium'])", timeout=30000) # Wait for day tabs
+        self.handle_cookie_banner()
         self.page.wait_for_timeout(3000)
 
         # Locate day tabs (exclude podium)
@@ -428,6 +449,8 @@ class BwfScraper:
         print("Saving to:", out_dir)
         
         self.page.goto(tournament_url, wait_until="domcontentloaded")
+        self.page.wait_for_selector("#ajaxTabsResults a", timeout=30000) # Wait for day tabs
+        self.handle_cookie_banner()
         self.page.wait_for_timeout(random.randint(4000, 8000))
 
         day_urls = self.extract_day_urls()
@@ -458,6 +481,7 @@ class BwfScraper:
                     timeout=20000
                 ) as response_info:
                     self.page.goto(day_url, wait_until="domcontentloaded")
+                    self.handle_cookie_banner()
 
                 response = response_info.value
 
@@ -505,6 +529,8 @@ class BwfScraper:
         out_dir = self.make_tournament_folder(tournament_url, tier, root="data_wt")
 
         self.page.goto(tournament_url, wait_until="domcontentloaded")
+        self.page.wait_for_selector(".box-results-tournament h2, li[class*='match-']", timeout=30000) # Wait for title or match rows
+        self.handle_cookie_banner()
         self.page.wait_for_timeout(random.randint(4000, 8000))
 
         title_locator = self.page.locator(".box-results-tournament h2")
@@ -537,6 +563,7 @@ class BwfScraper:
                 continue
 
             self.page.goto(day_url, wait_until="domcontentloaded")
+            self.handle_cookie_banner()
             self.page.wait_for_timeout(random.randint(6000, 10000))
 
             rows = self.page.locator("li[class*='match-']")
@@ -606,7 +633,7 @@ class BwfScraper:
         print(f"===== COMPLETED FINAL: {tournament_url} =====\n")
 
 
-    def scrape_many(self, tournament_list, min_sleep=7, max_sleep=12):
+    def scrape_many(self, tournament_list, min_sleep=7, max_sleep=12, restart_interval=50):
 
         count = 0
 
@@ -627,6 +654,13 @@ class BwfScraper:
                 print("❌ Tournament crashed:", url)
                 self.log_failed_tournament(url, tier, e)
 
+            # Periodically restart the browser context to clear state and avoid detection
+            if count > 0 and count % restart_interval == 0:
+                print(f"\n--- Restarting browser after {count} tournaments ---")
+                self.stop()
+                self.start()
+                self.page.wait_for_timeout(random.randint(5000, 10000)) # Extra pause after restart
+
             count += 1
 
             sleep_time = random.randint(min_sleep, max_sleep)
@@ -641,5 +675,3 @@ class BwfScraper:
                 long_break = random.uniform(45, 90)
                 print(f"\nLong break: {long_break/60:.1f} minutes...")
                 time.sleep(long_break)
-
-

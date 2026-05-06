@@ -1,7 +1,7 @@
 import os
 import re
 import json
-from db_v2 import init_db
+from db_ingest import init_db
 import unicodedata
 import hashlib
 from datetime import datetime, timezone
@@ -15,7 +15,7 @@ def compute_hash(obj):
     ).hexdigest()
 
 def log_ingestion_report(
-    cursor,
+    reports_batch,
     match_id,
     unresolved_flag,
     invalid_scores,
@@ -25,20 +25,7 @@ def log_ingestion_report(
     invalid_participants,
     is_team_match
 ):
-    cursor.execute("""
-        INSERT INTO ingestion_report(
-            match_id,
-            unresolved_players,
-            invalid_scores,
-            date_fallback,
-            winner_mismatch,
-            retired_or_walkover,
-            invalid_participants,
-            is_team_match,
-            timestamp
-        )
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-    """, (
+    report_tuple = (
         match_id,
         int(unresolved_flag),
         int(invalid_scores),
@@ -48,9 +35,32 @@ def log_ingestion_report(
         int(invalid_participants),
         int(is_team_match),
         datetime.now(timezone.utc).isoformat()
-    ))
+    )
+    reports_batch.append(report_tuple)
 
-def ensure_player(cursor, player_json, tournament_id, current_match_id):
+def load_player_id_mappings(cursor, mapping_file_path="player_id_map.json"):
+    """Reads a JSON map and populates the player_id_mapping table."""
+    if not os.path.exists(mapping_file_path):
+        # This is not an error, just informational if the file doesn't exist.
+        return
+
+    with open(mapping_file_path, "r", encoding="utf-8") as f:
+        id_map = json.load(f)
+
+    mappings = list(id_map.items())
+    if not mappings:
+        return
+
+    cursor.executemany("""
+        INSERT INTO player_id_mapping (old_id, canonical_id)
+        VALUES (?, ?)
+        ON CONFLICT(old_id) DO UPDATE SET
+            canonical_id=excluded.canonical_id
+    """, mappings)
+    print(f"Loaded/updated {len(mappings)} player ID mappings.")
+
+
+def ensure_player(cursor, player_json, tournament_id, current_match_id, id_conflicts, unresolved_log_batch):
     pid = player_json.get("id")
     name = player_json["nameDisplay"]
     norm = normalize_name(name)
@@ -58,6 +68,27 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id):
 
     if pid is not None:
         pid = str(pid)
+
+        # Check if this ID has been mapped to a canonical one
+        cursor.execute("SELECT canonical_id FROM player_id_mapping WHERE old_id = ?", (pid,))
+        row = cursor.fetchone()
+        if row:
+            pid = row[0] # Use the canonical ID
+
+        # --- NEW CONFLICT DETECTION LOGIC ---
+        # If we haven't already flagged a conflict for this name during this run...
+        if norm not in id_conflicts:
+            # ...check if another player ID is already using this normalized name.
+            cursor.execute("""
+                SELECT player_id FROM player_aliases
+                WHERE alias_normalized = ? AND player_id != ?
+            """, (norm, pid))
+            rows = cursor.fetchall()
+            if rows:
+                # Conflict detected!
+                other_pids = {row[0] for row in rows}
+                all_conflicting_ids = other_pids.union({pid})
+                id_conflicts[norm] = all_conflicting_ids
 
         cursor.execute("""
             INSERT INTO players (player_id, name_display, name_normalized, country_code)
@@ -85,10 +116,7 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id):
     if row:
         return row[0]
 
-    cursor.execute("""
-        INSERT INTO unresolved_players_log
-        VALUES (?, ?, ?, ?, ?)
-    """, (
+    unresolved_log_batch.append((
         tournament_id,
         current_match_id,
         name,
@@ -97,38 +125,6 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id):
     ))
 
     return None
-
-def valid_date_string(s):
-    try:
-        datetime.strptime(s, "%Y-%m-%d")
-        return True
-    except:
-        return False
-
-def is_valid_score(score_data, format='3x21'):
-    # Logic handles list-style scores and string scores
-    games = []
-    if isinstance(score_data, list):
-        for s in score_data:
-            if s.get('home') is not None and s.get('away') is not None:
-                games.append((int(s['home']), int(s['away'])))
-    elif isinstance(score_data, str):
-        parsed = re.findall(r"(\d+)-(\d+)", score_data)
-        games = [(int(h), int(a)) for h, a in parsed]
-
-    if not games: return False
-    
-    # Simple check: Did someone reach at least 21 (or 15 for new format)?
-    target = 15 if format == '3x15' else 21
-    wins_team1 = 0
-    wins_team2 = 0
-    
-    for h, a in games:
-        if max(h, a) < target: return False
-        if h > a: wins_team1 += 1
-        else: wins_team2 += 1
-        
-    return max(wins_team1, wins_team2) >= 2
 
 def compute_score_winner(score_raw):
     team1_sets = 0
@@ -180,6 +176,8 @@ def normalize_name(name):
     if not name: return ""
     # 1. Remove accents and brackets
     name = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('ascii')
+    # Replace hyphens with spaces to treat parts as separate words
+    name = name.replace('-', ' ')
     name = re.sub(r"\[.*?\]", "", name).lower()
     # 2. Keep only alphanumeric words
     words = re.findall(r'\w+', name)
@@ -402,33 +400,14 @@ def load_tournament_index(cursor, index_path):
 
     return numeric_to_code
 
-def pre_scan_identities(folder_path):
-    print("Step 1: Building Identity Map from all files...")
-    for root, _, files in os.walk(folder_path):
-        for file in files:
-            if not file.endswith(".json"): continue
-            with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
-                try:
-                    data = json.load(f)
-                    items = data if isinstance(data, list) else [data]
-                    for item in items:
-                        # Check top-level and nested matches (Team ties)
-                        to_scan = item.get('matches', []) if item.get('isTeamMatch') else [item]
-                        for m in to_scan:
-                            for side in ['team1', 'team2']:
-                                for p in m.get(side, {}).get('players', []):
-                                    pid = str(p.get('id'))
-                                    if pid and pid not in ['None', 'null']:
-                                        norm = normalize_name(p['nameDisplay'])
-                                        identity_map[norm] = pid
-                except Exception: continue
-    print(f"Identity Map built: {len(identity_map)} players recognized.")
 
-
-def ingest_folder(db_path, folder_path):
-    conn = init_db(db_path)
+def ingest_folder(conn, folder_path):
     cursor = conn.cursor()
     mapping_failures = {}
+    id_conflicts = {}
+
+    # Load player ID mappings from JSON into the database
+    load_player_id_mappings(cursor)
 
     # Load tournament index and build numeric_id → code mapping
     numeric_to_code = load_tournament_index(
@@ -442,6 +421,12 @@ def ingest_folder(db_path, folder_path):
         for file in files:
             if not file.endswith(".json"):
                 continue
+
+            # --- BATCHING ---
+            matches_batch = []
+            participants_batch = []
+            reports_batch = []
+            unresolved_log_batch = []
 
             path = os.path.join(root, file)
 
@@ -471,13 +456,23 @@ def ingest_folder(db_path, folder_path):
                 tournament_id = row[0] if row else None
 
             if not tournament_id:
+                # Fallback for Finals: try to get numeric ID from folder name
+                folder_name = os.path.basename(root)
+                numeric_id_match = re.match(r"^(\d+)_", folder_name)
+                if numeric_id_match:
+                    numeric_id = numeric_id_match.group(1)
+                    cursor.execute("SELECT tournament_id FROM tournaments WHERE numeric_id = ?", (numeric_id,))
+                    row = cursor.fetchone()
+                    if row:
+                        tournament_id = row[0]
+
+            if not tournament_id:
                 tournament_name = matches[0].get("tournamentName") or ""
                 mapping_failures[root] = {
                     "tournament_path": root,
                     "tournament_name": tournament_name,
                 }
                 continue
-
 
             cursor.execute("""
                 SELECT tier
@@ -487,88 +482,189 @@ def ingest_folder(db_path, folder_path):
             tier_raw = cursor.fetchone()
             tier = tier_raw[0] if tier_raw else None
 
-                           
+                        
+            for top_level_item in matches:
+                items_to_process = []
+                is_team_tie = top_level_item.get("isTeamMatch") is True
 
-            for m in matches:
-                raw_match_id = m.get("id")
-                if isinstance(raw_match_id, int):
-                    match_id = str(raw_match_id)
-                else:
-                    match_id = compute_hash(m)
-
-                if m.get("isTeamMatch") is True:
+                if is_team_tie:
+                    # This is a team tie object. Log it and get sub-matches.
+                    tie_id = str(top_level_item.get("id")) if top_level_item.get("id") else compute_hash(top_level_item)
                     log_ingestion_report(
-                        cursor,
-                        match_id,
+                        reports_batch,
+                        tie_id,
                         unresolved_flag=False,
                         invalid_scores=False,
                         date_fallback=False,
                         winner_mismatch=False,
                         retired_or_walkover=False,
                         invalid_participants=False,
-                        is_team_match=True,
+                        is_team_match=True
                     )
-                    continue
-                
-                score_status = m.get("scoreStatusValue")
+                    if isinstance(top_level_item.get("matches"), list):
+                        items_to_process.extend(top_level_item["matches"])
+                else:
+                    items_to_process.append(top_level_item)
 
-                retired_or_walkover = score_status in ["Retired", "Walkover"]
-                unresolved_flag = False
-                invalid_participants = False
-                winner_mismatch = False
+                for m in items_to_process:
+                    raw_match_id = m.get("id")
+                    if isinstance(raw_match_id, int):
+                        match_id = str(raw_match_id)
+                    else:
+                        match_id = compute_hash(m)
+                    
+                    score_status = m.get("scoreStatusValue")
 
-                # `.get(key, default)` does not apply when the JSON value is explicitly null.
-                # Normalize nulls to strings before inserting into NOT NULL / text columns.
+                    retired_or_walkover = score_status in ["Retired", "Walkover"]
+                    unresolved_flag = False
+                    invalid_participants = False
+                    winner_mismatch = False
 
-                event_raw = (m.get("eventName") or "").strip()
-                event_canon = canon_event(event_raw)
-                round_name = (m.get("roundName") or "").strip()
-                court = (m.get("courtName") or "").strip()
-                if not event_canon:
-                    event_canon = "UNKNOWN"
-                score_raw = m.get("score")
-                invalid_scores = compute_score_winner(score_raw) is None
+                    # `.get(key, default)` does not apply when the JSON value is explicitly null.
+                    # Normalize nulls to strings before inserting into NOT NULL / text columns.
 
-                # Resolve match date from payload when available; fallback to filename.
-                match_time = m.get("matchTime")
-                date_fallback = False
-                if match_time:
-                    try:
-                        dt = datetime.strptime(match_time, "%Y-%m-%d %H:%M:%S")
-                        match_date = dt.date().isoformat()
-                    except ValueError:
+                    event_raw = (m.get("matchTypeValue") or m.get("eventName") or "").strip()
+                    event_canon = canon_event(event_raw)
+                    round_name = (m.get("roundName") or "").strip()
+                    court = (m.get("courtName") or "").strip()
+                    if not event_canon:
+                        event_canon = "UNKNOWN"
+                    score_raw = m.get("score")
+                    invalid_scores = compute_score_winner(score_raw) is None
+
+                    # Resolve match date from payload when available; fallback to filename.
+                    match_time = m.get("matchTime")
+                    date_fallback = False
+                    if match_time:
+                        try:
+                            dt = datetime.strptime(match_time, "%Y-%m-%d %H:%M:%S")
+                            match_date = dt.date().isoformat()
+                        except ValueError:
+                            match_date = file.replace(".json", "")
+                            date_fallback = True
+                    else:
                         match_date = file.replace(".json", "")
                         date_fallback = True
-                else:
-                    match_date = file.replace(".json", "")
-                    date_fallback = True
 
-                if isinstance(score_raw, list):
-                    score = " ".join(
-                        f"{s['home']}-{s['away']}" for s in score_raw
-                    )
-                elif isinstance(score_raw, str):
-                    score = score_raw
-                else:
-                    score = ""
+                    if isinstance(score_raw, list):
+                        score = " ".join(
+                            f"{s['home']}-{s['away']}" for s in score_raw
+                        )
+                    elif isinstance(score_raw, str):
+                        score = score_raw
+                    else:
+                        score = ""
 
 
 
-                winner = m.get("winner")
+                    winner = m.get("winner")
 
-                if winner != compute_score_winner(score_raw):
-                    winner_mismatch = True
+                    if winner != compute_score_winner(score_raw):
+                        winner_mismatch = True
 
-                if not m.get("team1") or not m.get("team2"):
-                    invalid_participants = True
-
-                elif not isinstance(m["team1"].get("players"), list) \
-                    or not isinstance(m["team2"].get("players"), list):
+                    if not m.get("team1") or not m.get("team2"):
                         invalid_participants = True
 
-                if invalid_participants:
+                    elif not isinstance(m["team1"].get("players"), list) \
+                        or not isinstance(m["team2"].get("players"), list):
+                            invalid_participants = True
+
+                    if invalid_participants:
+                        log_ingestion_report(
+                            reports_batch,
+                            match_id,
+                            unresolved_flag,
+                            invalid_scores,
+                            date_fallback,
+                            winner_mismatch,
+                            retired_or_walkover,
+                            invalid_participants,
+                            is_team_match=False
+                        )
+                        continue
+
+                    team1_ids = []
+                    team2_ids = []
+
+                    for p in m["team1"]["players"]:
+                        resolved_id = ensure_player(
+                            cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch
+                        )
+                        if resolved_id is None:
+                            unresolved_flag = True
+                            continue
+                        team1_ids.append(resolved_id)
+
+                    for p in m["team2"]["players"]:
+                        resolved_id = ensure_player(
+                            cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch
+                        )
+                        if resolved_id is None:
+                            unresolved_flag = True
+                            continue
+                        team2_ids.append(resolved_id)
+
+                    # Deduplicate player IDs to prevent UNIQUE constraint errors from bad data.
+                    team1_ids = list(dict.fromkeys(team1_ids))
+                    team2_ids = list(dict.fromkeys(team2_ids))
+
+                    expected_players = 1 if event_canon in ("MS", "WS") else 2 if event_canon in ("MD", "WD", "XD") else None
+
+                    if expected_players:
+                        if len(team1_ids) != expected_players or len(team2_ids) != expected_players:
+                            invalid_participants = True
+
+                    if invalid_participants:
+                        log_ingestion_report(
+                            reports_batch,
+                            match_id,
+                            True,
+                            invalid_scores,
+                            date_fallback,
+                            winner_mismatch,
+                            retired_or_walkover,
+                            invalid_participants,
+                            is_team_match=False
+                        )
+                        continue
+                    VALID_TIERS = {"T0","T1","T2","T3","T4","T5","T6"}
+                    raw_hash = compute_hash(m)
+                    is_valid_for_rating = (
+                        event_canon in VALID_EVENTS
+                        and tier in VALID_TIERS
+                        and not (
+                            unresolved_flag
+                            or invalid_scores
+                            or winner_mismatch
+                            or retired_or_walkover
+                            or invalid_participants
+                            # or is_continental
+
+                        )
+                    )
+
+                    matches_batch.append((
+                        match_id,
+                        tournament_id,
+                        event_raw,
+                        event_canon,
+                        round_name,
+                        court,
+                        match_date,
+                        score,
+                        winner,
+                        is_valid_for_rating,
+                        raw_hash
+                    ))
+
+                    for pid in team1_ids:
+                        participants_batch.append((match_id, 1, pid))
+
+                    for pid in team2_ids:
+                        participants_batch.append((match_id, 2, pid))
+
                     log_ingestion_report(
-                        cursor,
+                        reports_batch,
                         match_id,
                         unresolved_flag,
                         invalid_scores,
@@ -578,131 +674,51 @@ def ingest_folder(db_path, folder_path):
                         invalid_participants,
                         is_team_match=False
                     )
-                    continue
 
-                team1_ids = []
-                team2_ids = []
+            # --- BATCH EXECUTION (end of file) ---
+            if not matches_batch and not reports_batch:
+                continue
 
-                for p in m["team1"]["players"]:
-                    resolved_id = ensure_player(
-                        cursor, p, tournament_id, match_id
-                    )
-                    if resolved_id is None:
-                        unresolved_flag = True
-                        continue
-                    team1_ids.append(resolved_id)
+            print(f"  Committing {len(matches_batch)} matches from file: {file}")
 
-                for p in m["team2"]["players"]:
-                    resolved_id = ensure_player(
-                        cursor, p, tournament_id, match_id
-                    )
-                    if resolved_id is None:
-                        unresolved_flag = True
-                        continue
-                    team2_ids.append(resolved_id)
+            match_ids_in_batch = list({m[0] for m in matches_batch})
 
-                expected_players = 1 if event_canon in ("MS", "WS") else 2 if event_canon in ("MD", "WD", "XD") else None
+            if match_ids_in_batch:
+                placeholders = ','.join('?' for _ in match_ids_in_batch)
+                cursor.execute(f"DELETE FROM match_participants WHERE match_id IN ({placeholders})", match_ids_in_batch)
+                cursor.execute(f"DELETE FROM matches WHERE match_id IN ({placeholders})", match_ids_in_batch)
 
-                if expected_players:
-                    if len(team1_ids) != expected_players or len(team2_ids) != expected_players:
-                        invalid_participants = True
-
-                if invalid_participants:
-                    log_ingestion_report(
-                        cursor,
-                        match_id,
-                        True,
-                        invalid_scores,
-                        date_fallback,
-                        winner_mismatch,
-                        retired_or_walkover,
-                        invalid_participants,
-                        is_team_match=False
-                    )
-                    continue
-                VALID_TIERS = {"T0","T1","T2","T3","T4","T5","T6"}
-                raw_hash = compute_hash(m)
-                is_valid_for_rating = (
-                    event_canon in VALID_EVENTS
-                    and tier in VALID_TIERS
-                    and not (
-                        unresolved_flag
-                        or invalid_scores
-                        or winner_mismatch
-                        or retired_or_walkover
-                        or invalid_participants
-                        # or is_continental
-
-                    )
-                )
-
-                cursor.execute("""
+            if matches_batch:
+                cursor.executemany("""
                     INSERT INTO matches (
-                        match_id,
-                        tournament_id,
-                        event_raw,
-                        event_canon,
-                        round,
-                        court,
-                        match_date,
-                        score,
-                        winner_side,
-                        is_valid_for_rating,
-                        raw_hash
-                    )
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                    ON CONFLICT(match_id) DO UPDATE SET
-                        score=excluded.score,
-                        tournament_id=excluded.tournament_id,
-                        winner_side=excluded.winner_side,
-                        event_raw=excluded.event_raw,
-                        event_canon=excluded.event_canon,
-                        round=excluded.round,
-                        is_valid_for_rating=excluded.is_valid_for_rating,
-                        raw_hash=excluded.raw_hash
-                """, (
-                    match_id,
-                    tournament_id,
-                    event_raw,
-                    event_canon,
-                    round_name,
-                    court,
-                    match_date,
-                    score,
-                    winner,
-                    is_valid_for_rating,
-                    raw_hash
-                ))
+                        match_id, tournament_id, event_raw, event_canon, round, court,
+                        match_date, score, winner_side, is_valid_for_rating, raw_hash
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """, matches_batch)
 
-                cursor.execute("""
-                    DELETE FROM match_participants
-                    WHERE match_id = ?
-                """, (match_id,))
+            if participants_batch:
+                cursor.executemany("""
+                    INSERT INTO match_participants (match_id, side, player_id)
+                    VALUES (?, ?, ?)
+                """, participants_batch)
 
-                for pid in team1_ids:
-                    cursor.execute("""
-                        INSERT INTO match_participants (match_id, side, player_id)
-                        VALUES (?, 1, ?)
-                    """, (match_id, pid))
+            if reports_batch:
+                cursor.executemany("""
+                    INSERT INTO ingestion_report(
+                        match_id, unresolved_players, invalid_scores, date_fallback,
+                        winner_mismatch, retired_or_walkover, invalid_participants,
+                        is_team_match, timestamp
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """, reports_batch)
 
-                for pid in team2_ids:
-                    cursor.execute("""
-                        INSERT INTO match_participants (match_id, side, player_id)
-                        VALUES (?, 2, ?)
-                    """, (match_id, pid))
+            if unresolved_log_batch:
+                cursor.executemany("""
+                    INSERT INTO unresolved_players_log
+                    (tournament_id, match_id, player_name, normalized_name, timestamp)
+                    VALUES (?, ?, ?, ?, ?)
+                """, unresolved_log_batch)
 
-                log_ingestion_report(
-                    cursor,
-                    match_id,
-                    unresolved_flag,
-                    invalid_scores,
-                    date_fallback,
-                    winner_mismatch,
-                    retired_or_walkover,
-                    invalid_participants,
-                    is_team_match=False
-
-                )
+            conn.commit()
 
     if mapping_failures:
         report_path = "tournament_mapping_failures.json"
@@ -731,10 +747,35 @@ def ingest_folder(db_path, folder_path):
                 indent=2
             )
 
+    if id_conflicts:
+        report_path = "player_id_conflicts.json"
+        try:
+            with open(report_path, "r", encoding="utf-8") as f:
+                existing_conflicts = json.load(f)
+                if not isinstance(existing_conflicts, dict):
+                    existing_conflicts = {}
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing_conflicts = {}
+
+        # Merge new conflicts into existing ones
+        for norm, new_ids_set in id_conflicts.items():
+            # Get existing IDs for this name, default to an empty list
+            existing_ids_list = existing_conflicts.get(norm, [])
+            # Combine and deduplicate
+            merged_ids = set(existing_ids_list).union(new_ids_set)
+            # Store as a sorted list for consistent output
+            existing_conflicts[norm] = sorted(list(merged_ids))
+
+        with open(report_path, "w", encoding="utf-8") as f:
+            json.dump(existing_conflicts, f, indent=2, sort_keys=True)
+
+        print(f"\nFound and reported {len(id_conflicts)} new potential player ID conflicts.")
+        print(f"Please review '{report_path}' and update 'player_id_map.json' if necessary.")
+
+
+
 
     print(f"Tournament mapping failure: {len(mapping_failures)}")
-    conn.commit()
-    conn.close()
 
 
 # if __name__ == "__main__":

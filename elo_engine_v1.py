@@ -1,5 +1,5 @@
 import math
-from db_v2 import init_rating_table
+from db_ratings import init_rating_table
 from datetime import datetime
 
 
@@ -15,21 +15,6 @@ def snapshot_ratings(test_cursor, ratings_by_event, date):
                 (player_id, event, rating_date, rating)
                 VALUES (?, ?, ?, ?)
             """, (pid, event, date, rating))
-
-def apply_decay(rating, days_inactive, base_rating, decay_rate = 0.015):
-    if days_inactive <= 60:
-        return rating
-
-    extra_days = days_inactive - 60
-    months = extra_days / 30.0
-
-    factor = 1 - (decay_rate * months)
-
-    # prevent negative or extreme decay
-    factor = max(0.85, factor)
-
-    return rating + (base_rating - rating) * (1 - factor)
-
 def effective_inactive_days(last_date, current_date):
     total_days = (current_date - last_date).days
 
@@ -63,24 +48,15 @@ def grow_uncertainty_inactivity(u_old, days_inactive, u_growth,
     u_new = u_old + inc
     return max(u_min, min(u_max, u_new))
 
-def add_volatility_to_uncertainty(u_old, win, p, v_lambda, v_gamma, u_max):
-    error = abs(win - p)  # between 0 and 1
-    boost = v_lambda * (math.exp(v_gamma * error) - 1)
-    u_new = min(u_max, u_old + boost)
-    return u_new
-
-
 def prepare_player_state(pid, ratings, last_played, uncertainty_dict,
-                         current_date, base_rating, decay_rate, u_growth,
+                         current_date, base_rating, u_growth,
                          u_min, u_max, max_inc_per_month):
     
     old_rating = ratings.get(pid, base_rating)
     last_date = last_played.get(pid)
     u_old = uncertainty_dict.get(pid, 1.0)
-
     if last_date:
         days_inactive = effective_inactive_days(last_date, current_date)
-        old_rating = apply_decay(old_rating, days_inactive, base_rating, decay_rate)
 
         u_old = grow_uncertainty_inactivity(
             u_old,
@@ -90,78 +66,82 @@ def prepare_player_state(pid, ratings, last_played, uncertainty_dict,
             u_max,
             max_inc_per_month,
             grace_days=60)
-
     # persist updated values
     ratings[pid] = old_rating
     uncertainty_dict[pid] = u_old
 
     return old_rating, u_old
 
+def prepare_synergy_state(pair_key, synergy_dict, su_dict, last_played_dict,
+                          current_date, su_growth, su_min, su_max,
+                          max_inc_per_month):
+    
+    synergy = synergy_dict.get(pair_key, 0.0)
+    su = su_dict.get(pair_key, 1.0)
+    last_date = last_played_dict.get(pair_key)
+
+    if last_date:
+        days_inactive = effective_inactive_days(last_date, current_date)
+        su = grow_uncertainty_inactivity(
+            su, days_inactive, su_growth, su_min, su_max, max_inc_per_month
+        )
+    
+    su_dict[pair_key] = su
+    return synergy, su
+
+def update_synergy_state(synergy, su, error, Ks, Ks_beta, su_decay, su_min, su_max):
+    su_scaled = (su - su_min) / (su_max - su_min + 1e-12)
+    Ks_multi = 1 + Ks_beta * su_scaled
+    Ks_eff = Ks * Ks_multi
+
+    delta = Ks_eff * error
+    new_synergy = synergy + delta
+    new_su = max(su_min, su * su_decay)
+
+    return new_synergy, new_su
 
 
 def load_synergy(test_cursor, run_id):
     synergy_by_event = {}
+    synergy_uncertainty_by_event = {}
 
     test_cursor.execute("""
-        SELECT event, player1_id, player2_id, synergy
+        SELECT event, player1_id, player2_id, synergy, synergy_uncertainty
         FROM pair_synergy_current
         WHERE run_id = ?
     """, (run_id,))
 
-    for event, p1, p2, value in test_cursor:
+    for event, p1, p2, value, su_value in test_cursor:
         if event not in synergy_by_event:
             synergy_by_event[event] = {}
+            synergy_uncertainty_by_event[event] = {}
 
         key = f"{p1}+{p2}"
         synergy_by_event[event][key] = value
+        synergy_uncertainty_by_event[event][key] = su_value or 1.0
 
-    return synergy_by_event
+    return synergy_by_event, synergy_uncertainty_by_event
 
-def update_pair_synergy(test_cursor, run_id, event,
-                        player_ids, delta, synergy,
-                        current_date):
-
-    p1, p2 = sorted(player_ids)
-    key = f"{p1}+{p2}"
-
-    new_value = synergy.get(key, 0.0) + delta
-    synergy[key] = new_value
-
-    test_cursor.execute("""
-        INSERT INTO pair_synergy_current
-        (run_id, event, player1_id, player2_id,
-         synergy, last_updated)
-        VALUES (?, ?, ?, ?, ?, ?)
-        ON CONFLICT(run_id, event, player1_id, player2_id)
-        DO UPDATE SET
-            synergy=excluded.synergy,
-            last_updated=excluded.last_updated
-    """, (
-        run_id,
-        event,
-        p1,
-        p2,
-        new_value,
-        current_date.strftime("%Y-%m-%d")
-    ))
-
-def snapshot_synergy(test_cursor, run_id, synergy_by_event, snapshot_date):
+def snapshot_synergy(test_cursor, run_id, synergy_by_event, su_by_event, snapshot_date):
     for event, synergy_dict in synergy_by_event.items():
+        su_dict = su_by_event.get(event, {})
         for key, value in synergy_dict.items():
             p1, p2 = key.split("+")
+            su = su_dict.get(key, 1.0)
 
             test_cursor.execute("""
                 INSERT OR REPLACE INTO pair_synergy_history
                 (run_id, event, player1_id, player2_id,
-                 snapshot_date, synergy)
-                VALUES (?, ?, ?, ?, ?, ?)
+                 snapshot_date, synergy, synergy_uncertainty)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
             """, (
                 run_id,
                 event,
                 p1,
                 p2,
                 snapshot_date,
-                value
+                value,
+                su
             ))
 
 def snapshot_uncertainty(test_cursor, run_id, uncertainty_by_event, snapshot_date):
@@ -224,29 +204,48 @@ def upsert_final_uncertainty(test_cursor, run_id, uncertainty_by_event, last_pla
                     final_date = excluded.final_date
             """, (run_id, event, pid, u, final_date))
 
+def upsert_final_synergy(test_cursor, run_id, synergy_by_event, su_by_event, last_played_by_event):
+    for event, synergy_dict in synergy_by_event.items():
+        su_dict = su_by_event.get(event, {})
+        last_played_dict = last_played_by_event.get(event, {})
+        for key, synergy_val in synergy_dict.items():
+            p1, p2 = key.split("+")
+            su_val = su_dict.get(key, 1.0)
+            last_date_obj = last_played_dict.get(key)
+            last_date = last_date_obj.strftime("%Y-%m-%d") if last_date_obj else None
+
+            test_cursor.execute("""
+                INSERT INTO pair_synergy_current
+                (run_id, event, player1_id, player2_id, synergy, synergy_uncertainty, last_updated)
+                VALUES (?, ?, ?, ?, ?, ?, ?)
+                ON CONFLICT(run_id, event, player1_id, player2_id) DO UPDATE SET
+                    synergy=excluded.synergy,
+                    synergy_uncertainty=excluded.synergy_uncertainty,
+                    last_updated=excluded.last_updated
+            """, (run_id, event, p1, p2, synergy_val, su_val, last_date))
+
+
+
 def run_elo(
         core_conn,
         test_conn,
         split_date,
-        K=65,
-        base_rating=1000, 
-        D=400, 
-        Ks=23, 
-        decay_rate = 0.003, 
-        store_history = False, 
-        alpha = 0.15,                 # uncertainty affect on D
+        K=65, base_rating=1000,
+        D_map=None,
+        Ks=23,
+        store_history = False,
         uncertainty_decay = 0.95, 
         beta = 1.2,                   # uncertainty affect on K
         u_growth = 0.05, 
+        Ks_beta=0.8,
+        su_decay=0.98,
+        su_growth=0.04,
         event_filter = None, 
         run_id = "baseline", 
         u_min=0.05,
         u_max=1.0,
         u_max_inc_per_month=0.15,     # your current hard cap
-        cap_K_mult=3.0,               # cap how big K can get due to uncertainty
-        cap_D_mult=2.0,               # cap how big D can get due to uncertainty)
-        v_lambda=0.015,               #volatility scaling
-        v_gamma=3.0                   #volatility curvature
+        cap_K_mult=3.0               # cap how big K can get due to uncertainty
     ):              
     
     core_cursor = core_conn.cursor()
@@ -275,20 +274,14 @@ def run_elo(
         ORDER BY m.match_date ASC, m.match_id ASC;
     """, (event_filter, event_filter))
 
-    
-    D_by_event = {
-        "MS": 500,
-        "WS": 500,
-        "MD": 500,
-        "WD": 500,
-        "XD": 500
-    }
-
-    synergy_by_event = load_synergy(test_cursor, run_id)
+    if D_map is None:
+        D_map = {} # Default to an empty map
+    synergy_by_event, synergy_uncertainty_by_event = load_synergy(test_cursor, run_id)
     current_snapshot_date = None
     ratings_by_event = {}
     last_played_by_event = {}
     uncertainty_by_event = {}
+    synergy_last_played_by_event = {}
     peak_by_event = {}
     peak_date_by_event = {}
     match_count_by_event = {}
@@ -309,9 +302,15 @@ def run_elo(
         if event not in synergy_by_event:
             synergy_by_event[event] = {}
 
+        if event not in synergy_uncertainty_by_event:
+            synergy_uncertainty_by_event[event] = {}
+
         if event not in last_played_by_event:
             last_played_by_event[event] = {}
         
+        if event not in synergy_last_played_by_event:
+            synergy_last_played_by_event[event] = {}
+
         if event not in uncertainty_by_event:
             uncertainty_by_event[event] = {}
 
@@ -326,7 +325,9 @@ def run_elo(
 
         u_event = uncertainty_by_event[event]
         ratings = ratings_by_event[event]
-        synergy = synergy_by_event[event]    
+        synergy = synergy_by_event[event]
+        synergy_uncertainty = synergy_uncertainty_by_event[event]
+        synergy_last_played = synergy_last_played_by_event[event]
         last_played = last_played_by_event[event]
         peaks = peak_by_event[event]
         peak_dates = peak_date_by_event[event]
@@ -337,8 +338,8 @@ def run_elo(
         if store_history:
             if current_snapshot_date != date_str:
                 if current_snapshot_date is not None:
-                    snapshot_ratings(test_cursor, ratings_by_event, current_snapshot_date)
-                    snapshot_synergy(test_cursor, run_id, synergy_by_event, current_snapshot_date)
+                    snapshot_ratings(test_cursor, ratings_by_event, current_snapshot_date)                    
+                    snapshot_synergy(test_cursor, run_id, synergy_by_event, synergy_uncertainty_by_event, current_snapshot_date)
                     snapshot_uncertainty(test_cursor, run_id, uncertainty_by_event, current_snapshot_date)
 
                 current_snapshot_date = date_str
@@ -352,14 +353,14 @@ def run_elo(
 
         rating_teamA = []
         for pid in teamA_players:
-            rating, u = prepare_player_state( pid, ratings, last_played, u_event, current_date, base_rating, decay_rate, u_growth, u_min, u_max, u_max_inc_per_month)
+            rating, u = prepare_player_state( pid, ratings, last_played, u_event, current_date, base_rating, u_growth, u_min, u_max, u_max_inc_per_month)
 
             rating_teamA.append(rating)
             u_A += u
                                              
         rating_teamB = []
         for pid in teamB_players:
-            rating, u = prepare_player_state( pid, ratings, last_played, u_event, current_date, base_rating, decay_rate, u_growth, u_min, u_max, u_max_inc_per_month)
+            rating, u = prepare_player_state( pid, ratings, last_played, u_event, current_date, base_rating, u_growth, u_min, u_max, u_max_inc_per_month)
 
             rating_teamB.append(rating)
             u_B += u
@@ -371,8 +372,8 @@ def run_elo(
             pairA_key = "+".join(sorted(teamA_players))
             pairB_key = "+".join(sorted(teamB_players))
 
-            sa = synergy.get(pairA_key, 0.0)
-            sb = synergy.get(pairB_key, 0.0)
+            sa, sua = prepare_synergy_state(pairA_key, synergy, synergy_uncertainty, synergy_last_played, current_date, su_growth, u_min, u_max, u_max_inc_per_month)
+            sb, sub = prepare_synergy_state(pairB_key, synergy, synergy_uncertainty, synergy_last_played, current_date, su_growth, u_min, u_max, u_max_inc_per_month)
 
             ra = rating_a + sa
             rb = rating_b + sb
@@ -384,11 +385,8 @@ def run_elo(
         ub = u_B/len(teamB_players)
         mean_u = (ua + ub)/2
         u_scaled = (mean_u - u_min) / (u_max - u_min + 1e-12)
-        #d_base = D_by_event.get(event, D)
-        D_multi = 1 + alpha * u_scaled
-        D_multi = min(D_multi, cap_D_mult)
-        D_eff = D * D_multi
 
+        D_eff = D_map.get(event, 400) # Use per-event D, fallback to 400
         p = 1 / (1 + 10 ** ((rb - ra) / D_eff))
         p = max(1e-12, min(1 - 1e-12, p))
 
@@ -427,8 +425,7 @@ def run_elo(
             if pid not in peaks or ratings[pid] > peaks[pid]:
                 peaks[pid] = ratings[pid]
                 peak_dates[pid] = date_str
-            u_old = u_event.get(pid,1.0)
-            u_old = add_volatility_to_uncertainty(u_old, win, p, v_lambda, v_gamma, u_max)
+            u_old = u_event.get(pid, 1.0)
             u_event[pid] = update_uncertainty_after_match(
                 u_old,
                 uncertainty_decay,
@@ -444,8 +441,7 @@ def run_elo(
             if pid not in peaks or ratings[pid] > peaks[pid]:
                 peaks[pid] = ratings[pid]
                 peak_dates[pid] = date_str
-            u_old = u_event.get(pid,1.0)
-            u_old = add_volatility_to_uncertainty(u_old, win, p, v_lambda, v_gamma, u_max)
+            u_old = u_event.get(pid, 1.0)
             u_event[pid] = update_uncertainty_after_match(
                 u_old,
                 uncertainty_decay,
@@ -454,16 +450,22 @@ def run_elo(
             )
 
         if len(teamA_players) == 2:
-            update_pair_synergy(test_cursor, run_id, event, teamA_players, Ks * (win - p), synergy, current_date)
+            new_sa, new_sua = update_synergy_state(sa, sua, win - p, Ks, Ks_beta, su_decay, u_min, u_max)
+            synergy[pairA_key] = new_sa
+            synergy_uncertainty[pairA_key] = new_sua
+            synergy_last_played[pairA_key] = current_date
         
         if len(teamB_players) == 2:
-            update_pair_synergy(test_cursor, run_id, event, teamB_players, - Ks * (win - p), synergy, current_date)
+            new_sb, new_sub = update_synergy_state(sb, sub, -(win - p), Ks, Ks_beta, su_decay, u_min, u_max)
+            synergy[pairB_key] = new_sb
+            synergy_uncertainty[pairB_key] = new_sub
+            synergy_last_played[pairB_key] = current_date
 
         
 
     if current_snapshot_date is not None:
         snapshot_ratings(test_cursor, ratings_by_event, current_snapshot_date)
-        snapshot_synergy(test_cursor, run_id, synergy_by_event, current_snapshot_date)
+        snapshot_synergy(test_cursor, run_id, synergy_by_event, synergy_uncertainty_by_event, current_snapshot_date)
         snapshot_uncertainty(test_cursor, run_id, uncertainty_by_event, current_snapshot_date)
     upsert_final_player_ratings(
         test_cursor,
@@ -475,11 +477,7 @@ def run_elo(
         match_count_by_event,
     )
     upsert_final_uncertainty(test_cursor, run_id, uncertainty_by_event, last_played_by_event)
+    upsert_final_synergy(test_cursor, run_id, synergy_by_event, synergy_uncertainty_by_event, synergy_last_played_by_event)
     test_conn.commit()
 
     
-
-
-
-
-
