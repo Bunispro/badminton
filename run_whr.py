@@ -178,7 +178,7 @@ def main():
     """
     # --- Configuration ---
     CORE_DB_PATH = "bwf_data_2008-now__v1.sqlite"
-    TEST_DB_PATH = "testing_bwf.sqlite"
+    TEST_DB_PATH = "elo_ratings.sqlite"
     RUN_ID_PREFIX = f"whr_{datetime.now().strftime('%Y%m%d%H%M')}"
     
     # This is the main hyperparameter for WHR, controlling skill drift over time.

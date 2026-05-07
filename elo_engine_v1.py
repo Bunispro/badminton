@@ -8,13 +8,16 @@ COVID_END = datetime(2021, 6, 1)
 
 
 def snapshot_ratings(test_cursor, ratings_by_event, date):
+    history_data = []
     for event, ratings in ratings_by_event.items():
         for pid, rating in ratings.items():
-            test_cursor.execute("""
-                INSERT OR REPLACE INTO rating_history
-                (player_id, event, rating_date, rating)
-                VALUES (?, ?, ?, ?)
-            """, (pid, event, date, rating))
+            history_data.append((pid, event, date, rating))
+    if history_data:
+        test_cursor.executemany("""
+            INSERT OR REPLACE INTO rating_history
+            (player_id, event, rating_date, rating)
+            VALUES (?, ?, ?, ?)
+        """, history_data)
 def effective_inactive_days(last_date, current_date):
     total_days = (current_date - last_date).days
 
@@ -123,18 +126,14 @@ def load_synergy(test_cursor, run_id):
     return synergy_by_event, synergy_uncertainty_by_event
 
 def snapshot_synergy(test_cursor, run_id, synergy_by_event, su_by_event, snapshot_date):
+    synergy_history_data = []
     for event, synergy_dict in synergy_by_event.items():
         su_dict = su_by_event.get(event, {})
         for key, value in synergy_dict.items():
             p1, p2 = key.split("+")
             su = su_dict.get(key, 1.0)
 
-            test_cursor.execute("""
-                INSERT OR REPLACE INTO pair_synergy_history
-                (run_id, event, player1_id, player2_id,
-                 snapshot_date, synergy, synergy_uncertainty)
-                VALUES (?, ?, ?, ?, ?, ?, ?)
-            """, (
+            synergy_history_data.append((
                 run_id,
                 event,
                 p1,
@@ -143,15 +142,25 @@ def snapshot_synergy(test_cursor, run_id, synergy_by_event, su_by_event, snapsho
                 value,
                 su
             ))
+    if synergy_history_data:
+        test_cursor.executemany("""
+            INSERT OR REPLACE INTO pair_synergy_history
+            (run_id, event, player1_id, player2_id,
+             snapshot_date, synergy, synergy_uncertainty)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
+        """, synergy_history_data)
 
 def snapshot_uncertainty(test_cursor, run_id, uncertainty_by_event, snapshot_date):
+    uncertainty_history_data = []
     for event, u_dict in uncertainty_by_event.items():
         for pid, u in u_dict.items():
-            test_cursor.execute("""
-                INSERT OR REPLACE INTO uncertainty_history
-                (run_id, event, player_id, snapshot_date, uncertainty)
-                VALUES (?, ?, ?, ?, ?)
-            """, (run_id, event, pid, snapshot_date, u))
+            uncertainty_history_data.append((run_id, event, pid, snapshot_date, u))
+    if uncertainty_history_data:
+        test_cursor.executemany("""
+            INSERT OR REPLACE INTO uncertainty_history
+            (run_id, event, player_id, snapshot_date, uncertainty)
+            VALUES (?, ?, ?, ?, ?)
+        """, uncertainty_history_data)
 
 def upsert_final_player_ratings(test_cursor, run_id, ratings_by_event, peak_by_event, peak_date_by_event, last_played_by_event, match_count_by_event):
     for event, ratings in ratings_by_event.items():

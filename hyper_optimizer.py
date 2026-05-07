@@ -6,24 +6,24 @@ import os
 
 # --- 1. Define the Search Space for Hyperparameters ---
 # For each parameter, define a range (for floats) or a list of values (for discrete choices).
+# We are now only searching over D_base and split_date.
 SEARCH_SPACE = {
-    "K": [50, 60, 65, 70, 80],
-    "Ks": [15, 20, 25, 30],
-    "beta": (1.0, 1.5),
-    "uncertainty_decay": (0.92, 0.98),
-    "u_growth": (0.03, 0.07),
-    "Ks_beta": (0.5, 1.2),
-    "su_decay": (0.95, 0.99),
-    "su_growth": (0.02, 0.06),
-    "cap_K_mult": [2.0, 2.5, 3.0, 3.5],
+    "D_base": (300, 600), # Expanded search range for D
+    "split_date": ["2016-01-01", "2017-01-01", "2018-01-01", "2019-01-01", "2020-01-01"], # Expanded search range for split_date
 }
 
 # --- 2. Define Fixed Parameters ---
+# Using the best parameters from your previous run, with sensible defaults for others.
 FIXED_CONFIG = {
-    "split_date": "2018-01-01",
-    "D_map": {
-        "MS": 450, "WS": 400, "MD": 420, "WD": 380, "XD": 410
-    }
+    "K": 80,
+    "Ks": 25, # Midpoint of previous search
+    "beta": 1.33818,
+    "uncertainty_decay": 0.95, # Midpoint of previous search
+    "u_growth": 0.0300221,
+    "Ks_beta": 0.85, # Midpoint of previous search
+    "su_decay": 0.97, # Midpoint of previous search
+    "su_growth": 0.04, # Midpoint of previous search
+    "cap_K_mult": 3.0,
 }
 
 # --- 3. Define Optimization Settings ---
@@ -47,6 +47,17 @@ def sample_parameters():
         elif isinstance(value, tuple):
             config[key] = random.uniform(value[0], value[1])
     
+    # Dynamically create D_map based on the sampled D_base
+    if "D_base" in config:
+        d_base = config["D_base"]
+        config["D_map"] = {
+            "MS": d_base * 1.05, # Example multipliers, you can refine these
+            "WS": d_base * 1.0,
+            "MD": d_base * 1.0,
+            "WD": d_base * 0.95,
+            "XD": d_base * 1.0
+        }
+
     config.update(FIXED_CONFIG)
     return config
 
@@ -66,27 +77,41 @@ def main():
             else:
                 print(f"  {key:<20}: {val}")
 
-        temp_config_path = "temp_elo_config.json"
+        temp_config_path = f"temp_elo_config_{i}.json" # Use unique temp file for each trial
         with open(temp_config_path, 'w') as f:
             json.dump(config, f)
 
+        captured_run_id = None
         try:
             print("\n--- Running Elo Engine ---")
-            run_command([sys.executable, "Run_elo_from_config.py", temp_config_path])
+            # Capture stdout to extract the run_id
+            elo_output = subprocess.run([sys.executable, "Run_elo_from_config.py", temp_config_path], capture_output=True, text=True, encoding='utf-8', check=True)
+            print(elo_output.stdout, end='') # Print the captured output
+            
+            for line in elo_output.stdout.splitlines():
+                if line.startswith("RUN_ID_FOR_ANALYSIS:"):
+                    captured_run_id = line.split(":", 1)[1].strip()
+                    break
+            
+            if not captured_run_id:
+                raise ValueError("Could not capture run_id from Elo engine output.")
 
             print("\n--- Running Analysis ---")
-            run_command([sys.executable, "run_analysis.py"])
+            run_command([sys.executable, "run_analysis.py", captured_run_id])
 
         except subprocess.CalledProcessError as e:
             print(f"\n[!] ERROR during trial {i + 1}. Skipping to next trial.")
             print(f"  Command '{' '.join(e.cmd)}' failed with exit code {e.returncode}.")
             continue
+        except ValueError as e:
+            print(f"\n[!] ERROR during trial {i + 1}: {e}. Skipping to next trial.")
+            continue
         
         print(f"\n[✓] Trial {i + 1} completed successfully.")
+        os.remove(temp_config_path) # Clean up the temp file after successful trial
 
-    os.remove(temp_config_path) # Clean up the temp file
     print(f"\n{'='*60}\n--- Optimization Finished ---")
-    print("Query the 'run_metadata' table in 'testing_bwf.sqlite' to see results.")
+    print("Query the 'run_metadata' table in 'elo_ratings.sqlite' to see results.")
     print("Example query: SELECT run_id, log_loss, K, beta, cap_K_mult FROM run_metadata ORDER BY log_loss ASC LIMIT 10;")
 
 if __name__ == "__main__":

@@ -3,8 +3,8 @@ from tabulate import tabulate  # pip install tabulate (optional but nice)
 
 # --- CHOOSE YOUR DATABASE ---
 # Use 'bwf_data_2008-now__v1.sqlite' to query raw match and tournament data.
-# Use 'testing_bwf.sqlite' to query Elo ratings, predictions, and run results.
-DB_PATH = "testing_bwf.sqlite"
+# Use 'elo_ratings.sqlite' to query Elo ratings, predictions, and run results.
+DB_PATH = "elo_ratings.sqlite"
 
 conn = sqlite3.connect(DB_PATH)
 conn.row_factory = sqlite3.Row  # so columns have names
@@ -18,30 +18,73 @@ def q(sql):
     print(tabulate([tuple(r) for r in rows], headers=rows[0].keys()))
 
 
-# ==============================================================================
-# EXAMPLES FOR 'testing_bwf.sqlite' (Elo Ratings & Results)
-# ==============================================================================
+# q("""
+#     SELECT
+#         match_id,
+#         event,
+#         predicted_prob,
+#         actual,
+#         pre_rating_p1,
+#         pre_rating_p2
+#     FROM prediction_log
+#     WHERE run_id = (SELECT run_id FROM run_metadata ORDER BY created_at DESC LIMIT 1)
+#     ORDER BY match_id ASC
+#     LIMIT 10;
+# """)
 
 
-# --- Get Top 20 MS Players from the latest run ---
-# This is great for seeing the final rankings.
-# You can change 'MS' to 'WS', 'MD', 'WD', or 'XD'.
-q("""
-    SELECT
-        p.name_display,
-        r.final_rating,
-        u.final_uncertainty,
-        r.match_count,
-        r.peak_rating,
-        r.final_rating_date
-    FROM final_player_ratings r
-    JOIN final_player_uncertainty u ON r.run_id = u.run_id AND r.event = u.event AND r.player_id = u.player_id
-    JOIN 'bwf_data_2008-now__v1.sqlite'.players p ON r.player_id = p.player_id
-    WHERE r.run_id = (SELECT run_id FROM run_metadata ORDER BY created_at DESC LIMIT 1)
-      AND r.event = 'MS'
-    ORDER BY r.final_rating DESC
-    LIMIT 20;
-""")
+# q("""
+#     ATTACH DATABASE 'bwf_data_2008-now__v1.sqlite' AS core;
+
+#     SELECT
+#         p.name_display,
+#         r.final_rating,
+#         u.final_uncertainty,
+#         r.match_count,
+#         r.peak_rating,
+#         r.final_rating_date
+#     FROM final_player_ratings r
+#     JOIN final_player_uncertainty u ON r.run_id = u.run_id AND r.event = u.event AND r.player_id = u.player_id
+#     JOIN core.players p ON r.player_id = p.player_id
+#     WHERE r.run_id = (SELECT run_id FROM run_metadata ORDER BY created_at DESC LIMIT 1)
+#       AND r.event = 'MS' -- Change event as needed (WS, MD, WD, XD)
+#     ORDER BY r.final_rating DESC
+#     LIMIT 20;
+# """)
+
+# q("""
+#     ATTACH DATABASE 'bwf_data_2008-now__v1.sqlite' AS core;
+
+#     SELECT
+#         p.name_display,
+#         h.rating_date,
+#         h.rating
+#     FROM rating_history h
+#     JOIN core.players p ON h.player_id = p.player_id
+#     WHERE h.run_id = (SELECT run_id FROM run_metadata ORDER BY created_at DESC LIMIT 1)
+#       AND h.event = 'MS'
+#       AND p.name_display LIKE '%AXELSEN%' -- Look for a specific player
+#     ORDER BY h.rating_date DESC
+#     LIMIT 10;
+# """)
+
+# q("""
+#     ATTACH DATABASE 'bwf_data_2008-now__v1.sqlite' AS core;
+
+#     SELECT
+#         p1.name_display || ' + ' || p2.name_display AS pair_name,
+#         psc.synergy,
+#         psc.synergy_uncertainty,
+#         psc.last_updated
+#     FROM pair_synergy_current psc
+#     JOIN core.players p1 ON psc.player1_id = p1.player_id
+#     JOIN core.players p2 ON psc.player2_id = p2.player_id
+#     WHERE psc.run_id = (SELECT run_id FROM run_metadata ORDER BY created_at DESC LIMIT 1)
+#       AND psc.event = 'MD' -- Or WD, XD
+#     ORDER BY psc.synergy DESC
+#     LIMIT 10;
+# """)
+
 
 # --- Compare the performance of all your model runs ---
 # This helps you find which parameters (K, beta, etc.) worked best.
@@ -52,12 +95,24 @@ q("""
 #         K,
 #         beta,
 #         cap_K_mult,
+#         u_growth,
 #         log_loss,
 #         brier,
 #         ece,
 #         accuracy,
+#         empirical_entropy_log_loss,
+#         favorite_gap,
+#         mean_prediction,
+#         empirical_rate,
+#         prediction_bias,
+#         mean_uncertainty,
+#         median_uncertainty,
+#         std_uncertainty,
+#         pct_u_max,
+#         pct_u_min,
 #         n_matches
 #     FROM run_metadata
+#     WHERE log_loss IS NOT NULL
 #     ORDER BY log_loss ASC;
 # """)
 
@@ -74,6 +129,29 @@ q("""
 #     ORDER BY rating_date ASC;
 # """)
 
+# --- Get Best Run_ID for Each Event ---
+# This query identifies the run_id that achieved the lowest log_loss
+# for each individual event (MS, WS, MD, WD, XD).
+q("""
+    SELECT
+        event,
+        run_id,
+        log_loss,
+        brier,
+        ece,
+        n_matches
+    FROM run_event_metrics
+    WHERE (event, log_loss) IN (
+        SELECT
+            event,
+            MIN(log_loss)
+        FROM run_event_metrics
+        WHERE log_loss IS NOT NULL
+        GROUP BY event
+    )
+    ORDER BY event;
+""")
+
 
 # ==============================================================================
 # EXAMPLES FOR 'bwf_data_2008-now__v1.sqlite' (Raw Match Data)
@@ -83,28 +161,6 @@ q("""
 # q("""
 #     SELECT * FROM players WHERE name_display LIKE '%Ginting%';
 # """)
-
-# --- Check the ingestion report for a specific tournament ---
-# This helps you see if there were any issues when you imported the data.
-# NOTE: To run this query, set DB_PATH to "bwf_data_2008-now__v1.sqlite"
-# q("""
-#     SELECT
-#         r.*
-#     FROM ingestion_report r
-#     JOIN matches m ON r.match_id = m.match_id
-#     WHERE m.tournament_id = '4709' -- PERODUA Malaysia Masters 2023
-#       AND (r.unresolved_players = 1 OR r.invalid_scores = 1 OR r.winner_mismatch = 1);
-# """)
-
-# --- Count how many valid matches were ingested per year ---
-# q("""
-#     SELECT strftime('%Y', match_date) as year, COUNT(*) as num_matches
-#     FROM matches
-#     WHERE is_valid_for_rating = 1
-#     GROUP BY year
-#     ORDER BY year ASC;
-# """)
-
 
 # ==============================================================================
 # EXAMPLES FOR CHECKING INGESTION HEALTH (in 'bwf_data_2008-now__v1.sqlite')
@@ -116,33 +172,11 @@ q("""
 # q("""
 #     SELECT
 #         SUM(unresolved_players) as unresolved_player_errors,
+#        SUM(has_player_conflict) as player_id_conflict_errors,
 #         SUM(invalid_scores) as invalid_score_errors,
 #         SUM(winner_mismatch) as winner_mismatch_errors,
 #         SUM(invalid_participants) as invalid_participant_errors,
 #         SUM(retired_or_walkover) as retired_or_walkovers,
 #         COUNT(*) as total_matches_logged
 #     FROM ingestion_report;
-# """)
-
-# --- Find all matches with any critical error, most recent first ---
-# This helps you find specific matches to investigate.
-# q("""
-#     SELECT
-#         r.match_id,
-#         m.tournament_id,
-#         t.name as tournament_name,
-#         m.match_date,
-#         r.unresolved_players,
-#         r.invalid_scores,
-#         r.winner_mismatch,
-#         r.invalid_participants
-#     FROM ingestion_report r
-#     JOIN matches m ON r.match_id = m.match_id
-#     JOIN tournaments t ON m.tournament_id = t.tournament_id
-#     WHERE r.unresolved_players = 1
-#        OR r.invalid_scores = 1
-#        OR r.winner_mismatch = 1
-#        OR r.invalid_participants = 1
-#     ORDER BY m.match_date DESC
-#     LIMIT 50;
 # """)

@@ -1,7 +1,7 @@
 import sqlite3
 
 db_path = "bwf_data_2008-now.sqlite"
-testing_db_path = "testing_bwf.sqlite"
+testing_db_path = "elo_ratings.sqlite"
 
 
 def init_db(DB_PATH):
@@ -132,6 +132,7 @@ def init_db(DB_PATH):
             invalid_scores BOOLEAN,
             date_fallback BOOLEAN,
             winner_mismatch BOOLEAN,
+            has_player_conflict BOOLEAN, -- New column to distinguish from unresolved_players
             retired_or_walkover BOOLEAN,
             invalid_participants BOOLEAN,
             is_team_match BOOLEAN,
@@ -155,7 +156,6 @@ def init_db(DB_PATH):
         CREATE TABLE IF NOT EXISTS unresolved_players_log (
             tournament_id TEXT,
             match_id TEXT,
-            player_name TEXT,
             normalized_name TEXT,
             timestamp TEXT
         );

@@ -4,7 +4,7 @@ from datetime import datetime
 import sys
 
 from elo_engine_v1 import run_elo
-from db_v2 import init_rating_table
+from db_ratings import init_rating_table
 
 def run_from_config(config_path):
     # --- 1. Load config from file ---
@@ -13,11 +13,18 @@ def run_from_config(config_path):
 
     # --- 2. Define Database Paths ---
     CORE_DB_PATH = "bwf_data_2008-now__v1.sqlite"
-    TEST_DB_PATH = "testing_bwf.sqlite"
+    TEST_DB_PATH = "elo_ratings.sqlite"
 
     # --- 3. Create a unique ID for this run ---
     # Create a more descriptive run_id for hyperparameter tuning
-    run_id_parts = [f"K={config['K']:.0f}", f"b={config['beta']:.2f}", f"cap={config['cap_K_mult']:.1f}", f"ug={config['u_growth']:.3f}"]
+    run_id_parts = [
+        f"K={config['K']:.0f}",
+        f"b={config['beta']:.2f}",
+        f"cap={config['cap_K_mult']:.1f}",
+        f"ug={config['u_growth']:.3f}",
+        f"D={config.get('D_base', 400):.0f}", # Add D_base to run_id
+        f"sdate={config['split_date'][:4]}" # Add split_date year to run_id
+    ]
     run_id = f"h_opt__{'_'.join(run_id_parts)}__{datetime.now().strftime('%Y%m%d%H%M%S')}"
     print(f"Starting Elo run with ID: {run_id}")
 
@@ -47,6 +54,7 @@ def run_from_config(config_path):
     try:
         run_elo(core_conn=core_conn, test_conn=test_conn, run_id=run_id, **config)
         print("\nElo run completed successfully!")
+        print(f"RUN_ID_FOR_ANALYSIS:{run_id}") # Print run_id in a parsable format
     except Exception as e:
         print(f"\n--- ELO RUN FAILED ---")
         print(f"Error: {e}")

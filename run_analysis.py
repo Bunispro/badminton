@@ -2,8 +2,9 @@ import sqlite3
 import numpy as np
 import json
 import sys
+from db_ratings import init_rating_table # Import init_rating_table
 
-TEST_DB_PATH = "testing_bwf.sqlite"
+TEST_DB_PATH = "elo_ratings.sqlite"
 
 def calculate_metrics(predictions, actuals):
     """Calculates log_loss, brier score, and ECE."""
@@ -37,16 +38,46 @@ def calculate_metrics(predictions, actuals):
 
     return log_loss, brier, ece, accuracy
 
+def add_missing_columns(cursor):
+    """
+    Adds new columns to the run_metadata table if they don't exist.
+    This is a simple migration to handle schema updates.
+    """
+    columns_to_add = [
+        ("empirical_entropy_log_loss", "REAL"),
+        ("favorite_gap", "REAL"),
+        ("mean_prediction", "REAL"),
+        ("empirical_rate", "REAL"),
+        ("prediction_bias", "REAL"),
+        ("mean_uncertainty", "REAL"),
+        ("median_uncertainty", "REAL"),
+        ("std_uncertainty", "REAL"),
+        ("pct_u_max", "REAL"),
+        ("pct_u_min", "REAL"),
+    ]
+    
+    cursor.execute("PRAGMA table_info(run_metadata)")
+    existing_columns = {row[1] for row in cursor.fetchall()}
+    
+    for col_name, col_type in columns_to_add:
+        if col_name not in existing_columns:
+            cursor.execute(f"ALTER TABLE run_metadata ADD COLUMN {col_name} {col_type}")
+            print(f"Added missing column '{col_name}' to 'run_metadata' table.")
+
 def analyze_run(run_id):
     """Analyzes a specific run_id and updates the metadata tables."""
     conn = sqlite3.connect(TEST_DB_PATH)
     cursor = conn.cursor()
 
+    # Ensure tables exist before querying
+    init_rating_table(conn)
+    add_missing_columns(cursor) # Add this call to handle schema updates
+
     print(f"Analyzing run: {run_id}")
 
     # Fetch all predictions for the run
     cursor.execute("""
-        SELECT event, predicted_prob, actual
+        SELECT event, predicted_prob, actual, uncertainty_mean
         FROM prediction_log
         WHERE run_id = ?
     """, (run_id,))
@@ -60,18 +91,21 @@ def analyze_run(run_id):
     data_by_event = {}
     all_preds = []
     all_actuals = []
+    all_uncertainties = []
 
-    for event, pred, actual in rows:
+    for event, pred, actual, uncertainty_mean in rows:
         if event not in data_by_event:
             data_by_event[event] = {'preds': [], 'actuals': []}
         data_by_event[event]['preds'].append(pred)
         data_by_event[event]['actuals'].append(actual)
         all_preds.append(pred)
         all_actuals.append(actual)
+        all_uncertainties.append(uncertainty_mean)
 
     # --- Analyze Overall Performance ---
     all_preds = np.array(all_preds)
     all_actuals = np.array(all_actuals)
+    all_uncertainties = np.array(all_uncertainties)
     
     overall_log_loss, overall_brier, overall_ece, overall_accuracy = calculate_metrics(all_preds, all_actuals)
     
@@ -80,14 +114,58 @@ def analyze_run(run_id):
     print(f"  Brier Score: {overall_brier:.4f}")
     print(f"  ECE: {overall_ece:.4f}")
     print(f"  Accuracy: {overall_accuracy:.4f}")
+
+    # Calculate additional metrics
+    mean_prediction = np.mean(all_preds)
+    empirical_rate = np.mean(all_actuals)
+    prediction_bias = mean_prediction - empirical_rate
+
+    # Empirical Entropy Log Loss (baseline for a model predicting the overall win rate)
+    # If empirical_rate is 0 or 1, log(0) is undefined, so handle edge cases
+    if empirical_rate > 0 and empirical_rate < 1:
+        empirical_entropy_log_loss = - (empirical_rate * np.log(empirical_rate) + \
+                                        (1 - empirical_rate) * np.log(1 - empirical_rate))
+    else:
+        empirical_entropy_log_loss = 0.0 # Perfect prediction if all outcomes are the same
+
+    # Favorite Gap (Win rate of the predicted favorite)
+    favorite_wins = np.sum((all_preds > 0.5) & (all_actuals == 1))
+    total_favorites = np.sum(all_preds > 0.5)
+    favorite_gap = (favorite_wins / total_favorites) if total_favorites > 0 else 0.0
+
+    # Uncertainty metrics
+    mean_uncertainty = np.mean(all_uncertainties)
+    median_uncertainty = np.median(all_uncertainties)
+    std_uncertainty = np.std(all_uncertainties)
+    pct_u_max = np.sum(all_uncertainties >= 0.9) / len(all_uncertainties) # % of matches with high uncertainty
+    pct_u_min = np.sum(all_uncertainties <= 0.1) / len(all_uncertainties) # % of matches with low uncertainty
+
+    print(f"  Mean Prediction: {mean_prediction:.4f}")
+    print(f"  Empirical Win Rate: {empirical_rate:.4f}")
+    print(f"  Prediction Bias: {prediction_bias:.4f}")
+    print(f"  Empirical Entropy Log Loss: {empirical_entropy_log_loss:.4f}")
+    print(f"  Favorite Win Rate (Favorite Gap): {favorite_gap:.4f}")
+    print(f"  Mean Uncertainty: {mean_uncertainty:.4f}")
+    print(f"  Median Uncertainty: {median_uncertainty:.4f}")
+    print(f"  Std Uncertainty: {std_uncertainty:.4f}")
+    print(f"  % U >= 0.9: {pct_u_max:.4f}")
+    print(f"  % U <= 0.1: {pct_u_min:.4f}")
     print(f"  Total Matches: {len(all_preds)}")
 
     # Update the main metadata table
     cursor.execute("""
-        UPDATE run_metadata
-        SET log_loss = ?, brier = ?, ece = ?, accuracy = ?, n_matches = ?
+        UPDATE run_metadata SET
+            log_loss = ?, brier = ?, ece = ?, accuracy = ?, n_matches = ?,
+            mean_prediction = ?, empirical_rate = ?, prediction_bias = ?,
+            empirical_entropy_log_loss = ?, favorite_gap = ?,
+            mean_uncertainty = ?, median_uncertainty = ?, std_uncertainty = ?,
+            pct_u_max = ?, pct_u_min = ?
         WHERE run_id = ?
-    """, (overall_log_loss, overall_brier, overall_ece, overall_accuracy, len(all_preds), run_id))
+    """, (overall_log_loss, overall_brier, overall_ece, overall_accuracy, len(all_preds),
+          mean_prediction, empirical_rate, prediction_bias,
+          empirical_entropy_log_loss, favorite_gap,
+          mean_uncertainty, median_uncertainty, std_uncertainty,
+          pct_u_max, pct_u_min, run_id))
 
     # --- Analyze Per-Event Performance ---
     print("\n--- Per-Event Metrics ---")
@@ -110,7 +188,7 @@ def analyze_run(run_id):
                 ece = excluded.ece,
                 n_matches = excluded.n_matches
         """, (run_id, event, log_loss, brier, ece, len(preds)))
-
+    
     conn.commit()
     conn.close()
     print("\nAnalysis complete and metrics saved to the database.")
@@ -136,4 +214,3 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"Error: Could not automatically find the last run. {e}")
             print("Usage: python run_analysis.py <run_id>")
-

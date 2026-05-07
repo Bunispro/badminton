@@ -143,6 +143,7 @@ def init_rating_table(conn):
             accuracy REAL,
             favorite_gap REAL,
             mean_prediction REAL,
+            empirical_entropy_log_loss REAL, -- New column for baseline log loss
             empirical_rate REAL,
             prediction_bias REAL,
             mean_uncertainty REAL,
@@ -151,7 +152,6 @@ def init_rating_table(conn):
             pct_u_max REAL,
             pct_u_min REAL,
             n_matches INTEGER,
-            notes TEXT,
             created_at TEXT
         );
     """)

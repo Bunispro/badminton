@@ -7,7 +7,7 @@ from db_ratings import init_rating_table
 
 # --- 1. Define Database Paths ---
 CORE_DB_PATH = "bwf_data_2008-now__v1.sqlite"
-TEST_DB_PATH = "testing_bwf.sqlite" # This will store ratings, predictions, etc.
+TEST_DB_PATH = "elo_ratings.sqlite" # This will store ratings, predictions, etc.
 
 # --- 2. Define Run Parameters ---
 # These are the "knobs" you can turn to tune the model
@@ -71,7 +71,7 @@ test_conn.commit()
 
 # --- 6. Execute the Elo engine ---
 try:
-    run_elo(core_conn=core_conn, test_conn=test_conn, run_id=run_id, **config)
+    run_elo(core_conn=core_conn, test_conn=test_conn, run_id=run_id, store_history=True, **config)
     print("\nElo run completed successfully!")
 
 except Exception as e:

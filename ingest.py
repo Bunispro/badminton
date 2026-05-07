@@ -18,6 +18,7 @@ def log_ingestion_report(
     reports_batch,
     match_id,
     unresolved_flag,
+    has_player_conflict, # New parameter
     invalid_scores,
     date_fallback,
     winner_mismatch,
@@ -28,6 +29,7 @@ def log_ingestion_report(
     report_tuple = (
         match_id,
         int(unresolved_flag),
+        int(has_player_conflict), # New value in tuple
         int(invalid_scores),
         int(date_fallback),
         int(winner_mismatch),
@@ -51,6 +53,30 @@ def load_player_id_mappings(cursor, mapping_file_path="player_id_map.json"):
     if not mappings:
         return
 
+    # First, ensure all canonical_ids exist in the players table
+    canonical_ids_to_ensure = list(set(id_map.values()))
+    
+    # Filter out canonical_ids that already exist in players
+    existing_players = set()
+    if canonical_ids_to_ensure:
+        placeholders = ','.join('?' for _ in canonical_ids_to_ensure)
+        cursor.execute(f"SELECT player_id FROM players WHERE player_id IN ({placeholders})", canonical_ids_to_ensure)
+        existing_players = {row[0] for row in cursor.fetchall()}
+
+    players_to_insert = []
+    for pid in canonical_ids_to_ensure:
+        if pid not in existing_players:
+            # Insert a placeholder player. Details will be filled in later by ensure_player
+            # if a match involving this player is processed.
+            players_to_insert.append((pid, None, None, None)) # name_display, name_normalized, country_code can be null initially
+
+    if players_to_insert:
+        cursor.executemany("""
+            INSERT OR IGNORE INTO players (player_id, name_display, name_normalized, country_code)
+            VALUES (?, ?, ?, ?)
+        """, players_to_insert)
+        print(f"Ensured {len(players_to_insert)} canonical players exist in 'players' table.")
+
     cursor.executemany("""
         INSERT INTO player_id_mapping (old_id, canonical_id)
         VALUES (?, ?)
@@ -59,8 +85,7 @@ def load_player_id_mappings(cursor, mapping_file_path="player_id_map.json"):
     """, mappings)
     print(f"Loaded/updated {len(mappings)} player ID mappings.")
 
-
-def ensure_player(cursor, player_json, tournament_id, current_match_id, id_conflicts, unresolved_log_batch):
+def ensure_player(cursor, player_json, tournament_id, current_match_id, id_conflicts, unresolved_log_batch) -> tuple[str | None, bool]:
     pid = player_json.get("id")
     name = player_json["nameDisplay"]
     norm = normalize_name(name)
@@ -68,6 +93,7 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id, id_confl
 
     if pid is not None:
         pid = str(pid)
+        is_conflict = False
 
         # Check if this ID has been mapped to a canonical one
         cursor.execute("SELECT canonical_id FROM player_id_mapping WHERE old_id = ?", (pid,))
@@ -86,6 +112,7 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id, id_confl
             rows = cursor.fetchall()
             if rows:
                 # Conflict detected!
+                is_conflict = True
                 other_pids = {row[0] for row in rows}
                 all_conflicting_ids = other_pids.union({pid})
                 id_conflicts[norm] = all_conflicting_ids
@@ -104,9 +131,9 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id, id_confl
             VALUES (?, ?)
         """, (pid, norm))
 
-        return pid
+        return pid, is_conflict
 
-    # Finals fallback
+    # 2. Fallback to searching the aliases table if no explicit name mapping exists
     cursor.execute("""
         SELECT player_id FROM player_aliases
         WHERE alias_normalized = ?
@@ -114,17 +141,17 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id, id_confl
     row = cursor.fetchone()
 
     if row:
-        return row[0]
+        return row[0], False
 
+    # 3. If still not found, log as unresolved so it can be mapped later
     unresolved_log_batch.append((
         tournament_id,
         current_match_id,
-        name,
         norm,
         datetime.now(timezone.utc).isoformat()
     ))
 
-    return None
+    return None, False
 
 def compute_score_winner(score_raw):
     team1_sets = 0
@@ -185,18 +212,30 @@ def normalize_name(name):
     return " ".join(sorted(words))
 
 
-VALID_EVENTS = {"MS","WS","MD","WD","XD"}
+# --- Event Classification Configuration ---
+VALID_EVENTS = {"MS", "WS", "MD", "WD", "XD"}
 
-# stuff you explicitly do NOT want
+# Patterns for blocking non-rating-eligible events
 BLOCK_PREFIXES = {
-    "bd","bs","gd","gs",   # junior boys/girls singles/doubles
-    "tpa","tpi","tapi","tapa",  # your "TP*" bucket
-    "bmst","d ", "s ",     # para/class divisions often start like these
+    "bd", "bs", "gd", "gs",  # junior boys/girls singles/doubles
+    "tpa", "tpi", "tapi", "tapa",  # team event buckets
+    "bmst", "d ", "s ",  # para/class divisions often start like these
 }
 BLOCK_REGEX = re.compile(
     r"\b(u\d{2}|u\d{1})\b|wh\s*\d|sh\s*\d|sl\s*\d|su\s*\d|ss\s*\d|exhibition|plate|para",
     re.IGNORECASE
 )
+
+# Ordered patterns for canonical event classification
+# Prioritize more specific (e.g., women's) over less specific (e.g., men's)
+# Use regex for more robust matching
+CANON_EVENT_PATTERNS = [
+    ("WS", [r"women's singles", r"womens singles", r"women singles", r"\bws\b"]),
+    ("WD", [r"women's doubles", r"womens doubles", r"women doubles", r"dobles femeninos", r"\bwd\b"]),
+    ("MS", [r"men's singles", r"mens singles", r"men singles", r"\bms\b"]),
+    ("MD", [r"men's doubles", r"mens doubles", r"men doubles", r"dobles masculinos", r"\bmd\b"]),
+    ("XD", [r"mixed doubles", r"dobles mixtos", r"\bxd\b", r"mxd\b"]),
+]
 
 def canon_event(raw: str | None) -> str | None:
     if not raw:
@@ -204,32 +243,26 @@ def canon_event(raw: str | None) -> str | None:
     s = raw.strip().lower()
     s = re.sub(r"\s+", " ", s)
 
-    # hard block common non-open categories
+    # 1. Hard block common non-open categories (highest priority)
     if any(s.startswith(p) for p in BLOCK_PREFIXES):
         return None
     if BLOCK_REGEX.search(s):
         return None
 
-    # exact canonical
+    # 2. Exact canonical matches (e.g., "ms", "ws")
     if s in {"ms","ws","md","wd","xd"}:
         return s.upper()
 
-    # starts with discipline token (safe-ish)
+    # 3. Matches starting with discipline token (e.g., "ms open", "wd qualifiers")
     m = re.match(r"^(ms|ws|md|wd|xd)\b", s)
     if m:
         return m.group(1).upper()
 
-    # english & spanish-ish labels (optional)
-    if "men's singles" in s or "mens singles" in s or "men singles" in s:
-        return "MS"
-    if "women's singles" in s or "womens singles" in s or "women singles" in s:
-        return "WS"
-    if "men's doubles" in s or "mens doubles" in s or "men doubles" in s or "dobles masculinos" in s:
-        return "MD"
-    if "women's doubles" in s or "womens doubles" in s or "women doubles" in s or "dobles femeninos" in s:
-        return "WD"
-    if "mixed doubles" in s or "dobles mixtos" in s or s == "mxd":
-        return "XD"
+    # 4. Keyword/Regex pattern matching (ordered by specificity/priority)
+    for canonical_code, patterns in CANON_EVENT_PATTERNS:
+        for pattern in patterns:
+            if re.search(pattern, s):
+                return canonical_code
 
     return None
 
@@ -401,7 +434,7 @@ def load_tournament_index(cursor, index_path):
     return numeric_to_code
 
 
-def ingest_folder(conn, folder_path):
+def ingest_folder(conn, folder_path, date_filter=None):
     cursor = conn.cursor()
     mapping_failures = {}
     id_conflicts = {}
@@ -416,11 +449,18 @@ def ingest_folder(conn, folder_path):
     )
 
     for root, dirs, files in os.walk(folder_path):
-        files = sorted(files)
+        if date_filter:
+            # In daily mode, only process the file for the specific date
+            target_file = f"{date_filter}.json"
+            if target_file in files:
+                files_to_process = [target_file]
+            else:
+                continue # Skip this directory if the daily file isn't here
+        else:
+            # In full mode, process all sorted json files
+            files_to_process = sorted([f for f in files if f.endswith(".json")])
 
-        for file in files:
-            if not file.endswith(".json"):
-                continue
+        for file in files_to_process:
 
             # --- BATCHING ---
             matches_batch = []
@@ -495,6 +535,7 @@ def ingest_folder(conn, folder_path):
                         tie_id,
                         unresolved_flag=False,
                         invalid_scores=False,
+                    has_player_conflict=False, # Default to False
                         date_fallback=False,
                         winner_mismatch=False,
                         retired_or_walkover=False,
@@ -518,6 +559,7 @@ def ingest_folder(conn, folder_path):
                     retired_or_walkover = score_status in ["Retired", "Walkover"]
                     unresolved_flag = False
                     invalid_participants = False
+                    player_conflict_flag = False # True if player ID conflict detected
                     winner_mismatch = False
 
                     # `.get(key, default)` does not apply when the JSON value is explicitly null.
@@ -574,6 +616,7 @@ def ingest_folder(conn, folder_path):
                             reports_batch,
                             match_id,
                             unresolved_flag,
+                            player_conflict_flag, # Pass new flag
                             invalid_scores,
                             date_fallback,
                             winner_mismatch,
@@ -587,22 +630,31 @@ def ingest_folder(conn, folder_path):
                     team2_ids = []
 
                     for p in m["team1"]["players"]:
-                        resolved_id = ensure_player(
+                        resolved_id, player_had_conflict = ensure_player(
                             cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch
                         )
+                        if player_had_conflict:
+                            player_conflict_flag = True # Set conflict flag, but not unresolved_flag
                         if resolved_id is None:
-                            unresolved_flag = True
+                            unresolved_flag = True # Only set unresolved_flag if ID is truly missing
                             continue
                         team1_ids.append(resolved_id)
 
                     for p in m["team2"]["players"]:
-                        resolved_id = ensure_player(
+                        resolved_id, player_had_conflict = ensure_player(
                             cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch
                         )
+                        if player_had_conflict:
+                            player_conflict_flag = True # Set conflict flag, but not unresolved_flag
                         if resolved_id is None:
-                            unresolved_flag = True
+                            unresolved_flag = True # Only set unresolved_flag if ID is truly missing
                             continue
                         team2_ids.append(resolved_id)
+
+                    # If any player in the match was truly unresolved, the match is invalid.
+                    # If there were only conflicts (player_conflict_flag=True but unresolved_flag=False),
+                    # the match can still be valid for rating if the conflict is resolved by mapping.
+                    # So, player_conflict_flag does NOT directly invalidate the match for rating.
 
                     # Deduplicate player IDs to prevent UNIQUE constraint errors from bad data.
                     team1_ids = list(dict.fromkeys(team1_ids))
@@ -618,7 +670,8 @@ def ingest_folder(conn, folder_path):
                         log_ingestion_report(
                             reports_batch,
                             match_id,
-                            True,
+                            unresolved_flag, # Use the actual unresolved_flag
+                            player_conflict_flag, # Pass new flag
                             invalid_scores,
                             date_fallback,
                             winner_mismatch,
@@ -666,7 +719,8 @@ def ingest_folder(conn, folder_path):
                     log_ingestion_report(
                         reports_batch,
                         match_id,
-                        unresolved_flag,
+                        unresolved_flag, # Use the actual unresolved_flag
+                        player_conflict_flag, # Pass new flag
                         invalid_scores,
                         date_fallback,
                         winner_mismatch,
@@ -705,17 +759,18 @@ def ingest_folder(conn, folder_path):
             if reports_batch:
                 cursor.executemany("""
                     INSERT INTO ingestion_report(
-                        match_id, unresolved_players, invalid_scores, date_fallback,
-                        winner_mismatch, retired_or_walkover, invalid_participants,
+                        match_id, unresolved_players, has_player_conflict,
+                        invalid_scores, date_fallback, winner_mismatch,
+                        retired_or_walkover, invalid_participants,
                         is_team_match, timestamp
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, reports_batch)
 
             if unresolved_log_batch:
                 cursor.executemany("""
                     INSERT INTO unresolved_players_log
-                    (tournament_id, match_id, player_name, normalized_name, timestamp)
-                    VALUES (?, ?, ?, ?, ?)
+                    (tournament_id, match_id, normalized_name, timestamp)
+                    VALUES (?, ?, ?, ?)
                 """, unresolved_log_batch)
 
             conn.commit()
