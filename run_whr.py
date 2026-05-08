@@ -4,12 +4,60 @@ from datetime import datetime, date, timedelta
 
 # We will use the 'whr' library. You'll need to install it:
 # pip install whr
-from whr import WholeHistoryRating
+import whr.whole_history_rating as whr
 
-# Import the new schema definition
-from db_whr import init_whr_tables
+def get_mov_multiplier(score_str, event_canon, mov_base_mult=0.90, mov_growth_rate=1.10):
+    if event_canon not in ['MS', 'MD', 'XD'] or mov_base_mult == 1.0:
+        return 1.0
+    if not score_str or '-' not in score_str or 'Retired' in score_str or 'Walkover' in score_str:
+        return 1.0
+    
+    sets = score_str.strip().split(' ')
+    p1_total = 0
+    p2_total = 0
+    for s in sets:
+        parts = s.split('-')
+        if len(parts) == 2:
+            try:
+                p1_total += int(parts[0])
+                p2_total += int(parts[1])
+            except ValueError:
+                pass
+                
+    if p1_total == 0 and p2_total == 0:
+        return 1.0
+        
+    point_gap = abs(p1_total - p2_total)
+    
+    if point_gap <= 5:
+        return mov_base_mult
+    else:
+        # Exponential curve starting from 6 point gap
+        return min(1.5, mov_base_mult * (mov_growth_rate ** (point_gap - 5)))
 
-def fetch_matches_for_whr(core_conn, event_filter):
+def init_whr_tables(conn):
+    cursor = conn.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS whr_rating_history (
+            run_id TEXT,
+            entity_id TEXT,
+            event TEXT,
+            rating_date TEXT,
+            rating REAL
+        )
+    """)
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS whr_run_metadata (
+            run_id TEXT PRIMARY KEY,
+            w2 REAL,
+            iterations INTEGER,
+            created_at TEXT
+        )
+    """)
+    cursor.execute("CREATE INDEX IF NOT EXISTS idx_whr_run_event ON whr_rating_history (run_id, event)")
+    conn.commit()
+
+def fetch_matches_for_whr(core_conn, event_filter, limit=None):
     """
     Fetches all valid matches from the database and formats them for the WHR library.
     WHR needs a list of games, where each game contains the winner's name,
@@ -31,15 +79,18 @@ def fetch_matches_for_whr(core_conn, event_filter):
             m.match_date,
             m.winner_side,
             GROUP_CONCAT(CASE WHEN mp.side = 1 THEN mp.player_id END) AS p1_ids,
-            GROUP_CONCAT(CASE WHEN mp.side = 2 THEN mp.player_id END) AS p2_ids
+            GROUP_CONCAT(CASE WHEN mp.side = 2 THEN mp.player_id END) AS p2_ids,
+            m.score
         FROM matches m
         JOIN match_participants mp ON mp.match_id = m.match_id
         WHERE m.event_canon = ? AND m.is_valid_for_rating = 1
-        GROUP BY m.match_id, m.match_date, m.winner_side
+        GROUP BY m.match_id, m.match_date, m.winner_side, m.score
         HAVING COUNT(CASE WHEN mp.side = 1 THEN 1 END) > 0
            AND COUNT(CASE WHEN mp.side = 2 THEN 1 END) > 0
-        ORDER BY m.match_date ASC;
+        ORDER BY m.match_date ASC
     """
+    if limit is not None:
+        query += f" LIMIT {limit}"
     cursor.execute(query, (event_filter,))
 
     games = []
@@ -47,41 +98,37 @@ def fetch_matches_for_whr(core_conn, event_filter):
 
     is_doubles = event_filter in ["MD", "WD", "XD"]
 
-    for date_str, winner_side, p1_ids_str, p2_ids_str in cursor:
+    for date_str, winner_side, p1_ids_str, p2_ids_str, score in cursor:
         # 3. Calculate day index
         current_date = date.fromisoformat(date_str)
         day_index = (current_date - start_date).days
 
         # 4. Create canonical keys for players/pairs
         if is_doubles:
-            # For doubles, sort player IDs to create a consistent pair key
-            p1_key = "+".join(sorted(p1_ids_str.split(',')))
-            p2_key = "+".join(sorted(p2_ids_str.split(',')))
+            # For doubles, split into lists of strings
+            p1_key = p1_ids_str.split(',')
+            p2_key = p2_ids_str.split(',')
+            for p in p1_key + p2_key:
+                all_entities.add(p)
         else:
-            # For singles, the key is just the player ID
+            # For singles, the key is just the player ID string
             p1_key = p1_ids_str
             p2_key = p2_ids_str
-        
-        # Add keys to our set of all entities
-        all_entities.add(p1_key)
-        all_entities.add(p2_key)
+            all_entities.add(p1_key)
+            all_entities.add(p2_key)
 
-        # 5. Determine winner and loser and format for WHR library
-        if winner_side == 1:
-            winner_key, loser_key = p1_key, p2_key
-        else:
-            winner_key, loser_key = p2_key, p1_key
-
-        games.append([winner_key, loser_key, day_index])
+        # 5. Format for WHR library
+        winner = 'A' if winner_side == 1 else 'B'
+        weight = get_mov_multiplier(score, event_filter)
+        games.append([p1_key, p2_key, winner, day_index, weight])
 
     print(f"Found {len(games)} games starting from {start_date.isoformat()}.")
     return games, all_entities, start_date
 
 
-def store_whr_results(test_conn, run_id, event, whr_system, start_date):
+def store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iterations):
     """
     Takes the converged ratings from the WHR system and saves them to the database.
-    WHR provides a rating for every player for every day of the entire history.
     """
     print("Storing WHR results in the database...")
     cursor = test_conn.cursor()
@@ -90,42 +137,33 @@ def store_whr_results(test_conn, run_id, event, whr_system, start_date):
     cursor.execute("DELETE FROM whr_rating_history WHERE run_id = ? AND event = ?", (run_id, event))
 
     history_data = []
-    num_days = whr_system.days[-1] # Get the last day index from the model
 
-    for day_index in range(num_days + 1):
-        current_date = start_date + timedelta(days=day_index)
-        rating_date_str = current_date.isoformat()
-        
-        # Get ratings for all players on this specific day
-        daily_ratings = whr_system.ratings_for_day(day_index)
-
-        for entity_id, (rating, uncertainty) in daily_ratings.items():
-            # Convert raw WHR rating (log-odds) to a more intuitive Elo-like scale.
-            elo_like_rating = rating * 400 / math.log(10) + 1500
-
+    for player_name in whr_system.players.keys():
+        ratings = whr_system.ratings_for_player(player_name)
+        for rating_info in ratings:
+            time_step = rating_info[0]
+            elo_rating = rating_info[1]
+            
+            current_date = start_date + timedelta(days=time_step)
+            rating_date_str = current_date.isoformat()
+            
             history_data.append((
                 run_id,
-                entity_id,
+                player_name,
                 event,
                 rating_date_str,
-                elo_like_rating
+                elo_rating
             ))
 
-        # Bulk insert periodically to be memory-efficient and fast
-        if len(history_data) >= 50000:
-            cursor.executemany("""
-                INSERT INTO whr_rating_history (run_id, entity_id, event, rating_date, rating)
-                VALUES (?, ?, ?, ?, ?)
-            """, history_data)
-            history_data = []
-            print(f"  ...inserted batch up to day {day_index}")
-
-    # Insert any remaining data
-    if history_data:
+    # Bulk insert periodically to be memory-efficient and fast
+    batch_size = 50000
+    for i in range(0, len(history_data), batch_size):
+        batch = history_data[i:i+batch_size]
         cursor.executemany("""
             INSERT INTO whr_rating_history (run_id, entity_id, event, rating_date, rating)
             VALUES (?, ?, ?, ?, ?)
-        """, history_data)
+        """, batch)
+        print(f"  ...inserted batch of {len(batch)} records")
 
     # Log the metadata for this run
     cursor.execute("""
@@ -134,13 +172,13 @@ def store_whr_results(test_conn, run_id, event, whr_system, start_date):
         ON CONFLICT(run_id) DO UPDATE SET
             w2=excluded.w2,
             iterations=excluded.iterations
-    """, (run_id, whr_system.w2, whr_system.iteration_count, datetime.now().isoformat()))
+    """, (run_id, w2, iterations, datetime.now().isoformat()))
 
     test_conn.commit()
-    print(f"Successfully stored {day_index + 1} days of rating history.")
+    print(f"Successfully stored rating history for event {event}.")
 
 
-def run_whr_for_event(core_conn, test_conn, run_id_prefix, w2, event):
+def run_whr_for_event(core_conn, test_conn, run_id_prefix, w2, event, limit=None):
     """
     Orchestrates the entire WHR process for a single event (e.g., 'MS').
     """
@@ -149,7 +187,7 @@ def run_whr_for_event(core_conn, test_conn, run_id_prefix, w2, event):
 
     # 1. Fetch and format data from the database
     # We expect this to return the games list, a way to map names back to IDs, and the first date.
-    games, all_entities, start_date = fetch_matches_for_whr(core_conn, event)
+    games, all_entities, start_date = fetch_matches_for_whr(core_conn, event, limit)
     if not games:
         print(f"No games found for event {event}. Skipping.")
         return
@@ -158,17 +196,17 @@ def run_whr_for_event(core_conn, test_conn, run_id_prefix, w2, event):
 
     # 2. Initialize and run the WHR model
     print(f"Initializing WHR model with w2 (skill drift) = {w2}...")
-    whr_system = WholeHistoryRating(w2=w2)
-    whr_system.create_games(games)
+    whr_system = whr.Base(config={'w2': w2})
+    for g in games:
+        whr_system.create_game(side_a=g[0], side_b=g[1], winner=g[2], time_step=g[3], handicap=0.0, weight=g[4])
 
     print("Running WHR iterations... (this may take a while)")
-    # The library handles the iterative solving of the sparse matrix.
-    # We just need to call the iterate method.
-    whr_system.iterate(50) # 50 iterations is a reasonable default
+    iterations = 50
+    whr_system.iterate(iterations)
     print("WHR calculation complete.")
 
     # 3. Store the results back into our ratings database
-    store_whr_results(test_conn, run_id, event, whr_system, start_date)
+    store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iterations)
     print(f"--- Finished WHR run for event: {event} ---")
 
 
@@ -182,7 +220,8 @@ def main():
     RUN_ID_PREFIX = f"whr_{datetime.now().strftime('%Y%m%d%H%M')}"
     
     # This is the main hyperparameter for WHR, controlling skill drift over time.
-    W2_PARAM = 0.05 
+    # Locked in after grid search (capped at 2.0 to avoid overfitting)
+    W2_PARAM = 2.0 
 
     # --- Database Connections ---
     core_conn = None

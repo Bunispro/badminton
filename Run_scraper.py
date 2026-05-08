@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from scraper import BwfScraper
 
-scraper = BwfScraper(r"C:\chrome-scrap", headless=False)
+scraper = BwfScraper(r"D:\chrome-scrap", headless=False)
 
 
 with open("index/all_tournaments_2008_2026.json", "r", encoding="utf-8") as f:

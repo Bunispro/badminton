@@ -6,28 +6,36 @@ import os
 
 # --- 1. Define the Search Space for Hyperparameters ---
 # For each parameter, define a range (for floats) or a list of values (for discrete choices).
-# We are now only searching over D_base and split_date.
 SEARCH_SPACE = {
-    "D_base": (300, 600), # Expanded search range for D
-    "split_date": ["2016-01-01", "2017-01-01", "2018-01-01", "2019-01-01", "2020-01-01"], # Expanded search range for split_date
+    # Core Elo params
+    "K": (60, 90),
+    "beta": (1.45, 1.65),
+    "u_growth": (0.04, 0.08),
+    "D_base": (350, 480),
+    "rating_decay_per_year": (0.01, 0.09),
+    "decay_grace_days": (110, 180),
+    "split_date": ["2018-01-01"], 
+    "cap_K_mult": (2.5, 4.0),
+    
+    # MoV params
+    "mov_base_mult": (0.70, 0.95),
+    "mov_growth_rate": (1.01, 1.15),
+    
+    # Synergy params
+    "Ks": (15, 40),
+    "Ks_beta": (0.5, 1.5),
+    "su_growth": (0.02, 0.08),
+    "su_decay": (0.92, 0.99),
 }
 
 # --- 2. Define Fixed Parameters ---
-# Using the best parameters from your previous run, with sensible defaults for others.
+# Some parameters are less sensitive or have been established in previous runs.
 FIXED_CONFIG = {
-    "K": 80,
-    "Ks": 25, # Midpoint of previous search
-    "beta": 1.33818,
-    "uncertainty_decay": 0.95, # Midpoint of previous search
-    "u_growth": 0.0300221,
-    "Ks_beta": 0.85, # Midpoint of previous search
-    "su_decay": 0.97, # Midpoint of previous search
-    "su_growth": 0.04, # Midpoint of previous search
-    "cap_K_mult": 3.0,
+    "uncertainty_decay": 0.95, # A stable value
 }
 
 # --- 3. Define Optimization Settings ---
-NUM_TRIALS = 50  # How many different combinations to test
+NUM_TRIALS = 150  # How many different combinations to test
 
 def run_command(command):
     """Runs a command and prints its output in real-time."""
@@ -77,38 +85,50 @@ def main():
             else:
                 print(f"  {key:<20}: {val}")
 
-        temp_config_path = f"temp_elo_config_{i}.json" # Use unique temp file for each trial
-        with open(temp_config_path, 'w') as f:
-            json.dump(config, f)
-
+        temp_config_path = f"temp_elo_config_{i}.json"
         captured_run_id = None
         try:
+            with open(temp_config_path, 'w') as f:
+                json.dump(config, f)
+
             print("\n--- Running Elo Engine ---")
             # Capture stdout to extract the run_id
-            elo_output = subprocess.run([sys.executable, "Run_elo_from_config.py", temp_config_path], capture_output=True, text=True, encoding='utf-8', check=True)
+            elo_output = subprocess.run([sys.executable, "Run_elo_mov_config.py", temp_config_path], capture_output=True, text=True, encoding='utf-8', check=True)
             print(elo_output.stdout, end='') # Print the captured output
-            
+
             for line in elo_output.stdout.splitlines():
                 if line.startswith("RUN_ID_FOR_ANALYSIS:"):
                     captured_run_id = line.split(":", 1)[1].strip()
                     break
-            
+
             if not captured_run_id:
                 raise ValueError("Could not capture run_id from Elo engine output.")
 
             print("\n--- Running Analysis ---")
             run_command([sys.executable, "run_analysis.py", captured_run_id])
 
+            print(f"\n[✓] Trial {i + 1} completed successfully.")
+
         except subprocess.CalledProcessError as e:
             print(f"\n[!] ERROR during trial {i + 1}. Skipping to next trial.")
             print(f"  Command '{' '.join(e.cmd)}' failed with exit code {e.returncode}.")
+            print("\n--- Subprocess Output ---")
+            # Print stdout and stderr from the failed process for debugging
+            if e.stdout:
+                print("--- STDOUT ---")
+                print(e.stdout)
+            if e.stderr:
+                print("--- STDERR ---")
+                print(e.stderr)
+            print("-------------------------\n")
             continue
         except ValueError as e:
             print(f"\n[!] ERROR during trial {i + 1}: {e}. Skipping to next trial.")
             continue
-        
-        print(f"\n[✓] Trial {i + 1} completed successfully.")
-        os.remove(temp_config_path) # Clean up the temp file after successful trial
+        finally:
+            # Ensure the temp file is always removed, even if the trial fails
+            if os.path.exists(temp_config_path):
+                os.remove(temp_config_path)
 
     print(f"\n{'='*60}\n--- Optimization Finished ---")
     print("Query the 'run_metadata' table in 'elo_ratings.sqlite' to see results.")

@@ -6,13 +6,14 @@ def init_rating_table(conn):
 
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS rating_history (
+            run_id TEXT,
             player_id TEXT,
             event TEXT,
             rating_date TEXT,
             rating REAL,
             rd REAL,
             volatility REAL,
-            PRIMARY KEY (player_id, event, rating_date)
+            PRIMARY KEY (run_id, player_id, event, rating_date)
         );
     """)
 
@@ -134,6 +135,8 @@ def init_rating_table(conn):
             cap_K_mult REAL,
             su_decay REAL,
             su_growth REAL,
+            rating_decay_per_year REAL,
+            decay_grace_days INTEGER,
 
             -- evaluation metrics
             kl_gap REAL,
@@ -143,8 +146,6 @@ def init_rating_table(conn):
             accuracy REAL,
             favorite_gap REAL,
             mean_prediction REAL,
-            empirical_entropy_log_loss REAL, -- New column for baseline log loss
-            empirical_rate REAL,
             prediction_bias REAL,
             mean_uncertainty REAL,
             median_uncertainty REAL,
@@ -152,6 +153,7 @@ def init_rating_table(conn):
             pct_u_max REAL,
             pct_u_min REAL,
             n_matches INTEGER,
+            notes TEXT,
             created_at TEXT
         );
     """)

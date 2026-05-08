@@ -44,10 +44,8 @@ def add_missing_columns(cursor):
     This is a simple migration to handle schema updates.
     """
     columns_to_add = [
-        ("empirical_entropy_log_loss", "REAL"),
         ("favorite_gap", "REAL"),
         ("mean_prediction", "REAL"),
-        ("empirical_rate", "REAL"),
         ("prediction_bias", "REAL"),
         ("mean_uncertainty", "REAL"),
         ("median_uncertainty", "REAL"),
@@ -117,17 +115,8 @@ def analyze_run(run_id):
 
     # Calculate additional metrics
     mean_prediction = np.mean(all_preds)
-    empirical_rate = np.mean(all_actuals)
-    prediction_bias = mean_prediction - empirical_rate
-
-    # Empirical Entropy Log Loss (baseline for a model predicting the overall win rate)
-    # If empirical_rate is 0 or 1, log(0) is undefined, so handle edge cases
-    if empirical_rate > 0 and empirical_rate < 1:
-        empirical_entropy_log_loss = - (empirical_rate * np.log(empirical_rate) + \
-                                        (1 - empirical_rate) * np.log(1 - empirical_rate))
-    else:
-        empirical_entropy_log_loss = 0.0 # Perfect prediction if all outcomes are the same
-
+    prediction_bias = np.mean(all_preds) - np.mean(all_actuals)
+    
     # Favorite Gap (Win rate of the predicted favorite)
     favorite_wins = np.sum((all_preds > 0.5) & (all_actuals == 1))
     total_favorites = np.sum(all_preds > 0.5)
@@ -141,9 +130,7 @@ def analyze_run(run_id):
     pct_u_min = np.sum(all_uncertainties <= 0.1) / len(all_uncertainties) # % of matches with low uncertainty
 
     print(f"  Mean Prediction: {mean_prediction:.4f}")
-    print(f"  Empirical Win Rate: {empirical_rate:.4f}")
     print(f"  Prediction Bias: {prediction_bias:.4f}")
-    print(f"  Empirical Entropy Log Loss: {empirical_entropy_log_loss:.4f}")
     print(f"  Favorite Win Rate (Favorite Gap): {favorite_gap:.4f}")
     print(f"  Mean Uncertainty: {mean_uncertainty:.4f}")
     print(f"  Median Uncertainty: {median_uncertainty:.4f}")
@@ -156,14 +143,12 @@ def analyze_run(run_id):
     cursor.execute("""
         UPDATE run_metadata SET
             log_loss = ?, brier = ?, ece = ?, accuracy = ?, n_matches = ?,
-            mean_prediction = ?, empirical_rate = ?, prediction_bias = ?,
-            empirical_entropy_log_loss = ?, favorite_gap = ?,
+            mean_prediction = ?, prediction_bias = ?, favorite_gap = ?,
             mean_uncertainty = ?, median_uncertainty = ?, std_uncertainty = ?,
             pct_u_max = ?, pct_u_min = ?
         WHERE run_id = ?
     """, (overall_log_loss, overall_brier, overall_ece, overall_accuracy, len(all_preds),
-          mean_prediction, empirical_rate, prediction_bias,
-          empirical_entropy_log_loss, favorite_gap,
+          mean_prediction, prediction_bias, favorite_gap,
           mean_uncertainty, median_uncertainty, std_uncertainty,
           pct_u_max, pct_u_min, run_id))
 
