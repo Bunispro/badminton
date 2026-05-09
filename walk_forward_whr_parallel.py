@@ -118,6 +118,8 @@ def run_task(args):
         
         checkpoints = []
         weeks_processed = 0
+        total_weeks = (max_day - start_day) // 7 + 1
+        start_time = time.time()
         
         for current_day in range(start_day, max_day + 1, 7):
             week_games = [g for g in test_games_pool if current_day <= g['day_index'] < current_day + 7]
@@ -171,7 +173,15 @@ def run_task(args):
                 with open(results_file, "w") as f:
                     json.dump(checkpoints, f, indent=4)
                 
-                print(f"[{event} w2={w2}] Checkpoint at {month_str}")
+                # Progress printing
+                elapsed_sec = time.time() - start_time
+                pct_done = (weeks_processed / total_weeks) * 100
+                sec_per_week = elapsed_sec / weeks_processed if weeks_processed > 0 else 0
+                eta_sec = sec_per_week * (total_weeks - weeks_processed)
+                eta_hrs = eta_sec / 3600
+                
+                print(f"[{event} w2={w2:.2f}] [{pct_done:5.1f}%] Processing {month_str} | "
+                      f"Elapsed: {elapsed_sec/60:.1f}m | ETA: {eta_hrs:.2f} hrs | Checkpoint saved")
 
         # Final save
         current_real_date = start_date + timedelta(days=max_day)
