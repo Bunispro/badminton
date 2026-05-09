@@ -202,4 +202,25 @@ def init_rating_table(conn):
             PRIMARY KEY (run_id, event, player_id, snapshot_date)
         );
     """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS whr_rating_history (
+            run_id TEXT,
+            player_id TEXT,
+            event TEXT,
+            rating_date TEXT,
+            rating REAL,
+            PRIMARY KEY (run_id, player_id, event, rating_date)
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS whr_run_metadata (
+            run_id TEXT PRIMARY KEY,
+            w2 REAL,
+            iterations INTEGER,
+            notes TEXT,
+            created_at TEXT
+        );
+    """)
     conn.commit()

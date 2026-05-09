@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 import sys
 
-from elo_engine_mov import run_elo
+from elo_engine_1_0 import run_elo
 from db_ratings import init_rating_table
 
 def add_missing_columns(cursor):

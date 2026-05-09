@@ -35,7 +35,7 @@ FIXED_CONFIG = {
 }
 
 # --- 3. Define Optimization Settings ---
-NUM_TRIALS = 150  # How many different combinations to test
+NUM_TRIALS = 60  # How many different combinations to test
 
 def run_command(command):
     """Runs a command and prints its output in real-time."""
@@ -93,7 +93,7 @@ def main():
 
             print("\n--- Running Elo Engine ---")
             # Capture stdout to extract the run_id
-            elo_output = subprocess.run([sys.executable, "Run_elo_mov_config.py", temp_config_path], capture_output=True, text=True, encoding='utf-8', check=True)
+            elo_output = subprocess.run([sys.executable, "run_elo_from_config.py", temp_config_path], capture_output=True, text=True, encoding='utf-8', check=True)
             print(elo_output.stdout, end='') # Print the captured output
 
             for line in elo_output.stdout.splitlines():
@@ -107,7 +107,7 @@ def main():
             print("\n--- Running Analysis ---")
             run_command([sys.executable, "run_analysis.py", captured_run_id])
 
-            print(f"\n[✓] Trial {i + 1} completed successfully.")
+            print(f"\n[OK] Trial {i + 1} completed successfully.")
 
         except subprocess.CalledProcessError as e:
             print(f"\n[!] ERROR during trial {i + 1}. Skipping to next trial.")

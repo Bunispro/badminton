@@ -2,11 +2,9 @@ import sqlite3
 import math
 from datetime import datetime, date, timedelta
 
-# We will use the 'whr' library. You'll need to install it:
-# pip install whr
 import whr.whole_history_rating as whr
 
-def get_mov_multiplier(score_str, event_canon, mov_base_mult=0.90, mov_growth_rate=1.10):
+def get_mov_multiplier(score_str, event_canon, mov_base_mult=0.95, mov_growth_rate=1.1):
     if event_canon not in ['MS', 'MD', 'XD'] or mov_base_mult == 1.0:
         return 1.0
     if not score_str or '-' not in score_str or 'Retired' in score_str or 'Walkover' in score_str:
@@ -33,19 +31,25 @@ def get_mov_multiplier(score_str, event_canon, mov_base_mult=0.90, mov_growth_ra
         return mov_base_mult
     else:
         # Exponential curve starting from 6 point gap
-        return min(1.5, mov_base_mult * (mov_growth_rate ** (point_gap - 5)))
+        return min(1.2, mov_base_mult * (mov_growth_rate ** (point_gap - 5)))
 
 def init_whr_tables(conn):
     cursor = conn.cursor()
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS whr_rating_history (
             run_id TEXT,
-            entity_id TEXT,
+            player_id TEXT,
             event TEXT,
             rating_date TEXT,
-            rating REAL
+            rating REAL,
+            uncertainty REAL
         )
     """)
+    try:
+        cursor.execute("ALTER TABLE whr_rating_history ADD COLUMN uncertainty REAL")
+    except sqlite3.OperationalError:
+        pass # Column already exists
+        
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS whr_run_metadata (
             run_id TEXT PRIMARY KEY,
@@ -143,6 +147,7 @@ def store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iter
         for rating_info in ratings:
             time_step = rating_info[0]
             elo_rating = rating_info[1]
+            uncertainty = rating_info[2]
             
             current_date = start_date + timedelta(days=time_step)
             rating_date_str = current_date.isoformat()
@@ -152,7 +157,8 @@ def store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iter
                 player_name,
                 event,
                 rating_date_str,
-                elo_rating
+                elo_rating,
+                uncertainty
             ))
 
     # Bulk insert periodically to be memory-efficient and fast
@@ -160,8 +166,8 @@ def store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iter
     for i in range(0, len(history_data), batch_size):
         batch = history_data[i:i+batch_size]
         cursor.executemany("""
-            INSERT INTO whr_rating_history (run_id, entity_id, event, rating_date, rating)
-            VALUES (?, ?, ?, ?, ?)
+            INSERT INTO whr_rating_history (run_id, player_id, event, rating_date, rating, uncertainty)
+            VALUES (?, ?, ?, ?, ?, ?)
         """, batch)
         print(f"  ...inserted batch of {len(batch)} records")
 
@@ -221,7 +227,7 @@ def main():
     
     # This is the main hyperparameter for WHR, controlling skill drift over time.
     # Locked in after grid search (capped at 2.0 to avoid overfitting)
-    W2_PARAM = 2.0 
+    W2_PARAM = 1.0
 
     # --- Database Connections ---
     core_conn = None

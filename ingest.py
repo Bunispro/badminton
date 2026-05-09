@@ -85,44 +85,42 @@ def load_player_id_mappings(cursor, mapping_file_path="player_id_map.json"):
     """, mappings)
     print(f"Loaded/updated {len(mappings)} player ID mappings.")
 
-def ensure_player(cursor, player_json, tournament_id, current_match_id, id_conflicts, unresolved_log_batch) -> tuple[str | None, bool]:
+def ensure_player(cursor, player_json, tournament_id, current_match_id, id_conflicts, unresolved_log_batch, id_mapping_cache, alias_cache, empty_names_log, alias_ambiguities) -> tuple[str | None, bool]:
     pid = player_json.get("id")
     name = player_json["nameDisplay"]
     norm = normalize_name(name)
-    country = player_json.get("countryCode") or ""
-
+    
     if pid is not None:
         pid = str(pid)
+        if not norm:
+            empty_names_log[pid] = name
         is_conflict = False
 
         # Check if this ID has been mapped to a canonical one
-        cursor.execute("SELECT canonical_id FROM player_id_mapping WHERE old_id = ?", (pid,))
-        row = cursor.fetchone()
-        if row:
-            pid = row[0] # Use the canonical ID
+        if pid in id_mapping_cache:
+            pid = id_mapping_cache[pid]
 
         # --- NEW CONFLICT DETECTION LOGIC ---
         # If we haven't already flagged a conflict for this name during this run...
         if norm not in id_conflicts:
             # ...check if another player ID is already using this normalized name.
-            cursor.execute("""
-                SELECT player_id FROM player_aliases
-                WHERE alias_normalized = ? AND player_id != ?
-            """, (norm, pid))
-            rows = cursor.fetchall()
-            if rows:
+            existing_pids = alias_cache.get(norm, set())
+            other_pids = existing_pids - {pid}
+            if other_pids:
                 # Conflict detected!
                 is_conflict = True
-                other_pids = {row[0] for row in rows}
                 all_conflicting_ids = other_pids.union({pid})
                 id_conflicts[norm] = all_conflicting_ids
+
+        country = player_json.get("countryName")
 
         cursor.execute("""
             INSERT INTO players (player_id, name_display, name_normalized, country_code)
             VALUES (?, ?, ?, ?)
             ON CONFLICT(player_id) DO UPDATE SET
-                name_display=excluded.name_display,
-                country_code=excluded.country_code
+                name_display=COALESCE(players.name_display, excluded.name_display),
+                country_code=COALESCE(players.country_code, excluded.country_code),
+                name_normalized=COALESCE(players.name_normalized, excluded.name_normalized)
         """, (pid, name, norm, country))
 
         # insert alias
@@ -130,18 +128,20 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id, id_confl
             INSERT OR IGNORE INTO player_aliases (player_id, alias_normalized)
             VALUES (?, ?)
         """, (pid, norm))
+        
+        # Update cache
+        if norm not in alias_cache:
+            alias_cache[norm] = set()
+        alias_cache[norm].add(pid)
 
         return pid, is_conflict
 
     # 2. Fallback to searching the aliases table if no explicit name mapping exists
-    cursor.execute("""
-        SELECT player_id FROM player_aliases
-        WHERE alias_normalized = ?
-    """, (norm,))
-    row = cursor.fetchone()
-
-    if row:
-        return row[0], False
+    existing_pids = alias_cache.get(norm, set())
+    if existing_pids:
+        if len(existing_pids) > 1:
+            alias_ambiguities[norm] = list(existing_pids)
+        return list(existing_pids)[0], False
 
     # 3. If still not found, log as unresolved so it can be mapped later
     unresolved_log_batch.append((
@@ -153,9 +153,55 @@ def ensure_player(cursor, player_json, tournament_id, current_match_id, id_confl
 
     return None, False
 
-def compute_score_winner(score_raw):
+def is_valid_badminton_score_15(s1, s2):
+    winner = max(s1, s2)
+    loser = min(s1, s2)
+    
+    if winner < 15:
+        return False
+    
+    if winner == 15:
+        return loser <= 13
+    
+    if winner > 15 and winner < 21:
+        return (winner - loser) == 2
+    
+    if winner == 21:
+        return loser == 19 or loser == 20
+        
+    return False
+
+def compute_score_winner(score_raw, match_date=None):
     team1_sets = 0
     team2_sets = 0
+
+    use_15_system = False
+    if match_date and match_date >= "2027-01-04":
+        use_15_system = True
+
+    def is_valid_badminton_score(s1, s2):
+        winner = max(s1, s2)
+        loser = min(s1, s2)
+        
+        if winner < 21:
+            return False
+        
+        if winner == 21:
+            return loser <= 19
+        
+        if winner > 21 and winner < 30:
+            return (winner - loser) == 2
+        
+        if winner == 30:
+            return loser == 28 or loser == 29
+            
+        return False
+
+    def is_valid_score(s1, s2):
+        if use_15_system:
+            return is_valid_badminton_score_15(s1, s2)
+        else:
+            return is_valid_badminton_score(s1, s2)
 
     if isinstance(score_raw, list):
         for s in score_raw:
@@ -163,6 +209,11 @@ def compute_score_winner(score_raw):
             away = s.get("away")
             if home is None or away is None:
                 continue
+            
+            # Filter for point anomalies
+            if not is_valid_score(home, away):
+                return None
+
             if home > away:
                 team1_sets += 1
             elif away > home:
@@ -185,6 +236,10 @@ def compute_score_winner(score_raw):
             home = int(home)
             away = int(away)
 
+            # Filter for point anomalies
+            if not is_valid_score(home, away):
+                return None
+
             if home > away:
                 team1_sets += 1
             elif away > home:
@@ -201,8 +256,9 @@ def compute_score_winner(score_raw):
 
 def normalize_name(name):
     if not name: return ""
-    # 1. Remove accents and brackets
+    # 1. Remove accents and non-ASCII characters
     name = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode('ascii')
+    
     # Replace hyphens with spaces to treat parts as separate words
     name = name.replace('-', ' ')
     name = re.sub(r"\[.*?\]", "", name).lower()
@@ -279,16 +335,18 @@ def classify_bwf_event(tournament_name):
 
     name = tournament_name.lower()
 
+    # Exclude Junior and Senior events first
+    if any(k in name for k in ["junior", "senior"]):
+        return None
+
     if any(k in name for k in ["world championships", "olympic"]):
         return "T0"
 
-    if any(k in name for k in [
-        "oceania championships",
-        "asia championships",
-        "all africa games",
-        "asian games"
-    ]):
-        return None
+    if any(k in name for k in ["asia championships", "european championships"]):
+        return "T2"
+
+    if any(k in name for k in ["pan am", "africa", "oceania", "asian games"]):
+        return "T3"
 
     return None
 
@@ -377,12 +435,11 @@ def load_tournament_index(cursor, index_path):
         if is_continental_tournament(name):
             is_continental = True
 
-        if tier_raw == "BWF Events":
+        tier = TIER_MAP.get(tier_raw)
+        if tier is None:
             tier = classify_bwf_event(name)
-            if tier == None:
+            if tier is None and tier_raw == "BWF Events":
                 is_continental = True
-        else:
-            tier = TIER_MAP.get(tier_raw)
         
 
         year = int(start_date[:4]) if start_date else None
@@ -438,9 +495,22 @@ def ingest_folder(conn, folder_path, date_filter=None):
     cursor = conn.cursor()
     mapping_failures = {}
     id_conflicts = {}
+    empty_names_log = {}
+    alias_ambiguities = {}
 
     # Load player ID mappings from JSON into the database
     load_player_id_mappings(cursor)
+
+    # Load mappings into memory for fast lookup
+    cursor.execute("SELECT old_id, canonical_id FROM player_id_mapping")
+    id_mapping_cache = {row[0]: row[1] for row in cursor.fetchall()}
+
+    cursor.execute("SELECT alias_normalized, player_id FROM player_aliases")
+    alias_cache = {}
+    for alias, pid in cursor.fetchall():
+        if alias not in alias_cache:
+            alias_cache[alias] = set()
+        alias_cache[alias].add(pid)
 
     # Load tournament index and build numeric_id → code mapping
     numeric_to_code = load_tournament_index(
@@ -572,8 +642,7 @@ def ingest_folder(conn, folder_path, date_filter=None):
                     if not event_canon:
                         event_canon = "UNKNOWN"
                     score_raw = m.get("score")
-                    invalid_scores = compute_score_winner(score_raw) is None
-
+                    
                     # Resolve match date from payload when available; fallback to filename.
                     match_time = m.get("matchTime")
                     date_fallback = False
@@ -587,6 +656,14 @@ def ingest_folder(conn, folder_path, date_filter=None):
                     else:
                         match_date = file.replace(".json", "")
                         date_fallback = True
+
+                    # Add check to match date fallback
+                    if date_fallback:
+                        if not re.match(r"^\d{4}-\d{2}-\d{2}$", match_date):
+                            print(f"Warning: Fallback date '{match_date}' from file '{file}' is not in YYYY-MM-DD format.")
+
+                    # Score check moved here, passing match_date
+                    invalid_scores = compute_score_winner(score_raw, match_date) is None
 
                     if isinstance(score_raw, list):
                         score = " ".join(
@@ -631,7 +708,7 @@ def ingest_folder(conn, folder_path, date_filter=None):
 
                     for p in m["team1"]["players"]:
                         resolved_id, player_had_conflict = ensure_player(
-                            cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch
+                            cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch, id_mapping_cache, alias_cache, empty_names_log, alias_ambiguities
                         )
                         if player_had_conflict:
                             player_conflict_flag = True # Set conflict flag, but not unresolved_flag
@@ -642,7 +719,7 @@ def ingest_folder(conn, folder_path, date_filter=None):
 
                     for p in m["team2"]["players"]:
                         resolved_id, player_had_conflict = ensure_player(
-                            cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch
+                            cursor, p, tournament_id, match_id, id_conflicts, unresolved_log_batch, id_mapping_cache, alias_cache, empty_names_log, alias_ambiguities
                         )
                         if player_had_conflict:
                             player_conflict_flag = True # Set conflict flag, but not unresolved_flag
@@ -826,6 +903,34 @@ def ingest_folder(conn, folder_path, date_filter=None):
 
         print(f"\nFound and reported {len(id_conflicts)} new potential player ID conflicts.")
         print(f"Please review '{report_path}' and update 'player_id_map.json' if necessary.")
+
+    if empty_names_log:
+        report_path = "empty_normalized_names.json"
+        try:
+            with open(report_path, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+                if not isinstance(existing, dict):
+                    existing = {}
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing = {}
+        existing.update(empty_names_log)
+        with open(report_path, "w", encoding="utf-8") as f:
+            json.dump(existing, f, indent=2, sort_keys=True)
+        print(f"Logged {len(empty_names_log)} names that normalized to empty string to {report_path}")
+
+    if alias_ambiguities:
+        report_path = "alias_ambiguities.json"
+        try:
+            with open(report_path, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+                if not isinstance(existing, dict):
+                    existing = {}
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing = {}
+        existing.update(alias_ambiguities)
+        with open(report_path, "w", encoding="utf-8") as f:
+            json.dump(existing, f, indent=2, sort_keys=True)
+        print(f"Logged {len(alias_ambiguities)} alias ambiguities to {report_path}")
 
 
 

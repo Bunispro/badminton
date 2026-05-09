@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Badminton Rating System</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <h1>BWF Ratings</h1>
+            </div>
+            
+            <nav class="nav-section">
+                <h3>Event</h3>
+                <div class="button-group" id="event-buttons">
+                    <button class="btn active" data-event="MS">Men's Singles</button>
+                    <button class="btn" data-event="WS">Women's Singles</button>
+                    <button class="btn" data-event="MD">Men's Doubles</button>
+                    <button class="btn" data-event="WD">Women's Doubles</button>
+                    <button class="btn" data-event="XD">Mixed Doubles</button>
+                </div>
+            </nav>
+
+            <nav class="nav-section">
+                <h3>Model</h3>
+                <div class="button-group" id="model-buttons">
+                    <button class="btn active" data-model="whr">WHR (Whole-History)</button>
+                    <button class="btn" data-model="elo">Elo</button>
+                </div>
+            </nav>
+
+            <nav class="nav-section">
+                <h3>Mode</h3>
+                <div class="button-group" id="mode-buttons">
+                    <button class="btn active" data-mode="current">Current</button>
+                    <button class="btn" data-mode="peak">Peak of All Time</button>
+                </div>
+            </nav>
+            
+            <div class="nav-section">
+                <h3>Predictor</h3>
+                <div class="predictor-form">
+                    <input type="text" id="p1-input" placeholder="Player 1 ID">
+                    <input type="text" id="p2-input" placeholder="Player 2 ID">
+                    <button id="predict-btn" class="btn primary">Predict</button>
+                </div>
+                <div id="predict-result" class="predict-result"></div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="content-header" style="display: flex; justify-content: space-between; align-items: center; padding-bottom: 1rem; border-bottom: 1px solid rgba(255,255,255,0.05); margin-bottom: 1.5rem;">
+                <h2 id="current-title">Men's Singles - WHR</h2>
+                <div style="display: flex; align-items: center; gap: 1rem; position: relative;">
+                    <button id="settings-btn" style="background: none; border: none; cursor: pointer; font-size: 1.5rem; color: var(--text-dim); display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; border-radius: 50%; transition: background 0.2s;" onmouseover="this.style.background='rgba(255,255,255,0.05)'" onmouseout="this.style.background='none'">⚙️</button>
+                    
+                    <div id="settings-dropdown" style="display: none; position: absolute; top: calc(100% + 5px); right: 0; background: #1e293b; border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; padding: 1rem; z-index: 1000; min-width: 220px; box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);">
+                        <h4 style="margin-top: 0; margin-bottom: 0.75rem; font-size: 1rem; color: #f8fafc;">Settings</h4>
+                        
+                        <div style="margin-bottom: 0.75rem;">
+                            <label style="display: block; font-size: 0.75rem; color: #94a3b8; margin-bottom: 0.25rem;">Theme</label>
+                            <select id="theme-select" style="width: 100%; background: #0f172a; color: #f8fafc; border: 1px solid #334155; border-radius: 4px; padding: 0.5rem; cursor: pointer;">
+                                <option value="dark">Dark</option>
+                                <option value="dim">Dim</option>
+                                <option value="lights-out">Lights Out</option>
+                                <option value="light">Light</option>
+                            </select>
+                        </div>
+                        
+                        <div style="margin-bottom: 0.75rem;">
+                            <label style="display: block; font-size: 0.75rem; color: #94a3b8; margin-bottom: 0.25rem;">Accent Color</label>
+                            <select id="accent-select" style="width: 100%; background: #0f172a; color: #f8fafc; border: 1px solid #334155; border-radius: 4px; padding: 0.5rem; cursor: pointer;">
+                                <option value="emerald">Emerald Green</option>
+                                <option value="blue">Ocean Blue</option>
+                                <option value="purple">Royal Purple</option>
+                                <option value="gold">Gold</option>
+                            </select>
+                        </div>
+                        
+                        <div style="margin-bottom: 0.5rem;">
+                            <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.875rem; color: #f8fafc; cursor: pointer;">
+                                <input type="checkbox" id="toggle-uncertainty">
+                                Show Uncertainty in Table
+                            </label>
+                        </div>
+                        
+                        <div>
+                            <label style="display: flex; align-items: center; gap: 0.5rem; font-size: 0.875rem; color: #f8fafc; cursor: pointer;">
+                                <input type="checkbox" id="toggle-graph-uncertainty">
+                                Show Uncertainty in Graph
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="full-width-layout">
+                <!-- Leaderboard View -->
+                <div id="leaderboard-view" style="width: 100%;">
+                    <section class="card leaderboard-card">
+                        <div class="section-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                            <h3>Leaderboard</h3>
+                        </div>
+                        <div class="table-container">
+                            <table id="leaderboard-table">
+                                <thead>
+                                    <tr>
+                                        <th>Rank</th>
+                                        <th>Player</th>
+                                        <th>Rating</th>
+                                        <th>Last Updated</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <!-- Rows will be inserted here -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- Detailed View (Hidden by default) -->
+                <div id="detailed-view" style="display: none; width: 100%;">
+                    <button id="back-btn" style="margin-bottom: 1rem; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: var(--text-color); padding: 0.5rem 1rem; border-radius: 4px; cursor: pointer;">← Back to Leaderboard</button>
+                    
+                    <div id="detailed-header" style="margin-bottom: 1.5rem;">
+                        <h2 id="detailed-player-name" style="margin-bottom: 0.25rem;"></h2>
+                        <span id="detailed-model-info" style="font-size: 0.875rem; color: var(--text-dim);"></span>
+                    </div>
+
+                    <section class="card" style="margin-bottom: 2rem;">
+                        <h3>Rating History</h3>
+                        <div style="height: 300px; width: 100%;">
+                            <canvas id="detailed-chart"></canvas>
+                        </div>
+                    </section>
+                    
+                    <section class="card">
+                        <h3>Match History</h3>
+                        <div class="filters" style="display: flex; gap: 1rem; margin-bottom: 1rem; align-items: flex-end;">
+                            <div>
+                                <label style="display: block; font-size: 0.75rem; color: var(--text-dim); margin-bottom: 0.25rem;">Date Range</label>
+                                <div style="display: flex; gap: 0.5rem;">
+                                    <input type="date" id="start-date" style="background: rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1); color: var(--text-color); padding: 0.5rem; border-radius: 4px;">
+                                    <input type="date" id="end-date" style="background: rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1); color: var(--text-color); padding: 0.5rem; border-radius: 4px;">
+                                </div>
+                            </div>
+                            <div>
+                                <label style="display: block; font-size: 0.75rem; color: var(--text-dim); margin-bottom: 0.25rem;">Tournament</label>
+                                <input type="text" id="tournament-select" list="tournament-list" placeholder="Search tournaments..." style="width: 200px; background: rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1); color: var(--text-color); padding: 0.5rem; border-radius: 4px;">
+                                <datalist id="tournament-list"></datalist>
+                            </div>
+                        </div>
+                        
+                        <div class="table-container">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Date</th>
+                                        <th>Tournament</th>
+                                        <th>Event</th>
+                                        <th>Round</th>
+                                        <th>Opponent(s)</th>
+                                        <th>Score</th>
+                                        <th>Result</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="match-history-body">
+                                    <!-- Rows will be inserted here -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/app.js?v=5"></script>
+</body>
+</html>
