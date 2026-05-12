@@ -288,6 +288,8 @@ class BwfScraper:
             return self.scrape_finals(tournament_url, tier)
         if "bwfworldtour" in tournament_url:
             return self.scrape_one_tournament_World_Tour(tournament_url, tier)
+        if "bwfsudirmancup" in tournament_url or "bwfthomasubercups" in tournament_url:
+            return self.scrape_microsite(tournament_url, tier)
         else:
             return self.scrape_non_wt_tournament(tournament_url, tier)
         
@@ -437,6 +439,105 @@ class BwfScraper:
             self.human_pause(1500, 4000)
 
         print("===== COMPLETED NON-WT =====\n")
+
+    def scrape_microsite(self, tournament_url, tier):
+
+        print("\n==============================")
+        print("Scraping MICROSITE:", tournament_url)
+
+        self.page.goto(tournament_url, wait_until="domcontentloaded")
+        self.page.wait_for_selector("#ajaxTabs li a", timeout=30000) # Wait for day tabs
+        self.handle_cookie_banner()
+        self.page.wait_for_timeout(3000)
+
+        # Locate day tabs
+        day_tabs = self.page.locator("#ajaxTabs li a")
+        total_days = day_tabs.count()
+
+        print("Day tabs found:", total_days)
+
+        if total_days == 0:
+            print("❌ No day tabs found.")
+            return
+
+        # -----------------------------
+        # 1️⃣ Create folder
+        # -----------------------------
+        # We assume it's a team tournament
+        tier = tier + "_TEAM"
+        
+        out_dir = self.make_tournament_folder(
+            tournament_url,
+            tier,
+            root="data-non-wt"
+        )
+
+        # -----------------------------
+        # 2️⃣ Process days
+        # -----------------------------
+        for i in range(total_days):
+
+            day_tabs = self.page.locator("#ajaxTabs li a")
+            tab = day_tabs.nth(i)
+
+            href = tab.get_attribute("href")
+            day_label = tab.inner_text().strip()
+
+            if not href or "/results/" not in href:
+                print(f"Skipping tab: {day_label}")
+                continue
+
+            date_key = self.date_from_url(href)
+            if not date_key:
+                print(f"No date found in URL for tab: {day_label}")
+                continue
+
+            out_path = os.path.join(out_dir, f"{date_key}.json")
+
+            if os.path.exists(out_path):
+                print(f"Skipping {date_key} (already saved)")
+                continue
+
+            print(f"Clicking day {i+1}/{total_days}: {day_label} ({date_key})")
+
+            self.human_mouse_move()
+            self.human_scroll()
+            self.human_pause(1000, 3000)
+
+            try:
+                with self.page.expect_response(
+                    lambda r: (
+                        "api/tournaments/day-matches?" in r.url
+                        and f"date={date_key}" in r.url
+                        and "order=" in r.url
+                        and "court=" in r.url
+                        and "/courts" not in r.url
+                        and "/players" not in r.url
+                        and r.status == 200
+                    ),
+                    timeout=30000
+                ) as resp_info:
+
+                    tab.click()
+
+                data = resp_info.value.json()
+
+            except Exception as e:
+                print("❌ Failed on day:", date_key, e)
+                continue
+
+            if not data:
+                print("Empty day data.")
+                continue
+
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+
+            print("Saved:", date_key, "matches:", len(data))
+
+            self.human_pause(1500, 4000)
+
+        print("===== COMPLETED MICROSITE =====\n")
 
         
         

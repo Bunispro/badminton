@@ -163,6 +163,10 @@ class Player:
         for i in range(n - 2, -1, -1):
             x[i] = (y[i] - b[i] * x[i + 1]) / d[i]
 
+        # Cap the step size to prevent divergence
+        max_step = 3.0
+        x = [max(-max_step, min(max_step, xi)) for xi in x]
+
         new_r = [ri - xi for ri, xi in zip(r, x)]
 
         for r in new_r:

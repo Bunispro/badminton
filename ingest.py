@@ -342,8 +342,15 @@ def classify_bwf_event(tournament_name):
     if any(k in name for k in ["world championships", "olympic"]):
         return "T0"
 
-    if any(k in name for k in ["asia championships", "european championships"]):
-        return "T2"
+    if "thomas" in name and "uber" in name and "finals" in name:
+        return "T1"
+
+    if "sudirman" in name:
+        return "T1"
+
+    if "championship" in name:
+        if "european" in name or "asia" in name or "asian" in name:
+            return "T2"
 
     if any(k in name for k in ["pan am", "africa", "oceania", "asian games"]):
         return "T3"
@@ -399,6 +406,22 @@ TIER_MAP = {
     # T6
     "International Series": "T6",
     "Future Series": "T6",
+}
+
+FOLDER_TIER_MAP = {
+    "HSBC_BWF_World_Tour_Finals": "T0",
+    "HSBC_BWF_World_Tour_Super_1000": "T1",
+    "World_Superseries_Premier": "T1",
+    "HSBC_BWF_World_Tour_Super_750": "T2",
+    "World_Superseries": "T2",
+    "HSBC_BWF_World_Tour_Super_500": "T3",
+    "Grand_Prix_Gold": "T3",
+    "HSBC_BWF_World_Tour_Super_300": "T4",
+    "Grand_Prix": "T4",
+    "BWF_Tour_Super_100": "T5",
+    "International_Challenge": "T5",
+    "International_Series": "T6",
+    "Future_Series": "T6",
 }
 
 def load_tournament_index(cursor, index_path):
@@ -591,6 +614,17 @@ def ingest_folder(conn, folder_path, date_filter=None):
             """, (tournament_id,))
             tier_raw = cursor.fetchone()
             tier = tier_raw[0] if tier_raw else None
+
+            if tier is None:
+                folder_name = os.path.basename(root)
+                tier = FOLDER_TIER_MAP.get(folder_name)
+                if tier:
+                    cursor.execute("""
+                        UPDATE tournaments
+                        SET tier = ?
+                        WHERE tournament_id = ?
+                    """, (tier, tournament_id))
+                    print(f"  [Folder Fallback] Set tier {tier} for {tournament_id} from folder: {folder_name}")
 
                         
             for top_level_item in matches:

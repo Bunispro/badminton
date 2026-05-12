@@ -155,5 +155,10 @@ class PlayerDay:
         dlogp = self.log_likelihood_derivative()
         d2logp = self.log_likelihood_second_derivative()
         dr = dlogp / d2logp
+        
+        # Cap the step size to prevent divergence
+        max_step = 3.0
+        dr = max(-max_step, min(max_step, dr))
+        
         new_r = self.r - dr
         self.r = new_r

@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  
+  /* Map HSL variables to Tailwind colors */
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-border: hsl(var(--border));
+  --color-primary: hsl(var(--primary));
+  --color-accent: hsl(var(--accent));
+}
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 240 10% 3.9%;
+  --card: 0 0% 100%;
+  --border: 240 5.9% 90%;
+  --primary: 240 5.9% 10%;
+  --accent: 240 4.8% 95.9%;
+}
+
+.dark {
+  --background: 240 10% 3.9%;   /* #09090b (zinc-950) */
+  --foreground: 0 0% 98%;      /* #fafafa (zinc-50) */
+  --card: 240 10% 3.9%;        /* #09090b */
+  --card-foreground: 0 0% 98%;
+  --popover: 240 10% 3.9%;
+  --border: 240 5.9% 15%;      /* #27272a (zinc-800 equivalent in HSL) */
+  --primary: 0 0% 98%;         /* Bright white for primary buttons */
+  --primary-foreground: 240 5.9% 10%;
+  --accent: 240 3.7% 15.9%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground transition-colors duration-300;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-zinc-100 font-bold;
+  }
+  p {
+    @apply text-zinc-400;
+  }
+}

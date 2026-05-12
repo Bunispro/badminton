@@ -16,35 +16,30 @@ final_config = {
     "base_rating": 1000,
     "store_history": True,
     "event_params": {
-        "MS": {
-            "K": 74.18, "beta": 1.50, "u_growth": 0.058, "D": 417,
-            "rating_decay_per_year": 0.04, "decay_grace_days": 178,
-            "cap_K_mult": 3.99, "Ks": 34, "uncertainty_decay": 0.95, "Ks_beta": 0.86, "su_decay": 0.93, "su_growth": 0.02,
-            "mov_base_mult": 0.72, "mov_growth_rate": 1.039
-        },
-        "WS": {
-            "K": 80.89, "beta": 1.62, "u_growth": 0.054, "D": 464,
-            "rating_decay_per_year": 0.016, "decay_grace_days": 114,
-            "cap_K_mult": 3.96, "Ks": 38, "uncertainty_decay": 0.95, "Ks_beta": 0.83, "su_decay": 0.98, "su_growth": 0.07,
-            "mov_base_mult": 1.0, "mov_growth_rate": 1.0
-        },
         "MD": {
-            "K": 86.68, "beta": 1.57, "u_growth": 0.040, "D": 460,
-            "rating_decay_per_year": 0.04, "decay_grace_days": 123,
-            "cap_K_mult": 3.23, "Ks": 17, "uncertainty_decay": 0.95, "Ks_beta": 0.85, "su_decay": 0.95, "su_growth": 0.06,
-            "mov_base_mult": 0.81, "mov_growth_rate": 1.086
+            "K": 82.6413, "beta": 1.5365, "u_growth": 0.0555, "rating_decay_per_year": 0.0617, "decay_grace_days": 152.1722,
+            "cap_K_mult": 3.6331, "Ks": 18.4304, "uncertainty_decay": 0.95, "Ks_beta": 0.813, "su_decay": 0.9344, "su_growth": 0.0462,
+            "mov_base_mult": 0.7844, "mov_growth_rate": 1.1089, "D": 392.8
+        },
+        "MS": {
+            "K": 68.2673, "beta": 1.5974, "u_growth": 0.0597, "rating_decay_per_year": 0.0306, "decay_grace_days": 166.1262,
+            "cap_K_mult": 3.334, "Ks": 24.7918, "uncertainty_decay": 0.95, "Ks_beta": 1.2068, "su_decay": 0.9642, "su_growth": 0.0465,
+            "mov_base_mult": 0.758, "mov_growth_rate": 1.0451, "D": 424.8
         },
         "WD": {
-            "K": 77.83, "beta": 1.57, "u_growth": 0.047, "D": 343,
-            "rating_decay_per_year": 0.02, "decay_grace_days": 167,
-            "cap_K_mult": 3.55, "Ks": 16, "uncertainty_decay": 0.95, "Ks_beta": 0.60, "su_decay": 0.99, "su_growth": 0.04,
-            "mov_base_mult": 1.0, "mov_growth_rate": 1.0
+            "K": 85.1701, "beta": 1.6016, "u_growth": 0.0669, "rating_decay_per_year": 0.0592, "decay_grace_days": 157.35,
+            "cap_K_mult": 3.4495, "Ks": 17.8065, "uncertainty_decay": 0.95, "Ks_beta": 0.7653, "su_decay": 0.9212, "su_growth": 0.0415,
+            "mov_base_mult": 0.8862, "mov_growth_rate": 1.087, "D": 364.4
+        },
+        "WS": {
+            "K": 80.5555, "beta": 1.6354, "u_growth": 0.06, "rating_decay_per_year": 0.0268, "decay_grace_days": 146.7345,
+            "cap_K_mult": 3.4607, "Ks": 25.812, "uncertainty_decay": 0.95, "Ks_beta": 0.966, "su_decay": 0.9635, "su_growth": 0.0669,
+            "mov_base_mult": 0.7664, "mov_growth_rate": 1.0786, "D": 448.5
         },
         "XD": {
-            "K": 86.68, "beta": 1.57, "u_growth": 0.040, "D": 460,
-            "rating_decay_per_year": 0.04, "decay_grace_days": 123,
-            "cap_K_mult": 3.23, "Ks": 17, "uncertainty_decay": 0.95, "Ks_beta": 0.85, "su_decay": 0.95, "su_growth": 0.06,
-            "mov_base_mult": 0.81, "mov_growth_rate": 1.086
+            "K": 81.5302, "beta": 1.5571, "u_growth": 0.0597, "rating_decay_per_year": 0.0451, "decay_grace_days": 152.1458,
+            "cap_K_mult": 3.3675, "Ks": 19.357, "uncertainty_decay": 0.95, "Ks_beta": 0.9545, "su_decay": 0.936, "su_growth": 0.05,
+            "mov_base_mult": 0.7276, "mov_growth_rate": 1.0884, "D": 425.2
         }
     }
 }

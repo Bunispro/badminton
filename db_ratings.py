@@ -223,4 +223,15 @@ def init_rating_table(conn):
             created_at TEXT
         );
     """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS ranking_history (
+            run_id TEXT,
+            event TEXT,
+            rating_date TEXT,
+            player_id TEXT,
+            rank
+        );
+    """)
+
     conn.commit()

@@ -32,15 +32,15 @@ def get_mov_multiplier(score_str, event_canon, mov_base_mult=0.95, mov_growth_ra
     if p1_total == 0 and p2_total == 0: return 1.0
         
     point_gap = abs(p1_total - p2_total)
-    # Margin of Victory cap at 1.2 to prevent over-fitting
-    return min(1.2, mov_base_mult * (mov_growth_rate ** (point_gap - 5))) if point_gap > 5 else mov_base_mult
+    # Margin of Victory cap at 1.35 to prevent over-fitting
+    return min(1.35, mov_base_mult * (mov_growth_rate ** (point_gap - 5))) if point_gap > 5 else mov_base_mult
 
 def safe_prob(rA, rB):
-    """Safely calculates probability to prevent math.exp OverflowErrors"""
-    diff = rB - rA
-    if diff > 100.0: return 0.0
-    if diff < -100.0: return 1.0
-    return 1.0 / (1.0 + math.exp(diff))
+    """Safely calculates probability using Elo scale (base 10, divisor 400)"""
+    diff = (rB - rA) / 400.0
+    if diff > 10.0: return 0.0
+    if diff < -10.0: return 1.0
+    return 1.0 / (1.0 + 10**diff)
 
 def calculate_ece(preds, actuals, n_bins=10):
     confidences = np.maximum(preds, 1 - preds)
@@ -218,14 +218,16 @@ def run_task(args):
         return False
 
 if __name__ == "__main__":
-    events = ["MS", "WS", "MD", "WD", "XD"]
-    w2_values = [0.01, 0.05, 0.1, 0.3]
+    tasks = [
+        ("WS", 5.0),
+        ("WD", 5.0),
+        ("MS", 4.5),
+        ("MD", 4.5),
+        ("XD", 4.5)
+    ]
+    print(f"Submitting {len(tasks)} tasks to pool of 6 workers...")
     
-    tasks = [(e, w) for e in events for w in w2_values]
-    print(f"Submitting {len(tasks)} tasks to pool of 4 workers...")
-    
-    # Use pool of 4 as requested
-    with Pool(processes=4) as pool:
+    with Pool(processes=6) as pool:
         results = pool.map(run_task, tasks)
         
     print("All tasks completed.")

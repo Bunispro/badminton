@@ -49,30 +49,28 @@ def q(query, db_path=DB_PATH):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# --- Main Query ---
-# Place the SQL query you want to run inside the triple quotes.
-# The last query I helped you with is here by default.
+
 if __name__ == "__main__":
-    # q("""
-    #     SELECT run_id,
-    #         log_loss,
-    #         brier,
-    #         ece,
-    #         mean_uncertainty,
-    #         median_uncertainty,
-    #         std_uncertainty,
-    #         pct_u_max,
-    #         pct_u_min
-
-    #     FROM run_metadata
-    #     ORDER BY run_id DESC;
-    # """)
-
     q("""
         SELECT run_id,
-               w2,
-               iterations,
-               created_at
-        FROM whr_run_metadata
-        ORDER BY created_at DESC;
+            log_loss,
+            brier,
+            ece,
+            mean_uncertainty,
+            median_uncertainty,
+            std_uncertainty,
+            pct_u_max,
+            pct_u_min
+
+        FROM run_metadata
+        ORDER BY run_id DESC;
     """)
+
+    # q("""
+    #     SELECT run_id,
+    #            w2,
+    #            iterations,
+    #            created_at
+    #     FROM whr_run_metadata
+    #     ORDER BY created_at DESC;
+    # """)
