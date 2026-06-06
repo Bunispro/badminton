@@ -1,7 +1,9 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
+import { HeaderSettings } from "@/components/header-settings";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -31,28 +33,26 @@ export default function RootLayout({
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-16">
               <div className="flex items-center">
-                <Link href="/" className="text-xl font-bold text-cyan-400">
-                  Badminton Pro
+                <Link href="/" className="text-xl font-black tracking-tighter italic text-white flex items-center gap-2 group">
+                  <div className="w-8 h-8 bg-cyan-500 rounded-lg flex items-center justify-center text-black font-black not-italic group-hover:scale-110 transition-transform shadow-[0_0_15px_rgba(34,211,238,0.3)]">B</div>
+                  BADMINTON <span className="text-cyan-400">PRO</span>
                 </Link>
                 <div className="hidden md:block ml-10">
-                  <div className="flex space-x-4">
-                    <Link href="/" className="text-zinc-100 hover:text-cyan-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">
+                  <div className="flex space-x-2">
+                    <Link href="/leaderboard" className="text-zinc-400 hover:text-white px-4 py-2 rounded-xl text-xs font-black uppercase tracking-widest transition-all hover:bg-zinc-900">
                       Leaderboard
                     </Link>
-                    <Link href="#" className="text-zinc-600 px-3 py-2 rounded-md text-sm font-medium cursor-not-allowed">
-                      Analytics
-                    </Link>
-                    <Link href="#" className="text-zinc-600 px-3 py-2 rounded-md text-sm font-medium cursor-not-allowed">
-                      Matches
+                    <Link href="/predict" className="text-zinc-400 hover:text-white px-4 py-2 rounded-xl text-xs font-black uppercase tracking-widest transition-all hover:bg-zinc-900">
+                      Prediction
                     </Link>
                   </div>
                 </div>
               </div>
               <div className="flex items-center gap-4">
                 <div className="text-sm text-zinc-500">v2.0-alpha</div>
-                <button className="px-4 py-2 bg-zinc-100 text-zinc-900 hover:bg-zinc-300 shadow-[0_0_15px_rgba(255,255,255,0.1)] transition-all font-semibold rounded-lg">
-                  Connect
-                </button>
+                <Suspense fallback={<div className="w-8 h-8 rounded-lg bg-zinc-900 animate-pulse border border-zinc-800" />}>
+                  <HeaderSettings />
+                </Suspense>
               </div>
             </div>
           </div>

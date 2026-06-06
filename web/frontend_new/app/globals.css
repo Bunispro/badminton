@@ -50,3 +50,33 @@
     @apply text-zinc-400;
   }
 }
+
+.text-outline-shine {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.1);
+  position: absolute;
+  inset: 0;
+  color: transparent;
+  filter: drop-shadow(0 0 2px rgba(255,255,255,0.5));
+  animation: outline-move 5s infinite;
+}
+
+@keyframes outline-move {
+  0%, 100% { opacity: 0.2; }
+  50% { opacity: 0.6; }
+}
+
+@layer utilities {
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  .rotate-x-180 {
+    transform: rotateX(180deg);
+  }
+}

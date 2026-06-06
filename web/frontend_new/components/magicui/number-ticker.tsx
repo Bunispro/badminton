@@ -18,7 +18,7 @@ export function NumberTicker({ value, className }: NumberTickerProps) {
         duration: 2,
         ease: "easeOut",
         onUpdate(latest) {
-          node.textContent = Math.round(latest).toString();
+          node.textContent = latest.toFixed(0);
         },
       });
 
