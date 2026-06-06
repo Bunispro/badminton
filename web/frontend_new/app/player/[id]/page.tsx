@@ -96,6 +96,15 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
     return () => clearTimeout(timer);
   }, [event, model]);
 
+  // Auto-select first available discipline if current selection is not valid for this player
+  useEffect(() => {
+    if (player?.disciplines && player.disciplines.length > 0) {
+      if (!player.disciplines.includes(event)) {
+        setEvent(player.disciplines[0]);
+      }
+    }
+  }, [player, event]);
+
   const isSharpView = useMemo(() => {
     if (historyPeriod === '1m' || historyPeriod === '3m' || historyPeriod === '6m') {
       return true;
