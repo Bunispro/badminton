@@ -979,10 +979,29 @@ function LeaderboardContent() {
                           </div>
                           <div>
                             <div className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest mb-1">Status</div>
-                            <div className="flex items-center gap-2">
-                              <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-                              <div className="text-xl font-bold text-emerald-500 font-mono">Active</div>
-                            </div>
+                            {(() => {
+                              const lastPlayed = expandedPlayer.date;
+                              if (!lastPlayed) {
+                                return (
+                                  <div className="flex items-center gap-2">
+                                    <div className="w-2 h-2 rounded-full bg-zinc-600" />
+                                    <span className="text-xl font-bold text-zinc-500 font-mono">Unknown</span>
+                                  </div>
+                                );
+                              }
+                              const daysSince = Math.floor(
+                                (new Date().getTime() - new Date(lastPlayed).getTime()) / (1000 * 60 * 60 * 24)
+                              );
+                              const isActive = daysSince <= 180;
+                              return (
+                                <div className="flex items-center gap-2">
+                                  <div className={`w-2 h-2 rounded-full ${isActive ? 'bg-emerald-500 animate-pulse' : 'bg-zinc-500'}`} />
+                                  <span className={`text-xl font-bold font-mono ${isActive ? 'text-emerald-500' : 'text-zinc-500'}`}>
+                                    {isActive ? 'Active' : 'Inactive'}
+                                  </span>
+                                </div>
+                              );
+                            })()}
                           </div>
                         </div>
                       </div>
