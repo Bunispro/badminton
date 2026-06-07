@@ -929,7 +929,7 @@ function LeaderboardContent() {
                   initial={{ opacity: 0, scale: 0.98, x: '-50%', y: '-48%' }}
                   animate={{ opacity: 1, scale: 1, x: '-50%', y: '-50%' }}
                   exit={{ opacity: 0, scale: 0.98, x: '-50%', y: '-48%' }}
-                  className="fixed left-1/2 top-1/2 w-[92vw] h-auto md:max-h-[85vh] max-w-[1100px] bg-zinc-950/80 backdrop-blur-md border border-zinc-800/80 rounded-2xl p-6 md:p-10 shadow-[0_64px_256px_-24px_rgba(0,0,0,1)] z-[9999] overflow-hidden outline-none"
+                  className="fixed left-1/2 top-1/2 w-[92vw] h-auto max-h-[90vh] md:max-h-[85vh] max-w-[1100px] bg-zinc-950/80 backdrop-blur-md border border-zinc-800/80 rounded-2xl p-6 md:p-10 shadow-[0_64px_256px_-24px_rgba(0,0,0,1)] z-[9999] overflow-y-auto outline-none scrollbar-thin scrollbar-thumb-zinc-850"
                   onClick={(e) => e.stopPropagation()}
                 >
                   <div className="absolute inset-0 pointer-events-none overflow-hidden rounded-2xl">
@@ -1014,7 +1014,7 @@ function LeaderboardContent() {
                     </button>
                   </div>
 
-                  <div className="h-[40vh] md:h-[45vh] min-h-[300px] w-full relative mb-8 rounded-xl overflow-hidden bg-zinc-950/50 border border-zinc-800/50 p-4">
+                  <div className="h-[30vh] md:h-[35vh] min-h-[250px] w-full relative mb-8 rounded-xl overflow-hidden bg-zinc-950/50 border border-zinc-800/50 p-4">
                     {expandedPlayerLoading ? (
                       <div className="h-full flex flex-col items-center justify-center gap-8">
                         <div className="w-48 h-2 bg-zinc-900 overflow-hidden rounded-full relative">
@@ -1084,7 +1084,9 @@ function LeaderboardContent() {
                       Global Analytics Stream // Model: {model.toUpperCase()}
                     </div>
                     <div className="text-right">
-                      <div className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest mb-1">Last Match Data</div>
+                      <div className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest mb-1">
+                        {mode === 'peak' ? 'Peak Rating Date' : 'Last Match Date'}
+                      </div>
                       <div className="text-xl font-bold font-mono text-zinc-400">{expandedPlayer.date}</div>
                     </div>
                   </div>
