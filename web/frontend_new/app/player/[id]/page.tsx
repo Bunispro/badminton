@@ -299,7 +299,7 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
           <div className="p-12 text-center text-zinc-500 font-mono text-xs uppercase tracking-widest">Loading profile...</div>
         ) : (
           <div className="space-y-8">
-            <PlayerHeader player={player} stats={stats} countryCode={countryCode} />
+            <PlayerHeader player={player} stats={stats} countryCode={countryCode} daysSinceLastMatch={daysSinceLastMatch} />
 
             <div className="w-full flex flex-wrap gap-4 items-center justify-between bg-zinc-900/50 p-4 rounded-lg border border-zinc-800/50 backdrop-blur-sm">
               <div className="flex gap-2">

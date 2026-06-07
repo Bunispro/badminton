@@ -16,9 +16,10 @@ interface PlayerHeaderProps {
     current_rank?: number;
   } | null;
   countryCode?: string | null;
+  daysSinceLastMatch?: number | null;
 }
 
-export const PlayerHeader = ({ player, stats, countryCode }: PlayerHeaderProps) => {
+export const PlayerHeader = ({ player, stats, countryCode, daysSinceLastMatch }: PlayerHeaderProps) => {
   const colors = getBeamColors(countryCode || "");
   
   return (
@@ -96,8 +97,16 @@ export const PlayerHeader = ({ player, stats, countryCode }: PlayerHeaderProps) 
       {/* Content */}
       <div className="relative z-40 flex flex-col md:flex-row items-start md:items-center gap-4">
         <div className="flex flex-col gap-2">
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-3">
             <div className="text-zinc-500 text-sm font-mono uppercase tracking-widest">{player?.country}</div>
+            {daysSinceLastMatch !== undefined && (
+              <div className="flex items-center gap-1.5 px-2.5 py-0.5 bg-zinc-950/80 rounded-full border border-zinc-800/80 text-[10px] font-bold font-mono">
+                <span className={`w-1.5 h-1.5 rounded-full ${daysSinceLastMatch !== null && daysSinceLastMatch <= 180 ? 'bg-emerald-500 animate-pulse' : 'bg-zinc-500'}`} />
+                <span className={daysSinceLastMatch !== null && daysSinceLastMatch <= 180 ? 'text-emerald-500' : 'text-zinc-500'}>
+                  {daysSinceLastMatch !== null && daysSinceLastMatch <= 180 ? 'ACTIVE' : 'INACTIVE'}
+                </span>
+              </div>
+            )}
           </div>
           
           <NameShine 

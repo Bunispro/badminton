@@ -33,7 +33,7 @@ def get_mov_multiplier(score_str, event_canon, mov_base_mult=1.0, mov_growth_rat
         return mov_base_mult
     else:
         # Exponential curve starting from 6 point gap
-        return min(1.5, mov_base_mult * (mov_growth_rate ** (point_gap - 5)))
+        return min(1.35, mov_base_mult * (mov_growth_rate ** (point_gap - 5)))
 
 def snapshot_ratings(test_cursor, run_id, ratings_by_event, date, updated_keys=None):
     history_data = []
@@ -124,9 +124,20 @@ def prepare_player_state(pid, ratings, last_played, uncertainty_dict,
 
 def prepare_synergy_state(pair_key, synergy_dict, su_dict, last_played_dict,
                           current_date, su_growth, su_min, su_max,
-                          max_inc_per_month):
+                          max_inc_per_month, player_ratings=None):
     
-    synergy = synergy_dict.get(pair_key, 0.0)
+    if pair_key not in synergy_dict:
+        if player_ratings is not None and len(player_ratings) == 2:
+            gap = abs(player_ratings[0] - player_ratings[1])
+            # Cold-start synergy heuristic: large rating gaps result in a negative starting synergy,
+            # while well-matched players start with neutral/slight positive synergy.
+            synergy = -0.05 * gap if gap > 200 else 10.0
+        else:
+            synergy = 0.0
+        synergy_dict[pair_key] = synergy
+    else:
+        synergy = synergy_dict[pair_key]
+        
     su = su_dict.get(pair_key, 1.0)
     last_date = last_played_dict.get(pair_key)
 
@@ -462,8 +473,8 @@ def run_elo(
             pairA_key = "+".join(sorted(teamA_players))
             pairB_key = "+".join(sorted(teamB_players))
 
-            sa, sua = prepare_synergy_state(pairA_key, synergy, synergy_uncertainty, synergy_last_played, current_date, su_growth, u_min, u_max, u_max_inc_per_month)
-            sb, sub = prepare_synergy_state(pairB_key, synergy, synergy_uncertainty, synergy_last_played, current_date, su_growth, u_min, u_max, u_max_inc_per_month)
+            sa, sua = prepare_synergy_state(pairA_key, synergy, synergy_uncertainty, synergy_last_played, current_date, su_growth, u_min, u_max, u_max_inc_per_month, rating_teamA)
+            sb, sub = prepare_synergy_state(pairB_key, synergy, synergy_uncertainty, synergy_last_played, current_date, su_growth, u_min, u_max, u_max_inc_per_month, rating_teamB)
 
             ra = rating_a + sa
             rb = rating_b + sb
@@ -516,9 +527,76 @@ def run_elo(
             ))
             
         
+        abs_delta = abs(delta)
+
+        # Determine delta allocation for Team A players
+        delta_teamA = {}
+        if len(teamA_players) == 2:
+            p1, p2 = teamA_players
+            r1 = ratings.get(p1, base_rating)
+            r2 = ratings.get(p2, base_rating)
+            
+            if r1 >= r2:
+                high_id, low_id = p1, p2
+                r_high, r_low = r1, r2
+            else:
+                high_id, low_id = p2, p1
+                r_high, r_low = r2, r1
+                
+            gap = r_high - r_low
+            pair_key = "+".join(sorted(teamA_players))
+            syn = synergy.get(pair_key, 0.0)
+            
+            alpha = params.get('convergence_alpha', 0.0005)
+            siphon_mult = min(0.4, alpha * gap * max(0.0, syn))
+            
+            if win == 1:  # Team A wins (gains rating)
+                delta_teamA[high_id] = abs_delta * (0.5 - siphon_mult)
+                delta_teamA[low_id] = abs_delta * (0.5 + siphon_mult)
+            else:  # Team A loses (loses rating)
+                delta_teamA[high_id] = -abs_delta * (0.5 + siphon_mult)
+                delta_teamA[low_id] = -abs_delta * (0.5 - siphon_mult)
+        else:
+            sign = 1 if win == 1 else -1
+            for pid in teamA_players:
+                delta_teamA[pid] = (sign * abs_delta) / len(teamA_players)
+
+        # Determine delta allocation for Team B players
+        delta_teamB = {}
+        if len(teamB_players) == 2:
+            p1, p2 = teamB_players
+            r1 = ratings.get(p1, base_rating)
+            r2 = ratings.get(p2, base_rating)
+            
+            if r1 >= r2:
+                high_id, low_id = p1, p2
+                r_high, r_low = r1, r2
+            else:
+                high_id, low_id = p2, p1
+                r_high, r_low = r2, r1
+                
+            gap = r_high - r_low
+            pair_key = "+".join(sorted(teamB_players))
+            syn = synergy.get(pair_key, 0.0)
+            
+            alpha = params.get('convergence_alpha', 0.0005)
+            siphon_mult = min(0.4, alpha * gap * max(0.0, syn))
+            
+            if win == 0:  # Team B wins (gains rating)
+                delta_teamB[high_id] = abs_delta * (0.5 - siphon_mult)
+                delta_teamB[low_id] = abs_delta * (0.5 + siphon_mult)
+            else:  # Team B loses (loses rating)
+                delta_teamB[high_id] = -abs_delta * (0.5 + siphon_mult)
+                delta_teamB[low_id] = -abs_delta * (0.5 - siphon_mult)
+        else:
+            sign = 1 if win == 0 else -1
+            for pid in teamB_players:
+                delta_teamB[pid] = (sign * abs_delta) / len(teamB_players)
+
+        # Apply updates for Team A
         for pid in teamA_players:
             old = ratings.get(pid, base_rating)
-            ratings[pid] = old + delta / len(teamA_players)
+            ratings[pid] = old + delta_teamA[pid]
             last_played[pid] = current_date
             match_counts[pid] = match_counts.get(pid, 0) + 1
             if pid not in peaks or ratings[pid] > peaks[pid]:
@@ -534,9 +612,10 @@ def run_elo(
             if store_history:
                 updated_players_today.add((event, pid))
 
+        # Apply updates for Team B
         for pid in teamB_players:
             old = ratings.get(pid, base_rating)
-            ratings[pid] = old - delta / len(teamB_players)
+            ratings[pid] = old + delta_teamB[pid]
             last_played[pid] = current_date
             match_counts[pid] = match_counts.get(pid, 0) + 1
             if pid not in peaks or ratings[pid] > peaks[pid]:
