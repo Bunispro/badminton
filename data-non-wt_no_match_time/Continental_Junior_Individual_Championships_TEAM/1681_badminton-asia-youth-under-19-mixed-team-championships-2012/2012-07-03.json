@@ -1,0 +1,680 @@
+[
+  {
+    "id": 102808,
+    "code": "65",
+    "tournamentCode": "A7E94514-97E2-44C4-A518-6C6B1CFE9CB2",
+    "tournamentName": "Badminton Asia Youth Under 19 Mixed Team Championships 2012",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 3,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 1,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2012-07-03 09:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team Championships",
+    "roundName": null,
+    "drawName": "Mixed Team Championships",
+    "drawCode": "5",
+    "courtName": "Court C2",
+    "courtCode": "3",
+    "courtIndex": 1,
+    "locationName": "Main Location ",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 102809,
+        "code": "155",
+        "tournamentCode": "A7E94514-97E2-44C4-A518-6C6B1CFE9CB2",
+        "tournamentName": "Badminton Asia Youth Under 19 Mixed Team Championships 2012",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "88405",
+              "nameDisplay": "Akira KOGA",
+              "nameType": 0,
+              "firstName": "Akira",
+              "lastName": "KOGA",
+              "initials": "AK",
+              "nameShort": "A KOGA",
+              "nameShort2": "KOGA",
+              "slug": "akira-koga",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akira KOGA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896229/assets/players/thumbnail/88405.jpg"
+              }
+            },
+            {
+              "id": "96312",
+              "nameDisplay": "Akane YAMAGUCHI",
+              "nameType": 0,
+              "firstName": "Akane",
+              "lastName": "YAMAGUCHI",
+              "initials": "AY",
+              "nameShort": "A YAMAGUCHI",
+              "nameShort2": "YAMAGUCHI",
+              "slug": "akane-yamaguchi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akane YAMAGUCHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689647088/assets/players/thumbnail/96312.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "48106",
+              "nameDisplay": "PEI Tian Yi",
+              "nameType": 1,
+              "firstName": "Tian Yi",
+              "lastName": "PEI",
+              "initials": "PT",
+              "nameShort": "PEI T Y ",
+              "nameShort2": "PEI",
+              "slug": "pei-tian-yi",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "PEI Tian Yi",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "63168",
+              "nameDisplay": "HUANG Ya Qiong",
+              "nameType": 1,
+              "firstName": "Ya Qiong",
+              "lastName": "HUANG",
+              "initials": "HY",
+              "nameShort": "HUANG Y Q ",
+              "nameShort2": "HUANG",
+              "slug": "ya-qiong-huang",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Ya Qiong HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627952652/assets/players/thumbnail/63168.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2012-07-03 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Championships",
+        "roundName": null,
+        "drawName": "Mixed Team Championships",
+        "drawCode": "5",
+        "courtName": "Court C2",
+        "courtCode": "3",
+        "courtIndex": 1,
+        "locationName": "Main Location ",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 102810,
+        "code": "151",
+        "tournamentCode": "A7E94514-97E2-44C4-A518-6C6B1CFE9CB2",
+        "tournamentName": "Badminton Asia Youth Under 19 Mixed Team Championships 2012",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "89785",
+              "nameDisplay": "Kento MOMOTA",
+              "nameType": 0,
+              "firstName": "Kento",
+              "lastName": "MOMOTA",
+              "initials": "KM",
+              "nameShort": "K MOMOTA",
+              "nameShort2": "MOMOTA",
+              "slug": "kento-momota",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kento MOMOTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658823118/assets/players/thumbnail/89785.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "78769",
+              "nameDisplay": "XUE Song",
+              "nameType": 1,
+              "firstName": "Song",
+              "lastName": "XUE",
+              "initials": "XS",
+              "nameShort": "XUE S",
+              "nameShort2": "XUE",
+              "slug": "xue-song",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "XUE Song",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894522/assets/players/thumbnail/78769.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2012-07-03 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Championships",
+        "roundName": null,
+        "drawName": "Mixed Team Championships",
+        "drawCode": "5",
+        "courtName": "Court C2",
+        "courtCode": "3",
+        "courtIndex": 1,
+        "locationName": "Main Location ",
+        "duration": 56,
+        "time": "00:56",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 102811,
+        "code": "153",
+        "tournamentCode": "A7E94514-97E2-44C4-A518-6C6B1CFE9CB2",
+        "tournamentName": "Badminton Asia Youth Under 19 Mixed Team Championships 2012",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "59419",
+              "nameDisplay": "Takuto INOUE",
+              "nameType": 0,
+              "firstName": "Takuto",
+              "lastName": "INOUE",
+              "initials": "TI",
+              "nameShort": "T INOUE",
+              "nameShort2": "INOUE",
+              "slug": "takuto-inoue",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Takuto INOUE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897287/assets/players/thumbnail/59419.jpg"
+              }
+            },
+            {
+              "id": "95761",
+              "nameDisplay": "Yuki KANEKO",
+              "nameType": 0,
+              "firstName": "Yuki",
+              "lastName": "KANEKO",
+              "initials": "YK",
+              "nameShort": "Y KANEKO",
+              "nameShort2": "KANEKO",
+              "slug": "yuki-kaneko",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yuki KANEKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897315/assets/players/thumbnail/95761.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "48106",
+              "nameDisplay": "PEI Tian Yi",
+              "nameType": 1,
+              "firstName": "Tian Yi",
+              "lastName": "PEI",
+              "initials": "PT",
+              "nameShort": "PEI T Y ",
+              "nameShort2": "PEI",
+              "slug": "pei-tian-yi",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "PEI Tian Yi",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "51638",
+              "nameDisplay": "ZHANG Ningyi",
+              "nameType": 1,
+              "firstName": "Ningyi",
+              "lastName": "ZHANG",
+              "initials": "ZN",
+              "nameShort": "ZHANG N",
+              "nameShort2": "ZHANG",
+              "slug": "zhang-ningyi",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "ZHANG Ningyi",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894365/assets/players/thumbnail/51638.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2012-07-03 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Championships",
+        "roundName": null,
+        "drawName": "Mixed Team Championships",
+        "drawCode": "5",
+        "courtName": "Court C2",
+        "courtCode": "3",
+        "courtIndex": 1,
+        "locationName": "Main Location ",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 102812,
+        "code": "152",
+        "tournamentCode": "A7E94514-97E2-44C4-A518-6C6B1CFE9CB2",
+        "tournamentName": "Badminton Asia Youth Under 19 Mixed Team Championships 2012",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "96713",
+              "nameDisplay": "Nozomi OKUHARA",
+              "nameType": 0,
+              "firstName": "Nozomi",
+              "lastName": "OKUHARA",
+              "initials": "NO",
+              "nameShort": "N OKUHARA",
+              "nameShort2": "OKUHARA",
+              "slug": "nozomi-okuhara",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Nozomi OKUHARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895749/assets/players/thumbnail/96713.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "92736",
+              "nameDisplay": "SUN Yu",
+              "nameType": 1,
+              "firstName": "Yu",
+              "lastName": "SUN",
+              "initials": "SY",
+              "nameShort": "SUN Y",
+              "nameShort2": "SUN",
+              "slug": "sun-yu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "SUN Yu",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895710/assets/players/thumbnail/92736.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2012-07-03 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Championships",
+        "roundName": null,
+        "drawName": "Mixed Team Championships",
+        "drawCode": "5",
+        "courtName": "Court C2",
+        "courtCode": "3",
+        "courtIndex": 1,
+        "locationName": "Main Location ",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 102813,
+        "code": "154",
+        "tournamentCode": "A7E94514-97E2-44C4-A518-6C6B1CFE9CB2",
+        "tournamentName": "Badminton Asia Youth Under 19 Mixed Team Championships 2012",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "65751",
+              "nameDisplay": "Chisato HOSHI",
+              "nameType": 0,
+              "firstName": "Chisato",
+              "lastName": "HOSHI",
+              "initials": "CH",
+              "nameShort": "C HOSHI",
+              "nameShort2": "HOSHI",
+              "slug": "chisato-hoshi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Chisato HOSHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636438220/assets/players/thumbnail/65751.jpg"
+              }
+            },
+            {
+              "id": "83211",
+              "nameDisplay": "Ayako SAKURAMOTO",
+              "nameType": 0,
+              "firstName": "Ayako",
+              "lastName": "SAKURAMOTO",
+              "initials": "AS",
+              "nameShort": "A SAKURAMOTO",
+              "nameShort2": "SAKURAMOTO",
+              "slug": "ayako-sakuramoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Ayako SAKURAMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896000/assets/players/thumbnail/83211.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "62554",
+              "nameDisplay": "YU Xiao Han",
+              "nameType": 1,
+              "firstName": "Xiao Han",
+              "lastName": "YU",
+              "initials": "YX",
+              "nameShort": "YU X H ",
+              "nameShort2": "YU",
+              "slug": "yu-xiao-han",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "YU Xiao Han",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894507/assets/players/thumbnail/62554.jpg"
+              }
+            },
+            {
+              "id": "63168",
+              "nameDisplay": "HUANG Ya Qiong",
+              "nameType": 1,
+              "firstName": "Ya Qiong",
+              "lastName": "HUANG",
+              "initials": "HY",
+              "nameShort": "HUANG Y Q ",
+              "nameShort2": "HUANG",
+              "slug": "ya-qiong-huang",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Ya Qiong HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627952652/assets/players/thumbnail/63168.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2012-07-03 09:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team Championships",
+        "roundName": null,
+        "drawName": "Mixed Team Championships",
+        "drawCode": "5",
+        "courtName": "Court C2",
+        "courtCode": "3",
+        "courtIndex": 1,
+        "locationName": "Main Location ",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

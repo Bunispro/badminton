@@ -1,0 +1,5156 @@
+[
+  {
+    "id": 1211687,
+    "code": "68",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 3,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 480,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Women's Team",
+    "roundName": "QF",
+    "drawName": "Women's Team - Knock Out",
+    "drawCode": "9",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211688,
+        "code": "121",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "96312",
+              "nameDisplay": "Akane YAMAGUCHI",
+              "nameType": 0,
+              "firstName": "Akane",
+              "lastName": "YAMAGUCHI",
+              "initials": "AY",
+              "nameShort": "A YAMAGUCHI",
+              "nameShort2": "YAMAGUCHI",
+              "slug": "akane-yamaguchi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akane YAMAGUCHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689647088/assets/players/thumbnail/96312.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "83802",
+              "nameDisplay": "Gregoria Mariska TUNJUNG",
+              "nameType": 0,
+              "firstName": "Gregoria Mariska",
+              "lastName": "TUNJUNG",
+              "initials": "GT",
+              "nameShort": "G TUNJUNG",
+              "nameShort2": "TUNJUNG",
+              "slug": "gregoria-mariska-tunjung",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Gregoria Mariska TUNJUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637133297/assets/players/thumbnail/83802.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211691,
+        "code": "124",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "71023",
+              "nameDisplay": "Yuki FUKUSHIMA",
+              "nameType": 0,
+              "firstName": "Yuki",
+              "lastName": "FUKUSHIMA",
+              "initials": "YF",
+              "nameShort": "Y FUKUSHIMA",
+              "nameShort2": "FUKUSHIMA",
+              "slug": "yuki-fukushima",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yuki FUKUSHIMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657872319/assets/players/thumbnail/71023.jpg"
+              }
+            },
+            {
+              "id": "94519",
+              "nameDisplay": "Sayaka HIROTA",
+              "nameType": 0,
+              "firstName": "Sayaka",
+              "lastName": "HIROTA",
+              "initials": "SH",
+              "nameShort": "S HIROTA",
+              "nameShort2": "HIROTA",
+              "slug": "sayaka-hirota",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Sayaka HIROTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633938972/assets/players/thumbnail/94519.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "14729",
+              "nameDisplay": "Greysia POLII",
+              "nameType": 0,
+              "firstName": "Greysia",
+              "lastName": "POLII",
+              "initials": "GP",
+              "nameShort": "G POLII",
+              "nameShort2": "POLII",
+              "slug": "greysia-polii",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Greysia POLII",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627950703/assets/players/thumbnail/14729.jpg"
+              }
+            },
+            {
+              "id": "81462",
+              "nameDisplay": "Apriyani RAHAYU",
+              "nameType": 0,
+              "firstName": "Apriyani",
+              "lastName": "RAHAYU",
+              "initials": "AR",
+              "nameShort": "A RAHAYU",
+              "nameShort2": "RAHAYU",
+              "slug": "apriyani-rahayu",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Apriyani RAHAYU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627950743/assets/players/thumbnail/81462.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211689,
+        "code": "122",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "34890",
+              "nameDisplay": "Sayaka TAKAHASHI",
+              "nameType": 0,
+              "firstName": "Sayaka",
+              "lastName": "TAKAHASHI",
+              "initials": "ST",
+              "nameShort": "S TAKAHASHI",
+              "nameShort2": "TAKAHASHI",
+              "slug": "sayaka-takahashi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Sayaka TAKAHASHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896992/assets/players/thumbnail/34890.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "81986",
+              "nameDisplay": "Ruselli HARTAWAN",
+              "nameType": 0,
+              "firstName": "Ruselli",
+              "lastName": "HARTAWAN",
+              "initials": "RH",
+              "nameShort": "R HARTAWAN",
+              "nameShort2": "HARTAWAN",
+              "slug": "ruselli-hartawan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Ruselli HARTAWAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636594099/assets/players/thumbnail/81986.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211692,
+        "code": "125",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "65212",
+              "nameDisplay": "Nami MATSUYAMA",
+              "nameType": 0,
+              "firstName": "Nami",
+              "lastName": "MATSUYAMA",
+              "initials": "NM",
+              "nameShort": "N MATSUYAMA",
+              "nameShort2": "MATSUYAMA",
+              "slug": "nami-matsuyama",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Nami MATSUYAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657872624/assets/players/thumbnail/65212.jpg"
+              }
+            },
+            {
+              "id": "68282",
+              "nameDisplay": "Chiharu SHIDA",
+              "nameType": 0,
+              "firstName": "Chiharu",
+              "lastName": "SHIDA",
+              "initials": "CS",
+              "nameShort": "C SHIDA",
+              "nameShort2": "SHIDA",
+              "slug": "chiharu-shida",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Chiharu SHIDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1635908674/assets/players/thumbnail/68282.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "88097",
+              "nameDisplay": "Siti Fadia Silva RAMADHANTI",
+              "nameType": 0,
+              "firstName": "Siti Fadia Silva",
+              "lastName": "RAMADHANTI",
+              "initials": "SR",
+              "nameShort": "S RAMADHANTI",
+              "nameShort2": "RAMADHANTI",
+              "slug": "siti-fadia-silva-ramadhanti",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Siti Fadia Silva RAMADHANTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636509375/assets/players/thumbnail/88097.jpg"
+              }
+            },
+            {
+              "id": "96455",
+              "nameDisplay": "Ribka SUGIARTO",
+              "nameType": 0,
+              "firstName": "Ribka",
+              "lastName": "SUGIARTO",
+              "initials": "RS",
+              "nameShort": "R SUGIARTO",
+              "nameShort2": "SUGIARTO",
+              "slug": "ribka-sugiarto",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Ribka SUGIARTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636508557/assets/players/thumbnail/96455.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211690,
+        "code": "123",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "76079",
+              "nameDisplay": "Riko GUNJI",
+              "nameType": 0,
+              "firstName": "Riko",
+              "lastName": "GUNJI",
+              "initials": "RG",
+              "nameShort": "R GUNJI",
+              "nameShort2": "GUNJI",
+              "slug": "riko-gunji",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Riko GUNJI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897768/assets/players/thumbnail/76079.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "76890",
+              "nameDisplay": "Putri Kusuma WARDANI",
+              "nameType": 0,
+              "firstName": "Putri Kusuma",
+              "lastName": "WARDANI",
+              "initials": "PW",
+              "nameShort": "P WARDANI",
+              "nameShort2": "WARDANI",
+              "slug": "putri-kusuma-wardani",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Putri Kusuma WARDANI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1766038573/assets/players/thumbnail/76890.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211675,
+    "code": "121",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MAS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+      "teamId": 481,
+      "teamName": "Malaysia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 16:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Men's Team",
+    "roundName": "QF",
+    "drawName": "Men's Team - Knock Out",
+    "drawCode": "14",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211676,
+        "code": "226",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "68718",
+              "nameDisplay": "HEO Kwang Hee",
+              "nameType": 1,
+              "firstName": "Kwang Hee",
+              "lastName": "HEO",
+              "initials": "HK",
+              "nameShort": "HEO K H ",
+              "nameShort2": "HEO",
+              "slug": "kwang-hee-heo",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Kwang Hee HEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633914061/assets/players/thumbnail/68718.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "81561",
+              "nameDisplay": "LEE Zii Jia",
+              "nameType": 1,
+              "firstName": "Zii Jia",
+              "lastName": "LEE",
+              "initials": "LZ",
+              "nameShort": "LEE Z J ",
+              "nameShort2": "LEE",
+              "slug": "zii-jia-lee",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Zii Jia LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1616738532/assets/players/thumbnail/81561.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211679,
+        "code": "229",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "67810",
+              "nameDisplay": "CHOI Sol Gyu",
+              "nameType": 1,
+              "firstName": "Sol Gyu",
+              "lastName": "CHOI",
+              "initials": "CS",
+              "nameShort": "CHOI S G ",
+              "nameShort2": "CHOI",
+              "slug": "sol-gyu-choi",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sol Gyu CHOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897583/assets/players/thumbnail/67810.jpg"
+              }
+            },
+            {
+              "id": "61444",
+              "nameDisplay": "KIM Won Ho",
+              "nameType": 1,
+              "firstName": "Won Ho",
+              "lastName": "KIM",
+              "initials": "KW",
+              "nameShort": "KIM W H ",
+              "nameShort2": "KIM",
+              "slug": "won-ho-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Won Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895351/assets/players/thumbnail/61444.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "56203",
+              "nameDisplay": "Aaron CHIA",
+              "nameType": 0,
+              "firstName": "Aaron",
+              "lastName": "CHIA",
+              "initials": "AC",
+              "nameShort": "A CHIA",
+              "nameShort2": "CHIA",
+              "slug": "aaron-chia",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Aaron CHIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949889/assets/players/thumbnail/56203.jpg"
+              }
+            },
+            {
+              "id": "99389",
+              "nameDisplay": "SOH Wooi Yik",
+              "nameType": 1,
+              "firstName": "Wooi Yik",
+              "lastName": "SOH",
+              "initials": "SW",
+              "nameShort": "SOH W Y ",
+              "nameShort2": "SOH",
+              "slug": "wooi-yik-soh",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Wooi Yik SOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949962/assets/players/thumbnail/99389.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211677,
+        "code": "227",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "54346",
+              "nameDisplay": "SON Wan Ho",
+              "nameType": 1,
+              "firstName": "Wan Ho",
+              "lastName": "SON",
+              "initials": "SW",
+              "nameShort": "SON W H ",
+              "nameShort2": "SON",
+              "slug": "wan-ho-son",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Wan Ho SON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897221/assets/players/thumbnail/54346.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "92796",
+              "nameDisplay": "CHEAM June Wei",
+              "nameType": 1,
+              "firstName": "June Wei",
+              "lastName": "CHEAM",
+              "initials": "CJ",
+              "nameShort": "CHEAM J W ",
+              "nameShort2": "CHEAM",
+              "slug": "june-wei-cheam",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "June Wei CHEAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897830/assets/players/thumbnail/92796.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": 62,
+        "time": "01:02",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211680,
+        "code": "230",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "82502",
+              "nameDisplay": "NA Sung Seung",
+              "nameType": 1,
+              "firstName": "Sung Seung",
+              "lastName": "NA",
+              "initials": "NS",
+              "nameShort": "NA S S ",
+              "nameShort2": "NA",
+              "slug": "sung-seung-na",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sung Seung NA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897813/assets/players/thumbnail/82502.jpg"
+              }
+            },
+            {
+              "id": "72646",
+              "nameDisplay": "WANG Chan",
+              "nameType": 1,
+              "firstName": "Chan",
+              "lastName": "WANG",
+              "initials": "WC",
+              "nameShort": "WANG C",
+              "nameShort2": "WANG",
+              "slug": "chan-wang",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Chan WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896428/assets/players/thumbnail/72646.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "84064",
+              "nameDisplay": "ONG Yew Sin",
+              "nameType": 1,
+              "firstName": "Yew Sin",
+              "lastName": "ONG",
+              "initials": "OY",
+              "nameShort": "ONG Y S ",
+              "nameShort2": "ONG",
+              "slug": "yew-sin-ong",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Yew Sin ONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895617/assets/players/thumbnail/84064.jpg"
+              }
+            },
+            {
+              "id": "99066",
+              "nameDisplay": "TEO Ee Yi",
+              "nameType": 1,
+              "firstName": "Ee Yi",
+              "lastName": "TEO",
+              "initials": "TE",
+              "nameShort": "TEO E Y ",
+              "nameShort2": "TEO",
+              "slug": "ee-yi-teo",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Ee Yi TEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895769/assets/players/thumbnail/99066.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211678,
+        "code": "228",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "98478",
+              "nameDisplay": "Dong Hoon KIM",
+              "nameType": 0,
+              "firstName": "Dong Hoon",
+              "lastName": "KIM",
+              "initials": "DK",
+              "nameShort": "D KIM",
+              "nameShort2": "KIM",
+              "slug": "dong-hoon-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Dong Hoon KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "84838",
+              "nameDisplay": "LEONG Jun Hao",
+              "nameType": 1,
+              "firstName": "Jun Hao",
+              "lastName": "LEONG",
+              "initials": "LJ",
+              "nameShort": "LEONG J H ",
+              "nameShort2": "LEONG",
+              "slug": "jun-hao-leong",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Jun Hao LEONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895805/assets/players/thumbnail/84838.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211693,
+    "code": "69",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 479,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MAS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+      "teamId": 481,
+      "teamName": "Malaysia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:10:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Women's Team",
+    "roundName": "QF",
+    "drawName": "Women's Team - Knock Out",
+    "drawCode": "9",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211694,
+        "code": "126",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "99925",
+              "nameDisplay": "PAI Yu Po",
+              "nameType": 1,
+              "firstName": "Yu Po",
+              "lastName": "PAI",
+              "initials": "PY",
+              "nameShort": "PAI Y P ",
+              "nameShort2": "PAI",
+              "slug": "yu-po-pai",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yu Po PAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634106195/assets/players/thumbnail/99925.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "18143",
+              "nameDisplay": "Soniia CHEAH",
+              "nameType": 0,
+              "firstName": "Soniia",
+              "lastName": "CHEAH",
+              "initials": "SC",
+              "nameShort": "S CHEAH",
+              "nameShort2": "CHEAH",
+              "slug": "soniia-cheah",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Soniia CHEAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896200/assets/players/thumbnail/18143.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": 60,
+        "time": "01:00",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211697,
+        "code": "129",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "74561",
+              "nameDisplay": "HSU Ya Ching",
+              "nameType": 1,
+              "firstName": "Ya Ching",
+              "lastName": "HSU",
+              "initials": "HY",
+              "nameShort": "HSU Y C ",
+              "nameShort2": "HSU",
+              "slug": "ya-ching-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ya Ching HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897535/assets/players/thumbnail/74561.jpg"
+              }
+            },
+            {
+              "id": "87176",
+              "nameDisplay": "HU Ling Fang",
+              "nameType": 1,
+              "firstName": "Ling Fang",
+              "lastName": "HU",
+              "initials": "HL",
+              "nameShort": "HU L F ",
+              "nameShort2": "HU",
+              "slug": "ling-fang-hu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ling Fang HU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773544/assets/players/thumbnail/87176.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "12411",
+              "nameDisplay": "CHOW Mei Kuan",
+              "nameType": 1,
+              "firstName": "Mei Kuan",
+              "lastName": "CHOW",
+              "initials": "CM",
+              "nameShort": "CHOW M K ",
+              "nameShort2": "CHOW",
+              "slug": "mei-kuan-chow",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Mei Kuan CHOW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896194/assets/players/thumbnail/12411.jpg"
+              }
+            },
+            {
+              "id": "93215",
+              "nameDisplay": "LEE Meng Yean",
+              "nameType": 1,
+              "firstName": "Meng Yean",
+              "lastName": "LEE",
+              "initials": "LM",
+              "nameShort": "LEE M Y ",
+              "nameShort2": "LEE",
+              "slug": "meng-yean-lee",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Meng Yean LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281431/assets/players/thumbnail/93215.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211695,
+        "code": "127",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "27588",
+              "nameDisplay": "CHIANG Ying Li",
+              "nameType": 1,
+              "firstName": "Ying Li",
+              "lastName": "CHIANG",
+              "initials": "CY",
+              "nameShort": "CHIANG Y L ",
+              "nameShort2": "CHIANG",
+              "slug": "ying-li-chiang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ying Li CHIANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895072/assets/players/thumbnail/27588.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "69012",
+              "nameDisplay": "GOH Jin Wei",
+              "nameType": 1,
+              "firstName": "Jin Wei",
+              "lastName": "GOH",
+              "initials": "GJ",
+              "nameShort": "GOH J W ",
+              "nameShort2": "GOH",
+              "slug": "jin-wei-goh",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Jin Wei GOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991577/assets/players/thumbnail/69012.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": 48,
+        "time": "00:48",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211698,
+        "code": "130",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "92339",
+              "nameDisplay": "CHENG Chi Ya",
+              "nameType": 1,
+              "firstName": "Chi Ya",
+              "lastName": "CHENG",
+              "initials": "CC",
+              "nameShort": "CHENG C Y ",
+              "nameShort2": "CHENG",
+              "slug": "cheng-chi-ya",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "CHENG Chi Ya",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897642/assets/players/thumbnail/92339.jpg"
+              }
+            },
+            {
+              "id": "77949",
+              "nameDisplay": "LIU Chiao-Yun",
+              "nameType": 1,
+              "firstName": "Chiao-Yun",
+              "lastName": "LIU",
+              "initials": "LC",
+              "nameShort": "LIU C Y ",
+              "nameShort2": "LIU",
+              "slug": "chiao-yun-liu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chiao-Yun LIU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "85551",
+              "nameDisplay": "Pearly TAN",
+              "nameType": 0,
+              "firstName": "Pearly",
+              "lastName": "TAN",
+              "initials": "PT",
+              "nameShort": "P TAN",
+              "nameShort2": "TAN",
+              "slug": "pearly-tan",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Pearly TAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657779588/assets/players/thumbnail/85551.jpg"
+              }
+            },
+            {
+              "id": "68628",
+              "nameDisplay": "THINAAH Muralitharan",
+              "nameType": 1,
+              "firstName": "Muralitharan",
+              "lastName": "THINAAH",
+              "initials": "TM",
+              "nameShort": "THINAAH M",
+              "nameShort2": "THINAAH",
+              "slug": "muralitharan-thinaah",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Muralitharan THINAAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281515/assets/players/thumbnail/68628.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": 61,
+        "time": "01:01",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211696,
+        "code": "128",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "80795",
+              "nameDisplay": "HUNG Yi-Ting",
+              "nameType": 1,
+              "firstName": "Yi-Ting",
+              "lastName": "HUNG",
+              "initials": "HY",
+              "nameShort": "HUNG Y T ",
+              "nameShort2": "HUNG",
+              "slug": "yi-ting-hung",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yi-Ting HUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634279481/assets/players/thumbnail/80795.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 481,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "92014",
+              "nameDisplay": "KISONA Selvaduray",
+              "nameType": 1,
+              "firstName": "Selvaduray",
+              "lastName": "KISONA",
+              "initials": "KS",
+              "nameShort": "KISONA S",
+              "nameShort2": "KISONA",
+              "slug": "selvaduray-kisona",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Selvaduray KISONA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896186/assets/players/thumbnail/92014.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211663,
+    "code": "119",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 480,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PHI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+      "teamId": 483,
+      "teamName": "Philippines",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 16:10:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Men's Team",
+    "roundName": "QF",
+    "drawName": "Men's Team - Knock Out",
+    "drawCode": "14",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211664,
+        "code": "216",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "95661",
+              "nameDisplay": "Anthony Sinisuka GINTING",
+              "nameType": 0,
+              "firstName": "Anthony Sinisuka",
+              "lastName": "GINTING",
+              "initials": "AG",
+              "nameShort": "A GINTING",
+              "nameShort2": "GINTING",
+              "slug": "anthony-sinisuka-ginting",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Anthony Sinisuka GINTING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689644313/assets/players/thumbnail/95661.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+          "teamId": 483,
+          "teamName": "Philippines",
+          "players": [
+            {
+              "id": "96232",
+              "nameDisplay": "Ros Leenard PEDROSA",
+              "nameType": 0,
+              "firstName": "Ros Leenard",
+              "lastName": "PEDROSA",
+              "initials": "RP",
+              "nameShort": "R PEDROSA",
+              "nameShort2": "PEDROSA",
+              "slug": "ros-leenard-pedrosa",
+              "countryCode": "PHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+              "avatar": {
+                "title": "Ros Leenard PEDROSA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211667,
+        "code": "219",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "52749",
+              "nameDisplay": "Mohammad AHSAN",
+              "nameType": 0,
+              "firstName": "Mohammad",
+              "lastName": "AHSAN",
+              "initials": "MA",
+              "nameShort": "M AHSAN",
+              "nameShort2": "AHSAN",
+              "slug": "mohammad-ahsan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Mohammad AHSAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1590501414/assets/players/thumbnail/52749.jpg"
+              }
+            },
+            {
+              "id": "51074",
+              "nameDisplay": "Hendra SETIAWAN",
+              "nameType": 0,
+              "firstName": "Hendra",
+              "lastName": "SETIAWAN",
+              "initials": "HS",
+              "nameShort": "H SETIAWAN",
+              "nameShort2": "SETIAWAN",
+              "slug": "hendra-setiawan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Hendra SETIAWAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657778738/assets/players/thumbnail/51074.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+          "teamId": 483,
+          "teamName": "Philippines",
+          "players": [
+            {
+              "id": "46447",
+              "nameDisplay": "Peter Gabriel MAGNAYE",
+              "nameType": 0,
+              "firstName": "Peter Gabriel",
+              "lastName": "MAGNAYE",
+              "initials": "PM",
+              "nameShort": "P MAGNAYE",
+              "nameShort2": "MAGNAYE",
+              "slug": "peter-gabriel-magnaye",
+              "countryCode": "PHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+              "avatar": {
+                "title": "Peter Gabriel MAGNAYE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897026/assets/players/thumbnail/46447.jpg"
+              }
+            },
+            {
+              "id": "56754",
+              "nameDisplay": "Alvin MORADA",
+              "nameType": 0,
+              "firstName": "Alvin",
+              "lastName": "MORADA",
+              "initials": "AM",
+              "nameShort": "A MORADA",
+              "nameShort2": "MORADA",
+              "slug": "alvin-morada",
+              "countryCode": "PHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+              "avatar": {
+                "title": "Alvin MORADA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690255182/assets/players/thumbnail/56754.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211665,
+        "code": "217",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "73442",
+              "nameDisplay": "Jonatan CHRISTIE",
+              "nameType": 0,
+              "firstName": "Jonatan",
+              "lastName": "CHRISTIE",
+              "initials": "JC",
+              "nameShort": "J CHRISTIE",
+              "nameShort2": "CHRISTIE",
+              "slug": "jonatan-christie",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Jonatan CHRISTIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697434451/assets/players/thumbnail/73442.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+          "teamId": 483,
+          "teamName": "Philippines",
+          "players": [
+            {
+              "id": "79525",
+              "nameDisplay": "Lanz Ralf ZAFRA",
+              "nameType": 0,
+              "firstName": "Lanz Ralf",
+              "lastName": "ZAFRA",
+              "initials": "LZ",
+              "nameShort": "L ZAFRA",
+              "nameShort2": "ZAFRA",
+              "slug": "lanz-ralf-zafra",
+              "countryCode": "PHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+              "avatar": {
+                "title": "Lanz Ralf ZAFRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211668,
+        "code": "220",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "88876",
+              "nameDisplay": "Fajar ALFIAN",
+              "nameType": 0,
+              "firstName": "Fajar",
+              "lastName": "ALFIAN",
+              "initials": "FA",
+              "nameShort": "F ALFIAN",
+              "nameShort2": "ALFIAN",
+              "slug": "fajar-alfian",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Fajar ALFIAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689648880/assets/players/thumbnail/88876.jpg"
+              }
+            },
+            {
+              "id": "91130",
+              "nameDisplay": "Muhammad Rian ARDIANTO",
+              "nameType": 0,
+              "firstName": "Muhammad Rian",
+              "lastName": "ARDIANTO",
+              "initials": "MA",
+              "nameShort": "M ARDIANTO",
+              "nameShort2": "ARDIANTO",
+              "slug": "muhammad-rian-ardianto",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Muhammad Rian ARDIANTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690160931/assets/players/thumbnail/91130.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+          "teamId": 483,
+          "teamName": "Philippines",
+          "players": [
+            {
+              "id": "32857",
+              "nameDisplay": "Philip Joper ESCUETA",
+              "nameType": 0,
+              "firstName": "Philip Joper",
+              "lastName": "ESCUETA",
+              "initials": "PE",
+              "nameShort": "P ESCUETA",
+              "nameShort2": "ESCUETA",
+              "slug": "philip-joper-escueta",
+              "countryCode": "PHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+              "avatar": {
+                "title": "Philip Joper ESCUETA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896983/assets/players/thumbnail/32857.jpg"
+              }
+            },
+            {
+              "id": "93054",
+              "nameDisplay": "Paul John PANTIG",
+              "nameType": 0,
+              "firstName": "Paul John",
+              "lastName": "PANTIG",
+              "initials": "PP",
+              "nameShort": "P PANTIG",
+              "nameShort2": "PANTIG",
+              "slug": "paul-john-pantig",
+              "countryCode": "PHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+              "avatar": {
+                "title": "Paul John PANTIG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211666,
+        "code": "218",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "81887",
+              "nameDisplay": "Shesar Hiren RHUSTAVITO",
+              "nameType": 0,
+              "firstName": "Shesar Hiren",
+              "lastName": "RHUSTAVITO",
+              "initials": "SR",
+              "nameShort": "S RHUSTAVITO",
+              "nameShort2": "RHUSTAVITO",
+              "slug": "shesar-hiren-rhustavito",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Shesar Hiren RHUSTAVITO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636592724/assets/players/thumbnail/81887.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PHI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+          "teamId": 483,
+          "teamName": "Philippines",
+          "players": [
+            {
+              "id": "63053",
+              "nameDisplay": "Solomon Jr. PADIZ",
+              "nameType": 0,
+              "firstName": "Solomon Jr.",
+              "lastName": "PADIZ",
+              "initials": "SP",
+              "nameShort": "S PADIZ",
+              "nameShort2": "PADIZ",
+              "slug": "solomon-jr-padiz",
+              "countryCode": "PHI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PHI.png",
+              "avatar": {
+                "title": "Solomon Jr. PADIZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690255323/assets/players/thumbnail/63053.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211699,
+    "code": "70",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "KAZ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+      "teamId": 46,
+      "teamName": "Kazakhstan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 6,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:10:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Women's Team",
+    "roundName": "QF",
+    "drawName": "Women's Team - Knock Out",
+    "drawCode": "9",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211700,
+        "code": "131",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "58884",
+              "nameDisplay": "Kamila SMAGULOVA",
+              "nameType": 0,
+              "firstName": "Kamila",
+              "lastName": "SMAGULOVA",
+              "initials": "KS",
+              "nameShort": "K SMAGULOVA",
+              "nameShort2": "SMAGULOVA",
+              "slug": "kamila-smagulova",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Kamila SMAGULOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "58271",
+              "nameDisplay": "Busanan ONGBAMRUNGPHAN",
+              "nameType": 0,
+              "firstName": "Busanan",
+              "lastName": "ONGBAMRUNGPHAN",
+              "initials": "BO",
+              "nameShort": "B ONGBAMRUNGPHAN",
+              "nameShort2": "ONGBAMRUNGPHAN",
+              "slug": "busanan-ongbamrungphan",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Busanan ONGBAMRUNGPHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1669169509/assets/players/thumbnail/58271.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 3,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 4,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211701,
+        "code": "132",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "57875",
+              "nameDisplay": "Arina SAZONOVA",
+              "nameType": 0,
+              "firstName": "Arina",
+              "lastName": "SAZONOVA",
+              "initials": "AS",
+              "nameShort": "A SAZONOVA",
+              "nameShort2": "SAZONOVA",
+              "slug": "arina-sazonova",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Arina SAZONOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "84062",
+              "nameDisplay": "Pornpawee CHOCHUWONG",
+              "nameType": 0,
+              "firstName": "Pornpawee",
+              "lastName": "CHOCHUWONG",
+              "initials": "PC",
+              "nameShort": "P CHOCHUWONG",
+              "nameShort2": "CHOCHUWONG",
+              "slug": "pornpawee-chochuwong",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Pornpawee CHOCHUWONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697765882/assets/players/thumbnail/84062.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 1,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211702,
+        "code": "133",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "64939",
+              "nameDisplay": "Oxsana SHTELLE",
+              "nameType": 0,
+              "firstName": "Oxsana",
+              "lastName": "SHTELLE",
+              "initials": "OS",
+              "nameShort": "O SHTELLE",
+              "nameShort2": "SHTELLE",
+              "slug": "oxsana-shtelle",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Oxsana SHTELLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "62301",
+              "nameDisplay": "LALINRAT CHAIWAN",
+              "nameType": 0,
+              "firstName": "LALINRAT",
+              "lastName": "CHAIWAN",
+              "initials": "LC",
+              "nameShort": "L CHAIWAN",
+              "nameShort2": "CHAIWAN",
+              "slug": "lalinrat-chaiwan",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "LALINRAT CHAIWAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708285/assets/players/thumbnail/62301.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 5,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211704,
+        "code": "135",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "57875",
+              "nameDisplay": "Arina SAZONOVA",
+              "nameType": 0,
+              "firstName": "Arina",
+              "lastName": "SAZONOVA",
+              "initials": "AS",
+              "nameShort": "A SAZONOVA",
+              "nameShort2": "SAZONOVA",
+              "slug": "arina-sazonova",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Arina SAZONOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "74774",
+              "nameDisplay": "Aisha ZHUMABEK",
+              "nameType": 0,
+              "firstName": "Aisha",
+              "lastName": "ZHUMABEK",
+              "initials": "AZ",
+              "nameShort": "A ZHUMABEK",
+              "nameShort2": "ZHUMABEK",
+              "slug": "aisha-zhumabek",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Aisha ZHUMABEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "67168",
+              "nameDisplay": "Chayanit CHALADCHALAM",
+              "nameType": 0,
+              "firstName": "Chayanit",
+              "lastName": "CHALADCHALAM",
+              "initials": "CC",
+              "nameShort": "C CHALADCHALAM",
+              "nameShort2": "CHALADCHALAM",
+              "slug": "chayanit-chaladchalam",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Chayanit CHALADCHALAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895422/assets/players/thumbnail/67168.jpg"
+              }
+            },
+            {
+              "id": "56460",
+              "nameDisplay": "Phataimas MUENWONG",
+              "nameType": 0,
+              "firstName": "Phataimas",
+              "lastName": "MUENWONG",
+              "initials": "PM",
+              "nameShort": "P MUENWONG",
+              "nameShort2": "MUENWONG",
+              "slug": "phataimas-muenwong",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Phataimas MUENWONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894499/assets/players/thumbnail/56460.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211703,
+        "code": "134",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "64939",
+              "nameDisplay": "Oxsana SHTELLE",
+              "nameType": 0,
+              "firstName": "Oxsana",
+              "lastName": "SHTELLE",
+              "initials": "OS",
+              "nameShort": "O SHTELLE",
+              "nameShort2": "SHTELLE",
+              "slug": "oxsana-shtelle",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Oxsana SHTELLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "58884",
+              "nameDisplay": "Kamila SMAGULOVA",
+              "nameType": 0,
+              "firstName": "Kamila",
+              "lastName": "SMAGULOVA",
+              "initials": "KS",
+              "nameShort": "K SMAGULOVA",
+              "nameShort2": "SMAGULOVA",
+              "slug": "kamila-smagulova",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Kamila SMAGULOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "24686",
+              "nameDisplay": "Jongkolphan KITITHARAKUL",
+              "nameType": 0,
+              "firstName": "Jongkolphan",
+              "lastName": "KITITHARAKUL",
+              "initials": "JK",
+              "nameShort": "J KITITHARAKUL",
+              "nameShort2": "KITITHARAKUL",
+              "slug": "jongkolphan-kititharakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Jongkolphan KITITHARAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439020/assets/players/thumbnail/24686.jpg"
+              }
+            },
+            {
+              "id": "84669",
+              "nameDisplay": "Rawinda PRAJONGJAI",
+              "nameType": 0,
+              "firstName": "Rawinda",
+              "lastName": "PRAJONGJAI",
+              "initials": "RP",
+              "nameShort": "R PRAJONGJAI",
+              "nameShort2": "PRAJONGJAI",
+              "slug": "rawinda-prajongjai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Rawinda PRAJONGJAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439314/assets/players/thumbnail/84669.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211669,
+    "code": "120",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 6,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IND",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+      "teamId": 10,
+      "teamName": "India",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 16:10:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Men's Team",
+    "roundName": "QF",
+    "drawName": "Men's Team - Knock Out",
+    "drawCode": "14",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211670,
+        "code": "221",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "92508",
+              "nameDisplay": "Kantaphon WANGCHAROEN",
+              "nameType": 0,
+              "firstName": "Kantaphon",
+              "lastName": "WANGCHAROEN",
+              "initials": "KW",
+              "nameShort": "K WANGCHAROEN",
+              "nameShort2": "WANGCHAROEN",
+              "slug": "kantaphon-wangcharoen",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Kantaphon WANGCHAROEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620362243/assets/players/thumbnail/92508.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "42776",
+              "nameDisplay": "SAI PRANEETH B.",
+              "nameType": 1,
+              "firstName": "B.",
+              "lastName": "SAI PRANEETH",
+              "initials": "SB",
+              "nameShort": "SAI PRANEETH B",
+              "nameShort2": "SAI PRANEETH",
+              "slug": "b-sai-praneeth",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "B. SAI PRANEETH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1694656229/assets/players/thumbnail/42776.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 63,
+        "time": "01:03",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211671,
+        "code": "222",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "64032",
+              "nameDisplay": "Kunlavut VITIDSARN",
+              "nameType": 0,
+              "firstName": "Kunlavut",
+              "lastName": "VITIDSARN",
+              "initials": "KV",
+              "nameShort": "K VITIDSARN",
+              "nameShort2": "VITIDSARN",
+              "slug": "kunlavut-vitidsarn",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Kunlavut VITIDSARN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689644372/assets/players/thumbnail/64032.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "93627",
+              "nameDisplay": "KIDAMBI Srikanth",
+              "nameType": 1,
+              "firstName": "Srikanth",
+              "lastName": "KIDAMBI",
+              "initials": "KS",
+              "nameShort": "KIDAMBI S",
+              "nameShort2": "KIDAMBI",
+              "slug": "srikanth-kidambi",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Srikanth KIDAMBI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636508333/assets/players/thumbnail/93627.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211674,
+        "code": "225",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "73633",
+              "nameDisplay": "Kittinupong KEDREN",
+              "nameType": 0,
+              "firstName": "Kittinupong",
+              "lastName": "KEDREN",
+              "initials": "KK",
+              "nameShort": "K KEDREN",
+              "nameShort2": "KEDREN",
+              "slug": "kittinupong-kedren",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Kittinupong KEDREN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631057/assets/players/thumbnail/73633.jpg"
+              }
+            },
+            {
+              "id": "74233",
+              "nameDisplay": "Tanupat VIRIYANGKURA",
+              "nameType": 0,
+              "firstName": "Tanupat",
+              "lastName": "VIRIYANGKURA",
+              "initials": "TV",
+              "nameShort": "T VIRIYANGKURA",
+              "nameShort2": "VIRIYANGKURA",
+              "slug": "tanupat-viriyangkura",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Tanupat VIRIYANGKURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708429/assets/players/thumbnail/74233.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "98935",
+              "nameDisplay": "M.R. ARJUN",
+              "nameType": 0,
+              "firstName": "M.R.",
+              "lastName": "ARJUN",
+              "initials": "MA",
+              "nameShort": "M ARJUN",
+              "nameShort2": "ARJUN",
+              "slug": "mr-arjun",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "M.R. ARJUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1649032332/assets/players/thumbnail/98935.jpg"
+              }
+            },
+            {
+              "id": "57372",
+              "nameDisplay": "DHRUV KAPILA",
+              "nameType": 0,
+              "firstName": "DHRUV",
+              "lastName": "KAPILA",
+              "initials": "DK",
+              "nameShort": "D KAPILA",
+              "nameShort2": "KAPILA",
+              "slug": "dhruv-kapila",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "DHRUV KAPILA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895867/assets/players/thumbnail/57372.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211672,
+        "code": "223",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "46874",
+              "nameDisplay": "Suppanyu AVIHINGSANON",
+              "nameType": 0,
+              "firstName": "Suppanyu",
+              "lastName": "AVIHINGSANON",
+              "initials": "SA",
+              "nameShort": "S AVIHINGSANON",
+              "nameShort2": "AVIHINGSANON",
+              "slug": "suppanyu-avihingsanon",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Suppanyu AVIHINGSANON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708145/assets/players/thumbnail/46874.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "68870",
+              "nameDisplay": "Lakshya SEN",
+              "nameType": 0,
+              "firstName": "Lakshya",
+              "lastName": "SEN",
+              "initials": "LS",
+              "nameShort": "L SEN",
+              "nameShort2": "SEN",
+              "slug": "lakshya-sen",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Lakshya SEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636508099/assets/players/thumbnail/68870.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 46,
+        "time": "00:46",
+        "matchOrder": 4,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211673,
+        "code": "224",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "67172",
+              "nameDisplay": "Maneepong JONGJIT",
+              "nameType": 0,
+              "firstName": "Maneepong",
+              "lastName": "JONGJIT",
+              "initials": "MJ",
+              "nameShort": "M JONGJIT",
+              "nameShort2": "JONGJIT",
+              "slug": "maneepong-jongjit",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Maneepong JONGJIT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620713985/assets/players/thumbnail/67172.tif"
+              }
+            },
+            {
+              "id": "30342",
+              "nameDisplay": "Nipitphon PHUANGPHUAPET",
+              "nameType": 0,
+              "firstName": "Nipitphon",
+              "lastName": "PHUANGPHUAPET",
+              "initials": "NP",
+              "nameShort": "N PHUANGPHUAPET",
+              "nameShort2": "PHUANGPHUAPET",
+              "slug": "nipitphon-phuangphuapet",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nipitphon PHUANGPHUAPET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708402/assets/players/thumbnail/30342.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "93627",
+              "nameDisplay": "KIDAMBI Srikanth",
+              "nameType": 1,
+              "firstName": "Srikanth",
+              "lastName": "KIDAMBI",
+              "initials": "KS",
+              "nameShort": "KIDAMBI S",
+              "nameShort2": "KIDAMBI",
+              "slug": "srikanth-kidambi",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Srikanth KIDAMBI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636508333/assets/players/thumbnail/93627.jpg"
+              }
+            },
+            {
+              "id": "70500",
+              "nameDisplay": "Chirag SHETTY",
+              "nameType": 0,
+              "firstName": "Chirag",
+              "lastName": "SHETTY",
+              "initials": "CS",
+              "nameShort": "C SHETTY",
+              "nameShort2": "SHETTY",
+              "slug": "chirag-shetty",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Chirag SHETTY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697771565/assets/players/thumbnail/70500.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Rizal Stadium",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211705,
+    "code": "71",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "SGP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+      "teamId": 11,
+      "teamName": "Singapore",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 10:10:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Women's Team",
+    "roundName": "QF",
+    "drawName": "Women's Team - Knock Out",
+    "drawCode": "9",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211706,
+        "code": "136",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "83822",
+              "nameDisplay": "YEO Jia Min",
+              "nameType": 1,
+              "firstName": "Jia Min",
+              "lastName": "YEO",
+              "initials": "YJ",
+              "nameShort": "YEO J M ",
+              "nameShort2": "YEO",
+              "slug": "jia-min-yeo",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Min YEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091660/assets/players/thumbnail/83822.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "87442",
+              "nameDisplay": "AN Se Young",
+              "nameType": 1,
+              "firstName": "Se Young",
+              "lastName": "AN",
+              "initials": "AS",
+              "nameShort": "AN S Y ",
+              "nameShort2": "AN",
+              "slug": "se-young-an",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Se Young AN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697765036/assets/players/thumbnail/87442.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": 60,
+        "time": "01:00",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211707,
+        "code": "137",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "94594",
+              "nameDisplay": "Yue Yann Jaslyn HOOI",
+              "nameType": 0,
+              "firstName": "Yue Yann Jaslyn",
+              "lastName": "HOOI",
+              "initials": "YH",
+              "nameShort": "Y HOOI",
+              "nameShort2": "HOOI",
+              "slug": "yue-yann-jaslyn-hooi",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Yue Yann Jaslyn HOOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092703/assets/players/thumbnail/94594.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "76594",
+              "nameDisplay": "SUNG Jihyun",
+              "nameType": 1,
+              "firstName": "Jihyun",
+              "lastName": "SUNG",
+              "initials": "SJ",
+              "nameShort": "SUNG J",
+              "nameShort2": "SUNG",
+              "slug": "jihyun-sung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Jihyun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897520/assets/players/thumbnail/76594.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211708,
+        "code": "138",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "81033",
+              "nameDisplay": "CHUA Hui Zhen Grace",
+              "nameType": 1,
+              "firstName": "Hui Zhen Grace",
+              "lastName": "CHUA",
+              "initials": "CH",
+              "nameShort": "CHUA H Z G ",
+              "nameShort2": "CHUA",
+              "slug": "hui-zhen-grace-chua",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Hui Zhen Grace CHUA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671093752/assets/players/thumbnail/81033.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "70930",
+              "nameDisplay": "KIM Ga Eun",
+              "nameType": 1,
+              "firstName": "Ga Eun",
+              "lastName": "KIM",
+              "initials": "KG",
+              "nameShort": "KIM G E ",
+              "nameShort2": "KIM",
+              "slug": "ga-eun-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ga Eun KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895484/assets/players/thumbnail/70930.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211709,
+        "code": "139",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "73013",
+              "nameDisplay": "JIN Yu Jia",
+              "nameType": 1,
+              "firstName": "Yu Jia",
+              "lastName": "JIN",
+              "initials": "JY",
+              "nameShort": "JIN Y J ",
+              "nameShort2": "JIN",
+              "slug": "yu-jia-jin",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Yu Jia JIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092496/assets/players/thumbnail/73013.jpg"
+              }
+            },
+            {
+              "id": "59275",
+              "nameDisplay": "WONG Jia Ying Crystal",
+              "nameType": 1,
+              "firstName": "Jia Ying Crystal",
+              "lastName": "WONG",
+              "initials": "WJ",
+              "nameShort": "WONG J Y C ",
+              "nameShort2": "WONG",
+              "slug": "jia-ying-crystal-wong",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Ying Crystal WONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092370/assets/players/thumbnail/59275.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "91292",
+              "nameDisplay": "LEE So Hee",
+              "nameType": 1,
+              "firstName": "So Hee",
+              "lastName": "LEE",
+              "initials": "LS",
+              "nameShort": "LEE S H ",
+              "nameShort2": "LEE",
+              "slug": "so-hee-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "So Hee LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895692/assets/players/thumbnail/91292.jpg"
+              }
+            },
+            {
+              "id": "87473",
+              "nameDisplay": "SHIN Seung Chan",
+              "nameType": 1,
+              "firstName": "Seung Chan",
+              "lastName": "SHIN",
+              "initials": "SS",
+              "nameShort": "SHIN S C ",
+              "nameShort2": "SHIN",
+              "slug": "seung-chan-shin",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Seung Chan SHIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897473/assets/players/thumbnail/87473.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1211710,
+        "code": "140",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "81033",
+              "nameDisplay": "CHUA Hui Zhen Grace",
+              "nameType": 1,
+              "firstName": "Hui Zhen Grace",
+              "lastName": "CHUA",
+              "initials": "CH",
+              "nameShort": "CHUA H Z G ",
+              "nameShort2": "CHUA",
+              "slug": "hui-zhen-grace-chua",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Hui Zhen Grace CHUA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671093752/assets/players/thumbnail/81033.jpg"
+              }
+            },
+            {
+              "id": "83822",
+              "nameDisplay": "YEO Jia Min",
+              "nameType": 1,
+              "firstName": "Jia Min",
+              "lastName": "YEO",
+              "initials": "YJ",
+              "nameShort": "YEO J M ",
+              "nameShort2": "YEO",
+              "slug": "jia-min-yeo",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Min YEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091660/assets/players/thumbnail/83822.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "54361",
+              "nameDisplay": "CHANG Ye Na",
+              "nameType": 1,
+              "firstName": "Ye Na",
+              "lastName": "CHANG",
+              "initials": "CY",
+              "nameShort": "CHANG Y N ",
+              "nameShort2": "CHANG",
+              "slug": "ye-na-chang",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ye Na CHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895136/assets/players/thumbnail/54361.jpg"
+              }
+            },
+            {
+              "id": "57824",
+              "nameDisplay": "KIM Hyerin",
+              "nameType": 1,
+              "firstName": "Hyerin",
+              "lastName": "KIM",
+              "initials": "KH",
+              "nameShort": "KIM H",
+              "nameShort2": "KIM",
+              "slug": "hyerin-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hyerin KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895165/assets/players/thumbnail/57824.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 10:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": "QF",
+        "drawName": "Women's Team - Knock Out",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1211681,
+    "code": "122",
+    "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+    "tournamentName": "Badminton Asia Team Championships 2020",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 3,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 479,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2020-02-14 16:10:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Men's Team",
+    "roundName": "QF",
+    "drawName": "Men's Team - Knock Out",
+    "drawCode": "14",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Rizal Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1211682,
+        "code": "231",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "57823",
+              "nameDisplay": "Kanta TSUNEYAMA",
+              "nameType": 0,
+              "firstName": "Kanta",
+              "lastName": "TSUNEYAMA",
+              "initials": "KT",
+              "nameShort": "K TSUNEYAMA",
+              "nameShort2": "TSUNEYAMA",
+              "slug": "kanta-tsuneyama",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kanta TSUNEYAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895163/assets/players/thumbnail/57823.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "34810",
+              "nameDisplay": "CHOU Tien Chen",
+              "nameType": 1,
+              "firstName": "Tien Chen",
+              "lastName": "CHOU",
+              "initials": "CT",
+              "nameShort": "CHOU T C ",
+              "nameShort2": "CHOU",
+              "slug": "tien-chen-chou",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Tien Chen CHOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658715713/assets/players/thumbnail/34810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211685,
+        "code": "234",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "81657",
+              "nameDisplay": "Takuro HOKI",
+              "nameType": 0,
+              "firstName": "Takuro",
+              "lastName": "HOKI",
+              "initials": "TH",
+              "nameShort": "T HOKI",
+              "nameShort2": "HOKI",
+              "slug": "takuro-hoki",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Takuro HOKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895591/assets/players/thumbnail/81657.jpg"
+              }
+            },
+            {
+              "id": "67903",
+              "nameDisplay": "Yugo KOBAYASHI",
+              "nameType": 0,
+              "firstName": "Yugo",
+              "lastName": "KOBAYASHI",
+              "initials": "YK",
+              "nameShort": "Y KOBAYASHI",
+              "nameShort2": "KOBAYASHI",
+              "slug": "yugo-kobayashi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yugo KOBAYASHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895430/assets/players/thumbnail/67903.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "69448",
+              "nameDisplay": "LEE Yang",
+              "nameType": 1,
+              "firstName": "Yang",
+              "lastName": "LEE",
+              "initials": "LY",
+              "nameShort": "LEE Y",
+              "nameShort2": "LEE",
+              "slug": "yang-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yang LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949707/assets/players/thumbnail/69448.jpg"
+              }
+            },
+            {
+              "id": "96514",
+              "nameDisplay": "WANG Chi-Lin",
+              "nameType": 1,
+              "firstName": "Chi-Lin",
+              "lastName": "WANG",
+              "initials": "WC",
+              "nameShort": "WANG C L ",
+              "nameShort2": "WANG",
+              "slug": "chi-lin-wang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chi-Lin WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949747/assets/players/thumbnail/96514.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": 64,
+        "time": "01:04",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211683,
+        "code": "232",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "85394",
+              "nameDisplay": "Kenta NISHIMOTO",
+              "nameType": 0,
+              "firstName": "Kenta",
+              "lastName": "NISHIMOTO",
+              "initials": "KN",
+              "nameShort": "K NISHIMOTO",
+              "nameShort2": "NISHIMOTO",
+              "slug": "kenta-nishimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenta NISHIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897462/assets/players/thumbnail/85394.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "87375",
+              "nameDisplay": "WANG Tzu Wei",
+              "nameType": 1,
+              "firstName": "Tzu Wei",
+              "lastName": "WANG",
+              "initials": "WT",
+              "nameShort": "WANG T W ",
+              "nameShort2": "WANG",
+              "slug": "tzu-wei-wang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Tzu Wei WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1616738872/assets/players/thumbnail/87375.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": 77,
+        "time": "01:17",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211686,
+        "code": "235",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "88405",
+              "nameDisplay": "Akira KOGA",
+              "nameType": 0,
+              "firstName": "Akira",
+              "lastName": "KOGA",
+              "initials": "AK",
+              "nameShort": "A KOGA",
+              "nameShort2": "KOGA",
+              "slug": "akira-koga",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akira KOGA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896229/assets/players/thumbnail/88405.jpg"
+              }
+            },
+            {
+              "id": "77123",
+              "nameDisplay": "Taichi SAITO",
+              "nameType": 0,
+              "firstName": "Taichi",
+              "lastName": "SAITO",
+              "initials": "TS",
+              "nameShort": "T SAITO",
+              "nameShort2": "SAITO",
+              "slug": "taichi-saito",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Taichi SAITO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896227/assets/players/thumbnail/77123.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "53230",
+              "nameDisplay": "LIAO Min Chun",
+              "nameType": 1,
+              "firstName": "Min Chun",
+              "lastName": "LIAO",
+              "initials": "LM",
+              "nameShort": "LIAO M C ",
+              "nameShort2": "LIAO",
+              "slug": "min-chun-liao",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Min Chun LIAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897172/assets/players/thumbnail/53230.jpg"
+              }
+            },
+            {
+              "id": "88829",
+              "nameDisplay": "SU Ching Heng",
+              "nameType": 1,
+              "firstName": "Ching Heng",
+              "lastName": "SU",
+              "initials": "SC",
+              "nameShort": "SU C H ",
+              "nameShort2": "SU",
+              "slug": "ching-heng-su",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ching Heng SU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658730433/assets/players/thumbnail/88829.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": 77,
+        "time": "01:17",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 26,
+            "away": 28,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1211684,
+        "code": "233",
+        "tournamentCode": "AD641BA1-C5A5-4F18-8813-A8384C09D9AD",
+        "tournamentName": "Badminton Asia Team Championships 2020",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "62063",
+              "nameDisplay": "Kodai NARAOKA",
+              "nameType": 0,
+              "firstName": "Kodai",
+              "lastName": "NARAOKA",
+              "initials": "KN",
+              "nameShort": "K NARAOKA",
+              "nameShort2": "NARAOKA",
+              "slug": "kodai-naraoka",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kodai NARAOKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689644343/assets/players/thumbnail/62063.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "52983",
+              "nameDisplay": "HSUEH Hsuan Yi",
+              "nameType": 1,
+              "firstName": "Hsuan Yi",
+              "lastName": "HSUEH",
+              "initials": "HH",
+              "nameShort": "HSUEH H Y ",
+              "nameShort2": "HSUEH",
+              "slug": "hsueh-hsuan-yi",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "HSUEH Hsuan Yi",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895118/assets/players/thumbnail/52983.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2020-02-14 16:10:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": "QF",
+        "drawName": "Men's Team - Knock Out",
+        "drawCode": "14",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Rizal Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

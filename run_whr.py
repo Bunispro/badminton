@@ -1,5 +1,6 @@
 import sqlite3
 import math
+import os
 from datetime import datetime, date, timedelta
 import numpy as np
 from sklearn.isotonic import IsotonicRegression
@@ -53,11 +54,6 @@ def init_whr_tables(conn):
             uncertainty REAL
         )
     """)
-    try:
-        cursor.execute("ALTER TABLE whr_rating_history ADD COLUMN uncertainty REAL")
-    except sqlite3.OperationalError:
-        pass # Column already exists
-        
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS whr_run_metadata (
             run_id TEXT PRIMARY KEY,
@@ -120,8 +116,10 @@ def fetch_matches_for_whr(core_conn, event_filter, limit=None):
         if is_doubles:
             p1_key = p1_ids_str.split(',')
             p2_key = p2_ids_str.split(',')
-            for p in p1_key + p2_key:
-                all_entities.add(p)
+            for pid in p1_key:
+                all_entities.add(pid)
+            for pid in p2_key:
+                all_entities.add(pid)
         else:
             p1_key = p1_ids_str
             p2_key = p2_ids_str
@@ -135,7 +133,9 @@ def fetch_matches_for_whr(core_conn, event_filter, limit=None):
     print(f"Found {len(games)} games starting from {start_date.isoformat()}.")
     return games, all_entities, start_date
 
-def store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iterations):
+
+
+def store_whr_results(test_conn, run_id, event, individual_ratings, start_date, w2, iterations):
     print("Storing WHR results in the database...")
     cursor = test_conn.cursor()
 
@@ -143,8 +143,7 @@ def store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iter
 
     history_data = []
 
-    for player_name in whr_system.players.keys():
-        ratings = whr_system.ratings_for_player(player_name)
+    for player_id, ratings in individual_ratings.items():
         for rating_info in ratings:
             time_step = rating_info[0]
             elo_rating = rating_info[1]
@@ -155,7 +154,7 @@ def store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iter
             
             history_data.append((
                 run_id,
-                player_name,
+                player_id,
                 event,
                 rating_date_str,
                 elo_rating,
@@ -194,7 +193,9 @@ def run_whr_for_event(core_conn, test_conn, run_id_prefix, w2, event, use_calibr
     print(f"Processing {len(games)} games and {len(all_entities)} unique entities.")
 
     print(f"Initializing WHR model with w2 (skill drift) = {w2}...")
-    whr_system = whr.Base(config={'w2': w2})
+    l2_reg = 1e-4
+    teammate_l2 = 0.015 if event in ["MD", "WD", "XD"] else 0.0
+    whr_system = whr.Base(config={'w2': w2, 'whr_l2_reg': l2_reg, 'whr_teammate_l2_reg': teammate_l2})
     for g in games:
         whr_system.create_game(side_a=g[0], side_b=g[1], winner=g[2], time_step=g[3], handicap=0.0, weight=g[4])
 
@@ -203,28 +204,35 @@ def run_whr_for_event(core_conn, test_conn, run_id_prefix, w2, event, use_calibr
     whr_system.iterate(iterations)
     print("WHR calculation complete.")
 
+    is_doubles = event in ["MD", "WD", "XD"]
+    individual_ratings = {}
+    for player_name in whr_system.players.keys():
+        hist = whr_system.ratings_for_player(player_name)
+        individual_ratings[player_name] = [(h[0], h[1] + 1000.0, h[2]) for h in hist]
+
     # Calculate predictions and calibrate if needed
     print("Calculating predictions...")
     ratings_lookup = {}
-    for player_name in whr_system.players.keys():
-        hist = whr_system.ratings_for_player(player_name)
-        ratings_lookup[player_name] = {h[0]: h[1] for h in hist}
+    for player_name in individual_ratings.keys():
+        hist = individual_ratings[player_name]
+        # Store both rating (h[1]) and uncertainty (h[2])
+        ratings_lookup[player_name] = {h[0]: (h[1], h[2]) for h in hist}
         
     def get_rating(player, day):
-        return ratings_lookup.get(player, {}).get(day, 0.0)
+        # Return rating and uncertainty, with defaults for new players (1000.0 baseline)
+        return ratings_lookup.get(player, {}).get(day, (1000.0, 350.0))
         
     raw_preds = []
     actuals = []
-    is_doubles = event in ["MD", "WD", "XD"]
     
     for g in games:
         p1, p2, winner, day, weight = g
         if is_doubles:
-            rA = sum(get_rating(p, day) for p in p1)
-            rB = sum(get_rating(p, day) for p in p2)
+            rA = sum(get_rating(p, day)[0] for p in p1)
+            rB = sum(get_rating(p, day)[0] for p in p2)
         else:
-            rA = get_rating(p1, day)
-            rB = get_rating(p2, day)
+            rA, uA = get_rating(p1, day)
+            rB, uB = get_rating(p2, day)
             
         prob = safe_prob(rA, rB)
         raw_preds.append(prob)
@@ -256,7 +264,7 @@ def run_whr_for_event(core_conn, test_conn, run_id_prefix, w2, event, use_calibr
     """, pred_data)
     test_conn.commit()
 
-    store_whr_results(test_conn, run_id, event, whr_system, start_date, w2, iterations)
+    store_whr_results(test_conn, run_id, event, individual_ratings, start_date, w2, iterations)
     print(f"--- Finished WHR run for event: {event} ---")
 
 def main():
@@ -293,6 +301,22 @@ def main():
         if test_conn:
             test_conn.close()
         print("\nAll processes finished. Database connections closed.")
+
+    # --- Rebuild API Cache ---
+    if os.environ.get("SKIP_CACHE_REBUILD") != "1":
+        try:
+            print("\nRebuilding API cache...")
+            import sys
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            backend_dir = os.path.join(base_dir, "web", "backend")
+            sys.path.append(backend_dir)
+            from build_cache import build_cache
+            build_cache()
+            print("API cache rebuilt successfully!")
+        except Exception as cache_err:
+            print(f"Warning: Failed to rebuild API cache: {cache_err}")
+    else:
+        print("\nSkipping cache rebuild as requested by the pipeline orchestrator.")
 
 if __name__ == "__main__":
     main()

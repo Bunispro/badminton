@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1376170,
+    "code": "38",
+    "tournamentCode": "E2267E8A-7C25-48A2-B260-41E50307F08A",
+    "tournamentName": "XXXII Pan Am junior Championships 2024 Team Competition",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": 133,
+      "teamName": "USA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": 18,
+      "teamName": "Canada",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-07-13 10:00:00",
+    "matchTimeUtc": "2024-07-13 15:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "XXXII Pan Am Junior Team Event 2024",
+    "roundName": "Final",
+    "drawName": "XXXII Pan Am Junior Team Event 2024",
+    "drawCode": "4",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Gimnasio Olimpico - Aguascalientes",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1376189,
+        "code": "83",
+        "tournamentCode": "E2267E8A-7C25-48A2-B260-41E50307F08A",
+        "tournamentName": "XXXII Pan Am junior Championships 2024 Team Competition",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "79210",
+              "nameDisplay": "Weslie CHEN",
+              "nameType": 0,
+              "firstName": "Weslie",
+              "lastName": "CHEN",
+              "initials": "WC",
+              "nameShort": "W CHEN",
+              "nameShort2": "CHEN",
+              "slug": "weslie-chen",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Weslie CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "66252",
+              "nameDisplay": "Kai CHONG",
+              "nameType": 0,
+              "firstName": "Kai",
+              "lastName": "CHONG",
+              "initials": "KC",
+              "nameShort": "K CHONG",
+              "nameShort2": "CHONG",
+              "slug": "kai-chong",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kai CHONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "85930",
+              "nameDisplay": "Michael JI",
+              "nameType": 0,
+              "firstName": "Michael",
+              "lastName": "JI",
+              "initials": "MJ",
+              "nameShort": "M JI",
+              "nameShort2": "JI",
+              "slug": "michael-ji",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Michael JI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "56782",
+              "nameDisplay": "Rayce SU",
+              "nameType": 0,
+              "firstName": "Rayce",
+              "lastName": "SU",
+              "initials": "RS",
+              "nameShort": "R SU",
+              "nameShort2": "SU",
+              "slug": "rayce-su",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Rayce SU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-07-13 10:00:00",
+        "matchTimeUtc": "2024-07-13 15:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "XXXII Pan Am Junior Team Event 2024",
+        "roundName": "Final",
+        "drawName": "XXXII Pan Am Junior Team Event 2024",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gimnasio Olimpico - Aguascalientes",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 1,
+        "matchTypeId": 13,
+        "matchTypeValue": "Boy's Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1376190,
+        "code": "82",
+        "tournamentCode": "E2267E8A-7C25-48A2-B260-41E50307F08A",
+        "tournamentName": "XXXII Pan Am junior Championships 2024 Team Competition",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "89622",
+              "nameDisplay": "Nicole KRAWCZYK",
+              "nameType": 0,
+              "firstName": "Nicole",
+              "lastName": "KRAWCZYK",
+              "initials": "NK",
+              "nameShort": "N KRAWCZYK",
+              "nameShort2": "KRAWCZYK",
+              "slug": "nicole-krawczyk",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Nicole KRAWCZYK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "89153",
+              "nameDisplay": "Emma MENG",
+              "nameType": 0,
+              "firstName": "Emma",
+              "lastName": "MENG",
+              "initials": "EM",
+              "nameShort": "E MENG",
+              "nameShort2": "MENG",
+              "slug": "emma-meng",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Emma MENG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-07-13 10:50:00",
+        "matchTimeUtc": "2024-07-13 15:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "XXXII Pan Am Junior Team Event 2024",
+        "roundName": "Final",
+        "drawName": "XXXII Pan Am Junior Team Event 2024",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gimnasio Olimpico - Aguascalientes",
+        "duration": 50,
+        "time": "00:50",
+        "matchOrder": 2,
+        "matchTypeId": 12,
+        "matchTypeValue": "Girls's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1376188,
+        "code": "81",
+        "tournamentCode": "E2267E8A-7C25-48A2-B260-41E50307F08A",
+        "tournamentName": "XXXII Pan Am junior Championships 2024 Team Competition",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "79366",
+              "nameDisplay": "Kyle WANG",
+              "nameType": 0,
+              "firstName": "Kyle",
+              "lastName": "WANG",
+              "initials": "KW",
+              "nameShort": "K WANG",
+              "nameShort2": "WANG",
+              "slug": "kyle-wang",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kyle WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "72784",
+              "nameDisplay": "Asher BEDI",
+              "nameType": 0,
+              "firstName": "Asher",
+              "lastName": "BEDI",
+              "initials": "AB",
+              "nameShort": "A BEDI",
+              "nameShort2": "BEDI",
+              "slug": "asher-bedi",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Asher BEDI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-07-13 11:40:00",
+        "matchTimeUtc": "2024-07-13 16:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "XXXII Pan Am Junior Team Event 2024",
+        "roundName": "Final",
+        "drawName": "XXXII Pan Am Junior Team Event 2024",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gimnasio Olimpico - Aguascalientes",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 3,
+        "matchTypeId": 11,
+        "matchTypeValue": "Boy's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1376187,
+        "code": "84",
+        "tournamentCode": "E2267E8A-7C25-48A2-B260-41E50307F08A",
+        "tournamentName": "XXXII Pan Am junior Championships 2024 Team Competition",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "88314",
+              "nameDisplay": "Micah Henares CRUZ",
+              "nameType": 0,
+              "firstName": "Micah Henares",
+              "lastName": "CRUZ",
+              "initials": "MC",
+              "nameShort": "M CRUZ",
+              "nameShort2": "CRUZ",
+              "slug": "micah-henares-cruz",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Micah Henares CRUZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "64499",
+              "nameDisplay": "Mikayla Henares CRUZ",
+              "nameType": 0,
+              "firstName": "Mikayla Henares",
+              "lastName": "CRUZ",
+              "initials": "MC",
+              "nameShort": "M CRUZ",
+              "nameShort2": "CRUZ",
+              "slug": "mikayla-henares-cruz",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Mikayla Henares CRUZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "58961",
+              "nameDisplay": "Mengyao TIAN",
+              "nameType": 0,
+              "firstName": "Mengyao",
+              "lastName": "TIAN",
+              "initials": "MT",
+              "nameShort": "M TIAN",
+              "nameShort2": "TIAN",
+              "slug": "mengyao-tian",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Mengyao TIAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "47700",
+              "nameDisplay": "Kaylee Sichen WANG",
+              "nameType": 0,
+              "firstName": "Kaylee Sichen",
+              "lastName": "WANG",
+              "initials": "KW",
+              "nameShort": "K WANG",
+              "nameShort2": "WANG",
+              "slug": "kaylee-sichen-wang",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Kaylee Sichen WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-07-13 12:30:00",
+        "matchTimeUtc": "2024-07-13 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "XXXII Pan Am Junior Team Event 2024",
+        "roundName": "Final",
+        "drawName": "XXXII Pan Am Junior Team Event 2024",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gimnasio Olimpico - Aguascalientes",
+        "duration": 49,
+        "time": "00:49",
+        "matchOrder": 4,
+        "matchTypeId": 14,
+        "matchTypeValue": "Girls's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1376185,
+        "code": "85",
+        "tournamentCode": "E2267E8A-7C25-48A2-B260-41E50307F08A",
+        "tournamentName": "XXXII Pan Am junior Championships 2024 Team Competition",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "66252",
+              "nameDisplay": "Kai CHONG",
+              "nameType": 0,
+              "firstName": "Kai",
+              "lastName": "CHONG",
+              "initials": "KC",
+              "nameShort": "K CHONG",
+              "nameShort2": "CHONG",
+              "slug": "kai-chong",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Kai CHONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "64614",
+              "nameDisplay": "Stella PAN",
+              "nameType": 0,
+              "firstName": "Stella",
+              "lastName": "PAN",
+              "initials": "SP",
+              "nameShort": "S PAN",
+              "nameShort2": "PAN",
+              "slug": "stella-pan",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Stella PAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "teamId": 18,
+          "teamName": "Canada",
+          "players": [
+            {
+              "id": "85930",
+              "nameDisplay": "Michael JI",
+              "nameType": 0,
+              "firstName": "Michael",
+              "lastName": "JI",
+              "initials": "MJ",
+              "nameShort": "M JI",
+              "nameShort2": "JI",
+              "slug": "michael-ji",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Michael JI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "89717",
+              "nameDisplay": "Emily XIA",
+              "nameType": 0,
+              "firstName": "Emily",
+              "lastName": "XIA",
+              "initials": "EX",
+              "nameShort": "E XIA",
+              "nameShort2": "XIA",
+              "slug": "emily-xia",
+              "countryCode": "CAN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+              "avatar": {
+                "title": "Emily XIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-07-13 13:20:00",
+        "matchTimeUtc": "2024-07-13 18:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "XXXII Pan Am Junior Team Event 2024",
+        "roundName": "Final",
+        "drawName": "XXXII Pan Am Junior Team Event 2024",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gimnasio Olimpico - Aguascalientes",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

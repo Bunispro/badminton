@@ -1,0 +1,1339 @@
+[
+  {
+    "id": 1480503,
+    "code": "25",
+    "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+    "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "UKR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+      "teamId": 2273,
+      "teamName": "Ukraine",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "AZE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+      "teamId": 2271,
+      "teamName": "Azerbaijan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-12-04 17:00:00",
+    "matchTimeUtc": "2025-12-04 17:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Group 5",
+    "roundName": "R1",
+    "drawName": "Men's Group 5 - Subgroup 1",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 2,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1480537,
+        "code": "41",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 2273,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "75729",
+              "nameDisplay": "Oleksii TITOV",
+              "nameType": 0,
+              "firstName": "Oleksii",
+              "lastName": "TITOV",
+              "initials": "OT",
+              "nameShort": "O TITOV",
+              "nameShort2": "TITOV",
+              "slug": "oleksii-titov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Oleksii TITOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 2271,
+          "teamName": "Azerbaijan",
+          "players": [
+            {
+              "id": "78890",
+              "nameDisplay": "Ade Resky DWICAHYO",
+              "nameType": 0,
+              "firstName": "Ade Resky",
+              "lastName": "DWICAHYO",
+              "initials": "AD",
+              "nameShort": "A DWICAHYO",
+              "nameShort2": "DWICAHYO",
+              "slug": "ade-resky-dwicahyo",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Ade Resky DWICAHYO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1694657389/assets/players/thumbnail/78890.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 17:00:00",
+        "matchTimeUtc": "2025-12-04 17:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 1",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480530,
+        "code": "42",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 2273,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "58328",
+              "nameDisplay": "DANYLO BOSNIUK",
+              "nameType": 0,
+              "firstName": "DANYLO",
+              "lastName": "BOSNIUK",
+              "initials": "DB",
+              "nameShort": "D BOSNIUK",
+              "nameShort2": "BOSNIUK",
+              "slug": "danylo-bosniuk",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "DANYLO BOSNIUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693962457/assets/players/thumbnail/58328.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 2271,
+          "teamName": "Azerbaijan",
+          "players": [
+            {
+              "id": "79604",
+              "nameDisplay": "Dicky Dwi PANGESTU",
+              "nameType": 0,
+              "firstName": "Dicky Dwi",
+              "lastName": "PANGESTU",
+              "initials": "DP",
+              "nameShort": "D PANGESTU",
+              "nameShort2": "PANGESTU",
+              "slug": "dicky-dwi-pangestu",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Dicky Dwi PANGESTU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 17:30:00",
+        "matchTimeUtc": "2025-12-04 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 1",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 60,
+        "time": "01:00",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480533,
+        "code": "43",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 2273,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "69483",
+              "nameDisplay": "Ivan DRUZCHENKO",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "DRUZCHENKO",
+              "initials": "ID",
+              "nameShort": "I DRUZCHENKO",
+              "nameShort2": "DRUZCHENKO",
+              "slug": "ivan-druzchenko",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Ivan DRUZCHENKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 2271,
+          "teamName": "Azerbaijan",
+          "players": [
+            {
+              "id": "94553",
+              "nameDisplay": "Ulvi HUSEYNOV",
+              "nameType": 0,
+              "firstName": "Ulvi",
+              "lastName": "HUSEYNOV",
+              "initials": "UH",
+              "nameShort": "U HUSEYNOV",
+              "nameShort2": "HUSEYNOV",
+              "slug": "ulvi-huseynov",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Ulvi HUSEYNOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 18:00:00",
+        "matchTimeUtc": "2025-12-04 18:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 1",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480567,
+        "code": "44",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 2273,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "58328",
+              "nameDisplay": "DANYLO BOSNIUK",
+              "nameType": 0,
+              "firstName": "DANYLO",
+              "lastName": "BOSNIUK",
+              "initials": "DB",
+              "nameShort": "D BOSNIUK",
+              "nameShort2": "BOSNIUK",
+              "slug": "danylo-bosniuk",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "DANYLO BOSNIUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693962457/assets/players/thumbnail/58328.jpg"
+              }
+            },
+            {
+              "id": "60819",
+              "nameDisplay": "Nikita YEROMENKO",
+              "nameType": 0,
+              "firstName": "Nikita",
+              "lastName": "YEROMENKO",
+              "initials": "NY",
+              "nameShort": "N YEROMENKO",
+              "nameShort2": "YEROMENKO",
+              "slug": "nikita-yeromenko",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Nikita YEROMENKO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 2271,
+          "teamName": "Azerbaijan",
+          "players": [
+            {
+              "id": "78890",
+              "nameDisplay": "Ade Resky DWICAHYO",
+              "nameType": 0,
+              "firstName": "Ade Resky",
+              "lastName": "DWICAHYO",
+              "initials": "AD",
+              "nameShort": "A DWICAHYO",
+              "nameShort2": "DWICAHYO",
+              "slug": "ade-resky-dwicahyo",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Ade Resky DWICAHYO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1694657389/assets/players/thumbnail/78890.jpg"
+              }
+            },
+            {
+              "id": "79604",
+              "nameDisplay": "Dicky Dwi PANGESTU",
+              "nameType": 0,
+              "firstName": "Dicky Dwi",
+              "lastName": "PANGESTU",
+              "initials": "DP",
+              "nameShort": "D PANGESTU",
+              "nameShort2": "PANGESTU",
+              "slug": "dicky-dwi-pangestu",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Dicky Dwi PANGESTU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 18:30:00",
+        "matchTimeUtc": "2025-12-04 18:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 1",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480568,
+        "code": "45",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "UKR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+          "teamId": 2273,
+          "teamName": "Ukraine",
+          "players": [
+            {
+              "id": "54467",
+              "nameDisplay": "Vitaly KONOV",
+              "nameType": 0,
+              "firstName": "Vitaly",
+              "lastName": "KONOV",
+              "initials": "VK",
+              "nameShort": "V KONOV",
+              "nameShort2": "KONOV",
+              "slug": "vitaly-konov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Vitaly KONOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "20301",
+              "nameDisplay": "Artem POCHTAROV",
+              "nameType": 0,
+              "firstName": "Artem",
+              "lastName": "POCHTAROV",
+              "initials": "AP",
+              "nameShort": "A POCHTAROV",
+              "nameShort2": "POCHTAROV",
+              "slug": "artem-pochtarov",
+              "countryCode": "UKR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UKR.png",
+              "avatar": {
+                "title": "Artem POCHTAROV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896958/assets/players/thumbnail/20301.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+          "teamId": 2271,
+          "teamName": "Azerbaijan",
+          "players": [
+            {
+              "id": "50572",
+              "nameDisplay": "Agil GABILOV",
+              "nameType": 0,
+              "firstName": "Agil",
+              "lastName": "GABILOV",
+              "initials": "AG",
+              "nameShort": "A GABILOV",
+              "nameShort2": "GABILOV",
+              "slug": "agil-gabilov",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Agil GABILOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "94553",
+              "nameDisplay": "Ulvi HUSEYNOV",
+              "nameType": 0,
+              "firstName": "Ulvi",
+              "lastName": "HUSEYNOV",
+              "initials": "UH",
+              "nameShort": "U HUSEYNOV",
+              "nameShort2": "HUSEYNOV",
+              "slug": "ulvi-huseynov",
+              "countryCode": "AZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AZE.png",
+              "avatar": {
+                "title": "Ulvi HUSEYNOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 19:00:00",
+        "matchTimeUtc": "2025-12-04 19:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 1",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1480497,
+    "code": "34",
+    "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+    "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "SLO",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+      "teamId": 2269,
+      "teamName": "Slovenia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SWE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+      "teamId": 2270,
+      "teamName": "Sweden",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-12-04 17:00:00",
+    "matchTimeUtc": "2025-12-04 17:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Group 5",
+    "roundName": "R1",
+    "drawName": "Men's Group 5 - Subgroup 2",
+    "drawCode": "3",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 5,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1480569,
+        "code": "56",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 2269,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "86567",
+              "nameDisplay": "Miha IVANČIČ",
+              "nameType": 0,
+              "firstName": "Miha",
+              "lastName": "IVANČIČ",
+              "initials": "MI",
+              "nameShort": "M IVANČIČ",
+              "nameShort2": "IVANČIČ",
+              "slug": "miha-ivani",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Miha IVANČIČ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 2270,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "79517",
+              "nameDisplay": "Gustav BJORKLER",
+              "nameType": 0,
+              "firstName": "Gustav",
+              "lastName": "BJORKLER",
+              "initials": "GB",
+              "nameShort": "G BJORKLER",
+              "nameShort2": "BJORKLER",
+              "slug": "gustav-bjorkler",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Gustav BJORKLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 17:00:00",
+        "matchTimeUtc": "2025-12-04 17:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 2",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480570,
+        "code": "60",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 2269,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "56566",
+              "nameDisplay": "Gal BIZJAK",
+              "nameType": 0,
+              "firstName": "Gal",
+              "lastName": "BIZJAK",
+              "initials": "GB",
+              "nameShort": "G BIZJAK",
+              "nameShort2": "BIZJAK",
+              "slug": "gal-bizjak",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Gal BIZJAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67693",
+              "nameDisplay": "Maj POBOLJŠAJ",
+              "nameType": 0,
+              "firstName": "Maj",
+              "lastName": "POBOLJŠAJ",
+              "initials": "MP",
+              "nameShort": "M POBOLJŠAJ",
+              "nameShort2": "POBOLJŠAJ",
+              "slug": "maj-poboljaj",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Maj POBOLJŠAJ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 2270,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "67848",
+              "nameDisplay": "Filip KARLBORG",
+              "nameType": 0,
+              "firstName": "Filip",
+              "lastName": "KARLBORG",
+              "initials": "FK",
+              "nameShort": "F KARLBORG",
+              "nameShort2": "KARLBORG",
+              "slug": "filip-karlborg",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Filip KARLBORG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65651",
+              "nameDisplay": "Oscar REUTERHALL",
+              "nameType": 0,
+              "firstName": "Oscar",
+              "lastName": "REUTERHALL",
+              "initials": "OR",
+              "nameShort": "O REUTERHALL",
+              "nameShort2": "REUTERHALL",
+              "slug": "oscar-reuterhall",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Oscar REUTERHALL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 17:30:00",
+        "matchTimeUtc": "2025-12-04 17:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 2",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 51,
+        "time": "00:51",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480511,
+        "code": "57",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 2269,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "83567",
+              "nameDisplay": "Mark KOROŠA",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "KOROŠA",
+              "initials": "MK",
+              "nameShort": "M KOROŠA",
+              "nameShort2": "KOROŠA",
+              "slug": "mark-koroa",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Mark KOROŠA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 2270,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "95724",
+              "nameDisplay": "Tim MÖRK",
+              "nameType": 0,
+              "firstName": "Tim",
+              "lastName": "MÖRK",
+              "initials": "TM",
+              "nameShort": "T MÖRK",
+              "nameShort2": "MÖRK",
+              "slug": "tim-mork",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Tim MÖRK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 18:00:00",
+        "matchTimeUtc": "2025-12-04 18:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 2",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480510,
+        "code": "59",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 2269,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "86567",
+              "nameDisplay": "Miha IVANČIČ",
+              "nameType": 0,
+              "firstName": "Miha",
+              "lastName": "IVANČIČ",
+              "initials": "MI",
+              "nameShort": "M IVANČIČ",
+              "nameShort2": "IVANČIČ",
+              "slug": "miha-ivani",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Miha IVANČIČ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "69291",
+              "nameDisplay": "Tadej JELENC",
+              "nameType": 0,
+              "firstName": "Tadej",
+              "lastName": "JELENC",
+              "initials": "TJ",
+              "nameShort": "T JELENC",
+              "nameShort2": "JELENC",
+              "slug": "tadej-jelenc",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Tadej JELENC",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 2270,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "89504",
+              "nameDisplay": "Mio MOLIN",
+              "nameType": 0,
+              "firstName": "Mio",
+              "lastName": "MOLIN",
+              "initials": "MM",
+              "nameShort": "M MOLIN",
+              "nameShort2": "MOLIN",
+              "slug": "mio-molin",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Mio MOLIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "75417",
+              "nameDisplay": "Max SVENSSON",
+              "nameType": 0,
+              "firstName": "Max",
+              "lastName": "SVENSSON",
+              "initials": "MS",
+              "nameShort": "M SVENSSON",
+              "nameShort2": "SVENSSON",
+              "slug": "max-svensson",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Max SVENSSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 18:30:00",
+        "matchTimeUtc": "2025-12-04 18:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 2",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1480514,
+        "code": "58",
+        "tournamentCode": "35F9C1FC-F49B-474F-88D3-BBFD67AFE63F",
+        "tournamentName": "2026 European Men's & Women's Team Championships Qualification - Portugal",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SLO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+          "teamId": 2269,
+          "teamName": "Slovenia",
+          "players": [
+            {
+              "id": "70464",
+              "nameDisplay": "Ziga PODGORŠEK",
+              "nameType": 0,
+              "firstName": "Ziga",
+              "lastName": "PODGORŠEK",
+              "initials": "ZP",
+              "nameShort": "Z PODGORŠEK",
+              "nameShort2": "PODGORŠEK",
+              "slug": "ziga-podgorek",
+              "countryCode": "SLO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SLO.png",
+              "avatar": {
+                "title": "Ziga PODGORŠEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": 2270,
+          "teamName": "Sweden",
+          "players": [
+            {
+              "id": "70725",
+              "nameDisplay": "Kim LINELL",
+              "nameType": 0,
+              "firstName": "Kim",
+              "lastName": "LINELL",
+              "initials": "KL",
+              "nameShort": "K LINELL",
+              "nameShort2": "LINELL",
+              "slug": "kim-linell",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Kim LINELL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2025-12-04 19:00:00",
+        "matchTimeUtc": "2025-12-04 19:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Group 5",
+        "roundName": "R1",
+        "drawName": "Men's Group 5 - Subgroup 2",
+        "drawCode": "3",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Badminton High Performance Sports Centre – Joaquim Lopes",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

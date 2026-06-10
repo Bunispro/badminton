@@ -1,0 +1,1390 @@
+[
+  {
+    "id": 26433,
+    "code": "15",
+    "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+    "tournamentName": "2015 EMTC - Qual Group 4",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "LUX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+      "teamId": 83,
+      "teamName": "Luxembourg",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SWE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+      "teamId": 20,
+      "teamName": "Sweden",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2014-11-08 11:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2015 EMTC - Qual Group 4",
+    "roundName": null,
+    "drawName": "2015 EMTC - Qual Group 4",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 5,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 26434,
+        "code": "25",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "75474",
+              "nameDisplay": "Akis Leo THOMAS",
+              "nameType": 0,
+              "firstName": "Akis Leo",
+              "lastName": "THOMAS",
+              "initials": "AT",
+              "nameShort": "A THOMAS",
+              "nameShort2": "THOMAS",
+              "slug": "akis-leo-thomas",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Akis Leo THOMAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "68287",
+              "nameDisplay": "Stefka HARGIONO",
+              "nameType": 0,
+              "firstName": "Stefka",
+              "lastName": "HARGIONO",
+              "initials": "SH",
+              "nameShort": "S HARGIONO",
+              "nameShort2": "HARGIONO",
+              "slug": "stefka-hargiono",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Stefka HARGIONO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52325",
+              "nameDisplay": "Henri HURSKAINEN",
+              "nameType": 0,
+              "firstName": "Henri",
+              "lastName": "HURSKAINEN",
+              "initials": "HH",
+              "nameShort": "H HURSKAINEN",
+              "nameShort2": "HURSKAINEN",
+              "slug": "henri-hurskainen",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Henri HURSKAINEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894700/assets/players/thumbnail/52325.jpg"
+              }
+            },
+            {
+              "id": "51661",
+              "nameDisplay": "Emelie FABBEKE",
+              "nameType": 0,
+              "firstName": "Emelie",
+              "lastName": "FABBEKE",
+              "initials": "EF",
+              "nameShort": "E FABBEKE",
+              "nameShort2": "FABBEKE",
+              "slug": "emelie-fabbeke",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Emelie FABBEKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894698/assets/players/thumbnail/51661.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26435,
+        "code": "21",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "55896",
+              "nameDisplay": "Maxime SZTURMA",
+              "nameType": 0,
+              "firstName": "Maxime",
+              "lastName": "SZTURMA",
+              "initials": "MS",
+              "nameShort": "M SZTURMA",
+              "nameShort2": "SZTURMA",
+              "slug": "maxime-szturma",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Maxime SZTURMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "67656",
+              "nameDisplay": "Mattias BORG",
+              "nameType": 0,
+              "firstName": "Mattias",
+              "lastName": "BORG",
+              "initials": "MB",
+              "nameShort": "M BORG",
+              "nameShort2": "BORG",
+              "slug": "mattias-borg",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Mattias BORG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894702/assets/players/thumbnail/67656.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 3,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 4,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26436,
+        "code": "22",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "97004",
+              "nameDisplay": "Aude MEYER",
+              "nameType": 0,
+              "firstName": "Aude",
+              "lastName": "MEYER",
+              "initials": "AM",
+              "nameShort": "A MEYER",
+              "nameShort2": "MEYER",
+              "slug": "aude-meyer",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Aude MEYER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "60223",
+              "nameDisplay": "Matilda PETERSEN",
+              "nameType": 0,
+              "firstName": "Matilda",
+              "lastName": "PETERSEN",
+              "initials": "MP",
+              "nameShort": "M PETERSEN",
+              "nameShort2": "PETERSEN",
+              "slug": "matilda-petersen",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Matilda PETERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26437,
+        "code": "23",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "75474",
+              "nameDisplay": "Akis Leo THOMAS",
+              "nameType": 0,
+              "firstName": "Akis Leo",
+              "lastName": "THOMAS",
+              "initials": "AT",
+              "nameShort": "A THOMAS",
+              "nameShort2": "THOMAS",
+              "slug": "akis-leo-thomas",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Akis Leo THOMAS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "56411",
+              "nameDisplay": "Mike VALLENTHINI",
+              "nameType": 0,
+              "firstName": "Mike",
+              "lastName": "VALLENTHINI",
+              "initials": "MV",
+              "nameShort": "M VALLENTHINI",
+              "nameShort2": "VALLENTHINI",
+              "slug": "mike-vallenthini",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Mike VALLENTHINI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "77099",
+              "nameDisplay": "Jonatan NORDH",
+              "nameType": 0,
+              "firstName": "Jonatan",
+              "lastName": "NORDH",
+              "initials": "JN",
+              "nameShort": "J NORDH",
+              "nameShort2": "NORDH",
+              "slug": "jonatan-nordh",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Jonatan NORDH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894704/assets/players/thumbnail/77099.jpg"
+              }
+            },
+            {
+              "id": "90714",
+              "nameDisplay": "Nico RUPONEN",
+              "nameType": 0,
+              "firstName": "Nico",
+              "lastName": "RUPONEN",
+              "initials": "NR",
+              "nameShort": "N RUPONEN",
+              "nameShort2": "RUPONEN",
+              "slug": "nico-ruponen",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Nico RUPONEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895680/assets/players/thumbnail/90714.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26438,
+        "code": "24",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "LUX",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "86080",
+              "nameDisplay": "Tessy AULNER",
+              "nameType": 0,
+              "firstName": "Tessy",
+              "lastName": "AULNER",
+              "initials": "TA",
+              "nameShort": "T AULNER",
+              "nameShort2": "AULNER",
+              "slug": "tessy-aulner",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Tessy AULNER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "77707",
+              "nameDisplay": "Marie GOEDERT",
+              "nameType": 0,
+              "firstName": "Marie",
+              "lastName": "GOEDERT",
+              "initials": "MG",
+              "nameShort": "M GOEDERT",
+              "nameShort2": "GOEDERT",
+              "slug": "marie-goedert",
+              "countryCode": "LUX",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/LUX.png",
+              "avatar": {
+                "title": "Marie GOEDERT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SWE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51661",
+              "nameDisplay": "Emelie FABBEKE",
+              "nameType": 0,
+              "firstName": "Emelie",
+              "lastName": "FABBEKE",
+              "initials": "EF",
+              "nameShort": "E FABBEKE",
+              "nameShort2": "FABBEKE",
+              "slug": "emelie-fabbeke",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Emelie FABBEKE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894698/assets/players/thumbnail/51661.jpg"
+              }
+            },
+            {
+              "id": "53848",
+              "nameDisplay": "Emma WENGBERG",
+              "nameType": 0,
+              "firstName": "Emma",
+              "lastName": "WENGBERG",
+              "initials": "EW",
+              "nameShort": "E WENGBERG",
+              "nameShort2": "WENGBERG",
+              "slug": "emma-wengberg",
+              "countryCode": "SWE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SWE.png",
+              "avatar": {
+                "title": "Emma WENGBERG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895130/assets/players/thumbnail/53848.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 3,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 26439,
+    "code": "11",
+    "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+    "tournamentName": "2015 EMTC - Qual Group 4",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "EST",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+      "teamId": 43,
+      "teamName": "Estonia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ITA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+      "teamId": 48,
+      "teamName": "Italy",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2014-11-08 16:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2015 EMTC - Qual Group 4",
+    "roundName": null,
+    "drawName": "2015 EMTC - Qual Group 4",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 26440,
+        "code": "6",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "51531",
+              "nameDisplay": "Raul MUST",
+              "nameType": 0,
+              "firstName": "Raul",
+              "lastName": "MUST",
+              "initials": "RM",
+              "nameShort": "R MUST",
+              "nameShort2": "MUST",
+              "slug": "raul-must",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Raul MUST",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897086/assets/players/thumbnail/51531.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "15286",
+              "nameDisplay": "Rosario MADDALONI",
+              "nameType": 0,
+              "firstName": "Rosario",
+              "lastName": "MADDALONI",
+              "initials": "RM",
+              "nameShort": "R MADDALONI",
+              "nameShort2": "MADDALONI",
+              "slug": "rosario-maddaloni",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Rosario MADDALONI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896918/assets/players/thumbnail/15286.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26441,
+        "code": "7",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "11914",
+              "nameDisplay": "Kati TOLMOFF",
+              "nameType": 0,
+              "firstName": "Kati",
+              "lastName": "TOLMOFF",
+              "initials": "KT",
+              "nameShort": "K TOLMOFF",
+              "nameShort2": "TOLMOFF",
+              "slug": "kati-tolmoff",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kati TOLMOFF",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896862/assets/players/thumbnail/11914.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "98715",
+              "nameDisplay": "Karin MARAN",
+              "nameType": 0,
+              "firstName": "Karin",
+              "lastName": "MARAN",
+              "initials": "KM",
+              "nameShort": "K MARAN",
+              "nameShort2": "MARAN",
+              "slug": "karin-maran",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Karin MARAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26442,
+        "code": "8",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68926",
+              "nameDisplay": "Kristjan KALJURAND",
+              "nameType": 0,
+              "firstName": "Kristjan",
+              "lastName": "KALJURAND",
+              "initials": "KK",
+              "nameShort": "K KALJURAND",
+              "nameShort2": "KALJURAND",
+              "slug": "kristjan-kaljurand",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kristjan KALJURAND",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "54753",
+              "nameDisplay": "Raul KÄSNER",
+              "nameType": 0,
+              "firstName": "Raul",
+              "lastName": "KÄSNER",
+              "initials": "RK",
+              "nameShort": "R KÄSNER",
+              "nameShort2": "KÄSNER",
+              "slug": "raul-kasner",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Raul KÄSNER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54314",
+              "nameDisplay": "Giovanni GRECO",
+              "nameType": 0,
+              "firstName": "Giovanni",
+              "lastName": "GRECO",
+              "initials": "GG",
+              "nameShort": "G GRECO",
+              "nameShort2": "GRECO",
+              "slug": "giovanni-greco",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Giovanni GRECO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1656899134/assets/players/thumbnail/54314.jpg"
+              }
+            },
+            {
+              "id": "15286",
+              "nameDisplay": "Rosario MADDALONI",
+              "nameType": 0,
+              "firstName": "Rosario",
+              "lastName": "MADDALONI",
+              "initials": "RM",
+              "nameShort": "R MADDALONI",
+              "nameShort2": "MADDALONI",
+              "slug": "rosario-maddaloni",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Rosario MADDALONI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896918/assets/players/thumbnail/15286.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26443,
+        "code": "9",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "67084",
+              "nameDisplay": "Karoliine HOIM",
+              "nameType": 0,
+              "firstName": "Karoliine",
+              "lastName": "HOIM",
+              "initials": "KH",
+              "nameShort": "K HOIM",
+              "nameShort2": "HOIM",
+              "slug": "karoliine-hoim",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Karoliine HOIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "11914",
+              "nameDisplay": "Kati TOLMOFF",
+              "nameType": 0,
+              "firstName": "Kati",
+              "lastName": "TOLMOFF",
+              "initials": "KT",
+              "nameShort": "K TOLMOFF",
+              "nameShort2": "TOLMOFF",
+              "slug": "kati-tolmoff",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kati TOLMOFF",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896862/assets/players/thumbnail/11914.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "95837",
+              "nameDisplay": "Lisa IVERSEN",
+              "nameType": 0,
+              "firstName": "Lisa",
+              "lastName": "IVERSEN",
+              "initials": "LI",
+              "nameShort": "L IVERSEN",
+              "nameShort2": "IVERSEN",
+              "slug": "lisa-iversen",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Lisa IVERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895739/assets/players/thumbnail/95837.jpg"
+              }
+            },
+            {
+              "id": "63615",
+              "nameDisplay": "Marah PUNTER",
+              "nameType": 0,
+              "firstName": "Marah",
+              "lastName": "PUNTER",
+              "initials": "MP",
+              "nameShort": "M PUNTER",
+              "nameShort2": "PUNTER",
+              "slug": "marah-punter",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Marah PUNTER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 0,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 26444,
+        "code": "10",
+        "tournamentCode": "A46CC847-E961-4D89-8D5F-2A8314530618",
+        "tournamentName": "2015 EMTC - Qual Group 4",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "EST",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "87324",
+              "nameDisplay": "Mihkel LAANES",
+              "nameType": 0,
+              "firstName": "Mihkel",
+              "lastName": "LAANES",
+              "initials": "ML",
+              "nameShort": "M LAANES",
+              "nameShort2": "LAANES",
+              "slug": "mihkel-laanes",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Mihkel LAANES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899271/assets/players/thumbnail/87324.jpg"
+              }
+            },
+            {
+              "id": "73015",
+              "nameDisplay": "Kristin KUUBA",
+              "nameType": 0,
+              "firstName": "Kristin",
+              "lastName": "KUUBA",
+              "initials": "KK",
+              "nameShort": "K KUUBA",
+              "nameShort2": "KUUBA",
+              "slug": "kristin-kuuba",
+              "countryCode": "EST",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EST.png",
+              "avatar": {
+                "title": "Kristin KUUBA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900226/assets/players/thumbnail/73015.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ITA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "58771",
+              "nameDisplay": "Pirmin KLOTZNER",
+              "nameType": 0,
+              "firstName": "Pirmin",
+              "lastName": "KLOTZNER",
+              "initials": "PK",
+              "nameShort": "P KLOTZNER",
+              "nameShort2": "KLOTZNER",
+              "slug": "pirmin-klotzner",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Pirmin KLOTZNER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "98715",
+              "nameDisplay": "Karin MARAN",
+              "nameType": 0,
+              "firstName": "Karin",
+              "lastName": "MARAN",
+              "initials": "KM",
+              "nameShort": "K MARAN",
+              "nameShort2": "MARAN",
+              "slug": "karin-maran",
+              "countryCode": "ITA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ITA.png",
+              "avatar": {
+                "title": "Karin MARAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2014-11-08 16:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2015 EMTC - Qual Group 4",
+        "roundName": null,
+        "drawName": "2015 EMTC - Qual Group 4",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Tondiraba Jäähall, Tallinn, Estonia",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

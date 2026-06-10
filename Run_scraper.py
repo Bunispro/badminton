@@ -11,7 +11,7 @@ with open("index/all_tournaments_2008_2026.json", "r", encoding="utf-8") as f:
 
 # --- NEW: Filter tournaments by start date (YYYY-MM-DD) ---
 # Only tournaments with a start_date ON or AFTER this date will be scraped.
-start_date_filter_str = "2026-03-01" # Example: Scrape tournaments from Jan 1, 2026 onwards
+start_date_filter_str = "2022-03-01" # Example: Scrape tournaments from Jan 1, 2026 onwards
 start_date_filter = datetime.strptime(start_date_filter_str, "%Y-%m-%d").date()
 
 tournaments_to_scrape = [

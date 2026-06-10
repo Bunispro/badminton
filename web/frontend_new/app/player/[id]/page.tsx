@@ -26,6 +26,7 @@ interface PlayerStats {
   wins?: number;
   total_matches?: number;
   dominance_score?: number;
+  inactivity_threshold?: number;
   synergy_list?: {
     partner_id: string;
     partner_name: string;
@@ -131,7 +132,7 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
 
       const [pRes, sRes, hRes, mRes, amRes] = await Promise.all([
         fetch(`${API_BASE_URL}/api/player/${id}`),
-        fetch(`${API_BASE_URL}/api/player/${id}/stats?event=${event}&model=${model}`),
+        fetch(`${API_BASE_URL}/api/player/${id}/statistics?event=${event}&model=${model}`),
         fetch(historyUrl),
         fetch(`${API_BASE_URL}/api/player/${id}/matches?event=${event}&model=${model}&offset=0&start_date=${startDate}&end_date=${endDate}`),
         fetch(`${API_BASE_URL}/api/player/${id}/matches?event=${event}&model=${model}&limit=1000&include_ratings=false`)

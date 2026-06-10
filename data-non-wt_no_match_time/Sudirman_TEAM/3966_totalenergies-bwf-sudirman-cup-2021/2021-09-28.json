@@ -1,0 +1,2806 @@
+[
+  {
+    "id": 1243974,
+    "code": "27",
+    "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+    "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 1659,
+      "teamName": "CHINESE TAIPEI",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 1660,
+      "teamName": "GERMANY",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2021-09-28 10:00:00",
+    "matchTimeUtc": "2021-09-28 07:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Sudirman Cup",
+    "roundName": "R3",
+    "drawName": "Sudirman Cup - Group B",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Energia Areena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1243979,
+        "code": "40",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1659,
+          "teamName": "CHINESE TAIPEI",
+          "players": [
+            {
+              "id": "99102",
+              "nameDisplay": "LEE Jhe-Huei",
+              "nameType": 1,
+              "firstName": "Jhe-Huei",
+              "lastName": "LEE",
+              "initials": "LJ",
+              "nameShort": "LEE J H ",
+              "nameShort2": "LEE",
+              "slug": "jhe-huei-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Jhe-Huei LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896182/assets/players/thumbnail/99102.jpg"
+              }
+            },
+            {
+              "id": "74561",
+              "nameDisplay": "HSU Ya Ching",
+              "nameType": 1,
+              "firstName": "Ya Ching",
+              "lastName": "HSU",
+              "initials": "HY",
+              "nameShort": "HSU Y C ",
+              "nameShort2": "HSU",
+              "slug": "ya-ching-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ya Ching HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897535/assets/players/thumbnail/74561.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1660,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "78935",
+              "nameDisplay": "Jan Colin VOELKER",
+              "nameType": 0,
+              "firstName": "Jan Colin",
+              "lastName": "VOELKER",
+              "initials": "JV",
+              "nameShort": "J VOELKER",
+              "nameShort2": "VOELKER",
+              "slug": "jan-colin-voelker",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Jan Colin VOELKER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "83942",
+              "nameDisplay": "Linda EFLER",
+              "nameType": 0,
+              "firstName": "Linda",
+              "lastName": "EFLER",
+              "initials": "LE",
+              "nameShort": "L EFLER",
+              "nameShort2": "EFLER",
+              "slug": "linda-efler",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Linda EFLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895615/assets/players/thumbnail/83942.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 10:00:00",
+        "matchTimeUtc": "2021-09-28 07:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 58,
+        "time": "00:58",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 25,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243975,
+        "code": "36",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1659,
+          "teamName": "CHINESE TAIPEI",
+          "players": [
+            {
+              "id": "34810",
+              "nameDisplay": "CHOU Tien Chen",
+              "nameType": 1,
+              "firstName": "Tien Chen",
+              "lastName": "CHOU",
+              "initials": "CT",
+              "nameShort": "CHOU T C ",
+              "nameShort2": "CHOU",
+              "slug": "tien-chen-chou",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Tien Chen CHOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658715713/assets/players/thumbnail/34810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1660,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "57297",
+              "nameDisplay": "Fabian ROTH",
+              "nameType": 0,
+              "firstName": "Fabian",
+              "lastName": "ROTH",
+              "initials": "FR",
+              "nameShort": "F ROTH",
+              "nameShort2": "ROTH",
+              "slug": "fabian-roth",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Fabian ROTH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719889854/assets/players/thumbnail/57297.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 10:50:00",
+        "matchTimeUtc": "2021-09-28 07:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 68,
+        "time": "01:08",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243976,
+        "code": "37",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1659,
+          "teamName": "CHINESE TAIPEI",
+          "players": [
+            {
+              "id": "99925",
+              "nameDisplay": "PAI Yu Po",
+              "nameType": 1,
+              "firstName": "Yu Po",
+              "lastName": "PAI",
+              "initials": "PY",
+              "nameShort": "PAI Y P ",
+              "nameShort2": "PAI",
+              "slug": "yu-po-pai",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yu Po PAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634106195/assets/players/thumbnail/99925.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1660,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "91106",
+              "nameDisplay": "Yvonne LI",
+              "nameType": 0,
+              "firstName": "Yvonne",
+              "lastName": "LI",
+              "initials": "YL",
+              "nameShort": "Y LI",
+              "nameShort2": "LI",
+              "slug": "yvonne-li",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Yvonne LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991926/assets/players/thumbnail/91106.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 11:40:00",
+        "matchTimeUtc": "2021-09-28 08:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 70,
+        "time": "01:10",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243977,
+        "code": "38",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1659,
+          "teamName": "CHINESE TAIPEI",
+          "players": [
+            {
+              "id": "99102",
+              "nameDisplay": "LEE Jhe-Huei",
+              "nameType": 1,
+              "firstName": "Jhe-Huei",
+              "lastName": "LEE",
+              "initials": "LJ",
+              "nameShort": "LEE J H ",
+              "nameShort2": "LEE",
+              "slug": "jhe-huei-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Jhe-Huei LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896182/assets/players/thumbnail/99102.jpg"
+              }
+            },
+            {
+              "id": "76275",
+              "nameDisplay": "YANG Po-Hsuan",
+              "nameType": 1,
+              "firstName": "Po-Hsuan",
+              "lastName": "YANG",
+              "initials": "YP",
+              "nameShort": "YANG P H ",
+              "nameShort2": "YANG",
+              "slug": "po-hsuan-yang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Po-Hsuan YANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773412/assets/players/thumbnail/76275.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1660,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "68045",
+              "nameDisplay": "Mark LAMSFUSS",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "LAMSFUSS",
+              "initials": "ML",
+              "nameShort": "M LAMSFUSS",
+              "nameShort2": "LAMSFUSS",
+              "slug": "mark-lamsfuss",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Mark LAMSFUSS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719992008/assets/players/thumbnail/68045.jpg"
+              }
+            },
+            {
+              "id": "64909",
+              "nameDisplay": "Marvin SEIDEL",
+              "nameType": 0,
+              "firstName": "Marvin",
+              "lastName": "SEIDEL",
+              "initials": "MS",
+              "nameShort": "M SEIDEL",
+              "nameShort2": "SEIDEL",
+              "slug": "marvin-seidel",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Marvin SEIDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636522316/assets/players/thumbnail/64909.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 12:30:00",
+        "matchTimeUtc": "2021-09-28 09:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243978,
+        "code": "39",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 1659,
+          "teamName": "CHINESE TAIPEI",
+          "players": [
+            {
+              "id": "74561",
+              "nameDisplay": "HSU Ya Ching",
+              "nameType": 1,
+              "firstName": "Ya Ching",
+              "lastName": "HSU",
+              "initials": "HY",
+              "nameShort": "HSU Y C ",
+              "nameShort2": "HSU",
+              "slug": "ya-ching-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ya Ching HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897535/assets/players/thumbnail/74561.jpg"
+              }
+            },
+            {
+              "id": "87176",
+              "nameDisplay": "HU Ling Fang",
+              "nameType": 1,
+              "firstName": "Ling Fang",
+              "lastName": "HU",
+              "initials": "HL",
+              "nameShort": "HU L F ",
+              "nameShort2": "HU",
+              "slug": "ling-fang-hu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ling Fang HU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773544/assets/players/thumbnail/87176.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 1660,
+          "teamName": "GERMANY",
+          "players": [
+            {
+              "id": "78795",
+              "nameDisplay": "Stine KUESPERT",
+              "nameType": 0,
+              "firstName": "Stine",
+              "lastName": "KUESPERT",
+              "initials": "SK",
+              "nameShort": "S KUESPERT",
+              "nameShort2": "KUESPERT",
+              "slug": "stine-kuespert",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Stine KUESPERT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899260/assets/players/thumbnail/78795.jpg"
+              }
+            },
+            {
+              "id": "57180",
+              "nameDisplay": "Emma MOSZCZYNSKI",
+              "nameType": 0,
+              "firstName": "Emma",
+              "lastName": "MOSZCZYNSKI",
+              "initials": "EM",
+              "nameShort": "E MOSZCZYNSKI",
+              "nameShort2": "MOSZCZYNSKI",
+              "slug": "emma-moszczynski",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Emma MOSZCZYNSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896578/assets/players/thumbnail/57180.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 13:20:00",
+        "matchTimeUtc": "2021-09-28 10:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1244045,
+    "code": "59",
+    "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+    "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 1666,
+      "teamName": "JAPAN",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ENG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+      "teamId": 1668,
+      "teamName": "ENGLAND",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2021-09-28 16:00:00",
+    "matchTimeUtc": "2021-09-28 13:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Sudirman Cup",
+    "roundName": "R3",
+    "drawName": "Sudirman Cup - Group D",
+    "drawCode": "4",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Energia Areena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1244050,
+        "code": "100",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1666,
+          "teamName": "JAPAN",
+          "players": [
+            {
+              "id": "58240",
+              "nameDisplay": "Yuta WATANABE",
+              "nameType": 0,
+              "firstName": "Yuta",
+              "lastName": "WATANABE",
+              "initials": "YW",
+              "nameShort": "Y WATANABE",
+              "nameShort2": "WATANABE",
+              "slug": "yuta-watanabe",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yuta WATANABE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627952995/assets/players/thumbnail/58240.jpg"
+              }
+            },
+            {
+              "id": "79558",
+              "nameDisplay": "Arisa IGARASHI",
+              "nameType": 0,
+              "firstName": "Arisa",
+              "lastName": "IGARASHI",
+              "initials": "AI",
+              "nameShort": "A IGARASHI",
+              "nameShort2": "IGARASHI",
+              "slug": "arisa-igarashi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Arisa IGARASHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627952966/assets/players/thumbnail/79558.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 1668,
+          "teamName": "ENGLAND",
+          "players": [
+            {
+              "id": "71349",
+              "nameDisplay": "Marcus ELLIS",
+              "nameType": 0,
+              "firstName": "Marcus",
+              "lastName": "ELLIS",
+              "initials": "ME",
+              "nameShort": "M ELLIS",
+              "nameShort2": "ELLIS",
+              "slug": "marcus-ellis",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Marcus ELLIS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896114/assets/players/thumbnail/71349.jpg"
+              }
+            },
+            {
+              "id": "80918",
+              "nameDisplay": "Lauren SMITH",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "SMITH",
+              "initials": "LS",
+              "nameShort": "L SMITH",
+              "nameShort2": "SMITH",
+              "slug": "lauren-smith",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Lauren SMITH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896116/assets/players/thumbnail/80918.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 16:00:00",
+        "matchTimeUtc": "2021-09-28 13:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 42,
+        "time": "00:42",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244046,
+        "code": "96",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1666,
+          "teamName": "JAPAN",
+          "players": [
+            {
+              "id": "89785",
+              "nameDisplay": "Kento MOMOTA",
+              "nameType": 0,
+              "firstName": "Kento",
+              "lastName": "MOMOTA",
+              "initials": "KM",
+              "nameShort": "K MOMOTA",
+              "nameShort2": "MOMOTA",
+              "slug": "kento-momota",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kento MOMOTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658823118/assets/players/thumbnail/89785.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 1668,
+          "teamName": "ENGLAND",
+          "players": [
+            {
+              "id": "75763",
+              "nameDisplay": "Johnnie TORJUSSEN",
+              "nameType": 0,
+              "firstName": "Johnnie",
+              "lastName": "TORJUSSEN",
+              "initials": "JT",
+              "nameShort": "J TORJUSSEN",
+              "nameShort2": "TORJUSSEN",
+              "slug": "johnnie-torjussen",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Johnnie TORJUSSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 16:50:00",
+        "matchTimeUtc": "2021-09-28 13:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244048,
+        "code": "98",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1666,
+          "teamName": "JAPAN",
+          "players": [
+            {
+              "id": "88405",
+              "nameDisplay": "Akira KOGA",
+              "nameType": 0,
+              "firstName": "Akira",
+              "lastName": "KOGA",
+              "initials": "AK",
+              "nameShort": "A KOGA",
+              "nameShort2": "KOGA",
+              "slug": "akira-koga",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akira KOGA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896229/assets/players/thumbnail/88405.jpg"
+              }
+            },
+            {
+              "id": "77123",
+              "nameDisplay": "Taichi SAITO",
+              "nameType": 0,
+              "firstName": "Taichi",
+              "lastName": "SAITO",
+              "initials": "TS",
+              "nameShort": "T SAITO",
+              "nameShort2": "SAITO",
+              "slug": "taichi-saito",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Taichi SAITO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896227/assets/players/thumbnail/77123.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 1668,
+          "teamName": "ENGLAND",
+          "players": [
+            {
+              "id": "76278",
+              "nameDisplay": "Ben LANE",
+              "nameType": 0,
+              "firstName": "Ben",
+              "lastName": "LANE",
+              "initials": "BL",
+              "nameShort": "B LANE",
+              "nameShort2": "LANE",
+              "slug": "ben-lane",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Ben LANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895527/assets/players/thumbnail/76278.jpg"
+              }
+            },
+            {
+              "id": "72478",
+              "nameDisplay": "Sean VENDY",
+              "nameType": 0,
+              "firstName": "Sean",
+              "lastName": "VENDY",
+              "initials": "SV",
+              "nameShort": "S VENDY",
+              "nameShort2": "VENDY",
+              "slug": "sean-vendy",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Sean VENDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896409/assets/players/thumbnail/72478.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 17:40:00",
+        "matchTimeUtc": "2021-09-28 14:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 66,
+        "time": "01:06",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244047,
+        "code": "97",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1666,
+          "teamName": "JAPAN",
+          "players": [
+            {
+              "id": "96312",
+              "nameDisplay": "Akane YAMAGUCHI",
+              "nameType": 0,
+              "firstName": "Akane",
+              "lastName": "YAMAGUCHI",
+              "initials": "AY",
+              "nameShort": "A YAMAGUCHI",
+              "nameShort2": "YAMAGUCHI",
+              "slug": "akane-yamaguchi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akane YAMAGUCHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689647088/assets/players/thumbnail/96312.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 1668,
+          "teamName": "ENGLAND",
+          "players": [
+            {
+              "id": "72346",
+              "nameDisplay": "Abigail HOLDEN",
+              "nameType": 0,
+              "firstName": "Abigail",
+              "lastName": "HOLDEN",
+              "initials": "AH",
+              "nameShort": "A HOLDEN",
+              "nameShort2": "HOLDEN",
+              "slug": "abigail-holden",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Abigail HOLDEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897735/assets/players/thumbnail/72346.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 18:30:00",
+        "matchTimeUtc": "2021-09-28 15:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244049,
+        "code": "99",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 1666,
+          "teamName": "JAPAN",
+          "players": [
+            {
+              "id": "65212",
+              "nameDisplay": "Nami MATSUYAMA",
+              "nameType": 0,
+              "firstName": "Nami",
+              "lastName": "MATSUYAMA",
+              "initials": "NM",
+              "nameShort": "N MATSUYAMA",
+              "nameShort2": "MATSUYAMA",
+              "slug": "nami-matsuyama",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Nami MATSUYAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657872624/assets/players/thumbnail/65212.jpg"
+              }
+            },
+            {
+              "id": "68282",
+              "nameDisplay": "Chiharu SHIDA",
+              "nameType": 0,
+              "firstName": "Chiharu",
+              "lastName": "SHIDA",
+              "initials": "CS",
+              "nameShort": "C SHIDA",
+              "nameShort2": "SHIDA",
+              "slug": "chiharu-shida",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Chiharu SHIDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1635908674/assets/players/thumbnail/68282.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 1668,
+          "teamName": "ENGLAND",
+          "players": [
+            {
+              "id": "50715",
+              "nameDisplay": "Chloe CONEY",
+              "nameType": 0,
+              "firstName": "Chloe",
+              "lastName": "CONEY",
+              "initials": "CC",
+              "nameShort": "C CONEY",
+              "nameShort2": "CONEY",
+              "slug": "chloe-coney",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Chloe CONEY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894567/assets/players/thumbnail/50715.jpg"
+              }
+            },
+            {
+              "id": "80918",
+              "nameDisplay": "Lauren SMITH",
+              "nameType": 0,
+              "firstName": "Lauren",
+              "lastName": "SMITH",
+              "initials": "LS",
+              "nameShort": "L SMITH",
+              "nameShort2": "SMITH",
+              "slug": "lauren-smith",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Lauren SMITH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896116/assets/players/thumbnail/80918.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 19:20:00",
+        "matchTimeUtc": "2021-09-28 16:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Energia Areena",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1243980,
+    "code": "31",
+    "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+    "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 1658,
+      "teamName": "KOREA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PYF",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+      "teamId": 1661,
+      "teamName": "TAHITI",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2021-09-28 10:00:00",
+    "matchTimeUtc": "2021-09-28 07:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Sudirman Cup",
+    "roundName": "R3",
+    "drawName": "Sudirman Cup - Group B",
+    "drawCode": "2",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Energia Areena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1243981,
+        "code": "51",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1658,
+          "teamName": "KOREA",
+          "players": [
+            {
+              "id": "65580",
+              "nameDisplay": "JEON Hyeok Jin",
+              "nameType": 1,
+              "firstName": "Hyeok Jin",
+              "lastName": "JEON",
+              "initials": "JH",
+              "nameShort": "JEON H J ",
+              "nameShort2": "JEON",
+              "slug": "hyeok-jin-jeon",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hyeok Jin JEON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658201249/assets/players/thumbnail/65580.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 1661,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "87742",
+              "nameDisplay": "Heiva YVONET",
+              "nameType": 0,
+              "firstName": "Heiva",
+              "lastName": "YVONET",
+              "initials": "HY",
+              "nameShort": "H YVONET",
+              "nameShort2": "YVONET",
+              "slug": "heiva-yvonet",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Heiva YVONET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634108366/assets/players/thumbnail/87742.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 10:00:00",
+        "matchTimeUtc": "2021-09-28 07:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 1,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243982,
+        "code": "52",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1658,
+          "teamName": "KOREA",
+          "players": [
+            {
+              "id": "70930",
+              "nameDisplay": "KIM Ga Eun",
+              "nameType": 1,
+              "firstName": "Ga Eun",
+              "lastName": "KIM",
+              "initials": "KG",
+              "nameShort": "KIM G E ",
+              "nameShort2": "KIM",
+              "slug": "ga-eun-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ga Eun KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895484/assets/players/thumbnail/70930.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 1661,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "91906",
+              "nameDisplay": "Heirautea CURET",
+              "nameType": 0,
+              "firstName": "Heirautea",
+              "lastName": "CURET",
+              "initials": "HC",
+              "nameShort": "H CURET",
+              "nameShort2": "CURET",
+              "slug": "heirautea-curet",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Heirautea CURET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634111079/assets/players/thumbnail/91906.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 10:50:00",
+        "matchTimeUtc": "2021-09-28 07:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243983,
+        "code": "53",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1658,
+          "teamName": "KOREA",
+          "players": [
+            {
+              "id": "77262",
+              "nameDisplay": "KANG Min Hyuk",
+              "nameType": 1,
+              "firstName": "Min Hyuk",
+              "lastName": "KANG",
+              "initials": "KM",
+              "nameShort": "KANG M H ",
+              "nameShort2": "KANG",
+              "slug": "kang-min-hyuk",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "KANG Min Hyuk",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896028/assets/players/thumbnail/77262.jpg"
+              }
+            },
+            {
+              "id": "61444",
+              "nameDisplay": "KIM Won Ho",
+              "nameType": 1,
+              "firstName": "Won Ho",
+              "lastName": "KIM",
+              "initials": "KW",
+              "nameShort": "KIM W H ",
+              "nameShort2": "KIM",
+              "slug": "won-ho-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Won Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895351/assets/players/thumbnail/61444.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 1661,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "92960",
+              "nameDisplay": "Elias MAUBLANC",
+              "nameType": 0,
+              "firstName": "Elias",
+              "lastName": "MAUBLANC",
+              "initials": "EM",
+              "nameShort": "E MAUBLANC",
+              "nameShort2": "MAUBLANC",
+              "slug": "elias-maublanc",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Elias MAUBLANC",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634107667/assets/players/thumbnail/92960.jpg"
+              }
+            },
+            {
+              "id": "87742",
+              "nameDisplay": "Heiva YVONET",
+              "nameType": 0,
+              "firstName": "Heiva",
+              "lastName": "YVONET",
+              "initials": "HY",
+              "nameShort": "H YVONET",
+              "nameShort2": "YVONET",
+              "slug": "heiva-yvonet",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Heiva YVONET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634108366/assets/players/thumbnail/87742.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 11:40:00",
+        "matchTimeUtc": "2021-09-28 08:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243984,
+        "code": "54",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1658,
+          "teamName": "KOREA",
+          "players": [
+            {
+              "id": "91292",
+              "nameDisplay": "LEE So Hee",
+              "nameType": 1,
+              "firstName": "So Hee",
+              "lastName": "LEE",
+              "initials": "LS",
+              "nameShort": "LEE S H ",
+              "nameShort2": "LEE",
+              "slug": "so-hee-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "So Hee LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895692/assets/players/thumbnail/91292.jpg"
+              }
+            },
+            {
+              "id": "87473",
+              "nameDisplay": "SHIN Seung Chan",
+              "nameType": 1,
+              "firstName": "Seung Chan",
+              "lastName": "SHIN",
+              "initials": "SS",
+              "nameShort": "SHIN S C ",
+              "nameShort2": "SHIN",
+              "slug": "seung-chan-shin",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Seung Chan SHIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897473/assets/players/thumbnail/87473.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 1661,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "61551",
+              "nameDisplay": "Maeva GAILLARD",
+              "nameType": 0,
+              "firstName": "Maeva",
+              "lastName": "GAILLARD",
+              "initials": "MG",
+              "nameShort": "M GAILLARD",
+              "nameShort2": "GAILLARD",
+              "slug": "maeva-gaillard",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Maeva GAILLARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634107117/assets/players/thumbnail/61551.jpg"
+              }
+            },
+            {
+              "id": "68179",
+              "nameDisplay": "Jenica LESOURD",
+              "nameType": 0,
+              "firstName": "Jenica",
+              "lastName": "LESOURD",
+              "initials": "JL",
+              "nameShort": "J LESOURD",
+              "nameShort2": "LESOURD",
+              "slug": "jenica-lesourd",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Jenica LESOURD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634110911/assets/players/thumbnail/68179.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 12:30:00",
+        "matchTimeUtc": "2021-09-28 09:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1243985,
+        "code": "55",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 1658,
+          "teamName": "KOREA",
+          "players": [
+            {
+              "id": "66513",
+              "nameDisplay": "SEO Seung Jae",
+              "nameType": 1,
+              "firstName": "Seung Jae",
+              "lastName": "SEO",
+              "initials": "SS",
+              "nameShort": "SEO S J ",
+              "nameShort2": "SEO",
+              "slug": "seung-jae-seo",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Seung Jae SEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895418/assets/players/thumbnail/66513.jpg"
+              }
+            },
+            {
+              "id": "55874",
+              "nameDisplay": "KIM So Yeong",
+              "nameType": 1,
+              "firstName": "So Yeong",
+              "lastName": "KIM",
+              "initials": "KS",
+              "nameShort": "KIM S Y ",
+              "nameShort2": "KIM",
+              "slug": "so-yeong-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "So Yeong KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658733108/assets/players/thumbnail/55874.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "PYF",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+          "teamId": 1661,
+          "teamName": "TAHITI",
+          "players": [
+            {
+              "id": "87411",
+              "nameDisplay": "Glen LEFOLL",
+              "nameType": 0,
+              "firstName": "Glen",
+              "lastName": "LEFOLL",
+              "initials": "GL",
+              "nameShort": "G LEFOLL",
+              "nameShort2": "LEFOLL",
+              "slug": "glen-lefoll",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Glen LEFOLL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634172831/assets/players/thumbnail/87411.jpg"
+              }
+            },
+            {
+              "id": "91783",
+              "nameDisplay": "Chloé SEGRESTAN",
+              "nameType": 0,
+              "firstName": "Chloé",
+              "lastName": "SEGRESTAN",
+              "initials": "CS",
+              "nameShort": "C SEGRESTAN",
+              "nameShort2": "SEGRESTAN",
+              "slug": "chloe-segrestan",
+              "countryCode": "PYF",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PYF.png",
+              "avatar": {
+                "title": "Chloé SEGRESTAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634110229/assets/players/thumbnail/91783.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 13:20:00",
+        "matchTimeUtc": "2021-09-28 10:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 16,
+        "time": "00:16",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1244051,
+    "code": "63",
+    "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+    "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MAS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+      "teamId": 1667,
+      "teamName": "MALAYSIA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "EGY",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+      "teamId": 1669,
+      "teamName": "EGYPT",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2021-09-28 16:00:00",
+    "matchTimeUtc": "2021-09-28 13:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Sudirman Cup",
+    "roundName": "R3",
+    "drawName": "Sudirman Cup - Group D",
+    "drawCode": "4",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Energia Areena",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1244056,
+        "code": "115",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 1667,
+          "teamName": "MALAYSIA",
+          "players": [
+            {
+              "id": "91090",
+              "nameDisplay": "CHEN Tang Jie",
+              "nameType": 1,
+              "firstName": "Tang Jie",
+              "lastName": "CHEN",
+              "initials": "CT",
+              "nameShort": "CHEN T J ",
+              "nameShort2": "CHEN",
+              "slug": "tang-jie-chen",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Tang Jie CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896192/assets/players/thumbnail/91090.jpg"
+              }
+            },
+            {
+              "id": "64966",
+              "nameDisplay": "PECK Yen Wei",
+              "nameType": 1,
+              "firstName": "Yen Wei",
+              "lastName": "PECK",
+              "initials": "PY",
+              "nameShort": "PECK Y W ",
+              "nameShort2": "PECK",
+              "slug": "yen-wei-peck",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Yen Wei PECK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895394/assets/players/thumbnail/64966.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 1669,
+          "teamName": "EGYPT",
+          "players": [
+            {
+              "id": "55949",
+              "nameDisplay": "Ahmed SALAH",
+              "nameType": 0,
+              "firstName": "Ahmed",
+              "lastName": "SALAH",
+              "initials": "AS",
+              "nameShort": "A SALAH",
+              "nameShort2": "SALAH",
+              "slug": "ahmed-salah",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Ahmed SALAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895146/assets/players/thumbnail/55949.jpg"
+              }
+            },
+            {
+              "id": "88020",
+              "nameDisplay": "Nour AHMED YOUSSRI",
+              "nameType": 0,
+              "firstName": "Nour",
+              "lastName": "AHMED YOUSSRI",
+              "initials": "NA",
+              "nameShort": "N AHMED YOUSSRI",
+              "nameShort2": "AHMED YOUSSRI",
+              "slug": "nour-ahmed-youssri",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Nour AHMED YOUSSRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634279651/assets/players/thumbnail/88020.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 16:00:00",
+        "matchTimeUtc": "2021-09-28 13:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244052,
+        "code": "111",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 1667,
+          "teamName": "MALAYSIA",
+          "players": [
+            {
+              "id": "81362",
+              "nameDisplay": "NG Tze Yong",
+              "nameType": 1,
+              "firstName": "Tze Yong",
+              "lastName": "NG",
+              "initials": "NT",
+              "nameShort": "NG T Y ",
+              "nameShort2": "NG",
+              "slug": "tze-yong-ng",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Tze Yong NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697764766/assets/players/thumbnail/81362.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 1669,
+          "teamName": "EGYPT",
+          "players": [
+            {
+              "id": "78102",
+              "nameDisplay": "Mohamed MOSTAFA KAMEL",
+              "nameType": 0,
+              "firstName": "Mohamed",
+              "lastName": "MOSTAFA KAMEL",
+              "initials": "MM",
+              "nameShort": "M MOSTAFA KAMEL",
+              "nameShort2": "MOSTAFA KAMEL",
+              "slug": "mohamed-mostafa-kamel",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Mohamed MOSTAFA KAMEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 16:50:00",
+        "matchTimeUtc": "2021-09-28 13:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 2,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244053,
+        "code": "112",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 1667,
+          "teamName": "MALAYSIA",
+          "players": [
+            {
+              "id": "81909",
+              "nameDisplay": "EOON Qi Xuan",
+              "nameType": 1,
+              "firstName": "Qi Xuan",
+              "lastName": "EOON",
+              "initials": "EQ",
+              "nameShort": "EOON Q X ",
+              "nameShort2": "EOON",
+              "slug": "qi-xuan-eoon",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Qi Xuan EOON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634094754/assets/players/thumbnail/81909.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 1669,
+          "teamName": "EGYPT",
+          "players": [
+            {
+              "id": "61746",
+              "nameDisplay": "Doha HANY",
+              "nameType": 0,
+              "firstName": "Doha",
+              "lastName": "HANY",
+              "initials": "DH",
+              "nameShort": "D HANY",
+              "nameShort2": "HANY",
+              "slug": "doha-hany",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Doha HANY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634105932/assets/players/thumbnail/61746.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 17:40:00",
+        "matchTimeUtc": "2021-09-28 14:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244054,
+        "code": "113",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 1667,
+          "teamName": "MALAYSIA",
+          "players": [
+            {
+              "id": "78409",
+              "nameDisplay": "MAN Wei Chong",
+              "nameType": 1,
+              "firstName": "Wei Chong",
+              "lastName": "MAN",
+              "initials": "MW",
+              "nameShort": "MAN W C ",
+              "nameShort2": "MAN",
+              "slug": "wei-chong-man",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Wei Chong MAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697420743/assets/players/thumbnail/78409.jpg"
+              }
+            },
+            {
+              "id": "85129",
+              "nameDisplay": "TEE Kai Wun",
+              "nameType": 1,
+              "firstName": "Kai Wun",
+              "lastName": "TEE",
+              "initials": "TK",
+              "nameShort": "TEE K W ",
+              "nameShort2": "TEE",
+              "slug": "Kai Wun-TEE",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Kai Wun TEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697443452/assets/players/thumbnail/85129.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 1669,
+          "teamName": "EGYPT",
+          "players": [
+            {
+              "id": "78102",
+              "nameDisplay": "Mohamed MOSTAFA KAMEL",
+              "nameType": 0,
+              "firstName": "Mohamed",
+              "lastName": "MOSTAFA KAMEL",
+              "initials": "MM",
+              "nameShort": "M MOSTAFA KAMEL",
+              "nameShort2": "MOSTAFA KAMEL",
+              "slug": "mohamed-mostafa-kamel",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Mohamed MOSTAFA KAMEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55949",
+              "nameDisplay": "Ahmed SALAH",
+              "nameType": 0,
+              "firstName": "Ahmed",
+              "lastName": "SALAH",
+              "initials": "AS",
+              "nameShort": "A SALAH",
+              "nameShort2": "SALAH",
+              "slug": "ahmed-salah",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Ahmed SALAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895146/assets/players/thumbnail/55949.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 18:30:00",
+        "matchTimeUtc": "2021-09-28 15:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1244055,
+        "code": "114",
+        "tournamentCode": "1BD7E5BD-0C17-496D-B17F-F60CD04626C0",
+        "tournamentName": "TotalEnergies BWF Sudirman Cup 2021",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 1667,
+          "teamName": "MALAYSIA",
+          "players": [
+            {
+              "id": "63539",
+              "nameDisplay": "TEOH Mei Xing",
+              "nameType": 1,
+              "firstName": "Mei Xing",
+              "lastName": "TEOH",
+              "initials": "TM",
+              "nameShort": "TEOH M X ",
+              "nameShort2": "TEOH",
+              "slug": "mei-xing-teoh",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Mei Xing TEOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634091726/assets/players/thumbnail/63539.jpg"
+              }
+            },
+            {
+              "id": "56307",
+              "nameDisplay": "YAP Ling",
+              "nameType": 1,
+              "firstName": "Ling",
+              "lastName": "YAP",
+              "initials": "YL",
+              "nameShort": "YAP L",
+              "nameShort2": "YAP",
+              "slug": "ling-yap",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Ling YAP",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634092098/assets/players/thumbnail/56307.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "EGY",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+          "teamId": 1669,
+          "teamName": "EGYPT",
+          "players": [
+            {
+              "id": "88020",
+              "nameDisplay": "Nour AHMED YOUSSRI",
+              "nameType": 0,
+              "firstName": "Nour",
+              "lastName": "AHMED YOUSSRI",
+              "initials": "NA",
+              "nameShort": "N AHMED YOUSSRI",
+              "nameShort2": "AHMED YOUSSRI",
+              "slug": "nour-ahmed-youssri",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Nour AHMED YOUSSRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634279651/assets/players/thumbnail/88020.jpg"
+              }
+            },
+            {
+              "id": "61746",
+              "nameDisplay": "Doha HANY",
+              "nameType": 0,
+              "firstName": "Doha",
+              "lastName": "HANY",
+              "initials": "DH",
+              "nameShort": "D HANY",
+              "nameShort2": "HANY",
+              "slug": "doha-hany",
+              "countryCode": "EGY",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/EGY.png",
+              "avatar": {
+                "title": "Doha HANY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634105932/assets/players/thumbnail/61746.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2021-09-28 19:20:00",
+        "matchTimeUtc": "2021-09-28 16:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Sudirman Cup",
+        "roundName": "R3",
+        "drawName": "Sudirman Cup - Group D",
+        "drawCode": "4",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Energia Areena",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

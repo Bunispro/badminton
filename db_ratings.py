@@ -210,6 +210,7 @@ def init_rating_table(conn):
             event TEXT,
             rating_date TEXT,
             rating REAL,
+            uncertainty REAL,
             PRIMARY KEY (run_id, player_id, event, rating_date)
         );
     """)
@@ -230,8 +231,141 @@ def init_rating_table(conn):
             event TEXT,
             rating_date TEXT,
             player_id TEXT,
-            rank
+            rank INTEGER,
+            PRIMARY KEY (run_id, event, rating_date, player_id)
         );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS player_stats (
+            player_id TEXT,
+            event TEXT,
+            model TEXT,
+            mode TEXT,
+            snapshot_date TEXT,
+            winrate REAL,
+            global_rank INTEGER,
+            rating REAL,
+            rating_date TEXT,
+            rank_at_peak INTEGER,
+            last_played_date TEXT,
+            total_matches INTEGER,
+            country_code TEXT,
+            change_1m REAL,
+            change_3m REAL,
+            change_6m REAL,
+            PRIMARY KEY (player_id, event, model, mode, snapshot_date)
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS api_cache (
+            cache_key TEXT PRIMARY KEY,
+            cache_value TEXT,
+            updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS player_views (
+            player_id TEXT PRIMARY KEY,
+            view_count INTEGER DEFAULT 0
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS whr_ranking_history (
+            run_id TEXT,
+            event TEXT,
+            rating_date TEXT,
+            player_id TEXT,
+            rank INTEGER,
+            PRIMARY KEY (run_id, event, rating_date, player_id)
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS bwf_historical_rankings (
+            rank_date TEXT NOT NULL,
+            week INTEGER NOT NULL,
+            event TEXT NOT NULL,
+            rank INTEGER NOT NULL,
+            player_id INTEGER NOT NULL,
+            player_name TEXT,
+            country TEXT,
+            points INTEGER,
+            PRIMARY KEY (rank_date, event, rank, player_id)
+        );
+    """)
+
+    cursor.execute("""
+        CREATE INDEX IF NOT EXISTS idx_bwf_hist_player ON bwf_historical_rankings(player_id, rank_date);
+    """)
+
+    cursor.execute("""
+        CREATE INDEX IF NOT EXISTS idx_bwf_hist_date ON bwf_historical_rankings(rank_date, event);
+    """)
+
+    cursor.execute("""
+        CREATE INDEX IF NOT EXISTS idx_ranking_history_player ON ranking_history(player_id, event);
+    """)
+
+    cursor.execute("""
+        CREATE INDEX IF NOT EXISTS idx_whr_ranking_history_player ON whr_ranking_history(player_id, event);
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS ml_models (
+            model_name TEXT PRIMARY KEY,
+            model_bytes BLOB
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS ml_match_features (
+            match_id TEXT PRIMARY KEY,
+            match_date TEXT,
+            event TEXT,
+            winner_side_1 INTEGER,
+            duration REAL,
+            tier TEXT,
+            round TEXT,
+            elo_a REAL,
+            elo_b REAL,
+            elo_diff REAL,
+            whr_a REAL,
+            whr_b REAL,
+            whr_diff REAL,
+            synergy_a REAL,
+            synergy_b REAL,
+            avg_rest_a REAL,
+            avg_rest_b REAL,
+            rest_diff REAL,
+            h2h_rate REAL
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS xgb_prediction_log (
+            match_id TEXT PRIMARY KEY,
+            predicted_prob REAL,
+            actual INTEGER
+        );
+    """)
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS bwf_prediction_log (
+            match_id TEXT PRIMARY KEY,
+            points_p1 INTEGER,
+            points_p2 INTEGER,
+            predicted_prob_ratio REAL,
+            predicted_prob_diff REAL,
+            actual INTEGER
+        );
+    """)
+
+    cursor.execute("""
+        CREATE INDEX IF NOT EXISTS idx_bwf_pred_match ON bwf_prediction_log(match_id);
     """)
 
     conn.commit()

@@ -1,0 +1,1397 @@
+[
+  {
+    "id": 1406508,
+    "code": "6",
+    "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+    "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MYA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+      "teamId": 1338,
+      "teamName": "Myanmar",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+      "teamId": 1340,
+      "teamName": "Cambodia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-10-31 10:00:00",
+    "matchTimeUtc": "2023-10-31 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Under 15",
+    "roundName": "R2",
+    "drawName": "Under 15 - Mixed Team Under 15",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Moradak Techco",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1406512,
+        "code": "5",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1338,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "44785",
+              "nameDisplay": "Nyi ZAYA",
+              "nameType": 0,
+              "firstName": "Nyi",
+              "lastName": "ZAYA",
+              "initials": "NZ",
+              "nameShort": "N ZAYA",
+              "nameShort2": "ZAYA",
+              "slug": "nyi-zaya",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Nyi ZAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "49704",
+              "nameDisplay": "Thadar Htet KYAW",
+              "nameType": 0,
+              "firstName": "Thadar Htet",
+              "lastName": "KYAW",
+              "initials": "TK",
+              "nameShort": "T KYAW",
+              "nameShort2": "KYAW",
+              "slug": "thadar-htet-kyaw",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Thadar Htet KYAW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+          "teamId": 1340,
+          "teamName": "Cambodia",
+          "players": [
+            {
+              "id": "25156",
+              "nameDisplay": "Rathana VIRAKSAK",
+              "nameType": 0,
+              "firstName": "Rathana",
+              "lastName": "VIRAKSAK",
+              "initials": "RV",
+              "nameShort": "R VIRAKSAK",
+              "nameShort2": "VIRAKSAK",
+              "slug": "rathana-viraksak",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Rathana VIRAKSAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "40322",
+              "nameDisplay": "Kuy KANIKA",
+              "nameType": 0,
+              "firstName": "Kuy",
+              "lastName": "KANIKA",
+              "initials": "KK",
+              "nameShort": "K KANIKA",
+              "nameShort2": "KANIKA",
+              "slug": "kuy-kanika",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Kuy KANIKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 10:00:00",
+        "matchTimeUtc": "2023-10-31 02:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Under 15",
+        "roundName": "R2",
+        "drawName": "Under 15 - Mixed Team Under 15",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Moradak Techco",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406519,
+        "code": "1",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1338,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "55613",
+              "nameDisplay": "Ye Lin HTET",
+              "nameType": 0,
+              "firstName": "Ye Lin",
+              "lastName": "HTET",
+              "initials": "YH",
+              "nameShort": "Y HTET",
+              "nameShort2": "HTET",
+              "slug": "ye-lin-htet",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Ye Lin HTET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+          "teamId": 1340,
+          "teamName": "Cambodia",
+          "players": [
+            {
+              "id": "38148",
+              "nameDisplay": "Oun PANNHARITH",
+              "nameType": 0,
+              "firstName": "Oun",
+              "lastName": "PANNHARITH",
+              "initials": "OP",
+              "nameShort": "O PANNHARITH",
+              "nameShort2": "PANNHARITH",
+              "slug": "oun-pannharith",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Oun PANNHARITH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 10:50:00",
+        "matchTimeUtc": "2023-10-31 02:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 15",
+        "roundName": "R2",
+        "drawName": "Under 15 - Mixed Team Under 15",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Moradak Techco",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406534,
+        "code": "2",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1338,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "61472",
+              "nameDisplay": "Lin LIN HTET",
+              "nameType": 0,
+              "firstName": "Lin",
+              "lastName": "LIN HTET",
+              "initials": "LL",
+              "nameShort": "L LIN HTET",
+              "nameShort2": "LIN HTET",
+              "slug": "lin-lin-htet",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Lin LIN HTET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+          "teamId": 1340,
+          "teamName": "Cambodia",
+          "players": [
+            {
+              "id": "41289",
+              "nameDisplay": "Loeung MALYNETH",
+              "nameType": 0,
+              "firstName": "Loeung",
+              "lastName": "MALYNETH",
+              "initials": "LM",
+              "nameShort": "L MALYNETH",
+              "nameShort2": "MALYNETH",
+              "slug": "loeung-malyneth",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Loeung MALYNETH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 11:40:00",
+        "matchTimeUtc": "2023-10-31 03:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 15",
+        "roundName": "R2",
+        "drawName": "Under 15 - Mixed Team Under 15",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Moradak Techco",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406513,
+        "code": "3",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1338,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "55613",
+              "nameDisplay": "Ye Lin HTET",
+              "nameType": 0,
+              "firstName": "Ye Lin",
+              "lastName": "HTET",
+              "initials": "YH",
+              "nameShort": "Y HTET",
+              "nameShort2": "HTET",
+              "slug": "ye-lin-htet",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Ye Lin HTET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "44785",
+              "nameDisplay": "Nyi ZAYA",
+              "nameType": 0,
+              "firstName": "Nyi",
+              "lastName": "ZAYA",
+              "initials": "NZ",
+              "nameShort": "N ZAYA",
+              "nameShort2": "ZAYA",
+              "slug": "nyi-zaya",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Nyi ZAYA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+          "teamId": 1340,
+          "teamName": "Cambodia",
+          "players": [
+            {
+              "id": "38148",
+              "nameDisplay": "Oun PANNHARITH",
+              "nameType": 0,
+              "firstName": "Oun",
+              "lastName": "PANNHARITH",
+              "initials": "OP",
+              "nameShort": "O PANNHARITH",
+              "nameShort2": "PANNHARITH",
+              "slug": "oun-pannharith",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Oun PANNHARITH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "25156",
+              "nameDisplay": "Rathana VIRAKSAK",
+              "nameType": 0,
+              "firstName": "Rathana",
+              "lastName": "VIRAKSAK",
+              "initials": "RV",
+              "nameShort": "R VIRAKSAK",
+              "nameShort2": "VIRAKSAK",
+              "slug": "rathana-viraksak",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Rathana VIRAKSAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 12:30:00",
+        "matchTimeUtc": "2023-10-31 04:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 15",
+        "roundName": "R2",
+        "drawName": "Under 15 - Mixed Team Under 15",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Moradak Techco",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406529,
+        "code": "4",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1338,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "49704",
+              "nameDisplay": "Thadar Htet KYAW",
+              "nameType": 0,
+              "firstName": "Thadar Htet",
+              "lastName": "KYAW",
+              "initials": "TK",
+              "nameShort": "T KYAW",
+              "nameShort2": "KYAW",
+              "slug": "thadar-htet-kyaw",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Thadar Htet KYAW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "61472",
+              "nameDisplay": "Lin LIN HTET",
+              "nameType": 0,
+              "firstName": "Lin",
+              "lastName": "LIN HTET",
+              "initials": "LL",
+              "nameShort": "L LIN HTET",
+              "nameShort2": "LIN HTET",
+              "slug": "lin-lin-htet",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Lin LIN HTET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CAM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+          "teamId": 1340,
+          "teamName": "Cambodia",
+          "players": [
+            {
+              "id": "40322",
+              "nameDisplay": "Kuy KANIKA",
+              "nameType": 0,
+              "firstName": "Kuy",
+              "lastName": "KANIKA",
+              "initials": "KK",
+              "nameShort": "K KANIKA",
+              "nameShort2": "KANIKA",
+              "slug": "kuy-kanika",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Kuy KANIKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "41289",
+              "nameDisplay": "Loeung MALYNETH",
+              "nameType": 0,
+              "firstName": "Loeung",
+              "lastName": "MALYNETH",
+              "initials": "LM",
+              "nameShort": "L MALYNETH",
+              "nameShort2": "MALYNETH",
+              "slug": "loeung-malyneth",
+              "countryCode": "CAM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAM.png",
+              "avatar": {
+                "title": "Loeung MALYNETH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 13:20:00",
+        "matchTimeUtc": "2023-10-31 05:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 15",
+        "roundName": "R2",
+        "drawName": "Under 15 - Mixed Team Under 15",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Moradak Techco",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1406510,
+    "code": "15",
+    "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+    "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MYA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+      "teamId": 1343,
+      "teamName": "Myanmar",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TLS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+      "teamId": 1341,
+      "teamName": "Timor Leste",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2023-10-31 10:00:00",
+    "matchTimeUtc": "2023-10-31 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Under 17",
+    "roundName": "R2",
+    "drawName": "Under 17 - Mixed Team Under 17",
+    "drawCode": "2",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Moradak Techco",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1406520,
+        "code": "20",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1343,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "24687",
+              "nameDisplay": "Bhone Htet ZAW",
+              "nameType": 0,
+              "firstName": "Bhone Htet",
+              "lastName": "ZAW",
+              "initials": "BZ",
+              "nameShort": "B ZAW",
+              "nameShort2": "ZAW",
+              "slug": "bhone-htet-zaw",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Bhone Htet ZAW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "57097",
+              "nameDisplay": "Eaint Chit PHOO",
+              "nameType": 0,
+              "firstName": "Eaint Chit",
+              "lastName": "PHOO",
+              "initials": "EP",
+              "nameShort": "E PHOO",
+              "nameShort2": "PHOO",
+              "slug": "eaint-chit-phoo",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Eaint Chit PHOO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TLS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+          "teamId": 1341,
+          "teamName": "Timor Leste",
+          "players": [
+            {
+              "id": "48299",
+              "nameDisplay": "Alberto Ricardo Carlos GUSMAO",
+              "nameType": 0,
+              "firstName": "Alberto Ricardo Carlos",
+              "lastName": "GUSMAO",
+              "initials": "AG",
+              "nameShort": "A GUSMAO",
+              "nameShort2": "GUSMAO",
+              "slug": "alberto-ricardo-carlos-gusmao",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Alberto Ricardo Carlos GUSMAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "42061",
+              "nameDisplay": "Maria Fatima PINTO DA COSTA",
+              "nameType": 0,
+              "firstName": "Maria Fatima",
+              "lastName": "PINTO DA COSTA",
+              "initials": "MP",
+              "nameShort": "M PINTO DA COSTA",
+              "nameShort2": "PINTO DA COSTA",
+              "slug": "maria-fatima-pinto-da-costa",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Maria Fatima PINTO DA COSTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 10:00:00",
+        "matchTimeUtc": "2023-10-31 02:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Under 17",
+        "roundName": "R2",
+        "drawName": "Under 17 - Mixed Team Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Moradak Techco",
+        "duration": 15,
+        "time": "00:15",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406526,
+        "code": "16",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1343,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "70362",
+              "nameDisplay": "Nyan SHAINE LIN",
+              "nameType": 0,
+              "firstName": "Nyan",
+              "lastName": "SHAINE LIN",
+              "initials": "NS",
+              "nameShort": "N SHAINE LIN",
+              "nameShort2": "SHAINE LIN",
+              "slug": "nyan-shaine-lin",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Nyan SHAINE LIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TLS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+          "teamId": 1341,
+          "teamName": "Timor Leste",
+          "players": [
+            {
+              "id": "45595",
+              "nameDisplay": "Cristiano GALHOS",
+              "nameType": 0,
+              "firstName": "Cristiano",
+              "lastName": "GALHOS",
+              "initials": "CG",
+              "nameShort": "C GALHOS",
+              "nameShort2": "GALHOS",
+              "slug": "cristiano-galhos",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Cristiano GALHOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 10:50:00",
+        "matchTimeUtc": "2023-10-31 02:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R2",
+        "drawName": "Under 17 - Mixed Team Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Moradak Techco",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406515,
+        "code": "17",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1343,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "21180",
+              "nameDisplay": "Yoon Lae EAIN",
+              "nameType": 0,
+              "firstName": "Yoon Lae",
+              "lastName": "EAIN",
+              "initials": "YE",
+              "nameShort": "Y EAIN",
+              "nameShort2": "EAIN",
+              "slug": "yoon-lae-eain",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Yoon Lae EAIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TLS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+          "teamId": 1341,
+          "teamName": "Timor Leste",
+          "players": [
+            {
+              "id": "45178",
+              "nameDisplay": "Rihana DA COSTA OLIVEIRA",
+              "nameType": 0,
+              "firstName": "Rihana",
+              "lastName": "DA COSTA OLIVEIRA",
+              "initials": "RD",
+              "nameShort": "R DA COSTA OLIVEIRA",
+              "nameShort2": "DA COSTA OLIVEIRA",
+              "slug": "rihana-da-costa-oliveira",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Rihana DA COSTA OLIVEIRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 11:40:00",
+        "matchTimeUtc": "2023-10-31 03:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R2",
+        "drawName": "Under 17 - Mixed Team Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Moradak Techco",
+        "duration": 13,
+        "time": "00:13",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406511,
+        "code": "18",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1343,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "70362",
+              "nameDisplay": "Nyan SHAINE LIN",
+              "nameType": 0,
+              "firstName": "Nyan",
+              "lastName": "SHAINE LIN",
+              "initials": "NS",
+              "nameShort": "N SHAINE LIN",
+              "nameShort2": "SHAINE LIN",
+              "slug": "nyan-shaine-lin",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Nyan SHAINE LIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "24687",
+              "nameDisplay": "Bhone Htet ZAW",
+              "nameType": 0,
+              "firstName": "Bhone Htet",
+              "lastName": "ZAW",
+              "initials": "BZ",
+              "nameShort": "B ZAW",
+              "nameShort2": "ZAW",
+              "slug": "bhone-htet-zaw",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Bhone Htet ZAW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TLS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+          "teamId": 1341,
+          "teamName": "Timor Leste",
+          "players": [
+            {
+              "id": "45595",
+              "nameDisplay": "Cristiano GALHOS",
+              "nameType": 0,
+              "firstName": "Cristiano",
+              "lastName": "GALHOS",
+              "initials": "CG",
+              "nameShort": "C GALHOS",
+              "nameShort2": "GALHOS",
+              "slug": "cristiano-galhos",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Cristiano GALHOS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "48299",
+              "nameDisplay": "Alberto Ricardo Carlos GUSMAO",
+              "nameType": 0,
+              "firstName": "Alberto Ricardo Carlos",
+              "lastName": "GUSMAO",
+              "initials": "AG",
+              "nameShort": "A GUSMAO",
+              "nameShort2": "GUSMAO",
+              "slug": "alberto-ricardo-carlos-gusmao",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Alberto Ricardo Carlos GUSMAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 12:30:00",
+        "matchTimeUtc": "2023-10-31 04:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R2",
+        "drawName": "Under 17 - Mixed Team Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Moradak Techco",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 5,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1406521,
+        "code": "19",
+        "tournamentCode": "A89A48D3-71CE-4DEB-A76A-F0EF503937CF",
+        "tournamentName": "Badminton Asia ( Southeast Asia) Regional Championships 2023 (Team Event)",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MYA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+          "teamId": 1343,
+          "teamName": "Myanmar",
+          "players": [
+            {
+              "id": "21180",
+              "nameDisplay": "Yoon Lae EAIN",
+              "nameType": 0,
+              "firstName": "Yoon Lae",
+              "lastName": "EAIN",
+              "initials": "YE",
+              "nameShort": "Y EAIN",
+              "nameShort2": "EAIN",
+              "slug": "yoon-lae-eain",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Yoon Lae EAIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "57097",
+              "nameDisplay": "Eaint Chit PHOO",
+              "nameType": 0,
+              "firstName": "Eaint Chit",
+              "lastName": "PHOO",
+              "initials": "EP",
+              "nameShort": "E PHOO",
+              "nameShort2": "PHOO",
+              "slug": "eaint-chit-phoo",
+              "countryCode": "MYA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MYA.png",
+              "avatar": {
+                "title": "Eaint Chit PHOO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TLS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+          "teamId": 1341,
+          "teamName": "Timor Leste",
+          "players": [
+            {
+              "id": "45178",
+              "nameDisplay": "Rihana DA COSTA OLIVEIRA",
+              "nameType": 0,
+              "firstName": "Rihana",
+              "lastName": "DA COSTA OLIVEIRA",
+              "initials": "RD",
+              "nameShort": "R DA COSTA OLIVEIRA",
+              "nameShort2": "DA COSTA OLIVEIRA",
+              "slug": "rihana-da-costa-oliveira",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Rihana DA COSTA OLIVEIRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "42061",
+              "nameDisplay": "Maria Fatima PINTO DA COSTA",
+              "nameType": 0,
+              "firstName": "Maria Fatima",
+              "lastName": "PINTO DA COSTA",
+              "initials": "MP",
+              "nameShort": "M PINTO DA COSTA",
+              "nameShort2": "PINTO DA COSTA",
+              "slug": "maria-fatima-pinto-da-costa",
+              "countryCode": "TLS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TLS.png",
+              "avatar": {
+                "title": "Maria Fatima PINTO DA COSTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2023-10-31 13:20:00",
+        "matchTimeUtc": "2023-10-31 05:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Under 17",
+        "roundName": "R2",
+        "drawName": "Under 17 - Mixed Team Under 17",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Moradak Techco",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "id": 163770,
+    "code": "1",
+    "tournamentCode": "AC7FDB07-F3C8-4C0A-B376-1E99C47B5477",
+    "tournamentName": "Mexican International Cup Badminton 2009",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "GUA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "54897",
+          "nameDisplay": "Kevin CORDON",
+          "nameType": 0,
+          "firstName": "Kevin",
+          "lastName": "CORDON",
+          "initials": "KC",
+          "nameShort": "K CORDON",
+          "nameShort2": "CORDON",
+          "slug": "kevin-cordon",
+          "countryCode": "GUA",
+          "countryName": "Guatemala",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "avatar": {
+            "title": "Kevin CORDON",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991167/assets/players/thumbnail/54897.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JAM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "12008",
+          "nameDisplay": "Charles PYNE",
+          "nameType": 0,
+          "firstName": "Charles",
+          "lastName": "PYNE",
+          "initials": "CP",
+          "nameShort": "C PYNE",
+          "nameShort2": "PYNE",
+          "slug": "charles-pyne",
+          "countryCode": "JAM",
+          "countryName": "Jamaica",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JAM.png",
+          "avatar": {
+            "title": "Charles PYNE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2009-11-29 10:40:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "MS",
+    "roundName": "Final",
+    "drawName": "MS",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "CNAR",
+    "duration": 24,
+    "time": "00:24",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 11,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 163793,
+    "code": "64",
+    "tournamentCode": "AC7FDB07-F3C8-4C0A-B376-1E99C47B5477",
+    "tournamentName": "Mexican International Cup Badminton 2009",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "55158",
+          "nameDisplay": "Karyn VELEZ",
+          "nameType": 0,
+          "firstName": "Karyn",
+          "lastName": "VELEZ",
+          "initials": "KV",
+          "nameShort": "K VELEZ",
+          "nameShort2": "VELEZ",
+          "slug": "karyn-velez",
+          "countryCode": "USA",
+          "countryName": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "avatar": {
+            "title": "Karyn VELEZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "51917",
+          "nameDisplay": "Victoria MONTERO",
+          "nameType": 0,
+          "firstName": "Victoria",
+          "lastName": "MONTERO",
+          "initials": "VM",
+          "nameShort": "V MONTERO",
+          "nameShort2": "MONTERO",
+          "slug": "victoria-montero",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Victoria MONTERO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2009-11-29 11:20:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "WS",
+    "roundName": "Final",
+    "drawName": "WS",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "CNAR",
+    "duration": 47,
+    "time": "00:47",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 12,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 21,
+        "away": 15,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 163805,
+    "code": "127",
+    "tournamentCode": "AC7FDB07-F3C8-4C0A-B376-1E99C47B5477",
+    "tournamentName": "Mexican International Cup Badminton 2009",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "51911",
+          "nameDisplay": "Jose L GONZALEZ",
+          "nameType": 0,
+          "firstName": "Jose L",
+          "lastName": "GONZALEZ",
+          "initials": "JG",
+          "nameShort": "J GONZALEZ",
+          "nameShort2": "GONZALEZ",
+          "slug": "jose-l-gonzalez",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Jose L GONZALEZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "45386",
+          "nameDisplay": "Lopez ANDRES",
+          "nameType": 0,
+          "firstName": "Lopez",
+          "lastName": "ANDRES",
+          "initials": "LA",
+          "nameShort": "L ANDRES",
+          "nameShort2": "ANDRES",
+          "slug": "lopez-andres",
+          "countryCode": "MEX",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Lopez ANDRES",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896384/assets/players/thumbnail/45386.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "11268",
+          "nameDisplay": "Mathew FOGARTY",
+          "nameType": 0,
+          "firstName": "Mathew",
+          "lastName": "FOGARTY",
+          "initials": "MF",
+          "nameShort": "M FOGARTY",
+          "nameShort2": "FOGARTY",
+          "slug": "mathew-fogarty",
+          "countryCode": "USA",
+          "countryName": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "avatar": {
+            "title": "Mathew FOGARTY",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896305/assets/players/thumbnail/11268.jpg"
+          }
+        },
+        {
+          "id": "23794",
+          "nameDisplay": "David NEWMAN",
+          "nameType": 0,
+          "firstName": "David",
+          "lastName": "NEWMAN",
+          "initials": "DN",
+          "nameShort": "D NEWMAN",
+          "nameShort2": "NEWMAN",
+          "slug": "david-newman",
+          "countryCode": "USA",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "avatar": {
+            "title": "David NEWMAN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2009-11-29 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "MD",
+    "roundName": "Final",
+    "drawName": "MD",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "CNAR",
+    "duration": 44,
+    "time": "00:44",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 18,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 16,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 21,
+        "away": 14,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 163816,
+    "code": "158",
+    "tournamentCode": "AC7FDB07-F3C8-4C0A-B376-1E99C47B5477",
+    "tournamentName": "Mexican International Cup Badminton 2009",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "54774",
+          "nameDisplay": "Marisol DOMINGUEZ",
+          "nameType": 0,
+          "firstName": "Marisol",
+          "lastName": "DOMINGUEZ",
+          "initials": "MD",
+          "nameShort": "M DOMINGUEZ",
+          "nameShort2": "DOMINGUEZ",
+          "slug": "marisol-dominguez",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Marisol DOMINGUEZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "52368",
+          "nameDisplay": "Naty RANGEL",
+          "nameType": 0,
+          "firstName": "Naty",
+          "lastName": "RANGEL",
+          "initials": "NR",
+          "nameShort": "N RANGEL",
+          "nameShort2": "RANGEL",
+          "slug": "naty-rangel",
+          "countryCode": "MEX",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Naty RANGEL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": null,
+      "countryFlagUrl": null,
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "51917",
+          "nameDisplay": "Victoria MONTERO",
+          "nameType": 0,
+          "firstName": "Victoria",
+          "lastName": "MONTERO",
+          "initials": "VM",
+          "nameShort": "V MONTERO",
+          "nameShort2": "MONTERO",
+          "slug": "victoria-montero",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Victoria MONTERO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "55158",
+          "nameDisplay": "Karyn VELEZ",
+          "nameType": 0,
+          "firstName": "Karyn",
+          "lastName": "VELEZ",
+          "initials": "KV",
+          "nameShort": "K VELEZ",
+          "nameShort2": "VELEZ",
+          "slug": "karyn-velez",
+          "countryCode": "USA",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "avatar": {
+            "title": "Karyn VELEZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2009-11-29 12:40:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "WD",
+    "roundName": "Final",
+    "drawName": "WD",
+    "drawCode": "4",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "CNAR",
+    "duration": 41,
+    "time": "00:41",
+    "matchOrder": null,
+    "matchTypeId": 4,
+    "matchTypeValue": "Women's Doubles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 17,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 26,
+        "away": 24,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 7,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 163830,
+    "code": "189",
+    "tournamentCode": "AC7FDB07-F3C8-4C0A-B376-1E99C47B5477",
+    "tournamentName": "Mexican International Cup Badminton 2009",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "51911",
+          "nameDisplay": "Jose L GONZALEZ",
+          "nameType": 0,
+          "firstName": "Jose L",
+          "lastName": "GONZALEZ",
+          "initials": "JG",
+          "nameShort": "J GONZALEZ",
+          "nameShort2": "GONZALEZ",
+          "slug": "jose-l-gonzalez",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Jose L GONZALEZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "52368",
+          "nameDisplay": "Naty RANGEL",
+          "nameType": 0,
+          "firstName": "Naty",
+          "lastName": "RANGEL",
+          "initials": "NR",
+          "nameShort": "N RANGEL",
+          "nameShort2": "RANGEL",
+          "slug": "naty-rangel",
+          "countryCode": "MEX",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Naty RANGEL",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "55130",
+          "nameDisplay": "MELO David",
+          "nameType": 0,
+          "firstName": "MELO",
+          "lastName": "David",
+          "initials": "MD",
+          "nameShort": "M David",
+          "nameShort2": "DAVID",
+          "slug": "melo-david",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "MELO David",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "51917",
+          "nameDisplay": "Victoria MONTERO",
+          "nameType": 0,
+          "firstName": "Victoria",
+          "lastName": "MONTERO",
+          "initials": "VM",
+          "nameShort": "V MONTERO",
+          "nameShort2": "MONTERO",
+          "slug": "victoria-montero",
+          "countryCode": "MEX",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Victoria MONTERO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2009-11-29 10:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "XD",
+    "roundName": "Final",
+    "drawName": "XD",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "CNAR",
+    "duration": 22,
+    "time": "00:22",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 14,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 19,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  }
+]

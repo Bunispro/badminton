@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1276373,
+    "code": "485",
+    "tournamentCode": "AEB47760-E939-41AE-A66E-F875415C0245",
+    "tournamentName": "YONEX Belgian International 2022",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "64944",
+          "nameDisplay": "Hiroki MIDORIKAWA",
+          "nameType": 0,
+          "firstName": "Hiroki",
+          "lastName": "MIDORIKAWA",
+          "initials": "HM",
+          "nameShort": "H MIDORIKAWA",
+          "nameShort2": "MIDORIKAWA",
+          "slug": "hiroki-midorikawa",
+          "countryCode": "JPN",
+          "countryName": "Japan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "avatar": {
+            "title": "Hiroki MIDORIKAWA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896575/assets/players/thumbnail/64944.jpg"
+          }
+        },
+        {
+          "id": "55417",
+          "nameDisplay": "Natsu SAITO",
+          "nameType": 0,
+          "firstName": "Natsu",
+          "lastName": "SAITO",
+          "initials": "NS",
+          "nameShort": "N SAITO",
+          "nameShort2": "SAITO",
+          "slug": "natsu-saito",
+          "countryCode": "JPN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "avatar": {
+            "title": "Natsu SAITO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896443/assets/players/thumbnail/55417.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "92913",
+          "nameDisplay": "CHIU Hsiang Chieh",
+          "nameType": 1,
+          "firstName": "Hsiang Chieh",
+          "lastName": "CHIU",
+          "initials": "HC",
+          "nameShort": "H CHIU",
+          "nameShort2": "CHIU",
+          "slug": "hsiang-chieh-chiu",
+          "countryCode": "TPE",
+          "countryName": "Chinese Taipei",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "avatar": {
+            "title": "Hsiang Chieh CHIU",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690182196/assets/players/thumbnail/92913.jpg"
+          }
+        },
+        {
+          "id": "65203",
+          "nameDisplay": "LIN Xiao Min",
+          "nameType": 1,
+          "firstName": "Xiao Min",
+          "lastName": "LIN",
+          "initials": "LX",
+          "nameShort": "LIN X M ",
+          "nameShort2": "LIN",
+          "slug": "xiao-min-lin",
+          "countryCode": "TPE",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "avatar": {
+            "title": "Xiao Min LIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896293/assets/players/thumbnail/65203.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-09-17 00:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": "1",
+    "oopText": "Starting at 3:00 PM",
+    "oopTypeId": 1,
+    "eventName": "XD",
+    "roundName": "Final",
+    "drawName": "XD",
+    "drawCode": "10",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Sportoase Philipssite Leuven",
+    "duration": 31,
+    "time": "00:31",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 17,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1276255,
+    "code": "240",
+    "tournamentCode": "AEB47760-E939-41AE-A66E-F875415C0245",
+    "tournamentName": "YONEX Belgian International 2022",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "VIE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "75678",
+          "nameDisplay": "NGUYEN Thuy Linh",
+          "nameType": 1,
+          "firstName": "Thuy Linh",
+          "lastName": "NGUYEN",
+          "initials": "NT",
+          "nameShort": "NGUYEN T L ",
+          "nameShort2": "NGUYEN",
+          "slug": "thuy-linh-nguyen",
+          "countryCode": "VIE",
+          "countryName": "Vietnam",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+          "avatar": {
+            "title": "Thuy Linh NGUYEN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630859/assets/players/thumbnail/75678.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "64901",
+          "nameDisplay": "Hirari MIZUI",
+          "nameType": 0,
+          "firstName": "Hirari",
+          "lastName": "MIZUI",
+          "initials": "HM",
+          "nameShort": "H MIZUI",
+          "nameShort2": "MIZUI",
+          "slug": "hirari-mizui",
+          "countryCode": "JPN",
+          "countryName": "Japan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "avatar": {
+            "title": "Hirari MIZUI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896368/assets/players/thumbnail/64901.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-09-17 00:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": "2",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "WS",
+    "roundName": "Final",
+    "drawName": "WS",
+    "drawCode": "4",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Sportoase Philipssite Leuven",
+    "duration": 49,
+    "time": "00:49",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 19,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 16,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1276197,
+    "code": "121",
+    "tournamentCode": "AEB47760-E939-41AE-A66E-F875415C0245",
+    "tournamentName": "YONEX Belgian International 2022",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "86114",
+          "nameDisplay": "LIN Chun-Yi",
+          "nameType": 1,
+          "firstName": "Chun-Yi",
+          "lastName": "LIN",
+          "initials": "LC",
+          "nameShort": "LIN C Y ",
+          "nameShort2": "LIN",
+          "slug": "chun-yi-lin",
+          "countryCode": "TPE",
+          "countryName": "Chinese Taipei",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "avatar": {
+            "title": "Chun-Yi LIN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658715639/assets/players/thumbnail/86114.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "96545",
+          "nameDisplay": "Kim BRUUN",
+          "nameType": 0,
+          "firstName": "Kim",
+          "lastName": "BRUUN",
+          "initials": "KB",
+          "nameShort": "K BRUUN",
+          "nameShort2": "BRUUN",
+          "slug": "kim-bruun",
+          "countryCode": "DEN",
+          "countryName": "Denmark",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "avatar": {
+            "title": "Kim BRUUN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894682/assets/players/thumbnail/96545.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-09-17 00:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": "3",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "MS",
+    "roundName": "Final",
+    "drawName": "MS",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Sportoase Philipssite Leuven",
+    "duration": 47,
+    "time": "00:47",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 14,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1276336,
+    "code": "394",
+    "tournamentCode": "AEB47760-E939-41AE-A66E-F875415C0245",
+    "tournamentName": "YONEX Belgian International 2022",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "84159",
+          "nameDisplay": "Rui HIROKAMI",
+          "nameType": 0,
+          "firstName": "Rui",
+          "lastName": "HIROKAMI",
+          "initials": "RH",
+          "nameShort": "R HIROKAMI",
+          "nameShort2": "HIROKAMI",
+          "slug": "rui-hirokami",
+          "countryCode": "JPN",
+          "countryName": "Japan",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "avatar": {
+            "title": "Rui HIROKAMI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658500458/assets/players/thumbnail/84159.jpg"
+          }
+        },
+        {
+          "id": "90323",
+          "nameDisplay": "Yuna KATO",
+          "nameType": 0,
+          "firstName": "Yuna",
+          "lastName": "KATO",
+          "initials": "YK",
+          "nameShort": "Y KATO",
+          "nameShort2": "KATO",
+          "slug": "yuna-kato",
+          "countryCode": "JPN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "avatar": {
+            "title": "Yuna KATO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658710810/assets/players/thumbnail/90323.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "75270",
+          "nameDisplay": "CHANG Ching  Hui",
+          "nameType": 1,
+          "firstName": "Ching  Hui",
+          "lastName": "CHANG",
+          "initials": "CC",
+          "nameShort": "CHANG C  H ",
+          "nameShort2": "CHANG",
+          "slug": "ching-hui-chang",
+          "countryCode": "TPE",
+          "countryName": "Chinese Taipei",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "avatar": {
+            "title": "Ching  Hui CHANG",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895520/assets/players/thumbnail/75270.jpg"
+          }
+        },
+        {
+          "id": "78687",
+          "nameDisplay": "YANG Ching Tun",
+          "nameType": 1,
+          "firstName": "Ching Tun",
+          "lastName": "YANG",
+          "initials": "YC",
+          "nameShort": "YANG C T ",
+          "nameShort2": "YANG",
+          "slug": "ching-tun-yang",
+          "countryCode": "TPE",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "avatar": {
+            "title": "Ching Tun YANG",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896002/assets/players/thumbnail/78687.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-09-17 00:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": "4",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "WD",
+    "roundName": "Final",
+    "drawName": "WD",
+    "drawCode": "8",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Sportoase Philipssite Leuven",
+    "duration": 39,
+    "time": "00:39",
+    "matchOrder": null,
+    "matchTypeId": 4,
+    "matchTypeValue": "Women's Doubles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 7,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 15,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1276298,
+    "code": "317",
+    "tournamentCode": "AEB47760-E939-41AE-A66E-F875415C0245",
+    "tournamentName": "YONEX Belgian International 2022",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "68681",
+          "nameDisplay": "CHANG Ko-Chi",
+          "nameType": 1,
+          "firstName": "Ko-Chi",
+          "lastName": "CHANG",
+          "initials": "CK",
+          "nameShort": "CHANG K C ",
+          "nameShort2": "CHANG",
+          "slug": "ko-chi-chang",
+          "countryCode": "TPE",
+          "countryName": "Chinese Taipei",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "avatar": {
+            "title": "Ko-Chi CHANG",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895453/assets/players/thumbnail/68681.jpg"
+          }
+        },
+        {
+          "id": "79052",
+          "nameDisplay": "PO Li-Wei",
+          "nameType": 1,
+          "firstName": "Li-Wei",
+          "lastName": "PO",
+          "initials": "PL",
+          "nameShort": "PO L W ",
+          "nameShort2": "PO",
+          "slug": "li-wei-po",
+          "countryCode": "TPE",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "avatar": {
+            "title": "Li-Wei PO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895561/assets/players/thumbnail/79052.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "50238",
+          "nameDisplay": "Sirawit SOTHON",
+          "nameType": 0,
+          "firstName": "Sirawit",
+          "lastName": "SOTHON",
+          "initials": "SS",
+          "nameShort": "S SOTHON",
+          "nameShort2": "SOTHON",
+          "slug": "sirawit-sothon",
+          "countryCode": "THA",
+          "countryName": "Thailand",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "avatar": {
+            "title": "Sirawit SOTHON",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "76967",
+          "nameDisplay": "Natthapat TRINKAJEE",
+          "nameType": 0,
+          "firstName": "Natthapat",
+          "lastName": "TRINKAJEE",
+          "initials": "NT",
+          "nameShort": "N TRINKAJEE",
+          "nameShort2": "TRINKAJEE",
+          "slug": "natthapat-trinkajee",
+          "countryCode": "THA",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "avatar": {
+            "title": "Natthapat TRINKAJEE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896006/assets/players/thumbnail/76967.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2022-09-17 00:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": null,
+    "matchStatusValue": null,
+    "oopRound": "5",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "MD",
+    "roundName": "Final",
+    "drawName": "MD",
+    "drawCode": "6",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Sportoase Philipssite Leuven",
+    "duration": 66,
+    "time": "01:06",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 11,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 19,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 21,
+        "away": 17,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  }
+]

@@ -1,0 +1,4154 @@
+[
+  {
+    "id": 1163889,
+    "code": "141",
+    "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "NED",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+      "teamId": 488,
+      "teamName": "Netherlands",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 459,
+      "teamName": "Germany",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-05-23 11:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 2",
+    "roundName": "R1",
+    "drawName": "Group 2",
+    "drawCode": "12",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1163892,
+        "code": "273",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "67175",
+              "nameDisplay": "Jacco ARENDS",
+              "nameType": 0,
+              "firstName": "Jacco",
+              "lastName": "ARENDS",
+              "initials": "JA",
+              "nameShort": "J ARENDS",
+              "nameShort2": "ARENDS",
+              "slug": "jacco-arends",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Jacco ARENDS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897577/assets/players/thumbnail/67175.jpg"
+              }
+            },
+            {
+              "id": "93858",
+              "nameDisplay": "Ruben JILLE",
+              "nameType": 0,
+              "firstName": "Ruben",
+              "lastName": "JILLE",
+              "initials": "RJ",
+              "nameShort": "R JILLE",
+              "nameShort2": "JILLE",
+              "slug": "ruben-jille",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Ruben JILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895719/assets/players/thumbnail/93858.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68045",
+              "nameDisplay": "Mark LAMSFUSS",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "LAMSFUSS",
+              "initials": "ML",
+              "nameShort": "M LAMSFUSS",
+              "nameShort2": "LAMSFUSS",
+              "slug": "mark-lamsfuss",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Mark LAMSFUSS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719992008/assets/players/thumbnail/68045.jpg"
+              }
+            },
+            {
+              "id": "64909",
+              "nameDisplay": "Marvin SEIDEL",
+              "nameType": 0,
+              "firstName": "Marvin",
+              "lastName": "SEIDEL",
+              "initials": "MS",
+              "nameShort": "M SEIDEL",
+              "nameShort2": "SEIDEL",
+              "slug": "marvin-seidel",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Marvin SEIDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636522316/assets/players/thumbnail/64909.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163891,
+        "code": "272",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "89454",
+              "nameDisplay": "Gayle MAHULETTE",
+              "nameType": 0,
+              "firstName": "Gayle",
+              "lastName": "MAHULETTE",
+              "initials": "GM",
+              "nameShort": "G MAHULETTE",
+              "nameShort2": "MAHULETTE",
+              "slug": "gayle-mahulette",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gayle MAHULETTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896049/assets/players/thumbnail/89454.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "21854",
+              "nameDisplay": "Fabienne DEPREZ",
+              "nameType": 0,
+              "firstName": "Fabienne",
+              "lastName": "DEPREZ",
+              "initials": "FD",
+              "nameShort": "F DEPREZ",
+              "nameShort2": "DEPREZ",
+              "slug": "fabienne-deprez",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Fabienne DEPREZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895061/assets/players/thumbnail/21854.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 61,
+        "time": "01:01",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163890,
+        "code": "271",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "76973",
+              "nameDisplay": "Mark CALJOUW",
+              "nameType": 0,
+              "firstName": "Mark",
+              "lastName": "CALJOUW",
+              "initials": "MC",
+              "nameShort": "M CALJOUW",
+              "nameShort2": "CALJOUW",
+              "slug": "mark-caljouw",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Mark CALJOUW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1630995513/assets/players/thumbnail/76973.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "55505",
+              "nameDisplay": "Alexander ROOVERS",
+              "nameType": 0,
+              "firstName": "Alexander",
+              "lastName": "ROOVERS",
+              "initials": "AR",
+              "nameShort": "A ROOVERS",
+              "nameShort2": "ROOVERS",
+              "slug": "alexander-roovers",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Alexander ROOVERS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896588/assets/players/thumbnail/55505.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163893,
+        "code": "274",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "89454",
+              "nameDisplay": "Gayle MAHULETTE",
+              "nameType": 0,
+              "firstName": "Gayle",
+              "lastName": "MAHULETTE",
+              "initials": "GM",
+              "nameShort": "G MAHULETTE",
+              "nameShort2": "MAHULETTE",
+              "slug": "gayle-mahulette",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Gayle MAHULETTE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896049/assets/players/thumbnail/89454.jpg"
+              }
+            },
+            {
+              "id": "70503",
+              "nameDisplay": "Cheryl SEINEN",
+              "nameType": 0,
+              "firstName": "Cheryl",
+              "lastName": "SEINEN",
+              "initials": "CS",
+              "nameShort": "C SEINEN",
+              "nameShort2": "SEINEN",
+              "slug": "cheryl-seinen",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Cheryl SEINEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895476/assets/players/thumbnail/70503.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "83942",
+              "nameDisplay": "Linda EFLER",
+              "nameType": 0,
+              "firstName": "Linda",
+              "lastName": "EFLER",
+              "initials": "LE",
+              "nameShort": "L EFLER",
+              "nameShort2": "EFLER",
+              "slug": "linda-efler",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Linda EFLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895615/assets/players/thumbnail/83942.jpg"
+              }
+            },
+            {
+              "id": "88659",
+              "nameDisplay": "Lara KAEPPLEIN",
+              "nameType": 0,
+              "firstName": "Lara",
+              "lastName": "KAEPPLEIN",
+              "initials": "LK",
+              "nameShort": "L KAEPPLEIN",
+              "nameShort2": "KAEPPLEIN",
+              "slug": "lara-kaepplein",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Lara KAEPPLEIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895654/assets/players/thumbnail/88659.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 64,
+        "time": "01:04",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163894,
+        "code": "275",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "NED",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+          "teamId": 488,
+          "teamName": "Netherlands",
+          "players": [
+            {
+              "id": "66357",
+              "nameDisplay": "Robin TABELING",
+              "nameType": 0,
+              "firstName": "Robin",
+              "lastName": "TABELING",
+              "initials": "RT",
+              "nameShort": "R TABELING",
+              "nameShort2": "TABELING",
+              "slug": "robin-tabeling",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Robin TABELING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895414/assets/players/thumbnail/66357.jpg"
+              }
+            },
+            {
+              "id": "67176",
+              "nameDisplay": "Selena PIEK",
+              "nameType": 0,
+              "firstName": "Selena",
+              "lastName": "PIEK",
+              "initials": "SP",
+              "nameShort": "S PIEK",
+              "nameShort2": "PIEK",
+              "slug": "selena-piek",
+              "countryCode": "NED",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/NED.png",
+              "avatar": {
+                "title": "Selena PIEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633663097/assets/players/thumbnail/67176.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "64909",
+              "nameDisplay": "Marvin SEIDEL",
+              "nameType": 0,
+              "firstName": "Marvin",
+              "lastName": "SEIDEL",
+              "initials": "MS",
+              "nameShort": "M SEIDEL",
+              "nameShort2": "SEIDEL",
+              "slug": "marvin-seidel",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Marvin SEIDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636522316/assets/players/thumbnail/64909.jpg"
+              }
+            },
+            {
+              "id": "98052",
+              "nameDisplay": "Isabel LOHAU",
+              "nameType": 0,
+              "firstName": "Isabel",
+              "lastName": "LOHAU",
+              "initials": "IL",
+              "nameShort": "I LOHAU",
+              "nameShort2": "LOHAU",
+              "slug": "isabel-lohau",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Isabel LOHAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637132670/assets/players/thumbnail/98052.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 52,
+        "time": "00:52",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1163938,
+    "code": "113",
+    "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 1,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 457,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-05-23 18:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 1",
+    "roundName": "QF",
+    "drawName": "Group 1",
+    "drawCode": "10",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1163943,
+        "code": "200",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "83046",
+              "nameDisplay": "ZHENG Si Wei",
+              "nameType": 1,
+              "firstName": "Si Wei",
+              "lastName": "ZHENG",
+              "initials": "ZS",
+              "nameShort": "ZHENG S W ",
+              "nameShort2": "ZHENG",
+              "slug": "si-wei-zheng",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Si Wei ZHENG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627952937/assets/players/thumbnail/83046.jpg"
+              }
+            },
+            {
+              "id": "63168",
+              "nameDisplay": "HUANG Ya Qiong",
+              "nameType": 1,
+              "firstName": "Ya Qiong",
+              "lastName": "HUANG",
+              "initials": "HY",
+              "nameShort": "HUANG Y Q ",
+              "nameShort2": "HUANG",
+              "slug": "ya-qiong-huang",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Ya Qiong HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627952652/assets/players/thumbnail/63168.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "99521",
+              "nameDisplay": "Mathias CHRISTIANSEN",
+              "nameType": 0,
+              "firstName": "Mathias",
+              "lastName": "CHRISTIANSEN",
+              "initials": "MC",
+              "nameShort": "M CHRISTIANSEN",
+              "nameShort2": "CHRISTIANSEN",
+              "slug": "mathias-christiansen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mathias CHRISTIANSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896070/assets/players/thumbnail/99521.jpg"
+              }
+            },
+            {
+              "id": "68189",
+              "nameDisplay": "Sara THYGESEN",
+              "nameType": 0,
+              "firstName": "Sara",
+              "lastName": "THYGESEN",
+              "initials": "ST",
+              "nameShort": "S THYGESEN",
+              "nameShort2": "THYGESEN",
+              "slug": "sara-thygesen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Sara THYGESEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631144/assets/players/thumbnail/68189.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 63,
+        "time": "01:03",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163939,
+        "code": "196",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "75787",
+              "nameDisplay": "CHEN Long",
+              "nameType": 1,
+              "firstName": "Long",
+              "lastName": "CHEN",
+              "initials": "CL",
+              "nameShort": "CHEN L",
+              "nameShort2": "CHEN",
+              "slug": "long-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Long CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627948076/assets/players/thumbnail/75787.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "25831",
+              "nameDisplay": "Viktor AXELSEN",
+              "nameType": 0,
+              "firstName": "Viktor",
+              "lastName": "AXELSEN",
+              "initials": "VA",
+              "nameShort": "V AXELSEN",
+              "nameShort2": "AXELSEN",
+              "slug": "viktor-axelsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Viktor AXELSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697764072/assets/players/thumbnail/25831.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 60,
+        "time": "01:00",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163941,
+        "code": "198",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "79059",
+              "nameDisplay": "LI Jun Hui",
+              "nameType": 1,
+              "firstName": "Jun Hui",
+              "lastName": "LI",
+              "initials": "LJ",
+              "nameShort": "LI J H ",
+              "nameShort2": "LI",
+              "slug": "jun-hui-li",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Jun Hui LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949834/assets/players/thumbnail/79059.jpg"
+              }
+            },
+            {
+              "id": "93367",
+              "nameDisplay": "LIU Yu Chen",
+              "nameType": 1,
+              "firstName": "Yu Chen",
+              "lastName": "LIU",
+              "initials": "LY",
+              "nameShort": "LIU Y C ",
+              "nameShort2": "LIU",
+              "slug": "yu-chen-liu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yu Chen LIU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697442037/assets/players/thumbnail/93367.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "92980",
+              "nameDisplay": "Kim ASTRUP",
+              "nameType": 0,
+              "firstName": "Kim",
+              "lastName": "ASTRUP",
+              "initials": "KA",
+              "nameShort": "K ASTRUP",
+              "nameShort2": "ASTRUP",
+              "slug": "Kim-ASTRUP",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Kim ASTRUP",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636531494/assets/players/thumbnail/92980.jpg"
+              }
+            },
+            {
+              "id": "44414",
+              "nameDisplay": "Anders Skaarup RASMUSSEN",
+              "nameType": 0,
+              "firstName": "Anders Skaarup",
+              "lastName": "RASMUSSEN",
+              "initials": "AR",
+              "nameShort": "A RASMUSSEN",
+              "nameShort2": "RASMUSSEN",
+              "slug": "anders-skaarup-rasmussen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Anders Skaarup RASMUSSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636531127/assets/players/thumbnail/44414.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 54,
+        "time": "00:54",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163940,
+        "code": "197",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "78778",
+              "nameDisplay": "CHEN Yu Fei",
+              "nameType": 1,
+              "firstName": "Yu Fei",
+              "lastName": "CHEN",
+              "initials": "CY",
+              "nameShort": "CHEN Y F ",
+              "nameShort2": "CHEN",
+              "slug": "yu-fei-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yu Fei CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689647649/assets/players/thumbnail/78778.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "91224",
+              "nameDisplay": "Mia BLICHFELDT",
+              "nameType": 0,
+              "firstName": "Mia",
+              "lastName": "BLICHFELDT",
+              "initials": "MB",
+              "nameShort": "M BLICHFELDT",
+              "nameShort2": "BLICHFELDT",
+              "slug": "mia-blichfeldt",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mia BLICHFELDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630981/assets/players/thumbnail/91224.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 46,
+        "time": "00:46",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163942,
+        "code": "199",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 1,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "94125",
+              "nameDisplay": "CHEN Qing Chen",
+              "nameType": 1,
+              "firstName": "Qing Chen",
+              "lastName": "CHEN",
+              "initials": "CQ",
+              "nameShort": "CHEN Q C ",
+              "nameShort2": "CHEN",
+              "slug": "qing-chen-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Qing Chen CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657779828/assets/players/thumbnail/94125.jpg"
+              }
+            },
+            {
+              "id": "65144",
+              "nameDisplay": "JIA Yi Fan",
+              "nameType": 1,
+              "firstName": "Yi Fan",
+              "lastName": "JIA",
+              "initials": "JY",
+              "nameShort": "JIA Y F ",
+              "nameShort2": "JIA",
+              "slug": "yi-fan-jia",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yi Fan JIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657779441/assets/players/thumbnail/65144.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "70042",
+              "nameDisplay": "Maiken FRUERGAARD",
+              "nameType": 0,
+              "firstName": "Maiken",
+              "lastName": "FRUERGAARD",
+              "initials": "MF",
+              "nameShort": "M FRUERGAARD",
+              "nameShort2": "FRUERGAARD",
+              "slug": "maiken-fruergaard",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Maiken FRUERGAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631098/assets/players/thumbnail/70042.jpg"
+              }
+            },
+            {
+              "id": "68189",
+              "nameDisplay": "Sara THYGESEN",
+              "nameType": 0,
+              "firstName": "Sara",
+              "lastName": "THYGESEN",
+              "initials": "ST",
+              "nameShort": "S THYGESEN",
+              "nameShort2": "THYGESEN",
+              "slug": "sara-thygesen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Sara THYGESEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631144/assets/players/thumbnail/68189.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1163895,
+    "code": "142",
+    "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "VIE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+      "teamId": 500,
+      "teamName": "Vietnam",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SGP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+      "teamId": 11,
+      "teamName": "Singapore",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-05-23 11:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 2",
+    "roundName": "R1",
+    "drawName": "Group 2",
+    "drawCode": "12",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1163898,
+        "code": "278",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "VIE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+          "teamId": 500,
+          "teamName": "Vietnam",
+          "players": [
+            {
+              "id": "87628",
+              "nameDisplay": "Cao Cuong PHAM",
+              "nameType": 0,
+              "firstName": "Cao Cuong",
+              "lastName": "PHAM",
+              "initials": "CP",
+              "nameShort": "C PHAM",
+              "nameShort2": "PHAM",
+              "slug": "cao-cuong-pham",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Cao Cuong PHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "67497",
+              "nameDisplay": "PHAM Hong Nam",
+              "nameType": 1,
+              "firstName": "Hong Nam",
+              "lastName": "PHAM",
+              "initials": "PH",
+              "nameShort": "PHAM H N ",
+              "nameShort2": "PHAM",
+              "slug": "hong-nam-pham",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Hong Nam PHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895424/assets/players/thumbnail/67497.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "85184",
+              "nameDisplay": "LOH Kean Hean",
+              "nameType": 1,
+              "firstName": "Kean Hean",
+              "lastName": "LOH",
+              "initials": "LK",
+              "nameShort": "LOH K H ",
+              "nameShort2": "LOH",
+              "slug": "kean-hean-loh",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Kean Hean LOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092078/assets/players/thumbnail/85184.jpg"
+              }
+            },
+            {
+              "id": "67749",
+              "nameDisplay": "Han Zhuo TOH",
+              "nameType": 0,
+              "firstName": "Han Zhuo",
+              "lastName": "TOH",
+              "initials": "HT",
+              "nameShort": "H TOH",
+              "nameShort2": "TOH",
+              "slug": "han-zhuo-toh",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Han Zhuo TOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163897,
+        "code": "277",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "VIE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+          "teamId": 500,
+          "teamName": "Vietnam",
+          "players": [
+            {
+              "id": "75678",
+              "nameDisplay": "NGUYEN Thuy Linh",
+              "nameType": 1,
+              "firstName": "Thuy Linh",
+              "lastName": "NGUYEN",
+              "initials": "NT",
+              "nameShort": "NGUYEN T L ",
+              "nameShort2": "NGUYEN",
+              "slug": "thuy-linh-nguyen",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Thuy Linh NGUYEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721630859/assets/players/thumbnail/75678.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "83822",
+              "nameDisplay": "YEO Jia Min",
+              "nameType": 1,
+              "firstName": "Jia Min",
+              "lastName": "YEO",
+              "initials": "YJ",
+              "nameShort": "YEO J M ",
+              "nameShort2": "YEO",
+              "slug": "jia-min-yeo",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Min YEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091660/assets/players/thumbnail/83822.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 54,
+        "time": "00:54",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163896,
+        "code": "276",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "VIE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+          "teamId": 500,
+          "teamName": "Vietnam",
+          "players": [
+            {
+              "id": "14107",
+              "nameDisplay": "NGUYEN Tien Minh",
+              "nameType": 1,
+              "firstName": "Tien Minh",
+              "lastName": "NGUYEN",
+              "initials": "NT",
+              "nameShort": "NGUYEN T M ",
+              "nameShort2": "NGUYEN",
+              "slug": "tien-minh-nguyen",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Tien Minh NGUYEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896891/assets/players/thumbnail/14107.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "76115",
+              "nameDisplay": "LOH Kean Yew",
+              "nameType": 1,
+              "firstName": "Kean Yew",
+              "lastName": "LOH",
+              "initials": "LK",
+              "nameShort": "LOH K Y ",
+              "nameShort2": "LOH",
+              "slug": "kean-yew-loh",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Kean Yew LOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091040/assets/players/thumbnail/76115.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 62,
+        "time": "01:02",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163899,
+        "code": "279",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "VIE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+          "teamId": 500,
+          "teamName": "Vietnam",
+          "players": [
+            {
+              "id": "94428",
+              "nameDisplay": "DINH Thi Phuong Hong",
+              "nameType": 1,
+              "firstName": "Thi Phuong Hong",
+              "lastName": "DINH",
+              "initials": "DT",
+              "nameShort": "DINH T P H ",
+              "nameShort2": "DINH",
+              "slug": "thi-phuong-hong-dinh",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Thi Phuong Hong DINH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "71455",
+              "nameDisplay": "VU Thi Trang (B)",
+              "nameType": 1,
+              "firstName": "Thi Trang (B)",
+              "lastName": "VU",
+              "initials": "VT",
+              "nameShort": "VU T T ( ",
+              "nameShort2": "VU",
+              "slug": "thi-trang-b-vu",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Thi Trang (B) VU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897550/assets/players/thumbnail/71455.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "73013",
+              "nameDisplay": "JIN Yu Jia",
+              "nameType": 1,
+              "firstName": "Yu Jia",
+              "lastName": "JIN",
+              "initials": "JY",
+              "nameShort": "JIN Y J ",
+              "nameShort2": "JIN",
+              "slug": "yu-jia-jin",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Yu Jia JIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092496/assets/players/thumbnail/73013.jpg"
+              }
+            },
+            {
+              "id": "59275",
+              "nameDisplay": "WONG Jia Ying Crystal",
+              "nameType": 1,
+              "firstName": "Jia Ying Crystal",
+              "lastName": "WONG",
+              "initials": "WJ",
+              "nameShort": "WONG J Y C ",
+              "nameShort2": "WONG",
+              "slug": "jia-ying-crystal-wong",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Ying Crystal WONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092370/assets/players/thumbnail/59275.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1163900,
+        "code": "280",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "VIE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+          "teamId": 500,
+          "teamName": "Vietnam",
+          "players": [
+            {
+              "id": "67497",
+              "nameDisplay": "PHAM Hong Nam",
+              "nameType": 1,
+              "firstName": "Hong Nam",
+              "lastName": "PHAM",
+              "initials": "PH",
+              "nameShort": "PHAM H N ",
+              "nameShort2": "PHAM",
+              "slug": "hong-nam-pham",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Hong Nam PHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895424/assets/players/thumbnail/67497.jpg"
+              }
+            },
+            {
+              "id": "40278",
+              "nameDisplay": "Nhu Thao PHAM",
+              "nameType": 0,
+              "firstName": "Nhu Thao",
+              "lastName": "PHAM",
+              "initials": "NP",
+              "nameShort": "N PHAM",
+              "nameShort2": "PHAM",
+              "slug": "nhu-thao-pham",
+              "countryCode": "VIE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/VIE.png",
+              "avatar": {
+                "title": "Nhu Thao PHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895088/assets/players/thumbnail/40278.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "66920",
+              "nameDisplay": "Danny Bawa CHRISNANTA",
+              "nameType": 0,
+              "firstName": "Danny Bawa",
+              "lastName": "CHRISNANTA",
+              "initials": "DC",
+              "nameShort": "D CHRISNANTA",
+              "nameShort2": "CHRISNANTA",
+              "slug": "danny-bawa-chrisnanta",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Danny Bawa CHRISNANTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897593/assets/players/thumbnail/66920.jpg"
+              }
+            },
+            {
+              "id": "59237",
+              "nameDisplay": "TAN Wei Han Jessica",
+              "nameType": 1,
+              "firstName": "Wei Han Jessica",
+              "lastName": "TAN",
+              "initials": "TW",
+              "nameShort": "TAN W H J ",
+              "nameShort2": "TAN",
+              "slug": "wei-han-jessica-tan",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Wei Han Jessica TAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092214/assets/players/thumbnail/59237.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1163944,
+    "code": "114",
+    "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 6,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-05-23 18:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 1",
+    "roundName": "QF",
+    "drawName": "Group 1",
+    "drawCode": "10",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1163949,
+        "code": "205",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "66513",
+              "nameDisplay": "SEO Seung Jae",
+              "nameType": 1,
+              "firstName": "Seung Jae",
+              "lastName": "SEO",
+              "initials": "SS",
+              "nameShort": "SEO S J ",
+              "nameShort2": "SEO",
+              "slug": "seung-jae-seo",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Seung Jae SEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895418/assets/players/thumbnail/66513.jpg"
+              }
+            },
+            {
+              "id": "93074",
+              "nameDisplay": "CHAE Yu Jung",
+              "nameType": 1,
+              "firstName": "Yu Jung",
+              "lastName": "CHAE",
+              "initials": "CY",
+              "nameShort": "CHAE Y J ",
+              "nameShort2": "CHAE",
+              "slug": "yu-jung-chae",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yu Jung CHAE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634022922/assets/players/thumbnail/93074.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "61731",
+              "nameDisplay": "Dechapol PUAVARANUKROH",
+              "nameType": 0,
+              "firstName": "Dechapol",
+              "lastName": "PUAVARANUKROH",
+              "initials": "DP",
+              "nameShort": "D PUAVARANUKROH",
+              "nameShort2": "PUAVARANUKROH",
+              "slug": "dechapol-puavaranukroh",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Dechapol PUAVARANUKROH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447436/assets/players/thumbnail/61731.jpg"
+              }
+            },
+            {
+              "id": "67158",
+              "nameDisplay": "Sapsiree TAERATTANACHAI",
+              "nameType": 0,
+              "firstName": "Sapsiree",
+              "lastName": "TAERATTANACHAI",
+              "initials": "ST",
+              "nameShort": "S TAERATTANACHAI",
+              "nameShort2": "TAERATTANACHAI",
+              "slug": "sapsiree-taerattanachai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Sapsiree TAERATTANACHAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447113/assets/players/thumbnail/67158.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 50,
+        "time": "00:50",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163945,
+        "code": "201",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "68718",
+              "nameDisplay": "HEO Kwang Hee",
+              "nameType": 1,
+              "firstName": "Kwang Hee",
+              "lastName": "HEO",
+              "initials": "HK",
+              "nameShort": "HEO K H ",
+              "nameShort2": "HEO",
+              "slug": "kwang-hee-heo",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Kwang Hee HEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633914061/assets/players/thumbnail/68718.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "92508",
+              "nameDisplay": "Kantaphon WANGCHAROEN",
+              "nameType": 0,
+              "firstName": "Kantaphon",
+              "lastName": "WANGCHAROEN",
+              "initials": "KW",
+              "nameShort": "K WANGCHAROEN",
+              "nameShort2": "WANGCHAROEN",
+              "slug": "kantaphon-wangcharoen",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Kantaphon WANGCHAROEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620362243/assets/players/thumbnail/92508.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 49,
+        "time": "00:49",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163947,
+        "code": "203",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "77262",
+              "nameDisplay": "KANG Min Hyuk",
+              "nameType": 1,
+              "firstName": "Min Hyuk",
+              "lastName": "KANG",
+              "initials": "KM",
+              "nameShort": "KANG M H ",
+              "nameShort2": "KANG",
+              "slug": "kang-min-hyuk",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "KANG Min Hyuk",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896028/assets/players/thumbnail/77262.jpg"
+              }
+            },
+            {
+              "id": "61444",
+              "nameDisplay": "KIM Won Ho",
+              "nameType": 1,
+              "firstName": "Won Ho",
+              "lastName": "KIM",
+              "initials": "KW",
+              "nameShort": "KIM W H ",
+              "nameShort2": "KIM",
+              "slug": "won-ho-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Won Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895351/assets/players/thumbnail/61444.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "96699",
+              "nameDisplay": "Tinn ISRIYANET",
+              "nameType": 0,
+              "firstName": "Tinn",
+              "lastName": "ISRIYANET",
+              "initials": "TI",
+              "nameShort": "T ISRIYANET",
+              "nameShort2": "ISRIYANET",
+              "slug": "tinn-isriyanet",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Tinn ISRIYANET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896190/assets/players/thumbnail/96699.jpg"
+              }
+            },
+            {
+              "id": "73633",
+              "nameDisplay": "Kittinupong KEDREN",
+              "nameType": 0,
+              "firstName": "Kittinupong",
+              "lastName": "KEDREN",
+              "initials": "KK",
+              "nameShort": "K KEDREN",
+              "nameShort2": "KEDREN",
+              "slug": "kittinupong-kedren",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Kittinupong KEDREN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631057/assets/players/thumbnail/73633.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 63,
+        "time": "01:03",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163946,
+        "code": "202",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "87442",
+              "nameDisplay": "AN Se Young",
+              "nameType": 1,
+              "firstName": "Se Young",
+              "lastName": "AN",
+              "initials": "AS",
+              "nameShort": "AN S Y ",
+              "nameShort2": "AN",
+              "slug": "se-young-an",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Se Young AN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697765036/assets/players/thumbnail/87442.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "35642",
+              "nameDisplay": "Ratchanok INTANON",
+              "nameType": 0,
+              "firstName": "Ratchanok",
+              "lastName": "INTANON",
+              "initials": "RI",
+              "nameShort": "R INTANON",
+              "nameShort2": "INTANON",
+              "slug": "ratchanok-intanon",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Ratchanok INTANON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897731/assets/players/thumbnail/35642.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163948,
+        "code": "204",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "54361",
+              "nameDisplay": "CHANG Ye Na",
+              "nameType": 1,
+              "firstName": "Ye Na",
+              "lastName": "CHANG",
+              "initials": "CY",
+              "nameShort": "CHANG Y N ",
+              "nameShort2": "CHANG",
+              "slug": "ye-na-chang",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ye Na CHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895136/assets/players/thumbnail/54361.jpg"
+              }
+            },
+            {
+              "id": "71391",
+              "nameDisplay": "KONG Hee Yong",
+              "nameType": 1,
+              "firstName": "Hee Yong",
+              "lastName": "KONG",
+              "initials": "KH",
+              "nameShort": "KONG H Y ",
+              "nameShort2": "KONG",
+              "slug": "hee-yong-kong",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hee Yong KONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658733080/assets/players/thumbnail/71391.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "24686",
+              "nameDisplay": "Jongkolphan KITITHARAKUL",
+              "nameType": 0,
+              "firstName": "Jongkolphan",
+              "lastName": "KITITHARAKUL",
+              "initials": "JK",
+              "nameShort": "J KITITHARAKUL",
+              "nameShort2": "KITITHARAKUL",
+              "slug": "jongkolphan-kititharakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Jongkolphan KITITHARAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439020/assets/players/thumbnail/24686.jpg"
+              }
+            },
+            {
+              "id": "67158",
+              "nameDisplay": "Sapsiree TAERATTANACHAI",
+              "nameType": 0,
+              "firstName": "Sapsiree",
+              "lastName": "TAERATTANACHAI",
+              "initials": "ST",
+              "nameShort": "S TAERATTANACHAI",
+              "nameShort2": "TAERATTANACHAI",
+              "slug": "sapsiree-taerattanachai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Sapsiree TAERATTANACHAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447113/assets/players/thumbnail/67158.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1163901,
+    "code": "143",
+    "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": 133,
+      "teamName": "USA",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ISR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+      "teamId": 49,
+      "teamName": "Israel",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-05-23 11:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 2",
+    "roundName": "R1",
+    "drawName": "Group 2",
+    "drawCode": "12",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1163903,
+        "code": "282",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "57798",
+              "nameDisplay": "Iris WANG",
+              "nameType": 0,
+              "firstName": "Iris",
+              "lastName": "WANG",
+              "initials": "IW",
+              "nameShort": "I WANG",
+              "nameShort2": "WANG",
+              "slug": "iris-wang",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Iris WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697439611/assets/players/thumbnail/57798.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "67069",
+              "nameDisplay": "Ksenia POLIKARPOVA",
+              "nameType": 0,
+              "firstName": "Ksenia",
+              "lastName": "POLIKARPOVA",
+              "initials": "KP",
+              "nameShort": "K POLIKARPOVA",
+              "nameShort2": "POLIKARPOVA",
+              "slug": "ksenia-polikarpova",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Ksenia POLIKARPOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897572/assets/players/thumbnail/67069.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163902,
+        "code": "281",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "80787",
+              "nameDisplay": "Timothy LAM",
+              "nameType": 0,
+              "firstName": "Timothy",
+              "lastName": "LAM",
+              "initials": "TL",
+              "nameShort": "T LAM",
+              "nameShort2": "LAM",
+              "slug": "timothy-lam",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Timothy LAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627260454/assets/players/thumbnail/80787.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52953",
+              "nameDisplay": "Misha ZILBERMAN",
+              "nameType": 0,
+              "firstName": "Misha",
+              "lastName": "ZILBERMAN",
+              "initials": "MZ",
+              "nameShort": "M ZILBERMAN",
+              "nameShort2": "ZILBERMAN",
+              "slug": "misha-zilberman",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Misha ZILBERMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900074/assets/players/thumbnail/52953.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163905,
+        "code": "284",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "13381",
+              "nameDisplay": "Paula Lynn CAO HOK",
+              "nameType": 0,
+              "firstName": "Paula Lynn",
+              "lastName": "CAO HOK",
+              "initials": "PC",
+              "nameShort": "P CAO HOK",
+              "nameShort2": "CAO HOK",
+              "slug": "paula-lynn-cao-hok",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Paula Lynn CAO HOK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896880/assets/players/thumbnail/13381.jpg"
+              }
+            },
+            {
+              "id": "57798",
+              "nameDisplay": "Iris WANG",
+              "nameType": 0,
+              "firstName": "Iris",
+              "lastName": "WANG",
+              "initials": "IW",
+              "nameShort": "I WANG",
+              "nameShort2": "WANG",
+              "slug": "iris-wang",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Iris WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697439611/assets/players/thumbnail/57798.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "77682",
+              "nameDisplay": "Margeret LURIE",
+              "nameType": 0,
+              "firstName": "Margeret",
+              "lastName": "LURIE",
+              "initials": "ML",
+              "nameShort": "M LURIE",
+              "nameShort2": "LURIE",
+              "slug": "margeret-lurie",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Margeret LURIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "61046",
+              "nameDisplay": "Yuval PUGACH",
+              "nameType": 0,
+              "firstName": "Yuval",
+              "lastName": "PUGACH",
+              "initials": "YP",
+              "nameShort": "Y PUGACH",
+              "nameShort2": "PUGACH",
+              "slug": "yuval-pugach",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Yuval PUGACH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 3,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 4,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163904,
+        "code": "283",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "36299",
+              "nameDisplay": "Phillip CHEW",
+              "nameType": 0,
+              "firstName": "Phillip",
+              "lastName": "CHEW",
+              "initials": "PC",
+              "nameShort": "P CHEW",
+              "nameShort2": "CHEW",
+              "slug": "phillip-chew",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Phillip CHEW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897002/assets/players/thumbnail/36299.jpg"
+              }
+            },
+            {
+              "id": "93167",
+              "nameDisplay": "Ryan CHEW",
+              "nameType": 0,
+              "firstName": "Ryan",
+              "lastName": "CHEW",
+              "initials": "RC",
+              "nameShort": "R CHEW",
+              "nameShort2": "CHEW",
+              "slug": "ryan-chew",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Ryan CHEW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896412/assets/players/thumbnail/93167.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "73815",
+              "nameDisplay": "may BAR NETZER",
+              "nameType": 0,
+              "firstName": "may",
+              "lastName": "BAR NETZER",
+              "initials": "mB",
+              "nameShort": "m BAR NETZER",
+              "nameShort2": "BAR NETZER",
+              "slug": "may-bar-netzer",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "may BAR NETZER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "76587",
+              "nameDisplay": "Ariel SHAINSKI",
+              "nameType": 0,
+              "firstName": "Ariel",
+              "lastName": "SHAINSKI",
+              "initials": "AS",
+              "nameShort": "A SHAINSKI",
+              "nameShort2": "SHAINSKI",
+              "slug": "ariel-shainski",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Ariel SHAINSKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1163906,
+        "code": "285",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "teamId": 133,
+          "teamName": "USA",
+          "players": [
+            {
+              "id": "46776",
+              "nameDisplay": "Howard SHU",
+              "nameType": 0,
+              "firstName": "Howard",
+              "lastName": "SHU",
+              "initials": "HS",
+              "nameShort": "H SHU",
+              "nameShort2": "SHU",
+              "slug": "howard-shu",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Howard SHU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719889717/assets/players/thumbnail/46776.jpg"
+              }
+            },
+            {
+              "id": "13381",
+              "nameDisplay": "Paula Lynn CAO HOK",
+              "nameType": 0,
+              "firstName": "Paula Lynn",
+              "lastName": "CAO HOK",
+              "initials": "PC",
+              "nameShort": "P CAO HOK",
+              "nameShort2": "CAO HOK",
+              "slug": "paula-lynn-cao-hok",
+              "countryCode": "USA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+              "avatar": {
+                "title": "Paula Lynn CAO HOK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896880/assets/players/thumbnail/13381.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ISR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52953",
+              "nameDisplay": "Misha ZILBERMAN",
+              "nameType": 0,
+              "firstName": "Misha",
+              "lastName": "ZILBERMAN",
+              "initials": "MZ",
+              "nameShort": "M ZILBERMAN",
+              "nameShort2": "ZILBERMAN",
+              "slug": "misha-zilberman",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Misha ZILBERMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900074/assets/players/thumbnail/52953.jpg"
+              }
+            },
+            {
+              "id": "67069",
+              "nameDisplay": "Ksenia POLIKARPOVA",
+              "nameType": 0,
+              "firstName": "Ksenia",
+              "lastName": "POLIKARPOVA",
+              "initials": "KP",
+              "nameShort": "K POLIKARPOVA",
+              "nameShort2": "POLIKARPOVA",
+              "slug": "ksenia-polikarpova",
+              "countryCode": "ISR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ISR.png",
+              "avatar": {
+                "title": "Ksenia POLIKARPOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897572/assets/players/thumbnail/67069.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R1",
+        "drawName": "Group 2",
+        "drawCode": "12",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Main Location",
+        "duration": 2,
+        "time": "00:02",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1157430,
+    "code": "106",
+    "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MAC",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+      "teamId": 61,
+      "teamName": "Macau",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KAZ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+      "teamId": 46,
+      "teamName": "Kazakhstan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2019-05-23 11:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 4",
+    "roundName": "R2",
+    "drawName": "Group 4 - Group 4 A",
+    "drawCode": "9",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1157435,
+        "code": "185",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 61,
+          "teamName": "Macau",
+          "players": [
+            {
+              "id": "92675",
+              "nameDisplay": "NG Chi Chong",
+              "nameType": 1,
+              "firstName": "Chi Chong",
+              "lastName": "NG",
+              "initials": "NC",
+              "nameShort": "NG C C ",
+              "nameShort2": "NG",
+              "slug": "ng-chi-chong",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "NG Chi Chong",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "90855",
+              "nameDisplay": "Chi Leng KUAN",
+              "nameType": 0,
+              "firstName": "Chi Leng",
+              "lastName": "KUAN",
+              "initials": "CK",
+              "nameShort": "C KUAN",
+              "nameShort2": "KUAN",
+              "slug": "chi-leng-kuan",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Chi Leng KUAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "84342",
+              "nameDisplay": "Khaitmurat KULMATOV",
+              "nameType": 0,
+              "firstName": "Khaitmurat",
+              "lastName": "KULMATOV",
+              "initials": "KK",
+              "nameShort": "K KULMATOV",
+              "nameShort2": "KULMATOV",
+              "slug": "khaitmurat-kulmatov",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Khaitmurat KULMATOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "64939",
+              "nameDisplay": "Oxsana SHTELLE",
+              "nameType": 0,
+              "firstName": "Oxsana",
+              "lastName": "SHTELLE",
+              "initials": "OS",
+              "nameShort": "O SHTELLE",
+              "nameShort2": "SHTELLE",
+              "slug": "oxsana-shtelle",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Oxsana SHTELLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 4",
+        "roundName": "R2",
+        "drawName": "Group 4 - Group 4 A",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1157431,
+        "code": "181",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 61,
+          "teamName": "Macau",
+          "players": [
+            {
+              "id": "98860",
+              "nameDisplay": "PUI Pang Fong",
+              "nameType": 1,
+              "firstName": "Pang Fong",
+              "lastName": "PUI",
+              "initials": "PP",
+              "nameShort": "PUI P F ",
+              "nameShort2": "PUI",
+              "slug": "pang-fong-pui",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Pang Fong PUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "82989",
+              "nameDisplay": "Dmitriy PANARIN",
+              "nameType": 0,
+              "firstName": "Dmitriy",
+              "lastName": "PANARIN",
+              "initials": "DP",
+              "nameShort": "D PANARIN",
+              "nameShort2": "PANARIN",
+              "slug": "dmitriy-panarin",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Dmitriy PANARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693965649/assets/players/thumbnail/82989.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 4",
+        "roundName": "R2",
+        "drawName": "Group 4 - Group 4 A",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 58,
+        "time": "00:58",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1157432,
+        "code": "182",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 61,
+          "teamName": "Macau",
+          "players": [
+            {
+              "id": "73164",
+              "nameDisplay": "PUI Chi Wa",
+              "nameType": 1,
+              "firstName": "Chi Wa",
+              "lastName": "PUI",
+              "initials": "PC",
+              "nameShort": "PUI C W ",
+              "nameShort2": "PUI",
+              "slug": "chi-wa-pui",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Chi Wa PUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "58884",
+              "nameDisplay": "Kamila SMAGULOVA",
+              "nameType": 0,
+              "firstName": "Kamila",
+              "lastName": "SMAGULOVA",
+              "initials": "KS",
+              "nameShort": "K SMAGULOVA",
+              "nameShort2": "SMAGULOVA",
+              "slug": "kamila-smagulova",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Kamila SMAGULOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 4",
+        "roundName": "R2",
+        "drawName": "Group 4 - Group 4 A",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1157433,
+        "code": "183",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 61,
+          "teamName": "Macau",
+          "players": [
+            {
+              "id": "55382",
+              "nameDisplay": "LAM Chi Man",
+              "nameType": 1,
+              "firstName": "Chi Man",
+              "lastName": "LAM",
+              "initials": "LC",
+              "nameShort": "LAM C M ",
+              "nameShort2": "LAM",
+              "slug": "Chi Man-LAM",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Chi Man LAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "14841",
+              "nameDisplay": "LEONG Kin Fai",
+              "nameType": 1,
+              "firstName": "Kin Fai",
+              "lastName": "LEONG",
+              "initials": "LK",
+              "nameShort": "LEONG K F ",
+              "nameShort2": "LEONG",
+              "slug": "leong-kin-fai",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "LEONG Kin Fai",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "77551",
+              "nameDisplay": "Artur NIYAZOV",
+              "nameType": 0,
+              "firstName": "Artur",
+              "lastName": "NIYAZOV",
+              "initials": "AN",
+              "nameShort": "A NIYAZOV",
+              "nameShort2": "NIYAZOV",
+              "slug": "artur-niyazov",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Artur NIYAZOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "82989",
+              "nameDisplay": "Dmitriy PANARIN",
+              "nameType": 0,
+              "firstName": "Dmitriy",
+              "lastName": "PANARIN",
+              "initials": "DP",
+              "nameShort": "D PANARIN",
+              "nameShort2": "PANARIN",
+              "slug": "dmitriy-panarin",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Dmitriy PANARIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693965649/assets/players/thumbnail/82989.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 4",
+        "roundName": "R2",
+        "drawName": "Group 4 - Group 4 A",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 39,
+        "time": "00:39",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1157434,
+        "code": "184",
+        "tournamentCode": "A61FA1A9-CDE1-4700-B03E-3E7CF2C992ED",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2019",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": 61,
+          "teamName": "Macau",
+          "players": [
+            {
+              "id": "74979",
+              "nameDisplay": "Xue Xin GONG",
+              "nameType": 0,
+              "firstName": "Xue Xin",
+              "lastName": "GONG",
+              "initials": "XG",
+              "nameShort": "X GONG",
+              "nameShort2": "GONG",
+              "slug": "xue-xin-gong",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Xue Xin GONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "95068",
+              "nameDisplay": "NG Weng Chi",
+              "nameType": 1,
+              "firstName": "Weng Chi",
+              "lastName": "NG",
+              "initials": "NW",
+              "nameShort": "NG W C ",
+              "nameShort2": "NG",
+              "slug": "weng-chi-ng",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Weng Chi NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KAZ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+          "teamId": 46,
+          "teamName": "Kazakhstan",
+          "players": [
+            {
+              "id": "64939",
+              "nameDisplay": "Oxsana SHTELLE",
+              "nameType": 0,
+              "firstName": "Oxsana",
+              "lastName": "SHTELLE",
+              "initials": "OS",
+              "nameShort": "O SHTELLE",
+              "nameShort2": "SHTELLE",
+              "slug": "oxsana-shtelle",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Oxsana SHTELLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "74774",
+              "nameDisplay": "Aisha ZHUMABEK",
+              "nameType": 0,
+              "firstName": "Aisha",
+              "lastName": "ZHUMABEK",
+              "initials": "AZ",
+              "nameShort": "A ZHUMABEK",
+              "nameShort2": "ZHUMABEK",
+              "slug": "aisha-zhumabek",
+              "countryCode": "KAZ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KAZ.png",
+              "avatar": {
+                "title": "Aisha ZHUMABEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2019-05-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 4",
+        "roundName": "R2",
+        "drawName": "Group 4 - Group 4 A",
+        "drawCode": "9",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Main Location",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

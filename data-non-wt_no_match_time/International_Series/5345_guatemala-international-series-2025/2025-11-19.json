@@ -1,0 +1,826 @@
+[
+  {
+    "id": 1484472,
+    "code": "2",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "34844",
+          "nameDisplay": "Jay CHUN",
+          "nameType": 0,
+          "firstName": "Jay",
+          "lastName": "CHUN",
+          "initials": "JC",
+          "nameShort": "J CHUN",
+          "nameShort2": "CHUN",
+          "slug": "jay-chun",
+          "countryCode": "USA",
+          "countryName": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "avatar": {
+            "title": "Jay CHUN",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "90899",
+          "nameDisplay": "Irving PEREZ",
+          "nameType": 0,
+          "firstName": "Irving",
+          "lastName": "PEREZ",
+          "initials": "IP",
+          "nameShort": "I PEREZ",
+          "nameShort2": "PEREZ",
+          "slug": "irving-perez",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Irving PEREZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-19 10:00:00",
+    "matchTimeUtc": "2025-11-19 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": 21,
+    "time": "00:21",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 7,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 4,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1484497,
+    "code": "1",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 1,
+    "scoreStatusValue": "Walkover",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "89223",
+          "nameDisplay": "Miklos KANYASI",
+          "nameType": 0,
+          "firstName": "Miklos",
+          "lastName": "KANYASI",
+          "initials": "MK",
+          "nameShort": "M KANYASI",
+          "nameShort2": "KANYASI",
+          "slug": "miklos-kanyasi",
+          "countryCode": "CAN",
+          "countryName": "Canada",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Miklos KANYASI",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GUA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "72037",
+          "nameDisplay": "FabiáN Alejandro SAGASTUME BUSTAMANTE",
+          "nameType": 0,
+          "firstName": "FabiáN Alejandro",
+          "lastName": "SAGASTUME BUSTAMANTE",
+          "initials": "FS",
+          "nameShort": "F SAGASTUME BUSTAMANTE",
+          "nameShort2": "SAGASTUME BUSTAMANTE",
+          "slug": "fabian-alejandro-sagastume-bustamante",
+          "countryCode": "GUA",
+          "countryName": "Guatemala",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "avatar": {
+            "title": "FabiáN Alejandro SAGASTUME BUSTAMANTE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": "1",
+    "team2seed": null,
+    "matchTime": "2025-11-19 10:00:00",
+    "matchTimeUtc": "2025-11-19 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [],
+    "matches": []
+  },
+  {
+    "id": 1484530,
+    "code": "6",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "GUA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "89553",
+          "nameDisplay": "Alessandro ANGUIANO GONZALEZ",
+          "nameType": 0,
+          "firstName": "Alessandro",
+          "lastName": "ANGUIANO GONZALEZ",
+          "initials": "AA",
+          "nameShort": "A ANGUIANO GONZALEZ",
+          "nameShort2": "ANGUIANO GONZALEZ",
+          "slug": "alessandro-anguiano-gonzalez",
+          "countryCode": "GUA",
+          "countryName": "Guatemala",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "avatar": {
+            "title": "Alessandro ANGUIANO GONZALEZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MEX",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "20604",
+          "nameDisplay": "Jesus Santiago GAYTAN BOCARDO",
+          "nameType": 0,
+          "firstName": "Jesus Santiago",
+          "lastName": "GAYTAN BOCARDO",
+          "initials": "JG",
+          "nameShort": "J GAYTAN BOCARDO",
+          "nameShort2": "GAYTAN BOCARDO",
+          "slug": "jesus-santiago-gaytan-bocardo",
+          "countryCode": "MEX",
+          "countryName": "Mexico",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MEX.png",
+          "avatar": {
+            "title": "Jesus Santiago GAYTAN BOCARDO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": "4",
+    "matchTime": "2025-11-19 10:25:00",
+    "matchTimeUtc": "2025-11-19 02:25:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": 24,
+    "time": "00:24",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 14,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 10,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1484471,
+    "code": "3",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "BRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "69960",
+          "nameDisplay": "Deivid SILVA",
+          "nameType": 0,
+          "firstName": "Deivid",
+          "lastName": "SILVA",
+          "initials": "DS",
+          "nameShort": "D SILVA",
+          "nameShort2": "SILVA",
+          "slug": "deivid-silva",
+          "countryCode": "BRA",
+          "countryName": "Brazil",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/BRA.png",
+          "avatar": {
+            "title": "Deivid SILVA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "27956",
+          "nameDisplay": "Jason Ling-Chun MAK",
+          "nameType": 0,
+          "firstName": "Jason Ling-Chun",
+          "lastName": "MAK",
+          "initials": "JM",
+          "nameShort": "J MAK",
+          "nameShort2": "MAK",
+          "slug": "jason-ling-chun-mak",
+          "countryCode": "CAN",
+          "countryName": "Canada",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Jason Ling-Chun MAK",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": "3",
+    "team2seed": null,
+    "matchTime": "2025-11-19 10:00:00",
+    "matchTimeUtc": "2025-11-19 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": 18,
+    "time": "00:18",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 6,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 5,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1484463,
+    "code": "5",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 1,
+    "scoreStatusValue": "Walkover",
+    "winner": 2,
+    "team1": {
+      "countryCode": "TTO",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TTO.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "22699",
+          "nameDisplay": "Parth MEHTA",
+          "nameType": 0,
+          "firstName": "Parth",
+          "lastName": "MEHTA",
+          "initials": "PM",
+          "nameShort": "P MEHTA",
+          "nameShort2": "MEHTA",
+          "slug": "parth-mehta",
+          "countryCode": "TTO",
+          "countryName": "Trinidad and Tobago",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TTO.png",
+          "avatar": {
+            "title": "Parth MEHTA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "32582",
+          "nameDisplay": "Jackson LACHANCE",
+          "nameType": 0,
+          "firstName": "Jackson",
+          "lastName": "LACHANCE",
+          "initials": "JL",
+          "nameShort": "J LACHANCE",
+          "nameShort2": "LACHANCE",
+          "slug": "jackson-lachance",
+          "countryCode": "CAN",
+          "countryName": "Canada",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Jackson LACHANCE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-19 10:25:00",
+    "matchTimeUtc": "2025-11-19 02:25:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [],
+    "matches": []
+  },
+  {
+    "id": 1484486,
+    "code": "7",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "PAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "76030",
+          "nameDisplay": "Francisco HAU LIU",
+          "nameType": 0,
+          "firstName": "Francisco",
+          "lastName": "HAU LIU",
+          "initials": "FH",
+          "nameShort": "F HAU LIU",
+          "nameShort2": "HAU LIU",
+          "slug": "francisco-hau-liu",
+          "countryCode": "PAN",
+          "countryName": "Panama",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PAN.png",
+          "avatar": {
+            "title": "Francisco HAU LIU",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GUA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "82265",
+          "nameDisplay": "Raul Eduardo ANGUIANO",
+          "nameType": 0,
+          "firstName": "Raul Eduardo",
+          "lastName": "ANGUIANO",
+          "initials": "RA",
+          "nameShort": "R ANGUIANO",
+          "nameShort2": "ANGUIANO",
+          "slug": "raul-eduardo-anguiano",
+          "countryCode": "GUA",
+          "countryName": "Guatemala",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "avatar": {
+            "title": "Raul Eduardo ANGUIANO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-19 10:25:00",
+    "matchTimeUtc": "2025-11-19 02:25:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": 22,
+    "time": "00:22",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 8,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 10,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1484477,
+    "code": "4",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "99382",
+          "nameDisplay": "Srinivas SUBASH",
+          "nameType": 0,
+          "firstName": "Srinivas",
+          "lastName": "SUBASH",
+          "initials": "SS",
+          "nameShort": "S SUBASH",
+          "nameShort2": "SUBASH",
+          "slug": "srinivas-subash",
+          "countryCode": "USA",
+          "countryName": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "avatar": {
+            "title": "Srinivas SUBASH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "GUA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "34287",
+          "nameDisplay": "Danilo Sebastián LOPEZ HERRERA",
+          "nameType": 0,
+          "firstName": "Danilo Sebastián",
+          "lastName": "LOPEZ HERRERA",
+          "initials": "DL",
+          "nameShort": "D LOPEZ HERRERA",
+          "nameShort2": "LOPEZ HERRERA",
+          "slug": "danilo-sebastian-lopez-herrera",
+          "countryCode": "GUA",
+          "countryName": "Guatemala",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUA.png",
+          "avatar": {
+            "title": "Danilo Sebastián LOPEZ HERRERA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2025-11-19 10:00:00",
+    "matchTimeUtc": "2025-11-19 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": 42,
+    "time": "00:42",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 12,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 15,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 16,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1484516,
+    "code": "8",
+    "tournamentCode": "8F27FFE2-903C-45CB-8EA7-6EDF0080992F",
+    "tournamentName": "Guatemala International Series 2025",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "COL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/COL.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "89579",
+          "nameDisplay": "Sergio ZAPATA",
+          "nameType": 0,
+          "firstName": "Sergio",
+          "lastName": "ZAPATA",
+          "initials": "SZ",
+          "nameShort": "S ZAPATA",
+          "nameShort2": "ZAPATA",
+          "slug": "sergio-zapata",
+          "countryCode": "COL",
+          "countryName": "Colombia",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/COL.png",
+          "avatar": {
+            "title": "Sergio ZAPATA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "USA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "96793",
+          "nameDisplay": "Siva RAJESH",
+          "nameType": 0,
+          "firstName": "Siva",
+          "lastName": "RAJESH",
+          "initials": "SR",
+          "nameShort": "S RAJESH",
+          "nameShort2": "RAJESH",
+          "slug": "siva-rajesh",
+          "countryCode": "USA",
+          "countryName": "USA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/USA.png",
+          "avatar": {
+            "title": "Siva RAJESH",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": "2",
+    "matchTime": "2025-11-19 10:25:00",
+    "matchTimeUtc": "2025-11-19 02:25:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "MS",
+    "roundName": "Qual. R16",
+    "drawName": "MS - Qualification",
+    "drawCode": "1",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Federación Nacional de Bádminton",
+    "duration": 41,
+    "time": "00:41",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 19,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 14,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 15,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  }
+]

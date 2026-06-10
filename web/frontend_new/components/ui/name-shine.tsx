@@ -182,7 +182,7 @@ export const NameShine = React.memo(({ name, isTop1, isTop23, isRank4_10, isRank
   if (isRank21_50) {
     return (
       <h1 className="relative text-5xl font-bold uppercase tracking-tighter inline-block cursor-default group">
-        <span className="bg-gradient-to-br from-zinc-300 via-zinc-400 to-zinc-600 bg-clip-text text-transparent drop-shadow-sm transition-colors duration-300 group-hover:from-zinc-100 group-hover:to-zinc-400">
+        <span className="bg-gradient-to-br from-white via-zinc-200 to-zinc-400 bg-clip-text text-transparent drop-shadow-sm transition-colors duration-300 group-hover:from-white group-hover:to-zinc-200">
           {name}
         </span>
         <span className="absolute inset-0 text-transparent pointer-events-none transition-all duration-300 opacity-0 group-hover:opacity-100" style={{ WebkitTextStroke: '1px rgba(255,255,255,0.2)' }}>
@@ -194,7 +194,7 @@ export const NameShine = React.memo(({ name, isTop1, isTop23, isRank4_10, isRank
 
   if (isRank51_100) {
     return (
-      <h1 className="relative text-4xl font-bold uppercase tracking-tighter inline-block cursor-default text-zinc-500 hover:text-zinc-300 transition-colors duration-300">
+      <h1 className="relative text-4xl font-bold uppercase tracking-tighter inline-block cursor-default text-zinc-100 hover:text-white transition-colors duration-300">
         {name}
       </h1>
     );
@@ -202,7 +202,7 @@ export const NameShine = React.memo(({ name, isTop1, isTop23, isRank4_10, isRank
 
   // Base Top 100+ Name
   return (
-    <h1 className="relative text-3xl font-bold uppercase tracking-tighter inline-block cursor-default text-zinc-600">
+    <h1 className="relative text-3xl font-bold uppercase tracking-tighter inline-block cursor-default text-zinc-100">
       {name}
     </h1>
   );

@@ -1,0 +1,4097 @@
+[
+  {
+    "id": 489397,
+    "code": "110",
+    "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SGP",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+      "teamId": 11,
+      "teamName": "Singapore",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "AUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+      "teamId": 19,
+      "teamName": "Australia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-05-25 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 2",
+    "roundName": "R2",
+    "drawName": "Group 2 - Group 2B",
+    "drawCode": "12",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Carrara Indoor Sports Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 489402,
+        "code": "205",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "99181",
+              "nameDisplay": "HEE Yong Kai Terry",
+              "nameType": 1,
+              "firstName": "Yong Kai Terry",
+              "lastName": "HEE",
+              "initials": "HY",
+              "nameShort": "HEE Y K T ",
+              "nameShort2": "HEE",
+              "slug": "yong-kai-terry-hee",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Yong Kai Terry HEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091837/assets/players/thumbnail/99181.jpg"
+              }
+            },
+            {
+              "id": "59237",
+              "nameDisplay": "TAN Wei Han Jessica",
+              "nameType": 1,
+              "firstName": "Wei Han Jessica",
+              "lastName": "TAN",
+              "initials": "TW",
+              "nameShort": "TAN W H J ",
+              "nameShort2": "TAN",
+              "slug": "wei-han-jessica-tan",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Wei Han Jessica TAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092214/assets/players/thumbnail/59237.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "77441",
+              "nameDisplay": "Setyana MAPASA",
+              "nameType": 0,
+              "firstName": "Setyana",
+              "lastName": "MAPASA",
+              "initials": "SM",
+              "nameShort": "S MAPASA",
+              "nameShort2": "MAPASA",
+              "slug": "setyana-mapasa",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Setyana MAPASA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991650/assets/players/thumbnail/77441.jpg"
+              }
+            },
+            {
+              "id": "75157",
+              "nameDisplay": "Sawan SERASINGHE",
+              "nameType": 0,
+              "firstName": "Sawan",
+              "lastName": "SERASINGHE",
+              "initials": "SS",
+              "nameShort": "S SERASINGHE",
+              "nameShort2": "SERASINGHE",
+              "slug": "sawan-serasinghe",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Sawan SERASINGHE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897511/assets/players/thumbnail/75157.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R2",
+        "drawName": "Group 2 - Group 2B",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489398,
+        "code": "201",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "97703",
+              "nameDisplay": "NG Zin Rei Ryan",
+              "nameType": 1,
+              "firstName": "Zin Rei Ryan",
+              "lastName": "NG",
+              "initials": "NZ",
+              "nameShort": "NG Z R R ",
+              "nameShort2": "NG",
+              "slug": "ng-zin-rei-ryan",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "NG Zin Rei Ryan",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "20295",
+              "nameDisplay": "Ashwant GOBINATHAN",
+              "nameType": 0,
+              "firstName": "Ashwant",
+              "lastName": "GOBINATHAN",
+              "initials": "AG",
+              "nameShort": "A GOBINATHAN",
+              "nameShort2": "GOBINATHAN",
+              "slug": "ashwant-gobinathan",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Ashwant GOBINATHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R2",
+        "drawName": "Group 2 - Group 2B",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489400,
+        "code": "203",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "66920",
+              "nameDisplay": "Danny Bawa CHRISNANTA",
+              "nameType": 0,
+              "firstName": "Danny Bawa",
+              "lastName": "CHRISNANTA",
+              "initials": "DC",
+              "nameShort": "D CHRISNANTA",
+              "nameShort2": "CHRISNANTA",
+              "slug": "danny-bawa-chrisnanta",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Danny Bawa CHRISNANTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897593/assets/players/thumbnail/66920.jpg"
+              }
+            },
+            {
+              "id": "99181",
+              "nameDisplay": "HEE Yong Kai Terry",
+              "nameType": 1,
+              "firstName": "Yong Kai Terry",
+              "lastName": "HEE",
+              "initials": "HY",
+              "nameShort": "HEE Y K T ",
+              "nameShort2": "HEE",
+              "slug": "yong-kai-terry-hee",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Yong Kai Terry HEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091837/assets/players/thumbnail/99181.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "78695",
+              "nameDisplay": "Matthew CHAU",
+              "nameType": 0,
+              "firstName": "Matthew",
+              "lastName": "CHAU",
+              "initials": "MC",
+              "nameShort": "M CHAU",
+              "nameShort2": "CHAU",
+              "slug": "matthew-chau",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Matthew CHAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897489/assets/players/thumbnail/78695.jpg"
+              }
+            },
+            {
+              "id": "75157",
+              "nameDisplay": "Sawan SERASINGHE",
+              "nameType": 0,
+              "firstName": "Sawan",
+              "lastName": "SERASINGHE",
+              "initials": "SS",
+              "nameShort": "S SERASINGHE",
+              "nameShort2": "SERASINGHE",
+              "slug": "sawan-serasinghe",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Sawan SERASINGHE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897511/assets/players/thumbnail/75157.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R2",
+        "drawName": "Group 2 - Group 2B",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489399,
+        "code": "202",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "83822",
+              "nameDisplay": "YEO Jia Min",
+              "nameType": 1,
+              "firstName": "Jia Min",
+              "lastName": "YEO",
+              "initials": "YJ",
+              "nameShort": "YEO J M ",
+              "nameShort2": "YEO",
+              "slug": "jia-min-yeo",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Min YEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671091660/assets/players/thumbnail/83822.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "40545",
+              "nameDisplay": "Hsuan-Yu Wendy CHEN",
+              "nameType": 0,
+              "firstName": "Hsuan-Yu Wendy",
+              "lastName": "CHEN",
+              "initials": "HC",
+              "nameShort": "H CHEN",
+              "nameShort2": "CHEN",
+              "slug": "hsuan-yu-wendy-chen",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Hsuan-Yu Wendy CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897014/assets/players/thumbnail/40545.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R2",
+        "drawName": "Group 2 - Group 2B",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 33,
+        "time": "00:33",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489401,
+        "code": "204",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SGP",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+          "teamId": 11,
+          "teamName": "Singapore",
+          "players": [
+            {
+              "id": "58917",
+              "nameDisplay": "ONG Ren-ne",
+              "nameType": 1,
+              "firstName": "Ren-ne",
+              "lastName": "ONG",
+              "initials": "OR",
+              "nameShort": "ONG R n ",
+              "nameShort2": "ONG",
+              "slug": "ong-ren-ne",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "ONG Ren-ne",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895185/assets/players/thumbnail/58917.jpg"
+              }
+            },
+            {
+              "id": "59275",
+              "nameDisplay": "WONG Jia Ying Crystal",
+              "nameType": 1,
+              "firstName": "Jia Ying Crystal",
+              "lastName": "WONG",
+              "initials": "WJ",
+              "nameShort": "WONG J Y C ",
+              "nameShort2": "WONG",
+              "slug": "jia-ying-crystal-wong",
+              "countryCode": "SGP",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SGP.png",
+              "avatar": {
+                "title": "Jia Ying Crystal WONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1671092370/assets/players/thumbnail/59275.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 19,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "77441",
+              "nameDisplay": "Setyana MAPASA",
+              "nameType": 0,
+              "firstName": "Setyana",
+              "lastName": "MAPASA",
+              "initials": "SM",
+              "nameShort": "S MAPASA",
+              "nameShort2": "MAPASA",
+              "slug": "setyana-mapasa",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Setyana MAPASA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991650/assets/players/thumbnail/77441.jpg"
+              }
+            },
+            {
+              "id": "58488",
+              "nameDisplay": "Gronya SOMERVILLE",
+              "nameType": 0,
+              "firstName": "Gronya",
+              "lastName": "SOMERVILLE",
+              "initials": "GS",
+              "nameShort": "G SOMERVILLE",
+              "nameShort2": "SOMERVILLE",
+              "slug": "gronya-somerville",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Gronya SOMERVILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690355668/assets/players/thumbnail/58488.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 2",
+        "roundName": "R2",
+        "drawName": "Group 2 - Group 2B",
+        "drawCode": "12",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 489475,
+    "code": "77",
+    "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 479,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-05-25 18:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 1",
+    "roundName": "QF",
+    "drawName": "Group 1",
+    "drawCode": "10",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Carrara Indoor Sports Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 489478,
+        "code": "148",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "67810",
+              "nameDisplay": "CHOI Sol Gyu",
+              "nameType": 1,
+              "firstName": "Sol Gyu",
+              "lastName": "CHOI",
+              "initials": "CS",
+              "nameShort": "CHOI S G ",
+              "nameShort2": "CHOI",
+              "slug": "sol-gyu-choi",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sol Gyu CHOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897583/assets/players/thumbnail/67810.jpg"
+              }
+            },
+            {
+              "id": "66513",
+              "nameDisplay": "SEO Seung Jae",
+              "nameType": 1,
+              "firstName": "Seung Jae",
+              "lastName": "SEO",
+              "initials": "SS",
+              "nameShort": "SEO S J ",
+              "nameShort2": "SEO",
+              "slug": "seung-jae-seo",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Seung Jae SEO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895418/assets/players/thumbnail/66513.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "99102",
+              "nameDisplay": "LEE Jhe-Huei",
+              "nameType": 1,
+              "firstName": "Jhe-Huei",
+              "lastName": "LEE",
+              "initials": "LJ",
+              "nameShort": "LEE J H ",
+              "nameShort2": "LEE",
+              "slug": "jhe-huei-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Jhe-Huei LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896182/assets/players/thumbnail/99102.jpg"
+              }
+            },
+            {
+              "id": "69448",
+              "nameDisplay": "LEE Yang",
+              "nameType": 1,
+              "firstName": "Yang",
+              "lastName": "LEE",
+              "initials": "LY",
+              "nameShort": "LEE Y",
+              "nameShort2": "LEE",
+              "slug": "yang-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yang LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949707/assets/players/thumbnail/69448.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 1,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489477,
+        "code": "147",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "76594",
+              "nameDisplay": "SUNG Jihyun",
+              "nameType": 1,
+              "firstName": "Jihyun",
+              "lastName": "SUNG",
+              "initials": "SJ",
+              "nameShort": "SUNG J",
+              "nameShort2": "SUNG",
+              "slug": "jihyun-sung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Jihyun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897520/assets/players/thumbnail/76594.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "61427",
+              "nameDisplay": "TAI Tzu Ying",
+              "nameType": 1,
+              "firstName": "Tzu Ying",
+              "lastName": "TAI",
+              "initials": "TT",
+              "nameShort": "TAI T Y ",
+              "nameShort2": "TAI",
+              "slug": "tzu-ying-tai",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Tzu Ying TAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697439785/assets/players/thumbnail/61427.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 52,
+        "time": "00:52",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 26,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489476,
+        "code": "146",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "54346",
+              "nameDisplay": "SON Wan Ho",
+              "nameType": 1,
+              "firstName": "Wan Ho",
+              "lastName": "SON",
+              "initials": "SW",
+              "nameShort": "SON W H ",
+              "nameShort2": "SON",
+              "slug": "wan-ho-son",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Wan Ho SON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897221/assets/players/thumbnail/54346.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "34810",
+              "nameDisplay": "CHOU Tien Chen",
+              "nameType": 1,
+              "firstName": "Tien Chen",
+              "lastName": "CHOU",
+              "initials": "CT",
+              "nameShort": "CHOU T C ",
+              "nameShort2": "CHOU",
+              "slug": "tien-chen-chou",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Tien Chen CHOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658715713/assets/players/thumbnail/34810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 91,
+        "time": "01:31",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 23,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489479,
+        "code": "149",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "54361",
+              "nameDisplay": "CHANG Ye Na",
+              "nameType": 1,
+              "firstName": "Ye Na",
+              "lastName": "CHANG",
+              "initials": "CY",
+              "nameShort": "CHANG Y N ",
+              "nameShort2": "CHANG",
+              "slug": "ye-na-chang",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ye Na CHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895136/assets/players/thumbnail/54361.jpg"
+              }
+            },
+            {
+              "id": "91292",
+              "nameDisplay": "LEE So Hee",
+              "nameType": 1,
+              "firstName": "So Hee",
+              "lastName": "LEE",
+              "initials": "LS",
+              "nameShort": "LEE S H ",
+              "nameShort2": "LEE",
+              "slug": "so-hee-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "So Hee LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895692/assets/players/thumbnail/91292.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "74561",
+              "nameDisplay": "HSU Ya Ching",
+              "nameType": 1,
+              "firstName": "Ya Ching",
+              "lastName": "HSU",
+              "initials": "HY",
+              "nameShort": "HSU Y C ",
+              "nameShort2": "HSU",
+              "slug": "ya-ching-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ya Ching HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897535/assets/players/thumbnail/74561.jpg"
+              }
+            },
+            {
+              "id": "95143",
+              "nameDisplay": "WU Ti Jung",
+              "nameType": 1,
+              "firstName": "Ti Jung",
+              "lastName": "WU",
+              "initials": "WT",
+              "nameShort": "WU T J ",
+              "nameShort2": "WU",
+              "slug": "ti-jung-wu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ti Jung WU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897332/assets/players/thumbnail/95143.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489480,
+        "code": "150",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "93074",
+              "nameDisplay": "CHAE Yu Jung",
+              "nameType": 1,
+              "firstName": "Yu Jung",
+              "lastName": "CHAE",
+              "initials": "CY",
+              "nameShort": "CHAE Y J ",
+              "nameShort2": "CHAE",
+              "slug": "yu-jung-chae",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yu Jung CHAE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634022922/assets/players/thumbnail/93074.jpg"
+              }
+            },
+            {
+              "id": "67810",
+              "nameDisplay": "CHOI Sol Gyu",
+              "nameType": 1,
+              "firstName": "Sol Gyu",
+              "lastName": "CHOI",
+              "initials": "CS",
+              "nameShort": "CHOI S G ",
+              "nameShort2": "CHOI",
+              "slug": "sol-gyu-choi",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sol Gyu CHOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897583/assets/players/thumbnail/67810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 479,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "76717",
+              "nameDisplay": "LEE Chia Hsin",
+              "nameType": 1,
+              "firstName": "Chia Hsin",
+              "lastName": "LEE",
+              "initials": "LC",
+              "nameShort": "LEE C H ",
+              "nameShort2": "LEE",
+              "slug": "chia-hsin-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chia Hsin LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897522/assets/players/thumbnail/76717.jpg"
+              }
+            },
+            {
+              "id": "96514",
+              "nameDisplay": "WANG Chi-Lin",
+              "nameType": 1,
+              "firstName": "Chi-Lin",
+              "lastName": "WANG",
+              "initials": "WC",
+              "nameShort": "WANG C L ",
+              "nameShort2": "WANG",
+              "slug": "chi-lin-wang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chi-Lin WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949747/assets/players/thumbnail/96514.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 489409,
+    "code": "163",
+    "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "MAC",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+      "teamId": 183,
+      "teamName": "Macau China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SRI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+      "teamId": 485,
+      "teamName": "Sri Lanka",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-05-25 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 3",
+    "roundName": "R1",
+    "drawName": "Group 3",
+    "drawCode": "16",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Carrara Indoor Sports Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 489414,
+        "code": "315",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "74979",
+              "nameDisplay": "Xue Xin GONG",
+              "nameType": 0,
+              "firstName": "Xue Xin",
+              "lastName": "GONG",
+              "initials": "XG",
+              "nameShort": "X GONG",
+              "nameShort2": "GONG",
+              "slug": "xue-xin-gong",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Xue Xin GONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "98757",
+              "nameDisplay": "U Ieong IEK",
+              "nameType": 0,
+              "firstName": "U Ieong",
+              "lastName": "IEK",
+              "initials": "UI",
+              "nameShort": "U IEK",
+              "nameShort2": "IEK",
+              "slug": "u-ieong-iek",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "U Ieong IEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68845",
+              "nameDisplay": "Buwaneka GOONETHILLEKA",
+              "nameType": 0,
+              "firstName": "Buwaneka",
+              "lastName": "GOONETHILLEKA",
+              "initials": "BG",
+              "nameShort": "B GOONETHILLEKA",
+              "nameShort2": "GOONETHILLEKA",
+              "slug": "buwaneka-goonethilleka",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Buwaneka GOONETHILLEKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669103/assets/players/thumbnail/68845.jpg"
+              }
+            },
+            {
+              "id": "81158",
+              "nameDisplay": "Kavindi Ishandika SIRIMANNAGE",
+              "nameType": 0,
+              "firstName": "Kavindi Ishandika",
+              "lastName": "SIRIMANNAGE",
+              "initials": "KS",
+              "nameShort": "K SIRIMANNAGE",
+              "nameShort2": "SIRIMANNAGE",
+              "slug": "kavindi-ishandika-sirimannage",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Kavindi Ishandika SIRIMANNAGE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 4,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489410,
+        "code": "311",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "98860",
+              "nameDisplay": "PUI Pang Fong",
+              "nameType": 1,
+              "firstName": "Pang Fong",
+              "lastName": "PUI",
+              "initials": "PP",
+              "nameShort": "PUI P F ",
+              "nameShort2": "PUI",
+              "slug": "pang-fong-pui",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Pang Fong PUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "14004",
+              "nameDisplay": "Niluka KARUNARATNE",
+              "nameType": 0,
+              "firstName": "Niluka",
+              "lastName": "KARUNARATNE",
+              "initials": "NK",
+              "nameShort": "N KARUNARATNE",
+              "nameShort2": "KARUNARATNE",
+              "slug": "niluka-karunaratne",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Niluka KARUNARATNE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896889/assets/players/thumbnail/14004.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489411,
+        "code": "312",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "95068",
+              "nameDisplay": "NG Weng Chi",
+              "nameType": 1,
+              "firstName": "Weng Chi",
+              "lastName": "NG",
+              "initials": "NW",
+              "nameShort": "NG W C ",
+              "nameShort2": "NG",
+              "slug": "weng-chi-ng",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Weng Chi NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "79705",
+              "nameDisplay": "Thilini HENDAHEWA",
+              "nameType": 0,
+              "firstName": "Thilini",
+              "lastName": "HENDAHEWA",
+              "initials": "TH",
+              "nameShort": "T HENDAHEWA",
+              "nameShort2": "HENDAHEWA",
+              "slug": "thilini-hendahewa",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Thilini HENDAHEWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669299/assets/players/thumbnail/79705.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489412,
+        "code": "313",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "61014",
+              "nameDisplay": "Pui Ngai CHE",
+              "nameType": 0,
+              "firstName": "Pui Ngai",
+              "lastName": "CHE",
+              "initials": "PC",
+              "nameShort": "P CHE",
+              "nameShort2": "CHE",
+              "slug": "pui-ngai-che",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Pui Ngai CHE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "71049",
+              "nameDisplay": "LAM Hou Him",
+              "nameType": 1,
+              "firstName": "Hou Him",
+              "lastName": "LAM",
+              "initials": "LH",
+              "nameShort": "LAM H H ",
+              "nameShort2": "LAM",
+              "slug": "lam-hou-him",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "LAM Hou Him",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "52229",
+              "nameDisplay": "Dinuka KARUNARATNE",
+              "nameType": 0,
+              "firstName": "Dinuka",
+              "lastName": "KARUNARATNE",
+              "initials": "DK",
+              "nameShort": "D KARUNARATNE",
+              "nameShort2": "KARUNARATNE",
+              "slug": "dinuka-karunaratne",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Dinuka KARUNARATNE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "14004",
+              "nameDisplay": "Niluka KARUNARATNE",
+              "nameType": 0,
+              "firstName": "Niluka",
+              "lastName": "KARUNARATNE",
+              "initials": "NK",
+              "nameShort": "N KARUNARATNE",
+              "nameShort2": "KARUNARATNE",
+              "slug": "niluka-karunaratne",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Niluka KARUNARATNE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896889/assets/players/thumbnail/14004.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 489413,
+        "code": "314",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "MAC",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "95068",
+              "nameDisplay": "NG Weng Chi",
+              "nameType": 1,
+              "firstName": "Weng Chi",
+              "lastName": "NG",
+              "initials": "NW",
+              "nameShort": "NG W C ",
+              "nameShort2": "NG",
+              "slug": "weng-chi-ng",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Weng Chi NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "76122",
+              "nameDisplay": "Kit Ieng WONG",
+              "nameType": 0,
+              "firstName": "Kit Ieng",
+              "lastName": "WONG",
+              "initials": "KW",
+              "nameShort": "K WONG",
+              "nameShort2": "WONG",
+              "slug": "kit-ieng-wong",
+              "countryCode": "MAC",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAC.png",
+              "avatar": {
+                "title": "Kit Ieng WONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SRI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "79705",
+              "nameDisplay": "Thilini HENDAHEWA",
+              "nameType": 0,
+              "firstName": "Thilini",
+              "lastName": "HENDAHEWA",
+              "initials": "TH",
+              "nameShort": "T HENDAHEWA",
+              "nameShort2": "HENDAHEWA",
+              "slug": "thilini-hendahewa",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Thilini HENDAHEWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1654669299/assets/players/thumbnail/79705.jpg"
+              }
+            },
+            {
+              "id": "81158",
+              "nameDisplay": "Kavindi Ishandika SIRIMANNAGE",
+              "nameType": 0,
+              "firstName": "Kavindi Ishandika",
+              "lastName": "SIRIMANNAGE",
+              "initials": "KS",
+              "nameShort": "K SIRIMANNAGE",
+              "nameShort2": "SIRIMANNAGE",
+              "slug": "kavindi-ishandika-sirimannage",
+              "countryCode": "SRI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SRI.png",
+              "avatar": {
+                "title": "Kavindi Ishandika SIRIMANNAGE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 489481,
+    "code": "78",
+    "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 6,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "DEN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+      "teamId": 457,
+      "teamName": "Denmark",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-05-25 18:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 1",
+    "roundName": "QF",
+    "drawName": "Group 1",
+    "drawCode": "10",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Carrara Indoor Sports Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 489486,
+        "code": "155",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "61731",
+              "nameDisplay": "Dechapol PUAVARANUKROH",
+              "nameType": 0,
+              "firstName": "Dechapol",
+              "lastName": "PUAVARANUKROH",
+              "initials": "DP",
+              "nameShort": "D PUAVARANUKROH",
+              "nameShort2": "PUAVARANUKROH",
+              "slug": "dechapol-puavaranukroh",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Dechapol PUAVARANUKROH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447436/assets/players/thumbnail/61731.jpg"
+              }
+            },
+            {
+              "id": "67158",
+              "nameDisplay": "Sapsiree TAERATTANACHAI",
+              "nameType": 0,
+              "firstName": "Sapsiree",
+              "lastName": "TAERATTANACHAI",
+              "initials": "ST",
+              "nameShort": "S TAERATTANACHAI",
+              "nameShort2": "TAERATTANACHAI",
+              "slug": "sapsiree-taerattanachai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Sapsiree TAERATTANACHAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447113/assets/players/thumbnail/67158.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "99521",
+              "nameDisplay": "Mathias CHRISTIANSEN",
+              "nameType": 0,
+              "firstName": "Mathias",
+              "lastName": "CHRISTIANSEN",
+              "initials": "MC",
+              "nameShort": "M CHRISTIANSEN",
+              "nameShort2": "CHRISTIANSEN",
+              "slug": "mathias-christiansen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mathias CHRISTIANSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896070/assets/players/thumbnail/99521.jpg"
+              }
+            },
+            {
+              "id": "68189",
+              "nameDisplay": "Sara THYGESEN",
+              "nameType": 0,
+              "firstName": "Sara",
+              "lastName": "THYGESEN",
+              "initials": "ST",
+              "nameShort": "S THYGESEN",
+              "nameShort2": "THYGESEN",
+              "slug": "sara-thygesen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Sara THYGESEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1721631144/assets/players/thumbnail/68189.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 49,
+        "time": "00:49",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489482,
+        "code": "151",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "54513",
+              "nameDisplay": "Tanongsak SAENSOMBOONSUK",
+              "nameType": 0,
+              "firstName": "Tanongsak",
+              "lastName": "SAENSOMBOONSUK",
+              "initials": "TS",
+              "nameShort": "T SAENSOMBOONSUK",
+              "nameShort2": "SAENSOMBOONSUK",
+              "slug": "tanongsak-saensomboonsuk",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Tanongsak SAENSOMBOONSUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894491/assets/players/thumbnail/54513.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "25831",
+              "nameDisplay": "Viktor AXELSEN",
+              "nameType": 0,
+              "firstName": "Viktor",
+              "lastName": "AXELSEN",
+              "initials": "VA",
+              "nameShort": "V AXELSEN",
+              "nameShort2": "AXELSEN",
+              "slug": "viktor-axelsen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Viktor AXELSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697764072/assets/players/thumbnail/25831.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 6,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489484,
+        "code": "153",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "75983",
+              "nameDisplay": "Bodin ISARA",
+              "nameType": 0,
+              "firstName": "Bodin",
+              "lastName": "ISARA",
+              "initials": "BI",
+              "nameShort": "B ISARA",
+              "nameShort2": "ISARA",
+              "slug": "bodin-isara",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Bodin ISARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708374/assets/players/thumbnail/75983.tif"
+              }
+            },
+            {
+              "id": "30342",
+              "nameDisplay": "Nipitphon PHUANGPHUAPET",
+              "nameType": 0,
+              "firstName": "Nipitphon",
+              "lastName": "PHUANGPHUAPET",
+              "initials": "NP",
+              "nameShort": "N PHUANGPHUAPET",
+              "nameShort2": "PHUANGPHUAPET",
+              "slug": "nipitphon-phuangphuapet",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nipitphon PHUANGPHUAPET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708402/assets/players/thumbnail/30342.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "42722",
+              "nameDisplay": "Mads CONRAD-PETERSEN",
+              "nameType": 0,
+              "firstName": "Mads",
+              "lastName": "CONRAD-PETERSEN",
+              "initials": "MC",
+              "nameShort": "M CONRAD-PETERSEN",
+              "nameShort2": "CONRAD-PETERSEN",
+              "slug": "mads-conrad-petersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mads CONRAD-PETERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894649/assets/players/thumbnail/42722.jpg"
+              }
+            },
+            {
+              "id": "52958",
+              "nameDisplay": "Mads Pieler KOLDING",
+              "nameType": 0,
+              "firstName": "Mads Pieler",
+              "lastName": "KOLDING",
+              "initials": "MK",
+              "nameShort": "M KOLDING",
+              "nameShort2": "KOLDING",
+              "slug": "mads-pieler-kolding",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Mads Pieler KOLDING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894657/assets/players/thumbnail/52958.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 68,
+        "time": "01:08",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489483,
+        "code": "152",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "35642",
+              "nameDisplay": "Ratchanok INTANON",
+              "nameType": 0,
+              "firstName": "Ratchanok",
+              "lastName": "INTANON",
+              "initials": "RI",
+              "nameShort": "R INTANON",
+              "nameShort2": "INTANON",
+              "slug": "ratchanok-intanon",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Ratchanok INTANON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897731/assets/players/thumbnail/35642.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "63437",
+              "nameDisplay": "Line Højmark KJAERSFELDT",
+              "nameType": 0,
+              "firstName": "Line Højmark",
+              "lastName": "KJAERSFELDT",
+              "initials": "LK",
+              "nameShort": "L KJAERSFELDT",
+              "nameShort2": "KJAERSFELDT",
+              "slug": "line-hojmark-kjaersfeldt",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Line Højmark KJAERSFELDT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634092546/assets/players/thumbnail/63437.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489485,
+        "code": "154",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "24686",
+              "nameDisplay": "Jongkolphan KITITHARAKUL",
+              "nameType": 0,
+              "firstName": "Jongkolphan",
+              "lastName": "KITITHARAKUL",
+              "initials": "JK",
+              "nameShort": "J KITITHARAKUL",
+              "nameShort2": "KITITHARAKUL",
+              "slug": "jongkolphan-kititharakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Jongkolphan KITITHARAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439020/assets/players/thumbnail/24686.jpg"
+              }
+            },
+            {
+              "id": "67158",
+              "nameDisplay": "Sapsiree TAERATTANACHAI",
+              "nameType": 0,
+              "firstName": "Sapsiree",
+              "lastName": "TAERATTANACHAI",
+              "initials": "ST",
+              "nameShort": "S TAERATTANACHAI",
+              "nameShort2": "TAERATTANACHAI",
+              "slug": "sapsiree-taerattanachai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Sapsiree TAERATTANACHAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447113/assets/players/thumbnail/67158.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "DEN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+          "teamId": 457,
+          "teamName": "Denmark",
+          "players": [
+            {
+              "id": "51436",
+              "nameDisplay": "Kamilla Rytter JUHL",
+              "nameType": 0,
+              "firstName": "Kamilla Rytter",
+              "lastName": "JUHL",
+              "initials": "KJ",
+              "nameShort": "K JUHL",
+              "nameShort2": "JUHL",
+              "slug": "kamilla-rytter-juhl",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Kamilla Rytter JUHL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895110/assets/players/thumbnail/51436.jpg"
+              }
+            },
+            {
+              "id": "53759",
+              "nameDisplay": "Christinna PEDERSEN",
+              "nameType": 0,
+              "firstName": "Christinna",
+              "lastName": "PEDERSEN",
+              "initials": "CP",
+              "nameShort": "C PEDERSEN",
+              "nameShort2": "PEDERSEN",
+              "slug": "christinna-pedersen",
+              "countryCode": "DEN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/DEN.png",
+              "avatar": {
+                "title": "Christinna PEDERSEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895128/assets/players/thumbnail/53759.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 18:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 1",
+        "roundName": "QF",
+        "drawName": "Group 1",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 44,
+        "time": "00:44",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 489403,
+    "code": "165",
+    "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "GUM",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+      "teamId": 548,
+      "teamName": "GUM Guam",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FIJ",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+      "teamId": 543,
+      "teamName": "Fiji",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-05-25 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 3",
+    "roundName": "R1",
+    "drawName": "Group 3",
+    "drawCode": "16",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Carrara Indoor Sports Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 489408,
+        "code": "325",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GUM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "93094",
+              "nameDisplay": "Sarah CAI",
+              "nameType": 0,
+              "firstName": "Sarah",
+              "lastName": "CAI",
+              "initials": "SC",
+              "nameShort": "S CAI",
+              "nameShort2": "CAI",
+              "slug": "sarah-cai",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "Sarah CAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "83921",
+              "nameDisplay": "David YAO",
+              "nameType": 0,
+              "firstName": "David",
+              "lastName": "YAO",
+              "initials": "DY",
+              "nameShort": "D YAO",
+              "nameShort2": "YAO",
+              "slug": "david-yao",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "David YAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "64993",
+              "nameDisplay": "Ahmad ALI",
+              "nameType": 0,
+              "firstName": "Ahmad",
+              "lastName": "ALI",
+              "initials": "AA",
+              "nameShort": "A ALI",
+              "nameShort2": "ALI",
+              "slug": "ahmad-ali",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Ahmad ALI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "96372",
+              "nameDisplay": "Karyn GIBSON",
+              "nameType": 0,
+              "firstName": "Karyn",
+              "lastName": "GIBSON",
+              "initials": "KG",
+              "nameShort": "K GIBSON",
+              "nameShort2": "GIBSON",
+              "slug": "karyn-gibson",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Karyn GIBSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 17,
+        "time": "00:17",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489404,
+        "code": "321",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GUM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "91569",
+              "nameDisplay": "Sunardi LI",
+              "nameType": 0,
+              "firstName": "Sunardi",
+              "lastName": "LI",
+              "initials": "SL",
+              "nameShort": "S LI",
+              "nameShort2": "LI",
+              "slug": "sunardi-li",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "Sunardi LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "82767",
+              "nameDisplay": "Liam FONG",
+              "nameType": 0,
+              "firstName": "Liam",
+              "lastName": "FONG",
+              "initials": "LF",
+              "nameShort": "L FONG",
+              "nameShort2": "FONG",
+              "slug": "liam-fong",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Liam FONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489405,
+        "code": "322",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GUM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "87936",
+              "nameDisplay": "Grace CAI",
+              "nameType": 0,
+              "firstName": "Grace",
+              "lastName": "CAI",
+              "initials": "GC",
+              "nameShort": "G CAI",
+              "nameShort2": "CAI",
+              "slug": "grace-cai",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "Grace CAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "13992",
+              "nameDisplay": "Danielle WHITESIDE",
+              "nameType": 0,
+              "firstName": "Danielle",
+              "lastName": "WHITESIDE",
+              "initials": "DW",
+              "nameShort": "D WHITESIDE",
+              "nameShort2": "WHITESIDE",
+              "slug": "danielle-whiteside",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Danielle WHITESIDE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489406,
+        "code": "323",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GUM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "91569",
+              "nameDisplay": "Sunardi LI",
+              "nameType": 0,
+              "firstName": "Sunardi",
+              "lastName": "LI",
+              "initials": "SL",
+              "nameShort": "S LI",
+              "nameShort2": "LI",
+              "slug": "sunardi-li",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "Sunardi LI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "83921",
+              "nameDisplay": "David YAO",
+              "nameType": 0,
+              "firstName": "David",
+              "lastName": "YAO",
+              "initials": "DY",
+              "nameShort": "D YAO",
+              "nameShort2": "YAO",
+              "slug": "david-yao",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "David YAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "64993",
+              "nameDisplay": "Ahmad ALI",
+              "nameType": 0,
+              "firstName": "Ahmad",
+              "lastName": "ALI",
+              "initials": "AA",
+              "nameShort": "A ALI",
+              "nameShort2": "ALI",
+              "slug": "ahmad-ali",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Ahmad ALI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "71865",
+              "nameDisplay": "Soon Seng LOW",
+              "nameType": 0,
+              "firstName": "Soon Seng",
+              "lastName": "LOW",
+              "initials": "SL",
+              "nameShort": "S LOW",
+              "nameShort2": "LOW",
+              "slug": "soon-seng-low",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Soon Seng LOW",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489407,
+        "code": "324",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "GUM",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "87936",
+              "nameDisplay": "Grace CAI",
+              "nameType": 0,
+              "firstName": "Grace",
+              "lastName": "CAI",
+              "initials": "GC",
+              "nameShort": "G CAI",
+              "nameShort2": "CAI",
+              "slug": "grace-cai",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "Grace CAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "93094",
+              "nameDisplay": "Sarah CAI",
+              "nameType": 0,
+              "firstName": "Sarah",
+              "lastName": "CAI",
+              "initials": "SC",
+              "nameShort": "S CAI",
+              "nameShort2": "CAI",
+              "slug": "sarah-cai",
+              "countryCode": "GUM",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GUM.png",
+              "avatar": {
+                "title": "Sarah CAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIJ",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "96372",
+              "nameDisplay": "Karyn GIBSON",
+              "nameType": 0,
+              "firstName": "Karyn",
+              "lastName": "GIBSON",
+              "initials": "KG",
+              "nameShort": "K GIBSON",
+              "nameShort2": "GIBSON",
+              "slug": "karyn-gibson",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Karyn GIBSON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "13992",
+              "nameDisplay": "Danielle WHITESIDE",
+              "nameType": 0,
+              "firstName": "Danielle",
+              "lastName": "WHITESIDE",
+              "initials": "DW",
+              "nameShort": "D WHITESIDE",
+              "nameShort2": "WHITESIDE",
+              "slug": "danielle-whiteside",
+              "countryCode": "FIJ",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIJ.png",
+              "avatar": {
+                "title": "Danielle WHITESIDE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 489415,
+    "code": "164",
+    "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+    "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CAL",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+      "teamId": 486,
+      "teamName": "New Caledonia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "SVK",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+      "teamId": 50,
+      "teamName": "Slovakia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2017-05-25 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Group 3",
+    "roundName": "R1",
+    "drawName": "Group 3",
+    "drawCode": "16",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Carrara Indoor Sports Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 489420,
+        "code": "320",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "99012",
+              "nameDisplay": "Yohan DE GEOFFROY",
+              "nameType": 0,
+              "firstName": "Yohan",
+              "lastName": "DE GEOFFROY",
+              "initials": "YD",
+              "nameShort": "Y DE GEOFFROY",
+              "nameShort2": "DE GEOFFROY",
+              "slug": "yohan-de-geoffroy",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Yohan DE GEOFFROY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "13882",
+              "nameDisplay": "Johanna KOU",
+              "nameType": 0,
+              "firstName": "Johanna",
+              "lastName": "KOU",
+              "initials": "JK",
+              "nameShort": "J KOU",
+              "nameShort2": "KOU",
+              "slug": "johanna-kou",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Johanna KOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "50266",
+              "nameDisplay": "Matej HLINICAN",
+              "nameType": 0,
+              "firstName": "Matej",
+              "lastName": "HLINICAN",
+              "initials": "MH",
+              "nameShort": "M HLINICAN",
+              "nameShort2": "HLINICAN",
+              "slug": "matej-hlinican",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Matej HLINICAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "82827",
+              "nameDisplay": "Katarina VARGOVA",
+              "nameType": 0,
+              "firstName": "Katarina",
+              "lastName": "VARGOVA",
+              "initials": "KV",
+              "nameShort": "K VARGOVA",
+              "nameShort2": "VARGOVA",
+              "slug": "katarina-vargova",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Katarina VARGOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 18,
+        "time": "00:18",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 8,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489416,
+        "code": "316",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "97933",
+              "nameDisplay": "Ronan HO-YAGUES",
+              "nameType": 0,
+              "firstName": "Ronan",
+              "lastName": "HO-YAGUES",
+              "initials": "RH",
+              "nameShort": "R HO-YAGUES",
+              "nameShort2": "HO-YAGUES",
+              "slug": "ronan-ho-yagues",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Ronan HO-YAGUES",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68819",
+              "nameDisplay": "Milan DRATVA",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "DRATVA",
+              "initials": "MD",
+              "nameShort": "M DRATVA",
+              "nameShort2": "DRATVA",
+              "slug": "milan-dratva",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Milan DRATVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899202/assets/players/thumbnail/68819.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 3,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489417,
+        "code": "317",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54920",
+              "nameDisplay": "Cecilia MOUSSY",
+              "nameType": 0,
+              "firstName": "Cecilia",
+              "lastName": "MOUSSY",
+              "initials": "CM",
+              "nameShort": "C MOUSSY",
+              "nameShort2": "MOUSSY",
+              "slug": "cecilia-moussy",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Cecilia MOUSSY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "75188",
+              "nameDisplay": "Martina REPISKA",
+              "nameType": 0,
+              "firstName": "Martina",
+              "lastName": "REPISKA",
+              "initials": "MR",
+              "nameShort": "M REPISKA",
+              "nameShort2": "REPISKA",
+              "slug": "martina-repiska",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Martina REPISKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899181/assets/players/thumbnail/75188.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 7,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 489418,
+        "code": "318",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "98395",
+              "nameDisplay": "Jeremy LEMAITRE",
+              "nameType": 0,
+              "firstName": "Jeremy",
+              "lastName": "LEMAITRE",
+              "initials": "JL",
+              "nameShort": "J LEMAITRE",
+              "nameShort2": "LEMAITRE",
+              "slug": "jeremy-lemaitre",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Jeremy LEMAITRE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "76417",
+              "nameDisplay": "Morgan PAITIO",
+              "nameType": 0,
+              "firstName": "Morgan",
+              "lastName": "PAITIO",
+              "initials": "MP",
+              "nameShort": "M PAITIO",
+              "nameShort2": "PAITIO",
+              "slug": "morgan-paitio",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Morgan PAITIO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "68819",
+              "nameDisplay": "Milan DRATVA",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "DRATVA",
+              "initials": "MD",
+              "nameShort": "M DRATVA",
+              "nameShort2": "DRATVA",
+              "slug": "milan-dratva",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Milan DRATVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899202/assets/players/thumbnail/68819.jpg"
+              }
+            },
+            {
+              "id": "50266",
+              "nameDisplay": "Matej HLINICAN",
+              "nameType": 0,
+              "firstName": "Matej",
+              "lastName": "HLINICAN",
+              "initials": "MH",
+              "nameShort": "M HLINICAN",
+              "nameShort2": "HLINICAN",
+              "slug": "matej-hlinican",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Matej HLINICAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 489419,
+        "code": "319",
+        "tournamentCode": "9D5AE85E-5686-4389-95E6-D700293D2329",
+        "tournamentName": "TOTAL BWF Sudirman Cup 2017",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CAL",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "72934",
+              "nameDisplay": "Dgenyva MATAULI",
+              "nameType": 0,
+              "firstName": "Dgenyva",
+              "lastName": "MATAULI",
+              "initials": "DM",
+              "nameShort": "D MATAULI",
+              "nameShort2": "MATAULI",
+              "slug": "dgenyva-matauli",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Dgenyva MATAULI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "79660",
+              "nameDisplay": "Tiphaine TAMOLE",
+              "nameType": 0,
+              "firstName": "Tiphaine",
+              "lastName": "TAMOLE",
+              "initials": "TT",
+              "nameShort": "T TAMOLE",
+              "nameShort2": "TAMOLE",
+              "slug": "tiphaine-tamole",
+              "countryCode": "CAL",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAL.png",
+              "avatar": {
+                "title": "Tiphaine TAMOLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "SVK",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "75188",
+              "nameDisplay": "Martina REPISKA",
+              "nameType": 0,
+              "firstName": "Martina",
+              "lastName": "REPISKA",
+              "initials": "MR",
+              "nameShort": "M REPISKA",
+              "nameShort2": "REPISKA",
+              "slug": "martina-repiska",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Martina REPISKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899181/assets/players/thumbnail/75188.jpg"
+              }
+            },
+            {
+              "id": "82827",
+              "nameDisplay": "Katarina VARGOVA",
+              "nameType": 0,
+              "firstName": "Katarina",
+              "lastName": "VARGOVA",
+              "initials": "KV",
+              "nameShort": "K VARGOVA",
+              "nameShort2": "VARGOVA",
+              "slug": "katarina-vargova",
+              "countryCode": "SVK",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SVK.png",
+              "avatar": {
+                "title": "Katarina VARGOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2017-05-25 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Group 3",
+        "roundName": "R1",
+        "drawName": "Group 3",
+        "drawCode": "16",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Carrara Indoor Sports Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

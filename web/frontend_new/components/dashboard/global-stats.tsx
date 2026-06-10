@@ -25,7 +25,6 @@ export function GlobalStatsCard() {
 
   return (
     <div className="h-[232px] flex flex-col relative overflow-hidden group">
-      <div className="absolute -top-24 -right-24 w-48 h-48 bg-cyan-500/10 blur-[100px] rounded-full group-hover:bg-cyan-500/20 transition-all duration-700" />
       
       <h3 className="text-zinc-500 text-[10px] font-mono uppercase tracking-[0.2em] mb-6 relative z-10">Database Pulse</h3>
       

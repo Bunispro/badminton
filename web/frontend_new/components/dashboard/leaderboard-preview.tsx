@@ -120,13 +120,59 @@ export function LeaderboardPreviewCard() {
   const events = ["MS", "WS", "MD", "WD", "XD"];
   const theme = DISCIPLINE_THEMES[activeEvent];
 
-  const wsParticles = React.useMemo(() => {
-    return Array.from({ length: 20 }, (_, i) => ({
+  const wsPetals = React.useMemo(() => {
+    return Array.from({ length: 15 }, (_, i) => ({
       id: i,
-      x: pseudoRandom(i + 1) * 800,
-      duration: pseudoRandom(i + 2) * 5 + 5,
-      delay: pseudoRandom(i + 3) * 5,
+      x: pseudoRandom(i + 1) * 100, // percentage coordinate
+      duration: (pseudoRandom(i + 2) * 4 + 6) * 1.43, // 30% slower speed (1.43x duration)
+      delay: pseudoRandom(i + 3) * 6,
+      scale: pseudoRandom(i + 4) * 0.6 + 0.4,
+      rotateStart: pseudoRandom(i + 5) * 360,
+      rotateEnd: pseudoRandom(i + 5) * 360 + 180 + pseudoRandom(i + 6) * 180,
+      drift: pseudoRandom(i + 7) * 20 + 10,
     }));
+  }, []);
+
+  const mdTrails = React.useMemo(() => {
+    return Array.from({ length: 12 }, (_, i) => {
+      const layer = i % 3; // 0: Background, 1: Midground, 2: Foreground
+      let width, height, duration, opacity, blur, shadow;
+      
+      if (layer === 0) { // Background (Slow & thin)
+        width = pseudoRandom(i + 1) * 80 + 120;
+        height = 1;
+        duration = pseudoRandom(i + 2) * 0.6 + 1.2;
+        opacity = 0.25;
+        blur = '';
+        shadow = 'none';
+      } else if (layer === 1) { // Midground (Medium focus)
+        width = pseudoRandom(i + 1) * 100 + 160;
+        height = 1.5;
+        duration = pseudoRandom(i + 2) * 0.4 + 0.7;
+        opacity = 0.55;
+        blur = '';
+        shadow = '0 0 6px rgba(239, 68, 68, 0.25)';
+      } else { // Foreground (Fast, thick & blurred)
+        width = pseudoRandom(i + 1) * 120 + 200;
+        height = 3;
+        duration = pseudoRandom(i + 2) * 0.25 + 0.4;
+        opacity = 0.75;
+        blur = 'blur-[1px]';
+        shadow = '0 0 12px rgba(239, 68, 68, 0.55)';
+      }
+
+      return {
+        id: i,
+        top: pseudoRandom(i + 3) * 80 + 10, // percentage coordinate
+        width,
+        height,
+        duration,
+        opacity,
+        blur,
+        shadow,
+        delay: pseudoRandom(i + 4) * 2.5,
+      };
+    });
   }, []);
 
   const xdParticles = React.useMemo(() => {
@@ -220,7 +266,7 @@ export function LeaderboardPreviewCard() {
             initial="initial" 
             animate="enter" 
             exit="exit" 
-            className="flex-none h-[360px] flex flex-col relative z-20 rounded-2xl mx-4 mt-2 mb-10 overflow-hidden border border-white/5 shadow-inner"
+            className="flex-none h-[320px] flex flex-col relative z-20 rounded-2xl mx-4 mt-1 mb-4 overflow-hidden border border-white/5 shadow-inner"
             style={{
               backgroundColor: 'rgba(0, 0, 0, 0.45)',
               backdropFilter: 'blur(6px)',
@@ -249,14 +295,31 @@ export function LeaderboardPreviewCard() {
             )}
 
             {activeEvent === 'WS' && (
-              <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden">
-                {wsParticles.map((p) => (
+              <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden rounded-2xl">
+                {wsPetals.map((p) => (
                   <motion.div
                     key={p.id}
-                    initial={{ x: p.x, y: -20, opacity: 0 }}
-                    animate={{ y: 500, opacity: [0, 0.4, 0] }}
-                    transition={{ duration: p.duration, repeat: Infinity, ease: "linear", delay: p.delay }}
-                    className="absolute w-1 h-1 bg-pink-300/40 rounded-full blur-[1px]"
+                    initial={{ 
+                      left: `${p.x}%`, 
+                      top: '-10%', 
+                      opacity: 0, 
+                      scale: p.scale, 
+                      rotate: p.rotateStart 
+                    }}
+                    animate={{ 
+                      top: '110%', 
+                      opacity: [0, 0.65, 0.65, 0],
+                      x: [0, p.drift, -p.drift, p.drift / 2],
+                      rotate: p.rotateEnd
+                    }}
+                    transition={{ 
+                      duration: p.duration, 
+                      repeat: Infinity, 
+                      ease: "easeInOut", 
+                      delay: p.delay 
+                    }}
+                    className="absolute w-3 h-4 bg-gradient-to-br from-pink-400/45 to-rose-300/15 rounded-[12px_0_12px_12px] blur-[0.2px]"
+                    style={{ transformOrigin: 'center' }}
                   />
                 ))}
               </div>
@@ -275,7 +338,7 @@ export function LeaderboardPreviewCard() {
                 {/* High-tech digital laser scanner with trailing gradient and zero gap */}
                 <motion.div
                   initial={{ y: -60 }}
-                  animate={{ y: 360 }}
+                  animate={{ y: 320 }}
                   transition={{ duration: 7, repeat: Infinity, ease: "linear" }}
                   className="absolute left-0 right-0 h-[57px] pointer-events-none z-30 flex flex-col justify-end"
                 >
@@ -286,48 +349,44 @@ export function LeaderboardPreviewCard() {
             )}
 
             {activeEvent === 'MD' && (
-              <div className="absolute inset-0 flex items-center justify-center overflow-hidden bg-transparent pointer-events-none z-10">
-                {/* 
-                  FLICKER WRAPPER: 
-                  Controls the sudden disappearance/reappearance of the entire graphic 
-                */}
+              <div className="absolute inset-0 pointer-events-none z-10 overflow-hidden rounded-2xl">
+                {/* Ambient pulsing background radial glow */}
                 <motion.div
-                  className="relative w-[500px] h-[500px] flex items-center justify-center"
-                  animate={{
-                    opacity: [1, 1, 0, 1, 0, 0, 1, 0, 1, 1],
+                  animate={{ 
+                    opacity: [0.35, 0.65, 0.35] 
                   }}
-                  transition={{
-                    duration: 5, // Loops every 5 seconds
-                    repeat: Infinity,
-                    ease: "linear",
-                    // Stays perfectly solid for 96% of the cycle, then executes ultra-rapid cuts at the tail end
-                    times: [0, 0.96, 0.965, 0.97, 0.975, 0.98, 0.985, 0.99, 0.995, 1],
+                  transition={{ 
+                    duration: 4, 
+                    repeat: Infinity, 
+                    ease: "easeInOut" 
                   }}
-                >
-                  {/* BACKGROUND GHOST 1: Furthest Left, sharp, highly transparent */}
-                  <XIcon className="absolute -translate-x-5 translate-y-1 scale-95" style={{ color: 'rgba(220, 38, 38, 0.03)' }} strokeWidth={2.5} />
+                  className="absolute inset-0 bg-[radial-gradient(circle_at_70%_50%,rgba(239,68,68,0.45),transparent_65%)]"
+                />
 
-                  {/* BACKGROUND GHOST 2: Left, sharp, slightly skewed */}
-                  <XIcon className="absolute -translate-x-2 translate-y-0.5 scale-98 skew-x-2" style={{ color: 'rgba(220, 38, 38, 0.05)' }} strokeWidth={3} />
-
-                  {/* BACKGROUND GHOST 3: Center Left, sharp */}
-                  <XIcon className="absolute translate-x-1 -translate-y-0.5 scale-101" style={{ color: 'rgba(239, 68, 68, 0.07)' }} strokeWidth={3.5} />
-
-                  {/* BACKGROUND GHOST 4: Right, skewed tracking ghost */}
-                  <XIcon className="absolute translate-x-3 translate-y-0.5 scale-103 skew-x-3" style={{ color: 'rgba(239, 68, 68, 0.06)' }} strokeWidth={4} />
-
-                  {/* BACKGROUND GHOST 5: Furthest Right, sharp */}
-                  <XIcon className="absolute translate-x-5 -translate-y-1 scale-105 -skew-x-3" style={{ color: 'rgba(220, 38, 38, 0.04)' }} strokeWidth={3} />
-
-                  {/* MAIN X: Sharp, tucked into the background, even thicker */}
-                  <XIcon className="relative" style={{ color: 'rgba(220, 38, 38, 0.12)' }} strokeWidth={5.5} />
-
-                  {/* FAINT WHITE SPEED LINES: Intersecting the X sharply */}
-                  <div className="absolute inset-0 flex items-center justify-center opacity-30">
-                    <div className="absolute h-[1.5px] w-[120%] bg-white/40 rotate-[15deg] blur-[0.5px]" />
-                    <div className="absolute h-[1px] w-[110%] bg-white/30 rotate-[-10deg] blur-[0.5px]" />
-                  </div>
-                </motion.div>
+                {/* 3D Parallax horizontal speed streams (right to left) */}
+                {mdTrails.map((t) => (
+                  <motion.div
+                    key={t.id}
+                    initial={{ left: '110%', opacity: 0 }}
+                    animate={{ 
+                      left: '-50%', 
+                      opacity: [0, t.opacity, t.opacity, 0] 
+                    }}
+                    transition={{ 
+                      duration: t.duration, 
+                      repeat: Infinity, 
+                      ease: "linear", 
+                      delay: t.delay 
+                    }}
+                    className={`absolute bg-gradient-to-r from-red-500 via-rose-500/35 to-transparent ${t.blur}`}
+                    style={{ 
+                      top: `${t.top}%`,
+                      width: `${t.width}px`,
+                      height: `${t.height}px`,
+                      boxShadow: t.shadow
+                    }}
+                  />
+                ))}
               </div>
             )}
 
@@ -422,53 +481,71 @@ export function LeaderboardPreviewCard() {
                     <Flag code={getCountryCode(player.country) || 'un'} width="w320" className="w-full h-full object-contain rounded-sm" />
                  </motion.div>
                  
-                 <div className="space-y-4 relative">
-                    <motion.div variants={itemVariants} className={`${formatEliteName(player.name, isDoubles).typography} drop-shadow-[0_4px_12px_rgba(0,0,0,0.5)]`}>
-                        {(() => {
-                          const formatted = formatEliteName(player.name, isDoubles);
-                          const isMD = activeEvent === 'MD';
-                          return (
-                            <>
-                              {formatted.lines.map((line, i) => {
+                  {(() => {
+                    const formatted = formatEliteName(player.name, isDoubles);
+                    const partnerFormatted = player.synergy_partner 
+                      ? formatEliteName(player.synergy_partner.name, isDoubles)
+                      : null;
+                    
+                    // Unified typography class for doubles to prevent wrapping/overlap
+                    let typographyClass = formatted.typography;
+                    if (isDoubles) {
+                      const len1 = Math.max(...formatted.lines.map(l => l.length));
+                      const len2 = partnerFormatted ? Math.max(...partnerFormatted.lines.map(l => l.length)) : 0;
+                      const maxLongest = Math.max(len1, len2);
+                      
+                      if (maxLongest > 12) {
+                        typographyClass = "text-2xl leading-tight tracking-tighter font-black uppercase";
+                      } else if (maxLongest >= 10) {
+                        typographyClass = "text-3xl leading-none tracking-tight font-black uppercase";
+                      } else {
+                        typographyClass = "text-4xl leading-none tracking-tight font-black uppercase";
+                      }
+                    }
+
+                    const isMD = activeEvent === 'MD';
+                    
+                    return (
+                      <div className="space-y-4 relative">
+                        <motion.div variants={itemVariants} className={`${typographyClass} drop-shadow-[0_4px_12px_rgba(0,0,0,0.5)]`}>
+                          {formatted.lines.map((line, i) => {
+                            const gradientClass = activeEvent === 'XD' 
+                              ? 'from-red-500 via-rose-400 to-red-600' 
+                              : theme.textGradient;
+                            return (
+                              <motion.div 
+                                key={i} 
+                                className={`leading-none bg-gradient-to-r ${gradientClass} bg-clip-text text-transparent`}
+                                animate={isMD ? { opacity: [1, 1, 0.15, 0.9, 0.05, 1, 1] } : {}}
+                                transition={isMD ? { repeat: Infinity, duration: 15, times: [0, 0.94, 0.95, 0.96, 0.97, 0.98, 1], ease: "linear" as const, delay: 0.5 } : {}}
+                              >
+                                {line}
+                              </motion.div>
+                            );
+                          })}
+                          {player.synergy_partner && partnerFormatted && (
+                            <div className="mt-3 opacity-90">
+                              {partnerFormatted.lines.map((line, i) => {
                                 const gradientClass = activeEvent === 'XD' 
-                                  ? 'from-red-500 via-rose-400 to-red-600' 
+                                  ? 'from-cyan-400 via-blue-300 to-indigo-400' 
                                   : theme.textGradient;
                                 return (
                                   <motion.div 
                                     key={i} 
                                     className={`leading-none bg-gradient-to-r ${gradientClass} bg-clip-text text-transparent`}
-                                    animate={isMD ? { opacity: [1, 1, 0.15, 0.9, 0.05, 1, 1] } : {}}
-                                    transition={isMD ? { repeat: Infinity, duration: 15, times: [0, 0.94, 0.95, 0.96, 0.97, 0.98, 1], ease: "linear" as const, delay: 0.5 } : {}}
+                                    animate={isMD ? { opacity: [1, 1, 0.1, 0.8, 0.05, 1, 1] } : {}}
+                                    transition={isMD ? { repeat: Infinity, duration: 15, times: [0, 0.93, 0.94, 0.95, 0.96, 0.97, 1], ease: "linear" as const, delay: 2.1 } : {}}
                                   >
                                     {line}
                                   </motion.div>
                                 );
                               })}
-                              {player.synergy_partner && (
-                                <div className="mt-4 opacity-90">
-                                  {formatEliteName(player.synergy_partner.name, true).lines.map((line, i) => {
-                                    const gradientClass = activeEvent === 'XD' 
-                                      ? 'from-cyan-400 via-blue-300 to-indigo-400' 
-                                      : theme.textGradient;
-                                    return (
-                                      <motion.div 
-                                        key={i} 
-                                        className={`leading-none bg-gradient-to-r ${gradientClass} bg-clip-text text-transparent`}
-                                        animate={isMD ? { opacity: [1, 1, 0.1, 0.8, 0.05, 1, 1] } : {}}
-                                        transition={isMD ? { repeat: Infinity, duration: 15, times: [0, 0.93, 0.94, 0.95, 0.96, 0.97, 1], ease: "linear" as const, delay: 2.1 } : {}}
-                                      >
-                                        {line}
-                                      </motion.div>
-                                    );
-                                  })}
-                                </div>
-                              )}
-                            </>
-                          );
-                        })()}
-                    </motion.div>
-                 </div>
-              </div>
+                            </div>
+                          )}
+                        </motion.div>
+                      </div>
+                    );
+                  })()}</div>
 
               <div className="flex flex-col items-end justify-end h-full pb-6">
                 <motion.div variants={itemVariants} className="text-right flex flex-col items-end translate-x-4">

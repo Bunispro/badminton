@@ -178,8 +178,12 @@ class BwfScraper:
             slug = path_parts[i + 2]
         elif "results" in path_parts:
             i = path_parts.index("results")
-            tournament_id = path_parts[i + 1]
-            slug = path_parts[i + 2]
+            if i > 0: # Pattern: {tid}/results/...
+                tournament_id = path_parts[i - 1]
+                slug = path_parts[i + 1] if len(path_parts) > i + 1 else tournament_id
+            else: # Pattern: results/{tid}/{slug}
+                tournament_id = path_parts[i + 1]
+                slug = path_parts[i + 2] if len(path_parts) > i + 2 else tournament_id
         else:
             raise ValueError(f"Unknown URL structure: {tournament_url}")
 
@@ -574,8 +578,8 @@ class BwfScraper:
             try:
                 with self.page.expect_response(
                     lambda r: (
-                        "api/tournaments/day-matches?" in r.url
-                        and "date=" in r.url
+                        "api/tournaments/" in r.url
+                        and "day-matches" in r.url
                         and "court=" in r.url
                         and r.status == 200
                     ),
@@ -622,114 +626,130 @@ class BwfScraper:
 
         print(f"===== COMPLETED TOURNAMENT: {tournament_url} =====\n")
 
-    def scrape_finals(self, tournament_url, tier):
+    def slug_to_name(self, url):
+        parts = urlparse(url).path.strip("/").split("/")
+        if len(parts) >= 3:
+            slug = parts[2]
+            return slug.replace("-", " ").title()
+        return "Unknown Tournament"
 
+    def scrape_finals(self, tournament_url, tier):
         print("\n==============================")
         print("Scraping FINALS:", tournament_url)
 
         out_dir = self.make_tournament_folder(tournament_url, tier, root="data_wt")
 
-        self.page.goto(tournament_url, wait_until="domcontentloaded")
-        self.page.wait_for_selector(".box-results-tournament h2, li[class*='match-']", timeout=30000) # Wait for title or match rows
+        # 1. Find dates
+        print(f"Visiting tournament root: {tournament_url}")
+        self.page.goto(tournament_url, wait_until="networkidle", timeout=60000)
         self.handle_cookie_banner()
-        self.page.wait_for_timeout(random.randint(4000, 8000))
-
-        title_locator = self.page.locator(".box-results-tournament h2")
-
-        if title_locator.count() > 0:
-            tournament_name = title_locator.first.inner_text().strip()
-        else:
-            tournament_name = self.slug_to_name(tournament_url)  # fallback
-
+        
         all_links = self.page.locator("a").all()
-        day_urls = []
-
+        dates = []
         for link in all_links:
             href = link.get_attribute("href")
-            if href and re.search(r"/\d{4}-\d{2}-\d{2}$", href):
-                day_urls.append(href)
+            if href:
+                m = re.search(r"(\d{4}-\d{2}-\d{2})/?$", href)
+                if m:
+                    dates.append(m.group(1))
+        
+        dates = sorted(list(set(dates)))
+        print(f"Found {len(dates)} dates: {dates}")
 
-        # remove duplicates
-        day_urls = list(dict.fromkeys(day_urls))
+        if not dates:
+            # Fallback for some URLs that might be deep linked
+            m = re.search(r"(\d{4}-\d{2}-\d{2})/?$", tournament_url)
+            if m: dates = [m.group(1)]
 
-        for day_url in day_urls:
-            print("Processing day:", day_url)
-            day = self.date_from_url(day_url)
-            if not day:
-                continue
-
+        for day in dates:
             out_path = os.path.join(out_dir, f"{day}.json")
             if os.path.exists(out_path):
-                print("Already have", day, "- skipping")
+                print(f"Already have {day} - skipping")
                 continue
 
-            self.page.goto(day_url, wait_until="domcontentloaded")
-            self.handle_cookie_banner()
-            self.page.wait_for_timeout(random.randint(6000, 10000))
+            # Construct day URL
+            day_url = tournament_url
+            if day not in tournament_url:
+                day_url = tournament_url.rstrip("/") + "/" + day
+            
+            print(f"Scraping {day} via HTML parsing...")
+            
+            try:
+                self.page.goto(day_url, wait_until="networkidle", timeout=60000)
+                self.page.wait_for_timeout(3000)
 
-            rows = self.page.locator("li[class*='match-']")
-            print("Match rows found:", rows.count())
-            matches = []
-
-            for i in range(rows.count()):
-                row = rows.nth(i)
-
-                # Extract class to get event
-                row_class = row.get_attribute("class") or ""
-                event = ""
-                for part in row_class.split():
-                    if part.startswith("draw-"):
-                        event = part.replace("draw-", "")
-                        break
-
-                # Team extraction
-                team1 = row.locator(".player1, .player2").all_inner_texts()
-                team2 = row.locator(".player3, .player4").all_inner_texts()
-
-                team1 = [p.strip() for p in team1 if p.strip()]
-                team2 = [p.strip() for p in team2 if p.strip()]
-
-                # Score
-                score = row.locator(".score").inner_text().replace(",", "").strip()
-
-                # Winner detection
-                team1_winner = (
-                    row.locator(".player1.player_winner, .player2.player_winner").count() > 0
-                )
-
-                if not team1_winner:
-                    team1, team2 = team2, team1
-
-                # Round name
-                round_name = row.locator(".round").inner_text().strip()
-
-                # Court info
-                court_loc = row.locator(".round-location").inner_text().strip()
-                court_no = row.locator(".round-court").inner_text().strip()
-                court = f"{court_loc} {court_no}"
-
-                matches.append({
-                    "id": f"{tournament_url}_{day}_{i}",
-                    "tournamentName": tournament_name,
-                    "eventName": event,
-                    "roundName": round_name,
-                    "courtName": court,
-                    "score": score,
-                    "winner": 1,
-                    "team1": {
-                        "players": [{"id": None, "nameDisplay": p} for p in team1],
-                        "countryCode": ""
-                    },
-                    "team2": {
-                        "players": [{"id": None, "nameDisplay": p} for p in team2],
-                        "countryCode": ""
+                # Comprehensive HTML parser fallback
+                better_js = r"""
+                    () => {
+                        const results = [];
+                        const matchRows = document.querySelectorAll('.tournament-results-table tr, a#match-link, .match-row');
+                        
+                        matchRows.forEach(row => {
+                            const durationEl = row.querySelector('span[title="Duration"], .duration, .match-duration');
+                            let duration = durationEl ? durationEl.innerText.trim() : null;
+                            
+                            if (!duration) {
+                                // Match the LAST time pattern (e.g., 0:49 at the end of string)
+                                const matches = row.innerText.match(/(\d{1,2}:\d{2})/g);
+                                if (matches && matches.length > 0) {
+                                    duration = matches[matches.length - 1];
+                                }
+                            }
+                            
+                            if (duration) {
+                                results.push({
+                                    duration: duration,
+                                    is_html_parse: true,
+                                    text_preview: row.innerText.substring(0, 100).replace(/\n/g, ' ')
+                                });
+                            }
+                        });
+                        return results;
                     }
-                })
+                """
+                
+                data = self.page.evaluate(better_js)
+                if data:
+                    print(f"Parsed {len(data)} matches from HTML for {day}")
+                
+                # RE-TRY API interception with known day
+                captured = []
+                def on_res(r):
+                    if "api/tournaments/" in r.url and "day-matches" in r.url:
+                        try: captured.append(r.json())
+                        except: pass
+                self.page.on("response", on_res)
+                
+                # Trigger by clicking any "Day" tab that matches this day
+                tab = self.page.locator(f"a:has-text('{day}'), a[href*='{day}']").first
+                has_tab = False
+                try:
+                    if tab.count() > 0:
+                        has_tab = True
+                except: pass
 
-            with open(out_path, "w", encoding="utf-8") as f:
-                json.dump(matches, f, ensure_ascii=False, indent=2)
+                if has_tab:
+                    try:
+                        tab.click(timeout=5000)
+                        self.page.wait_for_timeout(3000)
+                    except: pass
+                
+                self.page.remove_listener("response", on_res)
 
-            print("Saved:", day, "matches:", len(matches))
+                if captured:
+                    with open(out_path, "w", encoding="utf-8") as f:
+                        json.dump(captured[0], f, ensure_ascii=False, indent=2)
+                    print(f"SUCCESS: Saved {day} via intercepted API")
+                elif data:
+                    # Save the parsed HTML data as the main JSON if no API intercepted
+                    with open(out_path, "w", encoding="utf-8") as f:
+                        json.dump(data, f, ensure_ascii=False, indent=2)
+                    print(f"SUCCESS: Saved {day} via HTML parsing")
+                else:
+                    print(f"FAILED to get data for {day}")
+                    
+            except Exception as e:
+                print(f"Error on {day}: {e}")
 
         print(f"===== COMPLETED FINAL: {tournament_url} =====\n")
 

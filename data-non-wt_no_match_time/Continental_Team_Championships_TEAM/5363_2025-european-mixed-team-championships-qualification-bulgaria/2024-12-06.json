@@ -1,0 +1,1397 @@
+[
+  {
+    "id": 1399172,
+    "code": "6",
+    "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+    "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "HUN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+      "teamId": 873,
+      "teamName": "Hungary",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CRO",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+      "teamId": 874,
+      "teamName": "Croatia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-12-06 10:00:00",
+    "matchTimeUtc": "2024-12-06 08:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "2025 European Mixed Team Championships Qualificati",
+    "roundName": "R2",
+    "drawName": "2025 European Mixed Team Championships Qualificati - Group A",
+    "drawCode": "1",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1399195,
+        "code": "3",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 873,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "79515",
+              "nameDisplay": "Miklos KIS-KASZA",
+              "nameType": 0,
+              "firstName": "Miklos",
+              "lastName": "KIS-KASZA",
+              "initials": "MK",
+              "nameShort": "M KIS-KASZA",
+              "nameShort2": "KIS-KASZA",
+              "slug": "miklos-kis-kasza",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Miklos KIS-KASZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "61949",
+              "nameDisplay": "Vivien SANDORHAZI",
+              "nameType": 0,
+              "firstName": "Vivien",
+              "lastName": "SANDORHAZI",
+              "initials": "VS",
+              "nameShort": "V SANDORHAZI",
+              "nameShort2": "SANDORHAZI",
+              "slug": "vivien-sandorhazi",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Vivien SANDORHAZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895826/assets/players/thumbnail/61949.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+          "teamId": 874,
+          "teamName": "Croatia",
+          "players": [
+            {
+              "id": "83212",
+              "nameDisplay": "Filip SPOLJAREC",
+              "nameType": 0,
+              "firstName": "Filip",
+              "lastName": "SPOLJAREC",
+              "initials": "FS",
+              "nameShort": "F SPOLJAREC",
+              "nameShort2": "SPOLJAREC",
+              "slug": "filip-spoljarec",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Filip SPOLJAREC",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "75944",
+              "nameDisplay": "Jelena BUCHBERGER",
+              "nameType": 0,
+              "firstName": "Jelena",
+              "lastName": "BUCHBERGER",
+              "initials": "JB",
+              "nameShort": "J BUCHBERGER",
+              "nameShort2": "BUCHBERGER",
+              "slug": "jelena-buchberger",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Jelena BUCHBERGER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 10:00:00",
+        "matchTimeUtc": "2024-12-06 08:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399196,
+        "code": "1",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 873,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "80961",
+              "nameDisplay": "Adam KONCZOL",
+              "nameType": 0,
+              "firstName": "Adam",
+              "lastName": "KONCZOL",
+              "initials": "AK",
+              "nameShort": "A KONCZOL",
+              "nameShort2": "KONCZOL",
+              "slug": "adam-konczol",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Adam KONCZOL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+          "teamId": 874,
+          "teamName": "Croatia",
+          "players": [
+            {
+              "id": "91894",
+              "nameDisplay": "Aria DINATA",
+              "nameType": 0,
+              "firstName": "Aria",
+              "lastName": "DINATA",
+              "initials": "AD",
+              "nameShort": "A DINATA",
+              "nameShort2": "DINATA",
+              "slug": "aria-dinata",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Aria DINATA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 10:50:00",
+        "matchTimeUtc": "2024-12-06 08:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399197,
+        "code": "2",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 873,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "61949",
+              "nameDisplay": "Vivien SANDORHAZI",
+              "nameType": 0,
+              "firstName": "Vivien",
+              "lastName": "SANDORHAZI",
+              "initials": "VS",
+              "nameShort": "V SANDORHAZI",
+              "nameShort2": "SANDORHAZI",
+              "slug": "vivien-sandorhazi",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Vivien SANDORHAZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895826/assets/players/thumbnail/61949.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+          "teamId": 874,
+          "teamName": "Croatia",
+          "players": [
+            {
+              "id": "95053",
+              "nameDisplay": "Luna ŠABAN",
+              "nameType": 0,
+              "firstName": "Luna",
+              "lastName": "ŠABAN",
+              "initials": "LŠ",
+              "nameShort": "L ŠABAN",
+              "nameShort2": "ŠABAN",
+              "slug": "luna-aban",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Luna ŠABAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 11:40:00",
+        "matchTimeUtc": "2024-12-06 09:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399192,
+        "code": "4",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 873,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "79515",
+              "nameDisplay": "Miklos KIS-KASZA",
+              "nameType": 0,
+              "firstName": "Miklos",
+              "lastName": "KIS-KASZA",
+              "initials": "MK",
+              "nameShort": "M KIS-KASZA",
+              "nameShort2": "KIS-KASZA",
+              "slug": "miklos-kis-kasza",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Miklos KIS-KASZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "81801",
+              "nameDisplay": "Milan MESTERHAZY",
+              "nameType": 0,
+              "firstName": "Milan",
+              "lastName": "MESTERHAZY",
+              "initials": "MM",
+              "nameShort": "M MESTERHAZY",
+              "nameShort2": "MESTERHAZY",
+              "slug": "milan-mesterhazy",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Milan MESTERHAZY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+          "teamId": 874,
+          "teamName": "Croatia",
+          "players": [
+            {
+              "id": "91894",
+              "nameDisplay": "Aria DINATA",
+              "nameType": 0,
+              "firstName": "Aria",
+              "lastName": "DINATA",
+              "initials": "AD",
+              "nameShort": "A DINATA",
+              "nameShort2": "DINATA",
+              "slug": "aria-dinata",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Aria DINATA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "83212",
+              "nameDisplay": "Filip SPOLJAREC",
+              "nameType": 0,
+              "firstName": "Filip",
+              "lastName": "SPOLJAREC",
+              "initials": "FS",
+              "nameShort": "F SPOLJAREC",
+              "nameShort2": "SPOLJAREC",
+              "slug": "filip-spoljarec",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Filip SPOLJAREC",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 12:30:00",
+        "matchTimeUtc": "2024-12-06 10:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399199,
+        "code": "5",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HUN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+          "teamId": 873,
+          "teamName": "Hungary",
+          "players": [
+            {
+              "id": "60184",
+              "nameDisplay": "Kata KUSTAN",
+              "nameType": 0,
+              "firstName": "Kata",
+              "lastName": "KUSTAN",
+              "initials": "KK",
+              "nameShort": "K KUSTAN",
+              "nameShort2": "KUSTAN",
+              "slug": "kata-kustan",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Kata KUSTAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "63735",
+              "nameDisplay": "Noemi KUSTAN",
+              "nameType": 0,
+              "firstName": "Noemi",
+              "lastName": "KUSTAN",
+              "initials": "NK",
+              "nameShort": "N KUSTAN",
+              "nameShort2": "KUSTAN",
+              "slug": "noemi-kustan",
+              "countryCode": "HUN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HUN.png",
+              "avatar": {
+                "title": "Noemi KUSTAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CRO",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+          "teamId": 874,
+          "teamName": "Croatia",
+          "players": [
+            {
+              "id": "75944",
+              "nameDisplay": "Jelena BUCHBERGER",
+              "nameType": 0,
+              "firstName": "Jelena",
+              "lastName": "BUCHBERGER",
+              "initials": "JB",
+              "nameShort": "J BUCHBERGER",
+              "nameShort2": "BUCHBERGER",
+              "slug": "jelena-buchberger",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Jelena BUCHBERGER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "95053",
+              "nameDisplay": "Luna ŠABAN",
+              "nameType": 0,
+              "firstName": "Luna",
+              "lastName": "ŠABAN",
+              "initials": "LŠ",
+              "nameShort": "L ŠABAN",
+              "nameShort2": "ŠABAN",
+              "slug": "luna-aban",
+              "countryCode": "CRO",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CRO.png",
+              "avatar": {
+                "title": "Luna ŠABAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 13:20:00",
+        "matchTimeUtc": "2024-12-06 11:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group A",
+        "drawCode": "1",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1399169,
+    "code": "15",
+    "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+    "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "SUI",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+      "teamId": 875,
+      "teamName": "Switzerland",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FIN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+      "teamId": 878,
+      "teamName": "Finland",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-12-06 14:00:00",
+    "matchTimeUtc": "2024-12-06 12:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "2025 European Mixed Team Championships Qualificati",
+    "roundName": "R2",
+    "drawName": "2025 European Mixed Team Championships Qualificati - Group B",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1399200,
+        "code": "18",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 875,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "97214",
+              "nameDisplay": "Yann ORTEU",
+              "nameType": 0,
+              "firstName": "Yann",
+              "lastName": "ORTEU",
+              "initials": "YO",
+              "nameShort": "Y ORTEU",
+              "nameShort2": "ORTEU",
+              "slug": "yann-orteu",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Yann ORTEU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "84323",
+              "nameDisplay": "Caroline RACLOZ",
+              "nameType": 0,
+              "firstName": "Caroline",
+              "lastName": "RACLOZ",
+              "initials": "CR",
+              "nameShort": "C RACLOZ",
+              "nameShort2": "RACLOZ",
+              "slug": "caroline-racloz",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Caroline RACLOZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1741930819/assets/players/thumbnail/84323.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 878,
+          "teamName": "Finland",
+          "players": [
+            {
+              "id": "88856",
+              "nameDisplay": "Iikka HEINO",
+              "nameType": 0,
+              "firstName": "Iikka",
+              "lastName": "HEINO",
+              "initials": "IH",
+              "nameShort": "I HEINO",
+              "nameShort2": "HEINO",
+              "slug": "iikka-heino",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Iikka HEINO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896722/assets/players/thumbnail/88856.jpg"
+              }
+            },
+            {
+              "id": "83784",
+              "nameDisplay": "Oona TAPOLA",
+              "nameType": 0,
+              "firstName": "Oona",
+              "lastName": "TAPOLA",
+              "initials": "OT",
+              "nameShort": "O TAPOLA",
+              "nameShort2": "TAPOLA",
+              "slug": "oona-tapola",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Oona TAPOLA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 14:00:00",
+        "matchTimeUtc": "2024-12-06 12:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399202,
+        "code": "16",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 875,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "74008",
+              "nameDisplay": "Julien SCHEIWILLER",
+              "nameType": 0,
+              "firstName": "Julien",
+              "lastName": "SCHEIWILLER",
+              "initials": "JS",
+              "nameShort": "J SCHEIWILLER",
+              "nameShort2": "SCHEIWILLER",
+              "slug": "julien-scheiwiller",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Julien SCHEIWILLER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 878,
+          "teamName": "Finland",
+          "players": [
+            {
+              "id": "85563",
+              "nameDisplay": "Joakim OLDORFF",
+              "nameType": 0,
+              "firstName": "Joakim",
+              "lastName": "OLDORFF",
+              "initials": "JO",
+              "nameShort": "J OLDORFF",
+              "nameShort2": "OLDORFF",
+              "slug": "joakim-oldorff",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Joakim OLDORFF",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1740227284/assets/players/thumbnail/85563.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 14:50:00",
+        "matchTimeUtc": "2024-12-06 12:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 55,
+        "time": "00:55",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399203,
+        "code": "17",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 875,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "97529",
+              "nameDisplay": "Milena SCHNIDER",
+              "nameType": 0,
+              "firstName": "Milena",
+              "lastName": "SCHNIDER",
+              "initials": "MS",
+              "nameShort": "M SCHNIDER",
+              "nameShort2": "SCHNIDER",
+              "slug": "milena-schnider",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Milena SCHNIDER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897633/assets/players/thumbnail/97529.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 878,
+          "teamName": "Finland",
+          "players": [
+            {
+              "id": "75009",
+              "nameDisplay": "Petra SAARNIVAARA",
+              "nameType": 0,
+              "firstName": "Petra",
+              "lastName": "SAARNIVAARA",
+              "initials": "PS",
+              "nameShort": "P SAARNIVAARA",
+              "nameShort2": "SAARNIVAARA",
+              "slug": "petra-saarnivaara",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Petra SAARNIVAARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 15:40:00",
+        "matchTimeUtc": "2024-12-06 13:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399198,
+        "code": "19",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 875,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "97214",
+              "nameDisplay": "Yann ORTEU",
+              "nameType": 0,
+              "firstName": "Yann",
+              "lastName": "ORTEU",
+              "initials": "YO",
+              "nameShort": "Y ORTEU",
+              "nameShort2": "ORTEU",
+              "slug": "yann-orteu",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Yann ORTEU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "91987",
+              "nameDisplay": "Minh Quang PHAM",
+              "nameType": 0,
+              "firstName": "Minh Quang",
+              "lastName": "PHAM",
+              "initials": "MP",
+              "nameShort": "M PHAM",
+              "nameShort2": "PHAM",
+              "slug": "minh-quang-pham",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Minh Quang PHAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1741930562/assets/players/thumbnail/91987.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 878,
+          "teamName": "Finland",
+          "players": [
+            {
+              "id": "88856",
+              "nameDisplay": "Iikka HEINO",
+              "nameType": 0,
+              "firstName": "Iikka",
+              "lastName": "HEINO",
+              "initials": "IH",
+              "nameShort": "I HEINO",
+              "nameShort2": "HEINO",
+              "slug": "iikka-heino",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Iikka HEINO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896722/assets/players/thumbnail/88856.jpg"
+              }
+            },
+            {
+              "id": "87460",
+              "nameDisplay": "Robin JÄNTTI",
+              "nameType": 0,
+              "firstName": "Robin",
+              "lastName": "JÄNTTI",
+              "initials": "RJ",
+              "nameShort": "R JÄNTTI",
+              "nameShort2": "JÄNTTI",
+              "slug": "robin-jantti",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Robin JÄNTTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 16:30:00",
+        "matchTimeUtc": "2024-12-06 14:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1399205,
+        "code": "20",
+        "tournamentCode": "1AD6D320-CAD7-4F99-85BD-85FC96D1652F",
+        "tournamentName": "2025 European Mixed Team Championships Qualification - Bulgaria",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "SUI",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+          "teamId": 875,
+          "teamName": "Switzerland",
+          "players": [
+            {
+              "id": "55905",
+              "nameDisplay": "Lucie AMIGUET",
+              "nameType": 0,
+              "firstName": "Lucie",
+              "lastName": "AMIGUET",
+              "initials": "LA",
+              "nameShort": "L AMIGUET",
+              "nameShort2": "AMIGUET",
+              "slug": "lucie-amiguet",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Lucie AMIGUET",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1741930761/assets/players/thumbnail/55905.jpg"
+              }
+            },
+            {
+              "id": "84323",
+              "nameDisplay": "Caroline RACLOZ",
+              "nameType": 0,
+              "firstName": "Caroline",
+              "lastName": "RACLOZ",
+              "initials": "CR",
+              "nameShort": "C RACLOZ",
+              "nameShort2": "RACLOZ",
+              "slug": "caroline-racloz",
+              "countryCode": "SUI",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/SUI.png",
+              "avatar": {
+                "title": "Caroline RACLOZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1741930819/assets/players/thumbnail/84323.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FIN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+          "teamId": 878,
+          "teamName": "Finland",
+          "players": [
+            {
+              "id": "59790",
+              "nameDisplay": "Sarah ASFAR",
+              "nameType": 0,
+              "firstName": "Sarah",
+              "lastName": "ASFAR",
+              "initials": "SA",
+              "nameShort": "S ASFAR",
+              "nameShort2": "ASFAR",
+              "slug": "sarah-asfar",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Sarah ASFAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "83784",
+              "nameDisplay": "Oona TAPOLA",
+              "nameType": 0,
+              "firstName": "Oona",
+              "lastName": "TAPOLA",
+              "initials": "OT",
+              "nameShort": "O TAPOLA",
+              "nameShort2": "TAPOLA",
+              "slug": "oona-tapola",
+              "countryCode": "FIN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FIN.png",
+              "avatar": {
+                "title": "Oona TAPOLA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-12-06 17:20:00",
+        "matchTimeUtc": "2024-12-06 15:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "2025 European Mixed Team Championships Qualificati",
+        "roundName": "R2",
+        "drawName": "2025 European Mixed Team Championships Qualificati - Group B",
+        "drawCode": "2",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 27,
+        "time": "00:27",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

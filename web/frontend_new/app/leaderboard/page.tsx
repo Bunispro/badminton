@@ -141,49 +141,34 @@ const PlayerCard = React.memo(({
             </div>
           </div>
 
-          {/* Column 4: Trend / Winrate */}
+          {/* Column 4: Trend / Win Rate */}
           <div className="col-span-2 text-center flex flex-col items-center justify-center">
             {mode === 'seasonal' ? (
-              <div className="flex flex-col items-center">
-                <div className={`font-mono font-black text-lg ${player.change > 0 ? 'text-emerald-400' : player.change < 0 ? 'text-rose-400' : 'text-zinc-500'}`}>
-                  {player.change > 0 ? '+' : ''}{typeof player.change === 'number' ? player.change.toFixed(1) : '0.0'}
-                </div>
-                <div className="text-[9px] text-zinc-600 uppercase font-black tracking-widest">
-                  Trend
-                </div>
+              <div className={`font-mono font-black text-lg ${player.change > 0 ? 'text-emerald-400' : player.change < 0 ? 'text-rose-400' : 'text-zinc-500'}`}>
+                {player.change > 0 ? '+' : ''}{typeof player.change === 'number' ? player.change.toFixed(1) : '0.0'}
               </div>
             ) : (
-              player.winrate ? (
-                <>
-                  <div className="font-mono text-zinc-100 font-black text-lg">
-                    {Math.round(player.winrate)}%
-                  </div>
-                  <div className="text-[9px] text-zinc-600 uppercase font-black">
-                    Win%
-                  </div>
-                </>
-              ) : (
-                <div className="flex flex-col items-center">
-                  <div className="font-mono text-zinc-100 font-black text-lg">
-                    {player.rank_at_peak || index + 1}
-                  </div>
-                  <div className="text-[9px] text-zinc-600 uppercase font-black">
-                    Peak
-                  </div>
-                </div>
-              )
+              <div className="font-mono text-zinc-100 font-black text-lg">
+                {player.winrate ? `${Math.round(player.winrate)}%` : '--'}
+              </div>
             )}
           </div>
 
-          {/* Column 5: Form Sparkline */}
+          {/* Column 5: Form Sparkline / Peak Global Rank */}
           {!hideForm && (
             <div className="col-span-1 flex flex-col items-center justify-center">
-              {points.length > 0 ? (
-                <svg className="w-12 h-5 text-sky-400/50 group-hover:text-sky-400 transition-colors" viewBox="0 0 100 24">
-                  <polyline fill="none" stroke="currentColor" strokeWidth="2.5" points={points} strokeLinecap="round" strokeLinejoin="round" />
-                </svg>
+              {mode === 'seasonal' ? (
+                points.length > 0 ? (
+                  <svg className="w-12 h-5 text-sky-400/50 group-hover:text-sky-400 transition-colors" viewBox="0 0 100 24">
+                    <polyline fill="none" stroke="currentColor" strokeWidth="2.5" points={points} strokeLinecap="round" strokeLinejoin="round" />
+                  </svg>
+                ) : (
+                  <span className="text-[8px] text-zinc-800 font-black tracking-widest uppercase">No Data</span>
+                )
               ) : (
-                <span className="text-[8px] text-zinc-800 font-black tracking-widest uppercase">No Data</span>
+                <div className="font-mono text-zinc-100 font-black text-lg">
+                  {player.rank_at_peak ? `#${player.rank_at_peak}` : '--'}
+                </div>
               )}
             </div>
           )}
@@ -206,6 +191,7 @@ function LeaderboardContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const model = searchParams.get('model') || 'elo';
+  const mode = searchParams.get('mode') || 'seasonal';
   const hideForm = searchParams.get('hideForm') === 'true';
 
   const [leaderboard, setLeaderboard] = useState<LeaderboardPlayer[]>([]);
@@ -218,27 +204,23 @@ function LeaderboardContent() {
   }, []);
   const [loadingMore, setLoadingMore] = useState(false);
   const [event, setEvent] = useState('MS');
-  const [mode, setMode] = useState(searchParams.get('mode') || 'seasonal');
 
   useEffect(() => {
-    const urlMode = searchParams.get('mode');
-    if (urlMode && urlMode !== mode) {
-      const timer = setTimeout(() => setMode(urlMode), 0);
-      return () => clearTimeout(timer);
-    }
-  }, [searchParams, mode]);
+    let changed = false;
+    const params = new URLSearchParams(searchParams.toString());
 
-  useEffect(() => {
     if (mode === 'historical' && model !== 'whr') {
-      const params = new URLSearchParams(searchParams.toString());
       params.set('model', 'whr');
       params.set('mode', 'historical');
-      router.push(`?${params.toString()}`);
+      changed = true;
     } else if (mode === 'seasonal' && model === 'whr') {
-      const params = new URLSearchParams(searchParams.toString());
       params.set('model', 'elo');
       params.set('mode', 'seasonal');
-      router.push(`?${params.toString()}`);
+      changed = true;
+    }
+
+    if (changed) {
+      router.replace(`?${params.toString()}`);
     }
   }, [mode, model, searchParams, router]);
   const [offset, setOffset] = useState(0);
@@ -254,6 +236,7 @@ function LeaderboardContent() {
   const [showBackToTop, setShowBackToTop] = useState(false);
   const [activeCountries, setActiveCountries] = useState<Record<string, number>>({});
   const [scrollMargin, setScrollMargin] = useState(0);
+  const [inactivityThreshold, setInactivityThreshold] = useState(180);
   
   const popoverRef = React.useRef<HTMLDivElement>(null);
 
@@ -281,6 +264,54 @@ function LeaderboardContent() {
     );
   }, [expandedPlayerHistory, expandedPlayer]);
 
+  const chartData = useMemo(() => {
+    if (!expandedPlayerHistory || expandedPlayerHistory.length === 0) return [];
+    
+    // Sort chronologically by date first to ensure calculations are correct
+    const sorted = [...expandedPlayerHistory].sort(
+      (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
+    );
+
+    // Find the peak rating point in the history
+    let maxRating = -Infinity;
+    let maxIdx = -1;
+    for (let i = 0; i < sorted.length; i++) {
+      if (sorted[i].rating > maxRating) {
+        maxRating = sorted[i].rating;
+        maxIdx = i;
+      }
+    }
+
+    return sorted.map((h, index) => ({
+      ...h,
+      timestamp: new Date(h.date).getTime(),
+      isPeak: index === maxIdx
+    }));
+  }, [expandedPlayerHistory]);
+
+  const chartTicks = useMemo(() => {
+    if (chartData.length === 0) return [];
+    const minTime = chartData[0].timestamp;
+    const maxTime = chartData[chartData.length - 1].timestamp;
+    if (minTime === maxTime) {
+      return [minTime];
+    }
+    return [
+      minTime,
+      minTime + (maxTime - minTime) * 0.3333333333333333,
+      minTime + (maxTime - minTime) * 0.6666666666666666,
+      maxTime
+    ];
+  }, [chartData]);
+
+  const lastMatchDate = useMemo(() => {
+    if (!expandedPlayer) return '';
+    if (chartData.length > 0) {
+      return chartData[chartData.length - 1].date;
+    }
+    return expandedPlayer.date || '';
+  }, [chartData, expandedPlayer]);
+
   useEffect(() => {
     if (expandedPlayerId && popoverRef.current) {
       popoverRef.current.focus();
@@ -293,6 +324,17 @@ function LeaderboardContent() {
       .then(data => setActiveCountries(data))
       .catch(err => console.error("Failed to fetch countries:", err));
   }, []);
+
+  useEffect(() => {
+    fetch(`${API_BASE_URL}/api/inactivity-threshold?model=${model}`)
+      .then(res => res.json())
+      .then(data => {
+        if (data && typeof data.inactivity_threshold === 'number') {
+          setInactivityThreshold(data.inactivity_threshold);
+        }
+      })
+      .catch(err => console.error("Failed to fetch inactivity threshold:", err));
+  }, [model]);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -719,9 +761,9 @@ function LeaderboardContent() {
           <div className="flex gap-2">
             <button
               onClick={() => {
-                setMode('seasonal');
                 const params = new URLSearchParams(searchParams.toString());
                 params.set('mode', 'seasonal');
+                params.set('model', 'elo');
                 router.push(`?${params.toString()}`);
               }}
               className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${mode === 'seasonal'
@@ -739,7 +781,6 @@ function LeaderboardContent() {
             </button>
             <button
               onClick={() => {
-                setMode('historical');
                 const params = new URLSearchParams(searchParams.toString());
                 params.set('mode', 'historical');
                 params.set('model', 'whr');
@@ -847,8 +888,8 @@ function LeaderboardContent() {
                 <div className="col-span-1 text-center">Rank</div>
                 <div className={`${hideForm ? 'col-span-5' : 'col-span-4'} pl-4`}>Player Profile</div>
                 <div className="col-span-2 text-center">{model === 'bwf' ? 'Points' : 'Rating'}</div>
-                <div className="col-span-2 text-center">{mode === 'seasonal' ? 'Trend (3M)' : 'Winrate'}</div>
-                {!hideForm && <div className="col-span-1 text-center">{mode === 'seasonal' ? 'Form (3M)' : 'Peak Rank'}</div>}
+                <div className="col-span-2 text-center">{mode === 'seasonal' ? 'Trend (3M)' : 'Win Rate'}</div>
+                {!hideForm && <div className="col-span-1 text-center">{mode === 'seasonal' ? 'Form (3M)' : 'Peak Global Rank'}</div>}
                 <div className="col-span-2 text-center">{mode === 'seasonal' ? 'Last Played' : 'Date Achieved'}</div>
               </div>
 
@@ -992,7 +1033,7 @@ function LeaderboardContent() {
                               const daysSince = Math.floor(
                                 (new Date().getTime() - new Date(lastPlayed).getTime()) / (1000 * 60 * 60 * 24)
                               );
-                              const isActive = daysSince <= 180;
+                              const isActive = daysSince <= inactivityThreshold;
                               return (
                                 <div className="flex items-center gap-2">
                                   <div className={`w-2 h-2 rounded-full ${isActive ? 'bg-emerald-500 animate-pulse' : 'bg-zinc-500'}`} />
@@ -1026,10 +1067,10 @@ function LeaderboardContent() {
                         </div>
                         <span className="text-[11px] text-zinc-600 uppercase tracking-widest font-bold animate-pulse">Syncing Player History...</span>
                       </div>
-                    ) : expandedPlayerHistory.length > 0 ? (
+                    ) : chartData.length > 0 ? (
                       <ResponsiveContainer width="100%" height="100%">
                         <AreaChart 
-                          data={expandedPlayerHistory.map((h: HistoryPoint) => ({ ...h, timestamp: new Date(h.date).getTime() }))}
+                          data={chartData}
                           margin={{ top: 20, right: 20, left: 0, bottom: 20 }}
                         >
                           <defs>
@@ -1043,10 +1084,11 @@ function LeaderboardContent() {
                             dataKey="timestamp" 
                             type="number" 
                             domain={['dataMin', 'dataMax']} 
+                            ticks={chartTicks}
                             tick={{ fontSize: 10, fill: '#52525b', fontFamily: 'monospace' }}
                             axisLine={false}
                             tickLine={false}
-                            tickFormatter={(val) => new Date(val).toLocaleDateString('en-US', { month: 'short', year: '2-digit' })}
+                            tickFormatter={(val) => new Date(val).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}
                             dy={10}
                           />
                           <YAxis 
@@ -1071,6 +1113,39 @@ function LeaderboardContent() {
                             fillOpacity={1}
                             fill="url(#popoverGlow)"
                             animationDuration={1500}
+                            dot={(props: any) => {
+                              const { cx, cy, payload } = props;
+                              if (payload?.isPeak) {
+                                return (
+                                  <g key={`peak-dot-${payload.timestamp}`}>
+                                    <circle 
+                                      cx={cx} 
+                                      cy={cy} 
+                                      r={10} 
+                                      fill="#38bdf8" 
+                                      className="animate-ping" 
+                                      style={{ transformOrigin: `${cx}px ${cy}px` }}
+                                      opacity={0.4} 
+                                    />
+                                    <circle 
+                                      cx={cx} 
+                                      cy={cy} 
+                                      r={4.5} 
+                                      fill="#38bdf8" 
+                                      stroke="#09090b" 
+                                      strokeWidth={1.5} 
+                                    />
+                                  </g>
+                                );
+                              }
+                              return <g key={`dot-empty-${props.index}`} />;
+                            }}
+                            activeDot={{
+                              r: 5,
+                              fill: '#38bdf8',
+                              stroke: '#09090b',
+                              strokeWidth: 1.5
+                            }}
                           />
                         </AreaChart>
                       </ResponsiveContainer>
@@ -1087,7 +1162,9 @@ function LeaderboardContent() {
                       <div className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest mb-1">
                         {mode === 'peak' ? 'Peak Rating Date' : 'Last Match Date'}
                       </div>
-                      <div className="text-xl font-bold font-mono text-zinc-400">{expandedPlayer.date}</div>
+                      <div className="text-xl font-bold font-mono text-zinc-400">
+                        {mode === 'peak' ? (peakPoint?.date || expandedPlayer.date) : lastMatchDate}
+                      </div>
                     </div>
                   </div>
                 </motion.div>

@@ -1,0 +1,2578 @@
+[
+  {
+    "id": 420776,
+    "code": "176",
+    "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+    "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 6,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 3,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-02-20 11:30:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Women's Team",
+    "roundName": null,
+    "drawName": "Women's Team - Women's Team Knock Out",
+    "drawCode": "13",
+    "courtName": "Court CT-1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Gachibowli Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 420777,
+        "code": "431",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "58271",
+              "nameDisplay": "Busanan ONGBAMRUNGPHAN",
+              "nameType": 0,
+              "firstName": "Busanan",
+              "lastName": "ONGBAMRUNGPHAN",
+              "initials": "BO",
+              "nameShort": "B ONGBAMRUNGPHAN",
+              "nameShort2": "ONGBAMRUNGPHAN",
+              "slug": "busanan-ongbamrungphan",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Busanan ONGBAMRUNGPHAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1669169509/assets/players/thumbnail/58271.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "96713",
+              "nameDisplay": "Nozomi OKUHARA",
+              "nameType": 0,
+              "firstName": "Nozomi",
+              "lastName": "OKUHARA",
+              "initials": "NO",
+              "nameShort": "N OKUHARA",
+              "nameShort2": "OKUHARA",
+              "slug": "nozomi-okuhara",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Nozomi OKUHARA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895749/assets/players/thumbnail/96713.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": 67,
+        "time": "01:07",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420780,
+        "code": "434",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "68441",
+              "nameDisplay": "Puttita SUPAJIRAKUL",
+              "nameType": 0,
+              "firstName": "Puttita",
+              "lastName": "SUPAJIRAKUL",
+              "initials": "PS",
+              "nameShort": "P SUPAJIRAKUL",
+              "nameShort2": "SUPAJIRAKUL",
+              "slug": "puttita-supajirakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Puttita SUPAJIRAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1662085712/assets/players/thumbnail/68441.jpg"
+              }
+            },
+            {
+              "id": "67158",
+              "nameDisplay": "Sapsiree TAERATTANACHAI",
+              "nameType": 0,
+              "firstName": "Sapsiree",
+              "lastName": "TAERATTANACHAI",
+              "initials": "ST",
+              "nameShort": "S TAERATTANACHAI",
+              "nameShort2": "TAERATTANACHAI",
+              "slug": "sapsiree-taerattanachai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Sapsiree TAERATTANACHAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636447113/assets/players/thumbnail/67158.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "43851",
+              "nameDisplay": "Misaki MATSUTOMO",
+              "nameType": 0,
+              "firstName": "Misaki",
+              "lastName": "MATSUTOMO",
+              "initials": "MM",
+              "nameShort": "M MATSUTOMO",
+              "nameShort2": "MATSUTOMO",
+              "slug": "misaki-matsutomo",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Misaki MATSUTOMO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895094/assets/players/thumbnail/43851.jpg"
+              }
+            },
+            {
+              "id": "16981",
+              "nameDisplay": "Ayaka TAKAHASHI",
+              "nameType": 0,
+              "firstName": "Ayaka",
+              "lastName": "TAKAHASHI",
+              "initials": "AT",
+              "nameShort": "A TAKAHASHI",
+              "nameShort2": "TAKAHASHI",
+              "slug": "ayaka-takahashi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Ayaka TAKAHASHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895053/assets/players/thumbnail/16981.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": 63,
+        "time": "01:03",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420778,
+        "code": "432",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "54511",
+              "nameDisplay": "Porntip BURANAPRASERTSUK",
+              "nameType": 0,
+              "firstName": "Porntip",
+              "lastName": "BURANAPRASERTSUK",
+              "initials": "PB",
+              "nameShort": "P BURANAPRASERTSUK",
+              "nameShort2": "BURANAPRASERTSUK",
+              "slug": "porntip-buranaprasertsuk",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Porntip BURANAPRASERTSUK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894489/assets/players/thumbnail/54511.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "77317",
+              "nameDisplay": "Sayaka SATO",
+              "nameType": 0,
+              "firstName": "Sayaka",
+              "lastName": "SATO",
+              "initials": "SS",
+              "nameShort": "S SATO",
+              "nameShort2": "SATO",
+              "slug": "sayaka-sato",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Sayaka SATO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895541/assets/players/thumbnail/77317.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420781,
+        "code": "435",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "24686",
+              "nameDisplay": "Jongkolphan KITITHARAKUL",
+              "nameType": 0,
+              "firstName": "Jongkolphan",
+              "lastName": "KITITHARAKUL",
+              "initials": "JK",
+              "nameShort": "J KITITHARAKUL",
+              "nameShort2": "KITITHARAKUL",
+              "slug": "jongkolphan-kititharakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Jongkolphan KITITHARAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439020/assets/players/thumbnail/24686.jpg"
+              }
+            },
+            {
+              "id": "84669",
+              "nameDisplay": "Rawinda PRAJONGJAI",
+              "nameType": 0,
+              "firstName": "Rawinda",
+              "lastName": "PRAJONGJAI",
+              "initials": "RP",
+              "nameShort": "R PRAJONGJAI",
+              "nameShort2": "PRAJONGJAI",
+              "slug": "rawinda-prajongjai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Rawinda PRAJONGJAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439314/assets/players/thumbnail/84669.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "56251",
+              "nameDisplay": "Naoko FUKUMAN",
+              "nameType": 0,
+              "firstName": "Naoko",
+              "lastName": "FUKUMAN",
+              "initials": "NF",
+              "nameShort": "N FUKUMAN",
+              "nameShort2": "FUKUMAN",
+              "slug": "naoko-fukuman",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Naoko FUKUMAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897270/assets/players/thumbnail/56251.jpg"
+              }
+            },
+            {
+              "id": "56417",
+              "nameDisplay": "Kurumi YONAO",
+              "nameType": 0,
+              "firstName": "Kurumi",
+              "lastName": "YONAO",
+              "initials": "KY",
+              "nameShort": "K YONAO",
+              "nameShort2": "YONAO",
+              "slug": "kurumi-yonao",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kurumi YONAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897275/assets/players/thumbnail/56417.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 420779,
+        "code": "433",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 6,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "84062",
+              "nameDisplay": "Pornpawee CHOCHUWONG",
+              "nameType": 0,
+              "firstName": "Pornpawee",
+              "lastName": "CHOCHUWONG",
+              "initials": "PC",
+              "nameShort": "P CHOCHUWONG",
+              "nameShort2": "CHOCHUWONG",
+              "slug": "pornpawee-chochuwong",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Pornpawee CHOCHUWONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697765882/assets/players/thumbnail/84062.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "43256",
+              "nameDisplay": "Yui HASHIMOTO",
+              "nameType": 0,
+              "firstName": "Yui",
+              "lastName": "HASHIMOTO",
+              "initials": "YH",
+              "nameShort": "Y HASHIMOTO",
+              "nameShort2": "HASHIMOTO",
+              "slug": "yui-hashimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yui HASHIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897022/assets/players/thumbnail/43256.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 420770,
+    "code": "125",
+    "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+    "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "IND",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+      "teamId": 10,
+      "teamName": "India",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 480,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-02-20 16:30:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Men's Team",
+    "roundName": null,
+    "drawName": "Men's Team - Men's Team Knock Out",
+    "drawCode": "8",
+    "courtName": "Court CT-1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Gachibowli Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 420771,
+        "code": "336",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "93627",
+              "nameDisplay": "KIDAMBI Srikanth",
+              "nameType": 1,
+              "firstName": "Srikanth",
+              "lastName": "KIDAMBI",
+              "initials": "KS",
+              "nameShort": "KIDAMBI S",
+              "nameShort2": "KIDAMBI",
+              "slug": "srikanth-kidambi",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Srikanth KIDAMBI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636508333/assets/players/thumbnail/93627.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "14587",
+              "nameDisplay": "Tommy SUGIARTO",
+              "nameType": 0,
+              "firstName": "Tommy",
+              "lastName": "SUGIARTO",
+              "initials": "TS",
+              "nameShort": "T SUGIARTO",
+              "nameShort2": "SUGIARTO",
+              "slug": "tommy-sugiarto",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Tommy SUGIARTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636512325/assets/players/thumbnail/14587.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": 58,
+        "time": "00:58",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 23,
+            "away": 25,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420774,
+        "code": "339",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "59803",
+              "nameDisplay": "ATTRI Manu",
+              "nameType": 1,
+              "firstName": "Manu",
+              "lastName": "ATTRI",
+              "initials": "AM",
+              "nameShort": "ATTRI M",
+              "nameShort2": "ATTRI",
+              "slug": "manu-attri",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Manu ATTRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894735/assets/players/thumbnail/59803.jpg"
+              }
+            },
+            {
+              "id": "24172",
+              "nameDisplay": "REDDY B. Sumeeth",
+              "nameType": 1,
+              "firstName": "B. Sumeeth",
+              "lastName": "REDDY",
+              "initials": "RB",
+              "nameShort": "REDDY B S ",
+              "nameShort2": "REDDY",
+              "slug": "b-sumeeth-reddy",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "B. Sumeeth REDDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894716/assets/players/thumbnail/24172.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "52749",
+              "nameDisplay": "Mohammad AHSAN",
+              "nameType": 0,
+              "firstName": "Mohammad",
+              "lastName": "AHSAN",
+              "initials": "MA",
+              "nameShort": "M AHSAN",
+              "nameShort2": "AHSAN",
+              "slug": "mohammad-ahsan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Mohammad AHSAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1590501414/assets/players/thumbnail/52749.jpg"
+              }
+            },
+            {
+              "id": "51074",
+              "nameDisplay": "Hendra SETIAWAN",
+              "nameType": 0,
+              "firstName": "Hendra",
+              "lastName": "SETIAWAN",
+              "initials": "HS",
+              "nameShort": "H SETIAWAN",
+              "nameShort2": "SETIAWAN",
+              "slug": "hendra-setiawan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Hendra SETIAWAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657778738/assets/players/thumbnail/51074.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": 23,
+        "time": "00:23",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 11,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420772,
+        "code": "337",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "55351",
+              "nameDisplay": "Ajay JAYARAM",
+              "nameType": 0,
+              "firstName": "Ajay",
+              "lastName": "JAYARAM",
+              "initials": "AJ",
+              "nameShort": "A JAYARAM",
+              "nameShort2": "JAYARAM",
+              "slug": "ajay-jayaram",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Ajay JAYARAM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894729/assets/players/thumbnail/55351.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "95661",
+              "nameDisplay": "Anthony Sinisuka GINTING",
+              "nameType": 0,
+              "firstName": "Anthony Sinisuka",
+              "lastName": "GINTING",
+              "initials": "AG",
+              "nameShort": "A GINTING",
+              "nameShort2": "GINTING",
+              "slug": "anthony-sinisuka-ginting",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Anthony Sinisuka GINTING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689644313/assets/players/thumbnail/95661.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420775,
+        "code": "340",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "57839",
+              "nameDisplay": "Pranaav Jerry CHOPRA",
+              "nameType": 0,
+              "firstName": "Pranaav Jerry",
+              "lastName": "CHOPRA",
+              "initials": "PC",
+              "nameShort": "P CHOPRA",
+              "nameShort2": "CHOPRA",
+              "slug": "pranaav-jerry-chopra",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Pranaav Jerry CHOPRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896067/assets/players/thumbnail/57839.jpg"
+              }
+            },
+            {
+              "id": "55356",
+              "nameDisplay": "Akshay DEWALKAR",
+              "nameType": 0,
+              "firstName": "Akshay",
+              "lastName": "DEWALKAR",
+              "initials": "AD",
+              "nameShort": "A DEWALKAR",
+              "nameShort2": "DEWALKAR",
+              "slug": "akshay-dewalkar",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Akshay DEWALKAR",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894731/assets/players/thumbnail/55356.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "61855",
+              "nameDisplay": "Angga PRATAMA",
+              "nameType": 0,
+              "firstName": "Angga",
+              "lastName": "PRATAMA",
+              "initials": "AP",
+              "nameShort": "A PRATAMA",
+              "nameShort2": "PRATAMA",
+              "slug": "angga-pratama",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Angga PRATAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894980/assets/players/thumbnail/61855.jpg"
+              }
+            },
+            {
+              "id": "66493",
+              "nameDisplay": "Ricky KARANDASUWARDI",
+              "nameType": 0,
+              "firstName": "Ricky",
+              "lastName": "KARANDASUWARDI",
+              "initials": "RK",
+              "nameShort": "R KARANDASUWARDI",
+              "nameShort2": "KARANDASUWARDI",
+              "slug": "ricky-karandasuwardi",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Ricky KARANDASUWARDI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894983/assets/players/thumbnail/66493.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": 49,
+        "time": "00:49",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420773,
+        "code": "338",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 10,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "83950",
+              "nameDisplay": "PRANNOY H. S.",
+              "nameType": 1,
+              "firstName": "H. S.",
+              "lastName": "PRANNOY",
+              "initials": "PH",
+              "nameShort": "PRANNOY H S ",
+              "nameShort2": "PRANNOY",
+              "slug": "h-s-prannoy",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "H. S. PRANNOY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773756/assets/players/thumbnail/83950.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 480,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "73442",
+              "nameDisplay": "Jonatan CHRISTIE",
+              "nameType": 0,
+              "firstName": "Jonatan",
+              "lastName": "CHRISTIE",
+              "initials": "JC",
+              "nameShort": "J CHRISTIE",
+              "nameShort2": "CHRISTIE",
+              "slug": "jonatan-christie",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Jonatan CHRISTIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697434451/assets/players/thumbnail/73442.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Gachibowli Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 420884,
+    "code": "175",
+    "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+    "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 1,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-02-20 11:30:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Women's Team",
+    "roundName": null,
+    "drawName": "Women's Team - Women's Team Knock Out",
+    "drawCode": "13",
+    "courtName": "Court CT-2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Gachibowli Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 420885,
+        "code": "426",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "83064",
+              "nameDisplay": "WANG Shixian",
+              "nameType": 1,
+              "firstName": "Shixian",
+              "lastName": "WANG",
+              "initials": "WS",
+              "nameShort": "WANG S",
+              "nameShort2": "WANG",
+              "slug": "wang-shixian",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "WANG Shixian",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897478/assets/players/thumbnail/83064.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "76594",
+              "nameDisplay": "SUNG Jihyun",
+              "nameType": 1,
+              "firstName": "Jihyun",
+              "lastName": "SUNG",
+              "initials": "SJ",
+              "nameShort": "SUNG J",
+              "nameShort2": "SUNG",
+              "slug": "jihyun-sung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Jihyun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897520/assets/players/thumbnail/76594.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420886,
+        "code": "429",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "61851",
+              "nameDisplay": "LUO Ying",
+              "nameType": 1,
+              "firstName": "Ying",
+              "lastName": "LUO",
+              "initials": "LY",
+              "nameShort": "LUO Y",
+              "nameShort2": "LUO",
+              "slug": "luo-ying",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "LUO Ying",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894505/assets/players/thumbnail/61851.jpg"
+              }
+            },
+            {
+              "id": "52066",
+              "nameDisplay": "TIAN Qing",
+              "nameType": 1,
+              "firstName": "Qing",
+              "lastName": "TIAN",
+              "initials": "TQ",
+              "nameShort": "TIAN Q",
+              "nameShort2": "TIAN",
+              "slug": "tian-qing",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "TIAN Qing",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894371/assets/players/thumbnail/52066.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "16745",
+              "nameDisplay": "JUNG Kyung Eun",
+              "nameType": 1,
+              "firstName": "Kyung Eun",
+              "lastName": "JUNG",
+              "initials": "JK",
+              "nameShort": "JUNG K E ",
+              "nameShort2": "JUNG",
+              "slug": "kyung-eun-jung",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Kyung Eun JUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896951/assets/players/thumbnail/16745.jpg"
+              }
+            },
+            {
+              "id": "87473",
+              "nameDisplay": "SHIN Seung Chan",
+              "nameType": 1,
+              "firstName": "Seung Chan",
+              "lastName": "SHIN",
+              "initials": "SS",
+              "nameShort": "SHIN S C ",
+              "nameShort2": "SHIN",
+              "slug": "seung-chan-shin",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Seung Chan SHIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897473/assets/players/thumbnail/87473.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420887,
+        "code": "427",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "92736",
+              "nameDisplay": "SUN Yu",
+              "nameType": 1,
+              "firstName": "Yu",
+              "lastName": "SUN",
+              "initials": "SY",
+              "nameShort": "SUN Y",
+              "nameShort2": "SUN",
+              "slug": "sun-yu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "SUN Yu",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895710/assets/players/thumbnail/92736.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "22455",
+              "nameDisplay": "BAE Yeon Ju",
+              "nameType": 1,
+              "firstName": "Yeon Ju",
+              "lastName": "BAE",
+              "initials": "BY",
+              "nameShort": "BAE Y J ",
+              "nameShort2": "BAE",
+              "slug": "bae-yeon-ju",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "BAE Yeon Ju",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896965/assets/players/thumbnail/22455.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420888,
+        "code": "430",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "20296",
+              "nameDisplay": "LUO Yu",
+              "nameType": 1,
+              "firstName": "Yu",
+              "lastName": "LUO",
+              "initials": "LY",
+              "nameShort": "LUO Y",
+              "nameShort2": "LUO",
+              "slug": "luo-yu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "LUO Yu",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894322/assets/players/thumbnail/20296.jpg"
+              }
+            },
+            {
+              "id": "86088",
+              "nameDisplay": "TANG Yuanting",
+              "nameType": 1,
+              "firstName": "Yuanting",
+              "lastName": "TANG",
+              "initials": "TY",
+              "nameShort": "TANG Y",
+              "nameShort2": "TANG",
+              "slug": "tang-yuanting",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "TANG Yuanting",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894538/assets/players/thumbnail/86088.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54361",
+              "nameDisplay": "CHANG Ye Na",
+              "nameType": 1,
+              "firstName": "Ye Na",
+              "lastName": "CHANG",
+              "initials": "CY",
+              "nameShort": "CHANG Y N ",
+              "nameShort2": "CHANG",
+              "slug": "ye-na-chang",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ye Na CHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895136/assets/players/thumbnail/54361.jpg"
+              }
+            },
+            {
+              "id": "91292",
+              "nameDisplay": "LEE So Hee",
+              "nameType": 1,
+              "firstName": "So Hee",
+              "lastName": "LEE",
+              "initials": "LS",
+              "nameShort": "LEE S H ",
+              "nameShort2": "LEE",
+              "slug": "so-hee-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "So Hee LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895692/assets/players/thumbnail/91292.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 420889,
+        "code": "428",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "87434",
+              "nameDisplay": "HE Bing Jiao",
+              "nameType": 1,
+              "firstName": "Bing Jiao",
+              "lastName": "HE",
+              "initials": "BH",
+              "nameShort": "B HE",
+              "nameShort2": "HE",
+              "slug": "bing-jiao-he",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Bing Jiao HE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689648446/assets/players/thumbnail/87434.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "91598",
+              "nameDisplay": "KIM Hyo Min",
+              "nameType": 1,
+              "firstName": "Hyo Min",
+              "lastName": "KIM",
+              "initials": "KH",
+              "nameShort": "KIM H M ",
+              "nameShort2": "KIM",
+              "slug": "hyo-min-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hyo Min KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897349/assets/players/thumbnail/91598.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 11:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Women's Team",
+        "roundName": null,
+        "drawName": "Women's Team - Women's Team Knock Out",
+        "drawCode": "13",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 420878,
+    "code": "124",
+    "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+    "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 3,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-02-20 16:30:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Men's Team",
+    "roundName": null,
+    "drawName": "Men's Team - Men's Team Knock Out",
+    "drawCode": "8",
+    "courtName": "Court CT-2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Gachibowli Stadium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 0,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 420879,
+        "code": "331",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "54346",
+              "nameDisplay": "SON Wan Ho",
+              "nameType": 1,
+              "firstName": "Wan Ho",
+              "lastName": "SON",
+              "initials": "SW",
+              "nameShort": "SON W H ",
+              "nameShort2": "SON",
+              "slug": "wan-ho-son",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Wan Ho SON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897221/assets/players/thumbnail/54346.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "89785",
+              "nameDisplay": "Kento MOMOTA",
+              "nameType": 0,
+              "firstName": "Kento",
+              "lastName": "MOMOTA",
+              "initials": "KM",
+              "nameShort": "K MOMOTA",
+              "nameShort2": "MOMOTA",
+              "slug": "kento-momota",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kento MOMOTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658823118/assets/players/thumbnail/89785.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420882,
+        "code": "334",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "39276",
+              "nameDisplay": "KIM Gi Jung",
+              "nameType": 1,
+              "firstName": "Gi Jung",
+              "lastName": "KIM",
+              "initials": "KG",
+              "nameShort": "KIM G J ",
+              "nameShort2": "KIM",
+              "slug": "gi-jung-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Gi Jung KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1590501423/assets/players/thumbnail/39276.jpg"
+              }
+            },
+            {
+              "id": "84007",
+              "nameDisplay": "KIM Sa Rang",
+              "nameType": 1,
+              "firstName": "Sa Rang",
+              "lastName": "KIM",
+              "initials": "KS",
+              "nameShort": "KIM S R ",
+              "nameShort2": "KIM",
+              "slug": "sa-rang-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sa Rang KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897480/assets/players/thumbnail/84007.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "54026",
+              "nameDisplay": "Hiroyuki ENDO",
+              "nameType": 0,
+              "firstName": "Hiroyuki",
+              "lastName": "ENDO",
+              "initials": "HE",
+              "nameShort": "H ENDO",
+              "nameShort2": "ENDO",
+              "slug": "hiroyuki-endo",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Hiroyuki ENDO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896210/assets/players/thumbnail/54026.jpg"
+              }
+            },
+            {
+              "id": "54527",
+              "nameDisplay": "Kenichi HAYAKAWA",
+              "nameType": 0,
+              "firstName": "Kenichi",
+              "lastName": "HAYAKAWA",
+              "initials": "KH",
+              "nameShort": "K HAYAKAWA",
+              "nameShort2": "HAYAKAWA",
+              "slug": "kenichi-hayakawa",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenichi HAYAKAWA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897234/assets/players/thumbnail/54527.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": 49,
+        "time": "00:49",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420880,
+        "code": "332",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "64933",
+              "nameDisplay": "LEE Dong Keun",
+              "nameType": 1,
+              "firstName": "Dong Keun",
+              "lastName": "LEE",
+              "initials": "LD",
+              "nameShort": "LEE D K ",
+              "nameShort2": "LEE",
+              "slug": "dong-keun-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Dong Keun LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896366/assets/players/thumbnail/64933.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "50905",
+              "nameDisplay": "Sho SASAKI",
+              "nameType": 0,
+              "firstName": "Sho",
+              "lastName": "SASAKI",
+              "initials": "SS",
+              "nameShort": "S SASAKI",
+              "nameShort2": "SASAKI",
+              "slug": "sho-sasaki",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Sho SASAKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897065/assets/players/thumbnail/50905.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": 64,
+        "time": "01:04",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 420883,
+        "code": "335",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "88094",
+              "nameDisplay": "KO Sung Hyun",
+              "nameType": 1,
+              "firstName": "Sung Hyun",
+              "lastName": "KO",
+              "initials": "KS",
+              "nameShort": "KO S H ",
+              "nameShort2": "KO",
+              "slug": "sung-hyun-ko",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Sung Hyun KO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637048793/assets/players/thumbnail/88094.jpg"
+              }
+            },
+            {
+              "id": "54785",
+              "nameDisplay": "SHIN Baek Cheol",
+              "nameType": 1,
+              "firstName": "Baek Cheol",
+              "lastName": "SHIN",
+              "initials": "SB",
+              "nameShort": "SHIN B C ",
+              "nameShort2": "SHIN",
+              "slug": "baek-cheol-shin",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Baek Cheol SHIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637048682/assets/players/thumbnail/54785.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "70969",
+              "nameDisplay": "Takeshi KAMURA",
+              "nameType": 0,
+              "firstName": "Takeshi",
+              "lastName": "KAMURA",
+              "initials": "TK",
+              "nameShort": "T KAMURA",
+              "nameShort2": "KAMURA",
+              "slug": "takeshi-kamura",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Takeshi KAMURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895488/assets/players/thumbnail/70969.jpg"
+              }
+            },
+            {
+              "id": "90623",
+              "nameDisplay": "Keigo SONODA",
+              "nameType": 0,
+              "firstName": "Keigo",
+              "lastName": "SONODA",
+              "initials": "KS",
+              "nameShort": "K SONODA",
+              "nameShort2": "SONODA",
+              "slug": "keigo-sonoda",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Keigo SONODA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895678/assets/players/thumbnail/90623.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 420881,
+        "code": "333",
+        "tournamentCode": "B1A7006D-7CB5-4080-9058-430AACDD0962",
+        "tournamentName": "Happening Hyderabad Badminton Asia Team Championships 2016",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "65580",
+              "nameDisplay": "JEON Hyeok Jin",
+              "nameType": 1,
+              "firstName": "Hyeok Jin",
+              "lastName": "JEON",
+              "initials": "JH",
+              "nameShort": "JEON H J ",
+              "nameShort2": "JEON",
+              "slug": "hyeok-jin-jeon",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hyeok Jin JEON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658201249/assets/players/thumbnail/65580.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 3,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "85394",
+              "nameDisplay": "Kenta NISHIMOTO",
+              "nameType": 0,
+              "firstName": "Kenta",
+              "lastName": "NISHIMOTO",
+              "initials": "KN",
+              "nameShort": "K NISHIMOTO",
+              "nameShort2": "NISHIMOTO",
+              "slug": "kenta-nishimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenta NISHIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897462/assets/players/thumbnail/85394.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-02-20 16:30:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Men's Team",
+        "roundName": null,
+        "drawName": "Men's Team - Men's Team Knock Out",
+        "drawCode": "8",
+        "courtName": "Court CT-2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Gachibowli Stadium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

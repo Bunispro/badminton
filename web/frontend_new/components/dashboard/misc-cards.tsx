@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 import { Flag } from '@/components/ui/flag';
 import { NumberTicker } from '@/components/magicui/number-ticker';
 import { Trophy, Timer } from 'lucide-react';
@@ -97,12 +97,18 @@ interface UpsetMatch {
 }
 
 export function UpsetAlertCard() {
+  const [activeEvent, setActiveEvent] = useState('MS');
   const [match, setMatch] = useState<UpsetMatch | null>(null);
   const [loading, setLoading] = useState(true);
+  const events = ['MS', 'WS', 'MD', 'WD', 'XD'];
+
+  const winnerFontSize = match && match.winner.length > 28 ? 'text-lg md:text-xl' : match && match.winner.length > 18 ? 'text-2xl' : 'text-3xl';
+  const loserFontSize = match && match.loser.length > 28 ? 'text-[11px] md:text-xs' : match && match.loser.length > 18 ? 'text-sm' : 'text-base';
 
   useEffect(() => {
     let active = true;
-    fetch(`${API_BASE_URL}/api/dashboard/upsets`)
+    setLoading(true);
+    fetch(`${API_BASE_URL}/api/dashboard/upsets?event=${activeEvent}`)
       .then(res => res.json())
       .then(data => {
         if (!active) return;
@@ -112,93 +118,119 @@ export function UpsetAlertCard() {
       .catch(err => {
         if (!active) return;
         console.error(err);
+        setMatch(null);
         setLoading(false);
       });
     return () => { active = false; };
-  }, []);
-
-  if (loading) return (
-    <div className="h-full flex items-center justify-center">
-      <div className="w-5 h-5 border-2 border-amber-500/20 border-t-amber-500 rounded-full animate-spin" />
-    </div>
-  );
-
-  if (!match) return null;
-
-  const percentage = (match.winProbability * 100).toFixed(1);
-  const formattedDate = match.date ? new Date(match.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : 'N/A';
+  }, [activeEvent]);
 
   return (
     <div className="h-full flex flex-col justify-between py-1 relative group overflow-hidden">
-      <div className="absolute -inset-2 bg-amber-500/5 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
+      <div className="absolute -inset-2 bg-amber-500/5 blur-2xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-700 pointer-events-none" />
       
       <div className="flex flex-col gap-0.5 relative z-10">
         <div className="flex items-center justify-between">
           <span className="text-[10px] font-black uppercase tracking-[0.2em] text-zinc-500">
-            Against All Odds
+            Giant Slayer
           </span>
-          <span className="inline-flex items-center gap-1 rounded-full bg-amber-500/10 px-2 py-0.5 text-[9px] font-black text-amber-500 border border-amber-500/20 uppercase tracking-tighter">
-            <Trophy className="h-2.5 w-2.5" /> 3m Peak
-          </span>
-        </div>
-        
-        <div className="mt-1.5 flex items-baseline justify-between">
-          <div className="flex items-baseline gap-2">
-            <span className="text-4xl font-black tracking-tighter text-[#F97316] drop-shadow-[0_0_15px_rgba(249,115,22,0.3)]">
-              {percentage}%
-            </span>
-            <span className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest flex items-center gap-1">
-              win prob
-            </span>
-          </div>
-          <div className="flex items-baseline gap-1 bg-emerald-500/10 px-2 py-0.5 rounded border border-emerald-500/20">
-            <span className="text-xs font-black text-emerald-400 font-mono">+{match.ratingGain}</span>
-            <span className="text-[7px] text-emerald-600 font-black uppercase tracking-tighter">Elo Gain</span>
+          <div className="flex items-center bg-zinc-900/80 rounded-md p-0.5 border border-zinc-800/50 shrink-0">
+             {events.map(ev => (
+               <button 
+                 key={ev} 
+                 onClick={() => setActiveEvent(ev)} 
+                 className={`px-1.5 py-0.5 text-[8.5px] font-black rounded transition-all ${activeEvent === ev ? 'bg-amber-500/20 text-amber-400 font-bold' : 'text-zinc-600 hover:text-zinc-400'}`}
+               >
+                 {ev}
+               </button>
+             ))}
           </div>
         </div>
       </div>
 
-      <div className="my-auto flex flex-col justify-center py-1 relative z-10">
-        <div className="flex flex-col gap-0.5">
-          <div className="flex items-center gap-3">
-            <Link 
-              href={`/player/${match.winner_id}`}
-              className="font-black text-3xl tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-white via-zinc-300 to-zinc-500 uppercase italic drop-shadow-[0_4px_8px_rgba(0,0,0,0.8)] hover:from-amber-200 hover:to-amber-500 transition-all duration-300"
+      <div className="flex-grow flex flex-col justify-center relative z-10 min-h-0 mt-2">
+        <AnimatePresence mode="wait">
+          {loading ? (
+            <motion.div 
+              key="loading"
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+              className="absolute inset-0 flex items-center justify-center bg-zinc-950/40 backdrop-blur-[1px] z-20 rounded-xl"
             >
-              {match.winner}
-            </Link>
-            <span className="rounded bg-zinc-800 px-1.5 py-0.5 text-[9px] font-black text-zinc-400 border border-zinc-700 uppercase">
-              {match.discipline}
-            </span>
-          </div>
-          
-          <div className="flex items-center gap-2">
-             <div className="h-[1px] w-4 bg-zinc-800" />
-             <span className="text-[10px] text-zinc-600 font-black uppercase tracking-widest italic">
-               defeats
-             </span>
-             <div className="h-[1px] flex-grow bg-zinc-800" />
-          </div>
-          
-          <Link 
-            href={`/player/${match.loser_id}`}
-            className="font-bold text-base text-zinc-500 uppercase tracking-tight opacity-60 hover:opacity-100 hover:text-zinc-300 transition-all"
-          >
-            {match.loser}
-          </Link>
-        </div>
-      </div>
+              <div className="w-5 h-5 border-2 border-amber-500/20 border-t-amber-500 rounded-full animate-spin" />
+            </motion.div>
+          ) : match ? (
+            <motion.div 
+              key={activeEvent}
+              initial={{ opacity: 0, x: 10 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -10 }}
+              className="h-full flex flex-col justify-between"
+            >
+              <div className="mt-0.5 flex items-baseline justify-between">
+                <div className="flex items-baseline gap-2">
+                  <span className="text-4xl font-black tracking-tighter text-[#F97316] drop-shadow-[0_0_15px_rgba(249,115,22,0.3)]">
+                    {(match.winProbability * 100).toFixed(1)}%
+                  </span>
+                  <span className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest flex items-center gap-1">
+                    win prob
+                  </span>
+                </div>
+                <div className="flex items-baseline gap-1 bg-emerald-500/10 px-2 py-0.5 rounded border border-emerald-500/20">
+                  <span className="text-xs font-black text-emerald-400 font-mono">+{match.ratingGain}</span>
+                  <span className="text-[7px] text-emerald-600 font-black uppercase tracking-tighter">Elo Gain</span>
+                </div>
+              </div>
 
-      <div className="flex items-center justify-between border-t border-zinc-800/50 pt-3 relative z-10">
-        <div className="flex items-center gap-2">
-          <Timer className="h-3.5 w-3.5 text-zinc-600" />
-          <span className="font-mono text-lg font-black text-zinc-100 tracking-tighter">
-            {match.score}
-          </span>
-        </div>
-        <span className="text-[11px] text-zinc-600 font-black uppercase tracking-widest">
-          {formattedDate}
-        </span>
+              <div className="my-auto flex flex-col justify-center py-0.5">
+                <div className="flex flex-col gap-0.5">
+                  <div className="flex items-center gap-2 flex-wrap">
+                    <Link 
+                      href={`/player/${match.winner_id}`}
+                      className={`font-black tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-white via-zinc-300 to-zinc-500 uppercase italic drop-shadow-[0_4px_8px_rgba(0,0,0,0.8)] hover:from-amber-200 hover:to-amber-500 transition-all duration-300 ${winnerFontSize}`}
+                    >
+                      {match.winner}
+                    </Link>
+                    <span className="rounded bg-zinc-800 px-1.5 py-0.5 text-[9px] font-black text-zinc-400 border border-zinc-700 uppercase shrink-0">
+                      {match.discipline}
+                    </span>
+                  </div>
+                  
+                  <div className="flex items-center gap-1.5 my-0.5">
+                     <div className="h-[1px] w-4 bg-zinc-800" />
+                     <span className="text-[9px] text-zinc-600 font-black uppercase tracking-widest italic">
+                       defeats
+                     </span>
+                     <div className="h-[1px] flex-grow bg-zinc-800" />
+                  </div>
+                  
+                  <Link 
+                    href={`/player/${match.loser_id}`}
+                    className={`font-bold uppercase tracking-tight opacity-60 hover:opacity-100 hover:text-zinc-300 transition-all ${loserFontSize}`}
+                  >
+                    {match.loser}
+                  </Link>
+                </div>
+              </div>
+
+              <div className="flex items-center justify-between border-t border-zinc-800/50 pt-2">
+                <div className="flex items-center gap-2">
+                  <Timer className="h-3.5 w-3.5 text-zinc-600" />
+                  <span className="font-mono text-lg font-black text-zinc-100 tracking-tighter">
+                    {match.score}
+                  </span>
+                </div>
+                <span className="text-[11px] text-zinc-600 font-black uppercase tracking-widest">
+                  {match.date ? new Date(match.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : 'N/A'}
+                </span>
+              </div>
+            </motion.div>
+          ) : (
+            <motion.div 
+              key="empty"
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+              className="h-full flex flex-col items-center justify-center text-zinc-700 text-[10px] italic py-8 text-center"
+            >
+              No upsets recorded for {activeEvent}
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </div>
   );

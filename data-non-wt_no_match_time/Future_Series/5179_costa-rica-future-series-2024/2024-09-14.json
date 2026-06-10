@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1386632,
+    "code": "120",
+    "tournamentCode": "6BCAD2CF-68E0-498C-AF94-310440E0A382",
+    "tournamentName": "Costa Rica Future Series 2024",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "78135",
+          "nameDisplay": "Romane CLOTEAUX-FOUCAULT",
+          "nameType": 0,
+          "firstName": "Romane",
+          "lastName": "CLOTEAUX-FOUCAULT",
+          "initials": "RC",
+          "nameShort": "R CLOTEAUX-FOUCAULT",
+          "nameShort2": "CLOTEAUX-FOUCAULT",
+          "slug": "romane-cloteaux-foucault",
+          "countryCode": "FRA",
+          "countryName": "France",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "avatar": {
+            "title": "Romane CLOTEAUX-FOUCAULT",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "99271",
+          "nameDisplay": "Chloe HOANG",
+          "nameType": 0,
+          "firstName": "Chloe",
+          "lastName": "HOANG",
+          "initials": "CH",
+          "nameShort": "C HOANG",
+          "nameShort2": "HOANG",
+          "slug": "chloe-hoang",
+          "countryCode": "CAN",
+          "countryName": "Canada",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Chloe HOANG",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": "1",
+    "team2seed": null,
+    "matchTime": "2024-09-14 09:00:00",
+    "matchTimeUtc": "2024-09-14 01:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": "1",
+    "oopText": "Starting at 9:00 AM",
+    "oopTypeId": 1,
+    "eventName": "WS",
+    "roundName": "Final",
+    "drawName": "WS",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "BN Arena",
+    "duration": 39,
+    "time": "00:39",
+    "matchOrder": null,
+    "matchTypeId": 2,
+    "matchTypeValue": "Women's Singles",
+    "matchTypeNo": null,
+    "reliability": 0,
+    "score": [
+      {
+        "set": 1,
+        "home": 14,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 12,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 3,
+        "home": 6,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1386709,
+    "code": "277",
+    "tournamentCode": "6BCAD2CF-68E0-498C-AF94-310440E0A382",
+    "tournamentName": "Costa Rica Future Series 2024",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "77842",
+          "nameDisplay": "Timothy LOCK",
+          "nameType": 0,
+          "firstName": "Timothy",
+          "lastName": "LOCK",
+          "initials": "TL",
+          "nameShort": "T LOCK",
+          "nameShort2": "LOCK",
+          "slug": "timothy-lock",
+          "countryCode": "CAN",
+          "countryName": "Canada",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Timothy LOCK",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "99271",
+          "nameDisplay": "Chloe HOANG",
+          "nameType": 0,
+          "firstName": "Chloe",
+          "lastName": "HOANG",
+          "initials": "CH",
+          "nameShort": "C HOANG",
+          "nameShort2": "HOANG",
+          "slug": "chloe-hoang",
+          "countryCode": "CAN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Chloe HOANG",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ESA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "91004",
+          "nameDisplay": "Javier Armando ALAS",
+          "nameType": 0,
+          "firstName": "Javier Armando",
+          "lastName": "ALAS",
+          "initials": "JA",
+          "nameShort": "J ALAS",
+          "nameShort2": "ALAS",
+          "slug": "javier-armando-alas",
+          "countryCode": "ESA",
+          "countryName": "El Salvador",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "avatar": {
+            "title": "Javier Armando ALAS",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "61443",
+          "nameDisplay": "Fatima Beatriz CENTENO FUENTES",
+          "nameType": 0,
+          "firstName": "Fatima Beatriz",
+          "lastName": "CENTENO FUENTES",
+          "initials": "FC",
+          "nameShort": "F CENTENO FUENTES",
+          "nameShort2": "CENTENO FUENTES",
+          "slug": "fatima-beatriz-centeno-fuentes",
+          "countryCode": "ESA",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "avatar": {
+            "title": "Fatima Beatriz CENTENO FUENTES",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": "1",
+    "team2seed": null,
+    "matchTime": "2024-09-14 09:50:00",
+    "matchTimeUtc": "2024-09-14 01:50:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": "2",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "XD",
+    "roundName": "Final",
+    "drawName": "XD",
+    "drawCode": "6",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "BN Arena",
+    "duration": 23,
+    "time": "00:23",
+    "matchOrder": null,
+    "matchTypeId": 5,
+    "matchTypeValue": "Mixed Doubles",
+    "matchTypeNo": null,
+    "reliability": 1,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 12,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1386726,
+    "code": "183",
+    "tournamentCode": "6BCAD2CF-68E0-498C-AF94-310440E0A382",
+    "tournamentName": "Costa Rica Future Series 2024",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "CAN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "57182",
+          "nameDisplay": "Kiren Milan DERAJ",
+          "nameType": 0,
+          "firstName": "Kiren Milan",
+          "lastName": "DERAJ",
+          "initials": "KD",
+          "nameShort": "K DERAJ",
+          "nameShort2": "DERAJ",
+          "slug": "kiren-milan-deraj",
+          "countryCode": "CAN",
+          "countryName": "Canada",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Kiren Milan DERAJ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "84648",
+          "nameDisplay": "Eason WONG",
+          "nameType": 0,
+          "firstName": "Eason",
+          "lastName": "WONG",
+          "initials": "EW",
+          "nameShort": "E WONG",
+          "nameShort2": "WONG",
+          "slug": "eason-wong",
+          "countryCode": "CAN",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CAN.png",
+          "avatar": {
+            "title": "Eason WONG",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "POR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "85224",
+          "nameDisplay": "Bruno CARVALHO",
+          "nameType": 0,
+          "firstName": "Bruno",
+          "lastName": "CARVALHO",
+          "initials": "BC",
+          "nameShort": "B CARVALHO",
+          "nameShort2": "CARVALHO",
+          "slug": "bruno-carvalho",
+          "countryCode": "POR",
+          "countryName": "Portugal",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "avatar": {
+            "title": "Bruno CARVALHO",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        },
+        {
+          "id": "69996",
+          "nameDisplay": "Diogo GLORIA",
+          "nameType": 0,
+          "firstName": "Diogo",
+          "lastName": "GLORIA",
+          "initials": "DG",
+          "nameShort": "D GLORIA",
+          "nameShort2": "GLORIA",
+          "slug": "diogo-gloria",
+          "countryCode": "POR",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/POR.png",
+          "avatar": {
+            "title": "Diogo GLORIA",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-09-14 10:40:00",
+    "matchTimeUtc": "2024-09-14 02:40:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": "3",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "MD",
+    "roundName": "Final",
+    "drawName": "MD",
+    "drawCode": "4",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "BN Arena",
+    "duration": 32,
+    "time": "00:32",
+    "matchOrder": null,
+    "matchTypeId": 3,
+    "matchTypeValue": "Men's Doubles",
+    "matchTypeNo": null,
+    "reliability": 1,
+    "score": [
+      {
+        "set": 1,
+        "home": 16,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 15,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1386757,
+    "code": "57",
+    "tournamentCode": "6BCAD2CF-68E0-498C-AF94-310440E0A382",
+    "tournamentName": "Costa Rica Future Series 2024",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "55942",
+          "nameDisplay": "Adriano VIALE",
+          "nameType": 0,
+          "firstName": "Adriano",
+          "lastName": "VIALE",
+          "initials": "AV",
+          "nameShort": "A VIALE",
+          "nameShort2": "VIALE",
+          "slug": "adriano-viale",
+          "countryCode": "PER",
+          "countryName": "Peru",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "avatar": {
+            "title": "Adriano VIALE",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "MIN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MIN.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "99685",
+          "nameDisplay": "Driss BOURROUM",
+          "nameType": 0,
+          "firstName": "Driss",
+          "lastName": "BOURROUM",
+          "initials": "DB",
+          "nameShort": "D BOURROUM",
+          "nameShort2": "BOURROUM",
+          "slug": "driss-bourroum",
+          "countryCode": "MIN",
+          "countryName": "MOROCCO Independent",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MIN.png",
+          "avatar": {
+            "title": "Driss BOURROUM",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": "1",
+    "team2seed": null,
+    "matchTime": "2024-09-14 11:30:00",
+    "matchTimeUtc": "2024-09-14 03:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": "4",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "MS",
+    "roundName": "Final",
+    "drawName": "MS",
+    "drawCode": "2",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "BN Arena",
+    "duration": 34,
+    "time": "00:34",
+    "matchOrder": null,
+    "matchTypeId": 1,
+    "matchTypeValue": "Men's Singles",
+    "matchTypeNo": null,
+    "reliability": 1,
+    "score": [
+      {
+        "set": 1,
+        "home": 21,
+        "away": 17,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 21,
+        "away": 13,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  },
+  {
+    "id": 1386636,
+    "code": "246",
+    "tournamentCode": "6BCAD2CF-68E0-498C-AF94-310440E0A382",
+    "tournamentName": "Costa Rica Future Series 2024",
+    "isTeamMatch": false,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "ESA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "61443",
+          "nameDisplay": "Fatima Beatriz CENTENO FUENTES",
+          "nameType": 0,
+          "firstName": "Fatima Beatriz",
+          "lastName": "CENTENO FUENTES",
+          "initials": "FC",
+          "nameShort": "F CENTENO FUENTES",
+          "nameShort2": "CENTENO FUENTES",
+          "slug": "fatima-beatriz-centeno-fuentes",
+          "countryCode": "ESA",
+          "countryName": "El Salvador",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "avatar": {
+            "title": "Fatima Beatriz CENTENO FUENTES",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "83786",
+          "nameDisplay": "Daniela HERNANDEZ",
+          "nameType": 0,
+          "firstName": "Daniela",
+          "lastName": "HERNANDEZ",
+          "initials": "DH",
+          "nameShort": "D HERNANDEZ",
+          "nameShort2": "HERNANDEZ",
+          "slug": "daniela-hernandez",
+          "countryCode": "ESA",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ESA.png",
+          "avatar": {
+            "title": "Daniela HERNANDEZ",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "PER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+      "teamId": null,
+      "teamName": null,
+      "players": [
+        {
+          "id": "77280",
+          "nameDisplay": "Fernanda MUNAR",
+          "nameType": 0,
+          "firstName": "Fernanda",
+          "lastName": "MUNAR",
+          "initials": "FM",
+          "nameShort": "F MUNAR",
+          "nameShort2": "MUNAR",
+          "slug": "fernanda-munar",
+          "countryCode": "PER",
+          "countryName": "Peru",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "avatar": {
+            "title": "Fernanda MUNAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        },
+        {
+          "id": "69671",
+          "nameDisplay": "Rafaela MUNAR",
+          "nameType": 0,
+          "firstName": "Rafaela",
+          "lastName": "MUNAR",
+          "initials": "RM",
+          "nameShort": "R MUNAR",
+          "nameShort2": "MUNAR",
+          "slug": "rafaela-munar",
+          "countryCode": "PER",
+          "countryName": null,
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/PER.png",
+          "avatar": {
+            "title": "Rafaela MUNAR",
+            "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+          }
+        }
+      ],
+      "linkName": null
+    },
+    "team1seed": "1",
+    "team2seed": "2",
+    "matchTime": "2024-09-14 12:20:00",
+    "matchTimeUtc": "2024-09-14 04:20:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": "5",
+    "oopText": "Followed by",
+    "oopTypeId": 0,
+    "eventName": "WD",
+    "roundName": "Final",
+    "drawName": "WD",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "BN Arena",
+    "duration": 28,
+    "time": "00:28",
+    "matchOrder": null,
+    "matchTypeId": 4,
+    "matchTypeValue": "Women's Doubles",
+    "matchTypeNo": null,
+    "reliability": 1,
+    "score": [
+      {
+        "set": 1,
+        "home": 10,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      },
+      {
+        "set": 2,
+        "home": 11,
+        "away": 21,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": []
+  }
+]

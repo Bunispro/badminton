@@ -11,6 +11,9 @@ def calculate_metrics(predictions, actuals):
     if len(predictions) == 0:
         return None, None, None, None
 
+    # Clip predictions to prevent log(0) and log(1) errors
+    predictions = np.clip(predictions, 1e-15, 1.0 - 1e-15)
+
     # Log Loss
     log_loss = -np.mean(actuals * np.log(predictions) + (1 - actuals) * np.log(1 - predictions))
 
@@ -123,11 +126,20 @@ def analyze_run(run_id):
     favorite_gap = (favorite_wins / total_favorites) if total_favorites > 0 else 0.0
 
     # Uncertainty metrics
-    mean_uncertainty = np.mean(all_uncertainties)
-    median_uncertainty = np.median(all_uncertainties)
-    std_uncertainty = np.std(all_uncertainties)
-    pct_u_max = np.sum(all_uncertainties >= 0.9) / len(all_uncertainties) # % of matches with high uncertainty
-    pct_u_min = np.sum(all_uncertainties <= 0.1) / len(all_uncertainties) # % of matches with low uncertainty
+    clean_uncertainties = [u for u in all_uncertainties if u is not None]
+    if clean_uncertainties:
+        clean_uncertainties = np.array(clean_uncertainties)
+        mean_uncertainty = np.mean(clean_uncertainties)
+        median_uncertainty = np.median(clean_uncertainties)
+        std_uncertainty = np.std(clean_uncertainties)
+        pct_u_max = np.sum(clean_uncertainties >= 0.9) / len(clean_uncertainties)
+        pct_u_min = np.sum(clean_uncertainties <= 0.1) / len(clean_uncertainties)
+    else:
+        mean_uncertainty = 0.0
+        median_uncertainty = 0.0
+        std_uncertainty = 0.0
+        pct_u_max = 0.0
+        pct_u_min = 0.0
 
     print(f"  Mean Prediction: {mean_prediction:.4f}")
     print(f"  Prediction Bias: {prediction_bias:.4f}")

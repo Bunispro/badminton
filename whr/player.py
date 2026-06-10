@@ -18,6 +18,8 @@ class Player:
         self.name = name
         self.debug = config["debug"]
         self.w2 = (math.sqrt(config["w2"]) * math.log(10) / 400) ** 2
+        self.whr_l2_reg = config.get("whr_l2_reg", 1e-4)
+        self.whr_teammate_l2_reg = config.get("whr_teammate_l2_reg", 0.0)
         self.days: list[PD.PlayerDay] = []
 
     def log_likelihood(self) -> float:

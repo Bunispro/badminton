@@ -1,0 +1,643 @@
+[
+  {
+    "id": 543486,
+    "code": "65",
+    "tournamentCode": "B457D0F2-A282-4DA2-A249-7BECF294147B",
+    "tournamentName": "2018 European Club Championships",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "RUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+      "teamId": 144,
+      "teamName": "Primorye Vladivostok",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "FRA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+      "teamId": 138,
+      "teamName": "BC Chambly Oise",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2018-06-23 11:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "2018 ECC",
+    "roundName": "Final",
+    "drawName": "2018 ECC",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Main Location",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 543487,
+        "code": "155",
+        "tournamentCode": "B457D0F2-A282-4DA2-A249-7BECF294147B",
+        "tournamentName": "2018 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "72565",
+              "nameDisplay": "Alina DAVLETOVA",
+              "nameType": 0,
+              "firstName": "Alina",
+              "lastName": "DAVLETOVA",
+              "initials": "AD",
+              "nameShort": "A DAVLETOVA",
+              "nameShort2": "DAVLETOVA",
+              "slug": "alina-davletova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Alina DAVLETOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895496/assets/players/thumbnail/72565.jpg"
+              }
+            },
+            {
+              "id": "53924",
+              "nameDisplay": "Vladimir IVANOV",
+              "nameType": 0,
+              "firstName": "Vladimir",
+              "lastName": "IVANOV",
+              "initials": "VI",
+              "nameShort": "V IVANOV",
+              "nameShort2": "IVANOV",
+              "slug": "vladimir-ivanov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Vladimir IVANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897196/assets/players/thumbnail/53924.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "94489",
+              "nameDisplay": "Lorraine BAUMANN",
+              "nameType": 0,
+              "firstName": "Lorraine",
+              "lastName": "BAUMANN",
+              "initials": "LB",
+              "nameShort": "L BAUMANN",
+              "nameShort2": "BAUMANN",
+              "slug": "lorraine-baumann",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Lorraine BAUMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895731/assets/players/thumbnail/94489.jpg"
+              }
+            },
+            {
+              "id": "66438",
+              "nameDisplay": "Quentin VINCENT",
+              "nameType": 0,
+              "firstName": "Quentin",
+              "lastName": "VINCENT",
+              "initials": "QV",
+              "nameShort": "Q VINCENT",
+              "nameShort2": "VINCENT",
+              "slug": "quentin-vincent",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Quentin VINCENT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-06-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2018 ECC",
+        "roundName": "Final",
+        "drawName": "2018 ECC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 25,
+        "time": "00:25",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 543488,
+        "code": "151",
+        "tournamentCode": "B457D0F2-A282-4DA2-A249-7BECF294147B",
+        "tournamentName": "2018 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": null,
+          "countryFlagUrl": null,
+          "teamId": null,
+          "teamName": null,
+          "players": [],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "54484",
+              "nameDisplay": "Eetu HEINO",
+              "nameType": 0,
+              "firstName": "Eetu",
+              "lastName": "HEINO",
+              "initials": "EH",
+              "nameShort": "E HEINO",
+              "nameShort2": "HEINO",
+              "slug": "eetu-heino",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Eetu HEINO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897229/assets/players/thumbnail/54484.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-06-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2018 ECC",
+        "roundName": "Final",
+        "drawName": "2018 ECC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 32,
+        "time": "00:32",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 543489,
+        "code": "152",
+        "tournamentCode": "B457D0F2-A282-4DA2-A249-7BECF294147B",
+        "tournamentName": "2018 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": null,
+          "countryFlagUrl": null,
+          "teamId": null,
+          "teamName": null,
+          "players": [],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "93419",
+              "nameDisplay": "Soraya DE VISCH EIJBERGEN",
+              "nameType": 0,
+              "firstName": "Soraya",
+              "lastName": "DE VISCH EIJBERGEN",
+              "initials": "SD",
+              "nameShort": "S DE VISCH EIJBERGEN",
+              "nameShort2": "DE VISCH EIJBERGEN",
+              "slug": "soraya-de-visch-eijbergen",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Soraya DE VISCH EIJBERGEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897344/assets/players/thumbnail/93419.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-06-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2018 ECC",
+        "roundName": "Final",
+        "drawName": "2018 ECC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 543490,
+        "code": "153",
+        "tournamentCode": "B457D0F2-A282-4DA2-A249-7BECF294147B",
+        "tournamentName": "2018 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "53924",
+              "nameDisplay": "Vladimir IVANOV",
+              "nameType": 0,
+              "firstName": "Vladimir",
+              "lastName": "IVANOV",
+              "initials": "VI",
+              "nameShort": "V IVANOV",
+              "nameShort2": "IVANOV",
+              "slug": "vladimir-ivanov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Vladimir IVANOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897196/assets/players/thumbnail/53924.jpg"
+              }
+            },
+            {
+              "id": "67068",
+              "nameDisplay": "Ivan SOZONOV",
+              "nameType": 0,
+              "firstName": "Ivan",
+              "lastName": "SOZONOV",
+              "initials": "IS",
+              "nameShort": "I SOZONOV",
+              "nameShort2": "SOZONOV",
+              "slug": "ivan-sozonov",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ivan SOZONOV",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897570/assets/players/thumbnail/67068.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "4253",
+              "nameDisplay": "Robert MATEUSIAK",
+              "nameType": 0,
+              "firstName": "Robert",
+              "lastName": "MATEUSIAK",
+              "initials": "RM",
+              "nameShort": "R MATEUSIAK",
+              "nameShort2": "MATEUSIAK",
+              "slug": "robert-mateusiak",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Robert MATEUSIAK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896796/assets/players/thumbnail/4253.jpg"
+              }
+            },
+            {
+              "id": "66438",
+              "nameDisplay": "Quentin VINCENT",
+              "nameType": 0,
+              "firstName": "Quentin",
+              "lastName": "VINCENT",
+              "initials": "QV",
+              "nameShort": "Q VINCENT",
+              "nameShort2": "VINCENT",
+              "slug": "quentin-vincent",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Quentin VINCENT",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-06-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2018 ECC",
+        "roundName": "Final",
+        "drawName": "2018 ECC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": 21,
+        "time": "00:21",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 543491,
+        "code": "154",
+        "tournamentCode": "B457D0F2-A282-4DA2-A249-7BECF294147B",
+        "tournamentName": "2018 European Club Championships",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "RUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "81907",
+              "nameDisplay": "Ekaterina MALKOVA",
+              "nameType": 0,
+              "firstName": "Ekaterina",
+              "lastName": "MALKOVA",
+              "initials": "EM",
+              "nameShort": "E MALKOVA",
+              "nameShort2": "MALKOVA",
+              "slug": "ekaterina-malkova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Ekaterina MALKOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895599/assets/players/thumbnail/81907.jpg"
+              }
+            },
+            {
+              "id": "72565",
+              "nameDisplay": "Alina DAVLETOVA",
+              "nameType": 0,
+              "firstName": "Alina",
+              "lastName": "DAVLETOVA",
+              "initials": "AD",
+              "nameShort": "A DAVLETOVA",
+              "nameShort2": "DAVLETOVA",
+              "slug": "alina-davletova",
+              "countryCode": "RUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/RUS.png",
+              "avatar": {
+                "title": "Alina DAVLETOVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895496/assets/players/thumbnail/72565.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "FRA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "94489",
+              "nameDisplay": "Lorraine BAUMANN",
+              "nameType": 0,
+              "firstName": "Lorraine",
+              "lastName": "BAUMANN",
+              "initials": "LB",
+              "nameShort": "L BAUMANN",
+              "nameShort2": "BAUMANN",
+              "slug": "lorraine-baumann",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Lorraine BAUMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895731/assets/players/thumbnail/94489.jpg"
+              }
+            },
+            {
+              "id": "93419",
+              "nameDisplay": "Soraya DE VISCH EIJBERGEN",
+              "nameType": 0,
+              "firstName": "Soraya",
+              "lastName": "DE VISCH EIJBERGEN",
+              "initials": "SD",
+              "nameShort": "S DE VISCH EIJBERGEN",
+              "nameShort2": "DE VISCH EIJBERGEN",
+              "slug": "soraya-de-visch-eijbergen",
+              "countryCode": "FRA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/FRA.png",
+              "avatar": {
+                "title": "Soraya DE VISCH EIJBERGEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897344/assets/players/thumbnail/93419.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2018-06-23 11:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "2018 ECC",
+        "roundName": "Final",
+        "drawName": "2018 ECC",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Main Location",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

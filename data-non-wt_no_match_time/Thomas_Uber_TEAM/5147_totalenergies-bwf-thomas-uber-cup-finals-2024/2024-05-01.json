@@ -1,0 +1,5378 @@
+[
+  {
+    "id": 1363024,
+    "code": "40",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 825,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 807,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 09:30:00",
+    "matchTimeUtc": "2024-05-01 01:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Uber Cup",
+    "roundName": "R3",
+    "drawName": "Uber Cup - Group C",
+    "drawCode": "3",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363260,
+        "code": "61",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 825,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "96312",
+              "nameDisplay": "Akane YAMAGUCHI",
+              "nameType": 0,
+              "firstName": "Akane",
+              "lastName": "YAMAGUCHI",
+              "initials": "AY",
+              "nameShort": "A YAMAGUCHI",
+              "nameShort2": "YAMAGUCHI",
+              "slug": "akane-yamaguchi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akane YAMAGUCHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689647088/assets/players/thumbnail/96312.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 807,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "83802",
+              "nameDisplay": "Gregoria Mariska TUNJUNG",
+              "nameType": 0,
+              "firstName": "Gregoria Mariska",
+              "lastName": "TUNJUNG",
+              "initials": "GT",
+              "nameShort": "G TUNJUNG",
+              "nameShort2": "TUNJUNG",
+              "slug": "gregoria-mariska-tunjung",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Gregoria Mariska TUNJUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1637133297/assets/players/thumbnail/83802.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 09:35:00",
+        "matchTimeUtc": "2024-05-01 01:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363273,
+        "code": "64",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 825,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "65212",
+              "nameDisplay": "Nami MATSUYAMA",
+              "nameType": 0,
+              "firstName": "Nami",
+              "lastName": "MATSUYAMA",
+              "initials": "NM",
+              "nameShort": "N MATSUYAMA",
+              "nameShort2": "MATSUYAMA",
+              "slug": "nami-matsuyama",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Nami MATSUYAMA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657872624/assets/players/thumbnail/65212.jpg"
+              }
+            },
+            {
+              "id": "68282",
+              "nameDisplay": "Chiharu SHIDA",
+              "nameType": 0,
+              "firstName": "Chiharu",
+              "lastName": "SHIDA",
+              "initials": "CS",
+              "nameShort": "C SHIDA",
+              "nameShort2": "SHIDA",
+              "slug": "chiharu-shida",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Chiharu SHIDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1635908674/assets/players/thumbnail/68282.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 807,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "57560",
+              "nameDisplay": "Lanny Tria MAYASARI",
+              "nameType": 0,
+              "firstName": "Lanny Tria",
+              "lastName": "MAYASARI",
+              "initials": "LM",
+              "nameShort": "L MAYASARI",
+              "nameShort2": "MAYASARI",
+              "slug": "lanny-tria-mayasari",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Lanny Tria MAYASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690186369/assets/players/thumbnail/57560.jpg"
+              }
+            },
+            {
+              "id": "88097",
+              "nameDisplay": "Siti Fadia Silva RAMADHANTI",
+              "nameType": 0,
+              "firstName": "Siti Fadia Silva",
+              "lastName": "RAMADHANTI",
+              "initials": "SR",
+              "nameShort": "S RAMADHANTI",
+              "nameShort2": "RAMADHANTI",
+              "slug": "siti-fadia-silva-ramadhanti",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Siti Fadia Silva RAMADHANTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636509375/assets/players/thumbnail/88097.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 10:40:00",
+        "matchTimeUtc": "2024-05-01 02:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 72,
+        "time": "01:12",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363268,
+        "code": "62",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 825,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "95189",
+              "nameDisplay": "Aya OHORI",
+              "nameType": 0,
+              "firstName": "Aya",
+              "lastName": "OHORI",
+              "initials": "AO",
+              "nameShort": "A OHORI",
+              "nameShort2": "OHORI",
+              "slug": "aya-ohori",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Aya OHORI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897333/assets/players/thumbnail/95189.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 807,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "85048",
+              "nameDisplay": "Ester Nurumi Tri WARDOYO",
+              "nameType": 0,
+              "firstName": "Ester Nurumi Tri",
+              "lastName": "WARDOYO",
+              "initials": "EW",
+              "nameShort": "E WARDOYO",
+              "nameShort2": "WARDOYO",
+              "slug": "ester-nurumi-tri-wardoyo",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Ester Nurumi Tri WARDOYO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175393/assets/players/thumbnail/85048.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 12:00:00",
+        "matchTimeUtc": "2024-05-01 04:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 74,
+        "time": "01:14",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363276,
+        "code": "65",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 825,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "84874",
+              "nameDisplay": "Rena MIYAURA",
+              "nameType": 0,
+              "firstName": "Rena",
+              "lastName": "MIYAURA",
+              "initials": "RM",
+              "nameShort": "R MIYAURA",
+              "nameShort2": "MIYAURA",
+              "slug": "rena-miyaura",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Rena MIYAURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690356749/assets/players/thumbnail/84874.jpg"
+              }
+            },
+            {
+              "id": "83211",
+              "nameDisplay": "Ayako SAKURAMOTO",
+              "nameType": 0,
+              "firstName": "Ayako",
+              "lastName": "SAKURAMOTO",
+              "initials": "AS",
+              "nameShort": "A SAKURAMOTO",
+              "nameShort2": "SAKURAMOTO",
+              "slug": "ayako-sakuramoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Ayako SAKURAMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896000/assets/players/thumbnail/83211.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 807,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "82364",
+              "nameDisplay": "Meilysa Trias PUSPITASARI",
+              "nameType": 0,
+              "firstName": "Meilysa Trias",
+              "lastName": "PUSPITASARI",
+              "initials": "MP",
+              "nameShort": "M PUSPITASARI",
+              "nameShort2": "PUSPITASARI",
+              "slug": "meilysa-trias-puspitasari",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Meilysa Trias PUSPITASARI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667177276/assets/players/thumbnail/82364.jpg"
+              }
+            },
+            {
+              "id": "94567",
+              "nameDisplay": "Rachel Allessya ROSE",
+              "nameType": 0,
+              "firstName": "Rachel Allessya",
+              "lastName": "ROSE",
+              "initials": "RR",
+              "nameShort": "R ROSE",
+              "nameShort2": "ROSE",
+              "slug": "rachel-allessya-rose",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Rachel Allessya ROSE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667177307/assets/players/thumbnail/94567.png"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 13:20:00",
+        "matchTimeUtc": "2024-05-01 05:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363270,
+        "code": "63",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 825,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "82070",
+              "nameDisplay": "Tomoka MIYAZAKI",
+              "nameType": 0,
+              "firstName": "Tomoka",
+              "lastName": "MIYAZAKI",
+              "initials": "TM",
+              "nameShort": "T MIYAZAKI",
+              "nameShort2": "MIYAZAKI",
+              "slug": "tomoka-miyazaki",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Tomoka MIYAZAKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175143/assets/players/thumbnail/82070.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 807,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "64349",
+              "nameDisplay": "Komang Ayu Cahya DEWI",
+              "nameType": 0,
+              "firstName": "Komang Ayu Cahya",
+              "lastName": "DEWI",
+              "initials": "KD",
+              "nameShort": "K DEWI",
+              "nameShort2": "DEWI",
+              "slug": "komang-ayu-cahya-dewi",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Komang Ayu Cahya DEWI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697438652/assets/players/thumbnail/64349.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 14:10:00",
+        "matchTimeUtc": "2024-05-01 06:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1363015,
+    "code": "119",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 829,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "IND",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+      "teamId": 799,
+      "teamName": "India",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 17:00:00",
+    "matchTimeUtc": "2024-05-01 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Thomas Cup",
+    "roundName": "R3",
+    "drawName": "Thomas Cup - Group C",
+    "drawCode": "8",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363342,
+        "code": "216",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 829,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "95661",
+              "nameDisplay": "Anthony Sinisuka GINTING",
+              "nameType": 0,
+              "firstName": "Anthony Sinisuka",
+              "lastName": "GINTING",
+              "initials": "AG",
+              "nameShort": "A GINTING",
+              "nameShort2": "GINTING",
+              "slug": "anthony-sinisuka-ginting",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Anthony Sinisuka GINTING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689644313/assets/players/thumbnail/95661.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 799,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "83950",
+              "nameDisplay": "PRANNOY H. S.",
+              "nameType": 1,
+              "firstName": "H. S.",
+              "lastName": "PRANNOY",
+              "initials": "PH",
+              "nameShort": "PRANNOY H S ",
+              "nameShort2": "PRANNOY",
+              "slug": "h-s-prannoy",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "H. S. PRANNOY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773756/assets/players/thumbnail/83950.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 17:05:00",
+        "matchTimeUtc": "2024-05-01 09:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 61,
+        "time": "01:01",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 12,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363345,
+        "code": "219",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 829,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "91440",
+              "nameDisplay": "Muhammad Shohibul FIKRI",
+              "nameType": 0,
+              "firstName": "Muhammad Shohibul",
+              "lastName": "FIKRI",
+              "initials": "MF",
+              "nameShort": "M FIKRI",
+              "nameShort2": "FIKRI",
+              "slug": "muhammad-shohibul-fikri",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Muhammad Shohibul FIKRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895889/assets/players/thumbnail/91440.jpg"
+              }
+            },
+            {
+              "id": "79658",
+              "nameDisplay": "Bagas MAULANA",
+              "nameType": 0,
+              "firstName": "Bagas",
+              "lastName": "MAULANA",
+              "initials": "BM",
+              "nameShort": "B MAULANA",
+              "nameShort2": "MAULANA",
+              "slug": "bagas-maulana",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Bagas MAULANA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1647993849/assets/players/thumbnail/79658.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 799,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "72435",
+              "nameDisplay": "Satwiksairaj RANKIREDDY",
+              "nameType": 0,
+              "firstName": "Satwiksairaj",
+              "lastName": "RANKIREDDY",
+              "initials": "SR",
+              "nameShort": "S RANKIREDDY",
+              "nameShort2": "RANKIREDDY",
+              "slug": "satwiksairaj-rankireddy",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Satwiksairaj RANKIREDDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697771308/assets/players/thumbnail/72435.jpg"
+              }
+            },
+            {
+              "id": "70500",
+              "nameDisplay": "Chirag SHETTY",
+              "nameType": 0,
+              "firstName": "Chirag",
+              "lastName": "SHETTY",
+              "initials": "CS",
+              "nameShort": "C SHETTY",
+              "nameShort2": "SHETTY",
+              "slug": "chirag-shetty",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Chirag SHETTY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697771565/assets/players/thumbnail/70500.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 18:20:00",
+        "matchTimeUtc": "2024-05-01 10:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 77,
+        "time": "01:17",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 22,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363344,
+        "code": "217",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 829,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "73442",
+              "nameDisplay": "Jonatan CHRISTIE",
+              "nameType": 0,
+              "firstName": "Jonatan",
+              "lastName": "CHRISTIE",
+              "initials": "JC",
+              "nameShort": "J CHRISTIE",
+              "nameShort2": "CHRISTIE",
+              "slug": "jonatan-christie",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Jonatan CHRISTIE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697434451/assets/players/thumbnail/73442.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 799,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "68870",
+              "nameDisplay": "Lakshya SEN",
+              "nameType": 0,
+              "firstName": "Lakshya",
+              "lastName": "SEN",
+              "initials": "LS",
+              "nameShort": "L SEN",
+              "nameShort2": "SEN",
+              "slug": "lakshya-sen",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Lakshya SEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636508099/assets/players/thumbnail/68870.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 19:45:00",
+        "matchTimeUtc": "2024-05-01 11:45:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 75,
+        "time": "01:15",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363274,
+        "code": "220",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 829,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "68633",
+              "nameDisplay": "Leo Rolly CARNANDO",
+              "nameType": 0,
+              "firstName": "Leo Rolly",
+              "lastName": "CARNANDO",
+              "initials": "LC",
+              "nameShort": "L CARNANDO",
+              "nameShort2": "CARNANDO",
+              "slug": "leo-rolly-carnando",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Leo Rolly CARNANDO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896458/assets/players/thumbnail/68633.jpg"
+              }
+            },
+            {
+              "id": "84786",
+              "nameDisplay": "Daniel MARTHIN",
+              "nameType": 0,
+              "firstName": "Daniel",
+              "lastName": "MARTHIN",
+              "initials": "DM",
+              "nameShort": "D MARTHIN",
+              "nameShort2": "MARTHIN",
+              "slug": "daniel-marthin",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Daniel MARTHIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896456/assets/players/thumbnail/84786.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 799,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "57372",
+              "nameDisplay": "DHRUV KAPILA",
+              "nameType": 0,
+              "firstName": "DHRUV",
+              "lastName": "KAPILA",
+              "initials": "DK",
+              "nameShort": "D KAPILA",
+              "nameShort2": "KAPILA",
+              "slug": "dhruv-kapila",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "DHRUV KAPILA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895867/assets/players/thumbnail/57372.jpg"
+              }
+            },
+            {
+              "id": "77389",
+              "nameDisplay": "Sai PRATHEEK.K",
+              "nameType": 0,
+              "firstName": "Sai",
+              "lastName": "PRATHEEK.K",
+              "initials": "SP",
+              "nameShort": "S PRATHEEK.K",
+              "nameShort2": "PRATHEEK.K",
+              "slug": "sai-pratheek-k",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Sai PRATHEEK.K",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 21:10:00",
+        "matchTimeUtc": "2024-05-01 13:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 20,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363343,
+        "code": "218",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 829,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "71408",
+              "nameDisplay": "Chico  Aura DWI WARDOYO",
+              "nameType": 0,
+              "firstName": "Chico  Aura",
+              "lastName": "DWI WARDOYO",
+              "initials": "CD",
+              "nameShort": "C DWI WARDOYO",
+              "nameShort2": "DWI WARDOYO",
+              "slug": "chico-aura-dwi-wardoyo",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Chico  Aura DWI WARDOYO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897635/assets/players/thumbnail/71408.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "IND",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+          "teamId": 799,
+          "teamName": "India",
+          "players": [
+            {
+              "id": "93627",
+              "nameDisplay": "KIDAMBI Srikanth",
+              "nameType": 1,
+              "firstName": "Srikanth",
+              "lastName": "KIDAMBI",
+              "initials": "KS",
+              "nameShort": "KIDAMBI S",
+              "nameShort2": "KIDAMBI",
+              "slug": "srikanth-kidambi",
+              "countryCode": "IND",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/IND.png",
+              "avatar": {
+                "title": "Srikanth KIDAMBI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636508333/assets/players/thumbnail/93627.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 21:55:00",
+        "matchTimeUtc": "2024-05-01 13:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 71,
+        "time": "01:11",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 24,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1363033,
+    "code": "24",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 821,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 822,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 09:30:00",
+    "matchTimeUtc": "2024-05-01 01:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Uber Cup",
+    "roundName": "R3",
+    "drawName": "Uber Cup - Group B",
+    "drawCode": "2",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363206,
+        "code": "31",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 821,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "35642",
+              "nameDisplay": "Ratchanok INTANON",
+              "nameType": 0,
+              "firstName": "Ratchanok",
+              "lastName": "INTANON",
+              "initials": "RI",
+              "nameShort": "R INTANON",
+              "nameShort2": "INTANON",
+              "slug": "ratchanok-intanon",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Ratchanok INTANON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897731/assets/players/thumbnail/35642.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 822,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "89583",
+              "nameDisplay": "Wen Chi HSU",
+              "nameType": 0,
+              "firstName": "Wen Chi",
+              "lastName": "HSU",
+              "initials": "WH",
+              "nameShort": "W HSU",
+              "nameShort2": "HSU",
+              "slug": "wen-chi-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Wen Chi HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697766444/assets/players/thumbnail/89583.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 09:50:00",
+        "matchTimeUtc": "2024-05-01 01:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363199,
+        "code": "34",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 821,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "24686",
+              "nameDisplay": "Jongkolphan KITITHARAKUL",
+              "nameType": 0,
+              "firstName": "Jongkolphan",
+              "lastName": "KITITHARAKUL",
+              "initials": "JK",
+              "nameShort": "J KITITHARAKUL",
+              "nameShort2": "KITITHARAKUL",
+              "slug": "jongkolphan-kititharakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Jongkolphan KITITHARAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439020/assets/players/thumbnail/24686.jpg"
+              }
+            },
+            {
+              "id": "84669",
+              "nameDisplay": "Rawinda PRAJONGJAI",
+              "nameType": 0,
+              "firstName": "Rawinda",
+              "lastName": "PRAJONGJAI",
+              "initials": "RP",
+              "nameShort": "R PRAJONGJAI",
+              "nameShort2": "PRAJONGJAI",
+              "slug": "rawinda-prajongjai",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Rawinda PRAJONGJAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636439314/assets/players/thumbnail/84669.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 822,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "74561",
+              "nameDisplay": "HSU Ya Ching",
+              "nameType": 1,
+              "firstName": "Ya Ching",
+              "lastName": "HSU",
+              "initials": "HY",
+              "nameShort": "HSU Y C ",
+              "nameShort2": "HSU",
+              "slug": "ya-ching-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ya Ching HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897535/assets/players/thumbnail/74561.jpg"
+              }
+            },
+            {
+              "id": "78687",
+              "nameDisplay": "YANG Ching Tun",
+              "nameType": 1,
+              "firstName": "Ching Tun",
+              "lastName": "YANG",
+              "initials": "YC",
+              "nameShort": "YANG C T ",
+              "nameShort2": "YANG",
+              "slug": "ching-tun-yang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ching Tun YANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896002/assets/players/thumbnail/78687.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 10:30:00",
+        "matchTimeUtc": "2024-05-01 02:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363208,
+        "code": "32",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 821,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "91422",
+              "nameDisplay": "Supanida KATETHONG",
+              "nameType": 0,
+              "firstName": "Supanida",
+              "lastName": "KATETHONG",
+              "initials": "SK",
+              "nameShort": "S KATETHONG",
+              "nameShort2": "KATETHONG",
+              "slug": "supanida-katethong",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Supanida KATETHONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708318/assets/players/thumbnail/91422.tif"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 822,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "88807",
+              "nameDisplay": "SUNG Shuo Yun",
+              "nameType": 1,
+              "firstName": "Shuo Yun",
+              "lastName": "SUNG",
+              "initials": "SS",
+              "nameShort": "SUNG S Y ",
+              "nameShort2": "SUNG",
+              "slug": "shuo-yun-sung",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Shuo Yun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658730956/assets/players/thumbnail/88807.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 11:15:00",
+        "matchTimeUtc": "2024-05-01 03:15:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363200,
+        "code": "35",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 821,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "79198",
+              "nameDisplay": "Nuntakarn AIMSAARD",
+              "nameType": 0,
+              "firstName": "Nuntakarn",
+              "lastName": "AIMSAARD",
+              "initials": "NA",
+              "nameShort": "N AIMSAARD",
+              "nameShort2": "AIMSAARD",
+              "slug": "nuntakarn-aimsaard",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Nuntakarn AIMSAARD",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1620708562/assets/players/thumbnail/79198.tif"
+              }
+            },
+            {
+              "id": "56460",
+              "nameDisplay": "Phataimas MUENWONG",
+              "nameType": 0,
+              "firstName": "Phataimas",
+              "lastName": "MUENWONG",
+              "initials": "PM",
+              "nameShort": "P MUENWONG",
+              "nameShort2": "MUENWONG",
+              "slug": "phataimas-muenwong",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Phataimas MUENWONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604894499/assets/players/thumbnail/56460.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 822,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "87176",
+              "nameDisplay": "HU Ling Fang",
+              "nameType": 1,
+              "firstName": "Ling Fang",
+              "lastName": "HU",
+              "initials": "HL",
+              "nameShort": "HU L F ",
+              "nameShort2": "HU",
+              "slug": "ling-fang-hu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ling Fang HU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773544/assets/players/thumbnail/87176.jpg"
+              }
+            },
+            {
+              "id": "80299",
+              "nameDisplay": "TENG Chun Hsun",
+              "nameType": 1,
+              "firstName": "Chun Hsun",
+              "lastName": "TENG",
+              "initials": "TC",
+              "nameShort": "TENG C H ",
+              "nameShort2": "TENG",
+              "slug": "chun-hsun-teng",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chun Hsun TENG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690356333/assets/players/thumbnail/80299.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 12:00:00",
+        "matchTimeUtc": "2024-05-01 04:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363211,
+        "code": "33",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 821,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "84062",
+              "nameDisplay": "Pornpawee CHOCHUWONG",
+              "nameType": 0,
+              "firstName": "Pornpawee",
+              "lastName": "CHOCHUWONG",
+              "initials": "PC",
+              "nameShort": "P CHOCHUWONG",
+              "nameShort2": "CHOCHUWONG",
+              "slug": "pornpawee-chochuwong",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Pornpawee CHOCHUWONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697765882/assets/players/thumbnail/84062.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 822,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "99925",
+              "nameDisplay": "PAI Yu Po",
+              "nameType": 1,
+              "firstName": "Yu Po",
+              "lastName": "PAI",
+              "initials": "PY",
+              "nameShort": "PAI Y P ",
+              "nameShort2": "PAI",
+              "slug": "yu-po-pai",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yu Po PAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634106195/assets/players/thumbnail/99925.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 12:45:00",
+        "matchTimeUtc": "2024-05-01 04:45:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1363013,
+    "code": "103",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 806,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 803,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 17:00:00",
+    "matchTimeUtc": "2024-05-01 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Thomas Cup",
+    "roundName": "R3",
+    "drawName": "Thomas Cup - Group B",
+    "drawCode": "7",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363129,
+        "code": "186",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 806,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "85394",
+              "nameDisplay": "Kenta NISHIMOTO",
+              "nameType": 0,
+              "firstName": "Kenta",
+              "lastName": "NISHIMOTO",
+              "initials": "KN",
+              "nameShort": "K NISHIMOTO",
+              "nameShort2": "NISHIMOTO",
+              "slug": "kenta-nishimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenta NISHIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897462/assets/players/thumbnail/85394.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 803,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "34810",
+              "nameDisplay": "CHOU Tien Chen",
+              "nameType": 1,
+              "firstName": "Tien Chen",
+              "lastName": "CHOU",
+              "initials": "CT",
+              "nameShort": "CHOU T C ",
+              "nameShort2": "CHOU",
+              "slug": "tien-chen-chou",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Tien Chen CHOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658715713/assets/players/thumbnail/34810.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 17:10:00",
+        "matchTimeUtc": "2024-05-01 09:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 78,
+        "time": "01:18",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363165,
+        "code": "189",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 806,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "81657",
+              "nameDisplay": "Takuro HOKI",
+              "nameType": 0,
+              "firstName": "Takuro",
+              "lastName": "HOKI",
+              "initials": "TH",
+              "nameShort": "T HOKI",
+              "nameShort2": "HOKI",
+              "slug": "takuro-hoki",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Takuro HOKI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895591/assets/players/thumbnail/81657.jpg"
+              }
+            },
+            {
+              "id": "67903",
+              "nameDisplay": "Yugo KOBAYASHI",
+              "nameType": 0,
+              "firstName": "Yugo",
+              "lastName": "KOBAYASHI",
+              "initials": "YK",
+              "nameShort": "Y KOBAYASHI",
+              "nameShort2": "KOBAYASHI",
+              "slug": "yugo-kobayashi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yugo KOBAYASHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895430/assets/players/thumbnail/67903.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 803,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "96514",
+              "nameDisplay": "WANG Chi-Lin",
+              "nameType": 1,
+              "firstName": "Chi-Lin",
+              "lastName": "WANG",
+              "initials": "WC",
+              "nameShort": "WANG C L ",
+              "nameShort2": "WANG",
+              "slug": "chi-lin-wang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chi-Lin WANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949747/assets/players/thumbnail/96514.jpg"
+              }
+            },
+            {
+              "id": "76275",
+              "nameDisplay": "YANG Po-Hsuan",
+              "nameType": 1,
+              "firstName": "Po-Hsuan",
+              "lastName": "YANG",
+              "initials": "YP",
+              "nameShort": "YANG P H ",
+              "nameShort2": "YANG",
+              "slug": "po-hsuan-yang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Po-Hsuan YANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657773412/assets/players/thumbnail/76275.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 18:35:00",
+        "matchTimeUtc": "2024-05-01 10:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 53,
+        "time": "00:53",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363163,
+        "code": "187",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 806,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "97174",
+              "nameDisplay": "Koki WATANABE",
+              "nameType": 0,
+              "firstName": "Koki",
+              "lastName": "WATANABE",
+              "initials": "KW",
+              "nameShort": "K WATANABE",
+              "nameShort2": "WATANABE",
+              "slug": "koki-watanabe",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Koki WATANABE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895755/assets/players/thumbnail/97174.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 803,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "86114",
+              "nameDisplay": "LIN Chun-Yi",
+              "nameType": 1,
+              "firstName": "Chun-Yi",
+              "lastName": "LIN",
+              "initials": "LC",
+              "nameShort": "LIN C Y ",
+              "nameShort2": "LIN",
+              "slug": "chun-yi-lin",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chun-Yi LIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658715639/assets/players/thumbnail/86114.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 19:35:00",
+        "matchTimeUtc": "2024-05-01 11:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 50,
+        "time": "00:50",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363298,
+        "code": "190",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 806,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "88405",
+              "nameDisplay": "Akira KOGA",
+              "nameType": 0,
+              "firstName": "Akira",
+              "lastName": "KOGA",
+              "initials": "AK",
+              "nameShort": "A KOGA",
+              "nameShort2": "KOGA",
+              "slug": "akira-koga",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Akira KOGA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896229/assets/players/thumbnail/88405.jpg"
+              }
+            },
+            {
+              "id": "77123",
+              "nameDisplay": "Taichi SAITO",
+              "nameType": 0,
+              "firstName": "Taichi",
+              "lastName": "SAITO",
+              "initials": "TS",
+              "nameShort": "T SAITO",
+              "nameShort2": "SAITO",
+              "slug": "taichi-saito",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Taichi SAITO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896227/assets/players/thumbnail/77123.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 803,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "69448",
+              "nameDisplay": "LEE Yang",
+              "nameType": 1,
+              "firstName": "Yang",
+              "lastName": "LEE",
+              "initials": "LY",
+              "nameShort": "LEE Y",
+              "nameShort2": "LEE",
+              "slug": "yang-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yang LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1627949707/assets/players/thumbnail/69448.jpg"
+              }
+            },
+            {
+              "id": "81108",
+              "nameDisplay": "YE Hong Wei",
+              "nameType": 1,
+              "firstName": "Hong Wei",
+              "lastName": "YE",
+              "initials": "YH",
+              "nameShort": "YE H W ",
+              "nameShort2": "YE",
+              "slug": "hong-wei-ye",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Hong Wei YE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1670203491/assets/players/thumbnail/81108.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 20:35:00",
+        "matchTimeUtc": "2024-05-01 12:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363162,
+        "code": "188",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 806,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "89785",
+              "nameDisplay": "Kento MOMOTA",
+              "nameType": 0,
+              "firstName": "Kento",
+              "lastName": "MOMOTA",
+              "initials": "KM",
+              "nameShort": "K MOMOTA",
+              "nameShort2": "MOMOTA",
+              "slug": "kento-momota",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kento MOMOTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658823118/assets/players/thumbnail/89785.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 803,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "59322",
+              "nameDisplay": "LEE Chia Hao",
+              "nameType": 1,
+              "firstName": "Chia Hao",
+              "lastName": "LEE",
+              "initials": "CL",
+              "nameShort": "C LEE",
+              "nameShort2": "LEE",
+              "slug": "chia-hao-lee",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Chia Hao LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689649583/assets/players/thumbnail/59322.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 21:20:00",
+        "matchTimeUtc": "2024-05-01 13:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 75,
+        "time": "01:15",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1363040,
+    "code": "32",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "MAS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+      "teamId": 823,
+      "teamName": "Malaysia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "AUS",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+      "teamId": 824,
+      "teamName": "Australia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 09:30:00",
+    "matchTimeUtc": "2024-05-01 01:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Uber Cup",
+    "roundName": "R3",
+    "drawName": "Uber Cup - Group B",
+    "drawCode": "2",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363254,
+        "code": "56",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 823,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "69012",
+              "nameDisplay": "GOH Jin Wei",
+              "nameType": 1,
+              "firstName": "Jin Wei",
+              "lastName": "GOH",
+              "initials": "GJ",
+              "nameShort": "GOH J W ",
+              "nameShort2": "GOH",
+              "slug": "jin-wei-goh",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Jin Wei GOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991577/assets/players/thumbnail/69012.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 824,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "64389",
+              "nameDisplay": "Tiffany HO",
+              "nameType": 0,
+              "firstName": "Tiffany",
+              "lastName": "HO",
+              "initials": "TH",
+              "nameShort": "T HO",
+              "nameShort2": "HO",
+              "slug": "tiffany-ho",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Tiffany HO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719889425/assets/players/thumbnail/64389.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 09:40:00",
+        "matchTimeUtc": "2024-05-01 01:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 29,
+        "time": "00:29",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363259,
+        "code": "59",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 823,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "94530",
+              "nameDisplay": "GO Pei Kee",
+              "nameType": 1,
+              "firstName": "Pei Kee",
+              "lastName": "GO",
+              "initials": "GP",
+              "nameShort": "GO P K ",
+              "nameShort2": "GO",
+              "slug": "pei-kee-go",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Pei Kee GO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634281193/assets/players/thumbnail/94530.jpg"
+              }
+            },
+            {
+              "id": "63539",
+              "nameDisplay": "TEOH Mei Xing",
+              "nameType": 1,
+              "firstName": "Mei Xing",
+              "lastName": "TEOH",
+              "initials": "TM",
+              "nameShort": "TEOH M X ",
+              "nameShort2": "TEOH",
+              "slug": "mei-xing-teoh",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Mei Xing TEOH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1634091726/assets/players/thumbnail/63539.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 824,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "77441",
+              "nameDisplay": "Setyana MAPASA",
+              "nameType": 0,
+              "firstName": "Setyana",
+              "lastName": "MAPASA",
+              "initials": "SM",
+              "nameShort": "S MAPASA",
+              "nameShort2": "MAPASA",
+              "slug": "setyana-mapasa",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Setyana MAPASA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991650/assets/players/thumbnail/77441.jpg"
+              }
+            },
+            {
+              "id": "71065",
+              "nameDisplay": "Angela YU",
+              "nameType": 0,
+              "firstName": "Angela",
+              "lastName": "YU",
+              "initials": "AY",
+              "nameShort": "A YU",
+              "nameShort2": "YU",
+              "slug": "angela-yu",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Angela YU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719991766/assets/players/thumbnail/71065.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 10:15:00",
+        "matchTimeUtc": "2024-05-01 02:15:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 37,
+        "time": "00:37",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363255,
+        "code": "57",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 823,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "77296",
+              "nameDisplay": "WONG Ling Ching",
+              "nameType": 1,
+              "firstName": "Ling Ching",
+              "lastName": "WONG",
+              "initials": "WL",
+              "nameShort": "WONG L C ",
+              "nameShort2": "WONG",
+              "slug": "wong-ling-ching",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "WONG Ling Ching",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 824,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "67921",
+              "nameDisplay": "Sydney TJONADI",
+              "nameType": 0,
+              "firstName": "Sydney",
+              "lastName": "TJONADI",
+              "initials": "ST",
+              "nameShort": "S TJONADI",
+              "nameShort2": "TJONADI",
+              "slug": "sydney-tjonadi",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Sydney TJONADI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696829143/assets/players/thumbnail/67921.jpeg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 11:00:00",
+        "matchTimeUtc": "2024-05-01 03:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 31,
+        "time": "00:31",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363295,
+        "code": "60",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 823,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "91246",
+              "nameDisplay": "HO Lo Ee",
+              "nameType": 1,
+              "firstName": "Lo Ee",
+              "lastName": "HO",
+              "initials": "HL",
+              "nameShort": "HO L E ",
+              "nameShort2": "HO",
+              "slug": "lo-ee-ho",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Lo Ee HO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "87878",
+              "nameDisplay": "TAN Zhing Yi",
+              "nameType": 1,
+              "firstName": "Zhing Yi",
+              "lastName": "TAN",
+              "initials": "TZ",
+              "nameShort": "TAN Z Y ",
+              "nameShort2": "TAN",
+              "slug": "zhing-yi-tan",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Zhing Yi TAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 824,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "85030",
+              "nameDisplay": "Kaitlyn EA",
+              "nameType": 0,
+              "firstName": "Kaitlyn",
+              "lastName": "EA",
+              "initials": "KE",
+              "nameShort": "K EA",
+              "nameShort2": "EA",
+              "slug": "kaitlyn-ea",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Kaitlyn EA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690355757/assets/players/thumbnail/85030.jpg"
+              }
+            },
+            {
+              "id": "58488",
+              "nameDisplay": "Gronya SOMERVILLE",
+              "nameType": 0,
+              "firstName": "Gronya",
+              "lastName": "SOMERVILLE",
+              "initials": "GS",
+              "nameShort": "G SOMERVILLE",
+              "nameShort2": "SOMERVILLE",
+              "slug": "gronya-somerville",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Gronya SOMERVILLE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690355668/assets/players/thumbnail/58488.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 11:35:00",
+        "matchTimeUtc": "2024-05-01 03:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363257,
+        "code": "58",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "MAS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+          "teamId": 823,
+          "teamName": "Malaysia",
+          "players": [
+            {
+              "id": "73060",
+              "nameDisplay": "Siti ZULAIKHA",
+              "nameType": 0,
+              "firstName": "Siti",
+              "lastName": "ZULAIKHA",
+              "initials": "SZ",
+              "nameShort": "S ZULAIKHA",
+              "nameShort2": "ZULAIKHA",
+              "slug": "siti-zulaikha",
+              "countryCode": "MAS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/MAS.png",
+              "avatar": {
+                "title": "Siti ZULAIKHA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "AUS",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+          "teamId": 824,
+          "teamName": "Australia",
+          "players": [
+            {
+              "id": "61871",
+              "nameDisplay": "Isabella YAN",
+              "nameType": 0,
+              "firstName": "Isabella",
+              "lastName": "YAN",
+              "initials": "IY",
+              "nameShort": "I YAN",
+              "nameShort2": "YAN",
+              "slug": "isabella-yan",
+              "countryCode": "AUS",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/AUS.png",
+              "avatar": {
+                "title": "Isabella YAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 12:25:00",
+        "matchTimeUtc": "2024-05-01 04:25:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group B",
+        "drawCode": "2",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1363000,
+    "code": "127",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "THA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+      "teamId": 802,
+      "teamName": "Thailand",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "ENG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+      "teamId": 816,
+      "teamName": "England",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 17:00:00",
+    "matchTimeUtc": "2024-05-01 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Thomas Cup",
+    "roundName": "R3",
+    "drawName": "Thomas Cup - Group C",
+    "drawCode": "8",
+    "courtName": "Court 3",
+    "courtCode": "3",
+    "courtIndex": 2,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 4,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363190,
+        "code": "241",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 802,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "64032",
+              "nameDisplay": "Kunlavut VITIDSARN",
+              "nameType": 0,
+              "firstName": "Kunlavut",
+              "lastName": "VITIDSARN",
+              "initials": "KV",
+              "nameShort": "K VITIDSARN",
+              "nameShort2": "VITIDSARN",
+              "slug": "kunlavut-vitidsarn",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Kunlavut VITIDSARN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689644372/assets/players/thumbnail/64032.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 816,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "63170",
+              "nameDisplay": "Harry HUANG",
+              "nameType": 0,
+              "firstName": "Harry",
+              "lastName": "HUANG",
+              "initials": "HH",
+              "nameShort": "H HUANG",
+              "nameShort2": "HUANG",
+              "slug": "harry-huang",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Harry HUANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896553/assets/players/thumbnail/63170.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 17:10:00",
+        "matchTimeUtc": "2024-05-01 09:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 40,
+        "time": "00:40",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363192,
+        "code": "244",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 802,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "84102",
+              "nameDisplay": "Peeratchai SUKPHUN",
+              "nameType": 0,
+              "firstName": "Peeratchai",
+              "lastName": "SUKPHUN",
+              "initials": "PS",
+              "nameShort": "P SUKPHUN",
+              "nameShort2": "SUKPHUN",
+              "slug": "peeratchai-sukphun",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Peeratchai SUKPHUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "65674",
+              "nameDisplay": "Pakkapon TEERARATSAKUL",
+              "nameType": 0,
+              "firstName": "Pakkapon",
+              "lastName": "TEERARATSAKUL",
+              "initials": "PT",
+              "nameShort": "P TEERARATSAKUL",
+              "nameShort2": "TEERARATSAKUL",
+              "slug": "pakkapon-teeraratsakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Pakkapon TEERARATSAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 816,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "76278",
+              "nameDisplay": "Ben LANE",
+              "nameType": 0,
+              "firstName": "Ben",
+              "lastName": "LANE",
+              "initials": "BL",
+              "nameShort": "B LANE",
+              "nameShort2": "LANE",
+              "slug": "ben-lane",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Ben LANE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895527/assets/players/thumbnail/76278.jpg"
+              }
+            },
+            {
+              "id": "72478",
+              "nameDisplay": "Sean VENDY",
+              "nameType": 0,
+              "firstName": "Sean",
+              "lastName": "VENDY",
+              "initials": "SV",
+              "nameShort": "S VENDY",
+              "nameShort2": "VENDY",
+              "slug": "sean-vendy",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Sean VENDY",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896409/assets/players/thumbnail/72478.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 18:00:00",
+        "matchTimeUtc": "2024-05-01 10:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 58,
+        "time": "00:58",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363189,
+        "code": "242",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 802,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "85845",
+              "nameDisplay": "Panitchaphon TEERARATSAKUL",
+              "nameType": 0,
+              "firstName": "Panitchaphon",
+              "lastName": "TEERARATSAKUL",
+              "initials": "PT",
+              "nameShort": "P TEERARATSAKUL",
+              "nameShort2": "TEERARATSAKUL",
+              "slug": "panitchaphon-teeraratsakul",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Panitchaphon TEERARATSAKUL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175084/assets/players/thumbnail/85845.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 816,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "87999",
+              "nameDisplay": "Nadeem DALVI",
+              "nameType": 0,
+              "firstName": "Nadeem",
+              "lastName": "DALVI",
+              "initials": "ND",
+              "nameShort": "N DALVI",
+              "nameShort2": "DALVI",
+              "slug": "nadeem-dalvi",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Nadeem DALVI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 19:10:00",
+        "matchTimeUtc": "2024-05-01 11:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 38,
+        "time": "00:38",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363196,
+        "code": "245",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 802,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "64682",
+              "nameDisplay": "Tanadon PUNPANICH",
+              "nameType": 0,
+              "firstName": "Tanadon",
+              "lastName": "PUNPANICH",
+              "initials": "TP",
+              "nameShort": "T PUNPANICH",
+              "nameShort2": "PUNPANICH",
+              "slug": "tanadon-punpanich",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Tanadon PUNPANICH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "71432",
+              "nameDisplay": "Wachirawit SOTHON",
+              "nameType": 0,
+              "firstName": "Wachirawit",
+              "lastName": "SOTHON",
+              "initials": "WS",
+              "nameShort": "W SOTHON",
+              "nameShort2": "SOTHON",
+              "slug": "wachirawit-sothon",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Wachirawit SOTHON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896008/assets/players/thumbnail/71432.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 816,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "85805",
+              "nameDisplay": "Rory EASTON",
+              "nameType": 0,
+              "firstName": "Rory",
+              "lastName": "EASTON",
+              "initials": "RE",
+              "nameShort": "R EASTON",
+              "nameShort2": "EASTON",
+              "slug": "rory-easton",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Rory EASTON",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899230/assets/players/thumbnail/85805.jpg"
+              }
+            },
+            {
+              "id": "86756",
+              "nameDisplay": "Callum HEMMING",
+              "nameType": 0,
+              "firstName": "Callum",
+              "lastName": "HEMMING",
+              "initials": "CH",
+              "nameShort": "C HEMMING",
+              "nameShort2": "HEMMING",
+              "slug": "callum-hemming",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Callum HEMMING",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897764/assets/players/thumbnail/86756.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 19:55:00",
+        "matchTimeUtc": "2024-05-01 11:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 23,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363194,
+        "code": "243",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "THA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+          "teamId": 802,
+          "teamName": "Thailand",
+          "players": [
+            {
+              "id": "89690",
+              "nameDisplay": "Saran JAMSRI",
+              "nameType": 0,
+              "firstName": "Saran",
+              "lastName": "JAMSRI",
+              "initials": "SJ",
+              "nameShort": "S JAMSRI",
+              "nameShort2": "JAMSRI",
+              "slug": "saran-jamsri",
+              "countryCode": "THA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/THA.png",
+              "avatar": {
+                "title": "Saran JAMSRI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "ENG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+          "teamId": 816,
+          "teamName": "England",
+          "players": [
+            {
+              "id": "77846",
+              "nameDisplay": "Cholan KAYAN",
+              "nameType": 0,
+              "firstName": "Cholan",
+              "lastName": "KAYAN",
+              "initials": "CK",
+              "nameShort": "C KAYAN",
+              "nameShort2": "KAYAN",
+              "slug": "cholan-kayan",
+              "countryCode": "ENG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/ENG.png",
+              "avatar": {
+                "title": "Cholan KAYAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 20:45:00",
+        "matchTimeUtc": "2024-05-01 12:45:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group C",
+        "drawCode": "8",
+        "courtName": "Court 3",
+        "courtCode": "3",
+        "courtIndex": 2,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 55,
+        "time": "00:55",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 26,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1363014,
+    "code": "48",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "HKG",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+      "teamId": 826,
+      "teamName": "Hong Kong China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "UGA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+      "teamId": 809,
+      "teamName": "Uganda",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 09:30:00",
+    "matchTimeUtc": "2024-05-01 01:30:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Uber Cup",
+    "roundName": "R3",
+    "drawName": "Uber Cup - Group C",
+    "drawCode": "3",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 5,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363055,
+        "code": "86",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 826,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "86261",
+              "nameDisplay": "LO Sin Yan Happy",
+              "nameType": 1,
+              "firstName": "Sin Yan Happy",
+              "lastName": "LO",
+              "initials": "LS",
+              "nameShort": "LO S Y H ",
+              "nameShort2": "LO",
+              "slug": "sin-yan-happy-lo",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Sin Yan Happy LO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719900592/assets/players/thumbnail/86261.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UGA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+          "teamId": 809,
+          "teamName": "Uganda",
+          "players": [
+            {
+              "id": "93199",
+              "nameDisplay": "Fadilah Shamika MOHAMED RAFI",
+              "nameType": 0,
+              "firstName": "Fadilah Shamika",
+              "lastName": "MOHAMED RAFI",
+              "initials": "FM",
+              "nameShort": "F MOHAMED RAFI",
+              "nameShort2": "MOHAMED RAFI",
+              "slug": "fadilah-shamika-mohamed-rafi",
+              "countryCode": "UGA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+              "avatar": {
+                "title": "Fadilah Shamika MOHAMED RAFI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 09:40:00",
+        "matchTimeUtc": "2024-05-01 01:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 20,
+        "time": "00:20",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363059,
+        "code": "87",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 826,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "74916",
+              "nameDisplay": "YEUNG Sum Yee",
+              "nameType": 1,
+              "firstName": "Sum Yee",
+              "lastName": "YEUNG",
+              "initials": "YS",
+              "nameShort": "YEUNG S Y ",
+              "nameShort2": "YEUNG",
+              "slug": "sum-yee-yeung",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Sum Yee YEUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UGA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+          "teamId": 809,
+          "teamName": "Uganda",
+          "players": [
+            {
+              "id": "96365",
+              "nameDisplay": "Husina KOBUGABE",
+              "nameType": 0,
+              "firstName": "Husina",
+              "lastName": "KOBUGABE",
+              "initials": "HK",
+              "nameShort": "H KOBUGABE",
+              "nameShort2": "KOBUGABE",
+              "slug": "husina-kobugabe",
+              "countryCode": "UGA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+              "avatar": {
+                "title": "Husina KOBUGABE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 10:10:00",
+        "matchTimeUtc": "2024-05-01 02:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 26,
+        "time": "00:26",
+        "matchOrder": 2,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363224,
+        "code": "88",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 826,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "73746",
+              "nameDisplay": "Saloni Samirbhai MEHTA",
+              "nameType": 0,
+              "firstName": "Saloni Samirbhai",
+              "lastName": "MEHTA",
+              "initials": "SM",
+              "nameShort": "S MEHTA",
+              "nameShort2": "MEHTA",
+              "slug": "saloni-samirbhai-mehta",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Saloni Samirbhai MEHTA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UGA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+          "teamId": 809,
+          "teamName": "Uganda",
+          "players": [
+            {
+              "id": "86234",
+              "nameDisplay": "Gladys MBABAZI",
+              "nameType": 0,
+              "firstName": "Gladys",
+              "lastName": "MBABAZI",
+              "initials": "GM",
+              "nameShort": "G MBABAZI",
+              "nameShort2": "MBABAZI",
+              "slug": "gladys-mbabazi",
+              "countryCode": "UGA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+              "avatar": {
+                "title": "Gladys MBABAZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 10:40:00",
+        "matchTimeUtc": "2024-05-01 02:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 24,
+        "time": "00:24",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363227,
+        "code": "90",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 826,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "95905",
+              "nameDisplay": "FAN Ka Yan",
+              "nameType": 1,
+              "firstName": "Ka Yan",
+              "lastName": "FAN",
+              "initials": "FK",
+              "nameShort": "FAN K Y ",
+              "nameShort2": "FAN",
+              "slug": "ka-yan-fan",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Ka Yan FAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897760/assets/players/thumbnail/95905.jpg"
+              }
+            },
+            {
+              "id": "80024",
+              "nameDisplay": "YAU Mau Ying",
+              "nameType": 1,
+              "firstName": "Mau Ying",
+              "lastName": "YAU",
+              "initials": "YM",
+              "nameShort": "YAU M Y ",
+              "nameShort2": "YAU",
+              "slug": "mau-ying-yau",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Mau Ying YAU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UGA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+          "teamId": 809,
+          "teamName": "Uganda",
+          "players": [
+            {
+              "id": "93199",
+              "nameDisplay": "Fadilah Shamika MOHAMED RAFI",
+              "nameType": 0,
+              "firstName": "Fadilah Shamika",
+              "lastName": "MOHAMED RAFI",
+              "initials": "FM",
+              "nameShort": "F MOHAMED RAFI",
+              "nameShort2": "MOHAMED RAFI",
+              "slug": "fadilah-shamika-mohamed-rafi",
+              "countryCode": "UGA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+              "avatar": {
+                "title": "Fadilah Shamika MOHAMED RAFI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "74714",
+              "nameDisplay": "Tracy NALUWOOZA",
+              "nameType": 0,
+              "firstName": "Tracy",
+              "lastName": "NALUWOOZA",
+              "initials": "TN",
+              "nameShort": "T NALUWOOZA",
+              "nameShort2": "NALUWOOZA",
+              "slug": "tracy-naluwooza",
+              "countryCode": "UGA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+              "avatar": {
+                "title": "Tracy NALUWOOZA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 11:15:00",
+        "matchTimeUtc": "2024-05-01 03:15:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 19,
+        "time": "00:19",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 3,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363219,
+        "code": "89",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "HKG",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+          "teamId": 826,
+          "teamName": "Hong Kong China",
+          "players": [
+            {
+              "id": "87893",
+              "nameDisplay": "LUI Lok Lok",
+              "nameType": 1,
+              "firstName": "Lok Lok",
+              "lastName": "LUI",
+              "initials": "LL",
+              "nameShort": "LUI L L ",
+              "nameShort2": "LUI",
+              "slug": "lok-lok-lui",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Lok Lok LUI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "87616",
+              "nameDisplay": "NG Wing Yung",
+              "nameType": 1,
+              "firstName": "Wing Yung",
+              "lastName": "NG",
+              "initials": "NW",
+              "nameShort": "NG W Y ",
+              "nameShort2": "NG",
+              "slug": "wing-yung-ng",
+              "countryCode": "HKG",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/HKG.png",
+              "avatar": {
+                "title": "Wing Yung NG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896281/assets/players/thumbnail/87616.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "UGA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+          "teamId": 809,
+          "teamName": "Uganda",
+          "players": [
+            {
+              "id": "96365",
+              "nameDisplay": "Husina KOBUGABE",
+              "nameType": 0,
+              "firstName": "Husina",
+              "lastName": "KOBUGABE",
+              "initials": "HK",
+              "nameShort": "H KOBUGABE",
+              "nameShort2": "KOBUGABE",
+              "slug": "husina-kobugabe",
+              "countryCode": "UGA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+              "avatar": {
+                "title": "Husina KOBUGABE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "86234",
+              "nameDisplay": "Gladys MBABAZI",
+              "nameType": 0,
+              "firstName": "Gladys",
+              "lastName": "MBABAZI",
+              "initials": "GM",
+              "nameShort": "G MBABAZI",
+              "nameShort2": "MBABAZI",
+              "slug": "gladys-mbabazi",
+              "countryCode": "UGA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/UGA.png",
+              "avatar": {
+                "title": "Gladys MBABAZI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 11:40:00",
+        "matchTimeUtc": "2024-05-01 03:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Uber Cup",
+        "roundName": "R3",
+        "drawName": "Uber Cup - Group C",
+        "drawCode": "3",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 28,
+        "time": "00:28",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 9,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1362995,
+    "code": "111",
+    "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+    "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "GER",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+      "teamId": 814,
+      "teamName": "Germany",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "CZE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+      "teamId": 815,
+      "teamName": "Czechia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2024-05-01 17:00:00",
+    "matchTimeUtc": "2024-05-01 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Thomas Cup",
+    "roundName": "R3",
+    "drawName": "Thomas Cup - Group B",
+    "drawCode": "7",
+    "courtName": "Court 4",
+    "courtCode": "4",
+    "courtIndex": 3,
+    "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1363337,
+        "code": "211",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 814,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "57297",
+              "nameDisplay": "Fabian ROTH",
+              "nameType": 0,
+              "firstName": "Fabian",
+              "lastName": "ROTH",
+              "initials": "FR",
+              "nameShort": "F ROTH",
+              "nameShort2": "ROTH",
+              "slug": "fabian-roth",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Fabian ROTH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719889854/assets/players/thumbnail/57297.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 815,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "61423",
+              "nameDisplay": "Jan LOUDA",
+              "nameType": 0,
+              "firstName": "Jan",
+              "lastName": "LOUDA",
+              "initials": "JL",
+              "nameShort": "J LOUDA",
+              "nameShort2": "LOUDA",
+              "slug": "jan-louda",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Jan LOUDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719899796/assets/players/thumbnail/61423.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 17:10:00",
+        "matchTimeUtc": "2024-05-01 09:10:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 35,
+        "time": "00:35",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 9,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363341,
+        "code": "212",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 814,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "51998",
+              "nameDisplay": "Matthias KICKLITZ",
+              "nameType": 0,
+              "firstName": "Matthias",
+              "lastName": "KICKLITZ",
+              "initials": "MK",
+              "nameShort": "M KICKLITZ",
+              "nameShort2": "KICKLITZ",
+              "slug": "matthias-kicklitz",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Matthias KICKLITZ",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1693905894/assets/players/thumbnail/51998.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 815,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "91710",
+              "nameDisplay": "Jiří KRÁL",
+              "nameType": 0,
+              "firstName": "Jiří",
+              "lastName": "KRÁL",
+              "initials": "JK",
+              "nameShort": "J KRÁL",
+              "nameShort2": "KRÁL",
+              "slug": "jii-kral",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Jiří KRÁL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 17:55:00",
+        "matchTimeUtc": "2024-05-01 09:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 55,
+        "time": "00:55",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363325,
+        "code": "215",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 814,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "65253",
+              "nameDisplay": "Kenneth NEUMANN",
+              "nameType": 0,
+              "firstName": "Kenneth",
+              "lastName": "NEUMANN",
+              "initials": "KN",
+              "nameShort": "K NEUMANN",
+              "nameShort2": "NEUMANN",
+              "slug": "kenneth-neumann",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Kenneth NEUMANN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "64909",
+              "nameDisplay": "Marvin SEIDEL",
+              "nameType": 0,
+              "firstName": "Marvin",
+              "lastName": "SEIDEL",
+              "initials": "MS",
+              "nameShort": "M SEIDEL",
+              "nameShort2": "SEIDEL",
+              "slug": "marvin-seidel",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Marvin SEIDEL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636522316/assets/players/thumbnail/64909.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 815,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "91381",
+              "nameDisplay": "Adam MENDREK",
+              "nameType": 0,
+              "firstName": "Adam",
+              "lastName": "MENDREK",
+              "initials": "AM",
+              "nameShort": "A MENDREK",
+              "nameShort2": "MENDREK",
+              "slug": "adam-mendrek",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Adam MENDREK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719989115/assets/players/thumbnail/91381.jpg"
+              }
+            },
+            {
+              "id": "57288",
+              "nameDisplay": "Tomáš ŠVEJDA",
+              "nameType": 0,
+              "firstName": "Tomáš",
+              "lastName": "ŠVEJDA",
+              "initials": "TŠ",
+              "nameShort": "T ŠVEJDA",
+              "nameShort2": "ŠVEJDA",
+              "slug": "toma-vejda",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Tomáš ŠVEJDA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 18:55:00",
+        "matchTimeUtc": "2024-05-01 10:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 30,
+        "time": "00:30",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363340,
+        "code": "213",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 814,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "73966",
+              "nameDisplay": "Samuel HSIAO",
+              "nameType": 0,
+              "firstName": "Samuel",
+              "lastName": "HSIAO",
+              "initials": "SH",
+              "nameShort": "S HSIAO",
+              "nameShort2": "HSIAO",
+              "slug": "samuel-hsiao",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Samuel HSIAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604899195/assets/players/thumbnail/73966.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 815,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "94649",
+              "nameDisplay": "Dominik KOPŘIVA",
+              "nameType": 0,
+              "firstName": "Dominik",
+              "lastName": "KOPŘIVA",
+              "initials": "DK",
+              "nameShort": "D KOPŘIVA",
+              "nameShort2": "KOPŘIVA",
+              "slug": "dominik-kopiva",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Dominik KOPŘIVA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 19:35:00",
+        "matchTimeUtc": "2024-05-01 11:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 47,
+        "time": "00:47",
+        "matchOrder": 4,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1363327,
+        "code": "214",
+        "tournamentCode": "6F316812-3674-4E44-B5A5-7770D9FFEAE3",
+        "tournamentName": "TotalEnergies BWF Thomas & Uber Cup Finals 2024",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "GER",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+          "teamId": 814,
+          "teamName": "Germany",
+          "players": [
+            {
+              "id": "59472",
+              "nameDisplay": "Bjarne GEISS",
+              "nameType": 0,
+              "firstName": "Bjarne",
+              "lastName": "GEISS",
+              "initials": "BG",
+              "nameShort": "B GEISS",
+              "nameShort2": "GEISS",
+              "slug": "bjarne-geiss",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Bjarne GEISS",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "78935",
+              "nameDisplay": "Jan Colin VOELKER",
+              "nameType": 0,
+              "firstName": "Jan Colin",
+              "lastName": "VOELKER",
+              "initials": "JV",
+              "nameShort": "J VOELKER",
+              "nameShort2": "VOELKER",
+              "slug": "jan-colin-voelker",
+              "countryCode": "GER",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/GER.png",
+              "avatar": {
+                "title": "Jan Colin VOELKER",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "CZE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+          "teamId": 815,
+          "teamName": "Czechia",
+          "players": [
+            {
+              "id": "91710",
+              "nameDisplay": "Jiří KRÁL",
+              "nameType": 0,
+              "firstName": "Jiří",
+              "lastName": "KRÁL",
+              "initials": "JK",
+              "nameShort": "J KRÁL",
+              "nameShort2": "KRÁL",
+              "slug": "jii-kral",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Jiří KRÁL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "82378",
+              "nameDisplay": "Ondřej KRÁL",
+              "nameType": 0,
+              "firstName": "Ondřej",
+              "lastName": "KRÁL",
+              "initials": "OK",
+              "nameShort": "O KRÁL",
+              "nameShort2": "KRÁL",
+              "slug": "ondej-kral",
+              "countryCode": "CZE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CZE.png",
+              "avatar": {
+                "title": "Ondřej KRÁL",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1719987935/assets/players/thumbnail/82378.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2024-05-01 20:30:00",
+        "matchTimeUtc": "2024-05-01 12:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Thomas Cup",
+        "roundName": "R3",
+        "drawName": "Thomas Cup - Group B",
+        "drawCode": "7",
+        "courtName": "Court 4",
+        "courtCode": "4",
+        "courtIndex": 3,
+        "locationName": "Hi-Tech Zone Sports Centre Gymnasium",
+        "duration": 59,
+        "time": "00:59",
+        "matchOrder": 5,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 18,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  }
+]

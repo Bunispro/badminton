@@ -675,6 +675,17 @@ def ingest_folder(conn, folder_path, date_filter=None):
                     court = (m.get("courtName") or "").strip()
                     if not event_canon:
                         event_canon = "UNKNOWN"
+                    duration = m.get("duration")
+                    if duration is None:
+                        # Try parsing from "time" string like "01:07"
+                        time_str = m.get("time")
+                        if time_str and ":" in time_str:
+                            try:
+                                h, mins = map(int, time_str.split(":"))
+                                duration = h * 60 + mins
+                            except:
+                                pass
+                    
                     score_raw = m.get("score")
                     
                     # Resolve match date from payload when available; fallback to filename.
@@ -818,7 +829,8 @@ def ingest_folder(conn, folder_path, date_filter=None):
                         score,
                         winner,
                         is_valid_for_rating,
-                        raw_hash
+                        raw_hash,
+                        duration
                     ))
 
                     for pid in team1_ids:
@@ -857,8 +869,8 @@ def ingest_folder(conn, folder_path, date_filter=None):
                 cursor.executemany("""
                     INSERT INTO matches (
                         match_id, tournament_id, event_raw, event_canon, round, court,
-                        match_date, score, winner_side, is_valid_for_rating, raw_hash
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        match_date, score, winner_side, is_valid_for_rating, raw_hash, duration
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, matches_batch)
 
             if participants_batch:

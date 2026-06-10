@@ -1,0 +1,2595 @@
+[
+  {
+    "id": 1500979,
+    "code": "89",
+    "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+    "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 2424,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "TPE",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+      "teamId": 2307,
+      "teamName": "Chinese Taipei",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2026-02-07 10:00:00",
+    "matchTimeUtc": "2026-02-07 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Team",
+    "roundName": "SF",
+    "drawName": "Women's Team - Team Championships Women's Team",
+    "drawCode": "10",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Qingdao Conson Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 0,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1500980,
+        "code": "176",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2424,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "78116",
+              "nameDisplay": "GAO Fang Jie",
+              "nameType": 1,
+              "firstName": "Fang Jie",
+              "lastName": "GAO",
+              "initials": "GF",
+              "nameShort": "GAO F J ",
+              "nameShort2": "GAO",
+              "slug": "fang-jie-gao",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Fang Jie GAO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1697766885/assets/players/thumbnail/78116.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 2307,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "80862",
+              "nameDisplay": "CHIU Pin-Chian",
+              "nameType": 1,
+              "firstName": "Pin-Chian",
+              "lastName": "CHIU",
+              "initials": "CP",
+              "nameShort": "CHIU P C ",
+              "nameShort2": "CHIU",
+              "slug": "chiu-pin-chian",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "CHIU Pin-Chian",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 10:00:00",
+        "matchTimeUtc": "2026-02-07 02:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 88,
+        "time": "01:28",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 18,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500983,
+        "code": "179",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2424,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "65144",
+              "nameDisplay": "JIA Yi Fan",
+              "nameType": 1,
+              "firstName": "Yi Fan",
+              "lastName": "JIA",
+              "initials": "JY",
+              "nameShort": "JIA Y F ",
+              "nameShort2": "JIA",
+              "slug": "yi-fan-jia",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yi Fan JIA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657779441/assets/players/thumbnail/65144.jpg"
+              }
+            },
+            {
+              "id": "85914",
+              "nameDisplay": "ZHANG Shu Xian",
+              "nameType": 1,
+              "firstName": "Shu Xian",
+              "lastName": "ZHANG",
+              "initials": "ZS",
+              "nameShort": "ZHANG S X ",
+              "nameShort2": "ZHANG",
+              "slug": "shu-xian-zhang",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Shu Xian ZHANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658132716/assets/players/thumbnail/85914.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 2307,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "74561",
+              "nameDisplay": "HSU Ya Ching",
+              "nameType": 1,
+              "firstName": "Ya Ching",
+              "lastName": "HSU",
+              "initials": "HY",
+              "nameShort": "HSU Y C ",
+              "nameShort2": "HSU",
+              "slug": "ya-ching-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ya Ching HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897535/assets/players/thumbnail/74561.jpg"
+              }
+            },
+            {
+              "id": "65349",
+              "nameDisplay": "SUNG Yu-Hsuan",
+              "nameType": 1,
+              "firstName": "Yu-Hsuan",
+              "lastName": "SUNG",
+              "initials": "SY",
+              "nameShort": "SUNG Y H ",
+              "nameShort2": "SUNG",
+              "slug": "yu-hsuan-sung",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yu-Hsuan SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 11:40:00",
+        "matchTimeUtc": "2026-02-07 03:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 7,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500981,
+        "code": "177",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2424,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "60915",
+              "nameDisplay": "XU Wen Jing",
+              "nameType": 1,
+              "firstName": "Wen Jing",
+              "lastName": "XU",
+              "initials": "XW",
+              "nameShort": "XU W J ",
+              "nameShort2": "XU",
+              "slug": "wen-jing-xu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Wen Jing XU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696904597/assets/players/thumbnail/60915.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 2307,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "96725",
+              "nameDisplay": "LIN Hsiang Ti",
+              "nameType": 1,
+              "firstName": "Hsiang Ti",
+              "lastName": "LIN",
+              "initials": "LH",
+              "nameShort": "LIN H T ",
+              "nameShort2": "LIN",
+              "slug": "hsiang-ti-lin",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Hsiang Ti LIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689666295/assets/players/thumbnail/96725.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 12:20:00",
+        "matchTimeUtc": "2026-02-07 04:20:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 64,
+        "time": "01:04",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 10,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500984,
+        "code": "180",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2424,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "86532",
+              "nameDisplay": "CHEN Fan Shu Tian",
+              "nameType": 1,
+              "firstName": "Fan Shu Tian",
+              "lastName": "CHEN",
+              "initials": "CF",
+              "nameShort": "CHEN F S T ",
+              "nameShort2": "CHEN",
+              "slug": "fan-shu-tian-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Fan Shu Tian CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "94631",
+              "nameDisplay": "LIU Jia Yue",
+              "nameType": 1,
+              "firstName": "Jia Yue",
+              "lastName": "LIU",
+              "initials": "LJ",
+              "nameShort": "LIU J Y ",
+              "nameShort2": "LIU",
+              "slug": "jia-yue-liu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Jia Yue LIU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 2307,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "96973",
+              "nameDisplay": "HSU Yin-Hui",
+              "nameType": 1,
+              "firstName": "Yin-Hui",
+              "lastName": "HSU",
+              "initials": "HY",
+              "nameShort": "HSU Y H ",
+              "nameShort2": "HSU",
+              "slug": "yin-hui-hsu",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Yin-Hui HSU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690356124/assets/players/thumbnail/96973.jpg"
+              }
+            },
+            {
+              "id": "78687",
+              "nameDisplay": "YANG Ching Tun",
+              "nameType": 1,
+              "firstName": "Ching Tun",
+              "lastName": "YANG",
+              "initials": "YC",
+              "nameShort": "YANG C T ",
+              "nameShort2": "YANG",
+              "slug": "ching-tun-yang",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Ching Tun YANG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896002/assets/players/thumbnail/78687.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 12:50:00",
+        "matchTimeUtc": "2026-02-07 04:50:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      },
+      {
+        "id": 1500982,
+        "code": "178",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2424,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "69046",
+              "nameDisplay": "YUAN An Qi",
+              "nameType": 1,
+              "firstName": "An Qi",
+              "lastName": "YUAN",
+              "initials": "YA",
+              "nameShort": "YUAN A Q ",
+              "nameShort2": "YUAN",
+              "slug": "an-qi-yuan",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "An Qi YUAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175176/assets/players/thumbnail/69046.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "TPE",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+          "teamId": 2307,
+          "teamName": "Chinese Taipei",
+          "players": [
+            {
+              "id": "88807",
+              "nameDisplay": "SUNG Shuo Yun",
+              "nameType": 1,
+              "firstName": "Shuo Yun",
+              "lastName": "SUNG",
+              "initials": "SS",
+              "nameShort": "SUNG S Y ",
+              "nameShort2": "SUNG",
+              "slug": "shuo-yun-sung",
+              "countryCode": "TPE",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/TPE.png",
+              "avatar": {
+                "title": "Shuo Yun SUNG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1658730956/assets/players/thumbnail/88807.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 12:00:00",
+        "matchTimeUtc": "2026-02-07 04:00:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1500877,
+    "code": "38",
+    "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+    "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 2423,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2344,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2026-02-07 17:00:00",
+    "matchTimeUtc": "2026-02-07 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Team",
+    "roundName": "SF",
+    "drawName": "Men's Team - Team Championships Men's Team",
+    "drawCode": "5",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "Qingdao Conson Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 2,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1500878,
+        "code": "81",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2423,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "89163",
+              "nameDisplay": "WANG Zheng Xing",
+              "nameType": 1,
+              "firstName": "Zheng Xing",
+              "lastName": "WANG",
+              "initials": "WZ",
+              "nameShort": "WANG Z X ",
+              "nameShort2": "WANG",
+              "slug": "wang-zheng-xing",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "WANG Zheng Xing",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1742347613/assets/players/thumbnail/89163.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2344,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "97115",
+              "nameDisplay": "YOO Tae Bin",
+              "nameType": 1,
+              "firstName": "Tae Bin",
+              "lastName": "YOO",
+              "initials": "YT",
+              "nameShort": "YOO T B ",
+              "nameShort2": "YOO",
+              "slug": "tae-bin-yoo",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Tae Bin YOO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 17:00:00",
+        "matchTimeUtc": "2026-02-07 09:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 79,
+        "time": "01:19",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 13,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500881,
+        "code": "84",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2423,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "59673",
+              "nameDisplay": "HE Ji Ting",
+              "nameType": 1,
+              "firstName": "Ji Ting",
+              "lastName": "HE",
+              "initials": "HJ",
+              "nameShort": "HE J T ",
+              "nameShort2": "HE",
+              "slug": "ji-ting-he",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Ji Ting HE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633594425/assets/players/thumbnail/59673.jpg"
+              }
+            },
+            {
+              "id": "84812",
+              "nameDisplay": "REN Xiang Yu",
+              "nameType": 1,
+              "firstName": "Xiang Yu",
+              "lastName": "REN",
+              "initials": "RX",
+              "nameShort": "REN X Y ",
+              "nameShort2": "REN",
+              "slug": "xiang-yu-ren",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Xiang Yu REN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896417/assets/players/thumbnail/84812.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2344,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "74816",
+              "nameDisplay": "JIN Yong",
+              "nameType": 1,
+              "firstName": "Yong",
+              "lastName": "JIN",
+              "initials": "JY",
+              "nameShort": "JIN Y",
+              "nameShort2": "JIN",
+              "slug": "yong-jin",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yong JIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1732493766/assets/players/thumbnail/74816.jpg"
+              }
+            },
+            {
+              "id": "61444",
+              "nameDisplay": "KIM Won Ho",
+              "nameType": 1,
+              "firstName": "Won Ho",
+              "lastName": "KIM",
+              "initials": "KW",
+              "nameShort": "KIM W H ",
+              "nameShort2": "KIM",
+              "slug": "won-ho-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Won Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895351/assets/players/thumbnail/61444.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 18:30:00",
+        "matchTimeUtc": "2026-02-07 10:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 51,
+        "time": "00:51",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 15,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 17,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500879,
+        "code": "82",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2423,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "73591",
+              "nameDisplay": "HU Zhe An",
+              "nameType": 1,
+              "firstName": "Zhe An",
+              "lastName": "HU",
+              "initials": "HZ",
+              "nameShort": "HU Z A ",
+              "nameShort2": "HU",
+              "slug": "zhe-an-hu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Zhe An HU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1696904133/assets/players/thumbnail/73591.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2344,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "86607",
+              "nameDisplay": "CHOI JIHOON",
+              "nameType": 1,
+              "firstName": "JIHOON",
+              "lastName": "CHOI",
+              "initials": "CJ",
+              "nameShort": "CHOI J",
+              "nameShort2": "CHOI",
+              "slug": "jihoon-choi",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "JIHOON CHOI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896426/assets/players/thumbnail/86607.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 19:25:00",
+        "matchTimeUtc": "2026-02-07 11:25:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500882,
+        "code": "85",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2423,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "81798",
+              "nameDisplay": "CHEN Jun Ting",
+              "nameType": 1,
+              "firstName": "Jun Ting",
+              "lastName": "CHEN",
+              "initials": "CJ",
+              "nameShort": "CHEN J T ",
+              "nameShort2": "CHEN",
+              "slug": "jun-ting-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Jun Ting CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "68305",
+              "nameDisplay": "LIU Jun Rong",
+              "nameType": 1,
+              "firstName": "Jun Rong",
+              "lastName": "LIU",
+              "initials": "LJ",
+              "nameShort": "LIU J R ",
+              "nameShort2": "LIU",
+              "slug": "jun-rong-liu",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Jun Rong LIU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2344,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "90792",
+              "nameDisplay": "Song Hyun CHO",
+              "nameType": 0,
+              "firstName": "Song Hyun",
+              "lastName": "CHO",
+              "initials": "SC",
+              "nameShort": "S CHO",
+              "nameShort2": "CHO",
+              "slug": "song-hyun-cho",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Song Hyun CHO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175940/assets/players/thumbnail/90792.jpg"
+              }
+            },
+            {
+              "id": "82494",
+              "nameDisplay": "KI Dong Ju",
+              "nameType": 1,
+              "firstName": "Dong Ju",
+              "lastName": "KI",
+              "initials": "KD",
+              "nameShort": "KI D J ",
+              "nameShort2": "KI",
+              "slug": "ki-dong-ju",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "KI Dong Ju",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 20:30:00",
+        "matchTimeUtc": "2026-02-07 12:30:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500880,
+        "code": "83",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": 2423,
+          "teamName": "China",
+          "players": [
+            {
+              "id": "95516",
+              "nameDisplay": "DONG Tian Yao",
+              "nameType": 1,
+              "firstName": "Tian Yao",
+              "lastName": "DONG",
+              "initials": "DT",
+              "nameShort": "DONG T Y ",
+              "nameShort2": "DONG",
+              "slug": "tian-yao-dong",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Tian Yao DONG",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2344,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "86283",
+              "nameDisplay": "CHO Hyeon Woo",
+              "nameType": 1,
+              "firstName": "Hyeon Woo",
+              "lastName": "CHO",
+              "initials": "CH",
+              "nameShort": "CHO H W ",
+              "nameShort2": "CHO",
+              "slug": "hyeon-woo-cho",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hyeon Woo CHO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 21:15:00",
+        "matchTimeUtc": "2026-02-07 13:15:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 56,
+        "time": "00:56",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 6,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1500991,
+    "code": "90",
+    "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+    "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 2,
+    "team1": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 2400,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2345,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2026-02-07 10:00:00",
+    "matchTimeUtc": "2026-02-07 02:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Women's Team",
+    "roundName": "SF",
+    "drawName": "Women's Team - Team Championships Women's Team",
+    "drawCode": "10",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Qingdao Conson Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 1,
+        "away": 3,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1500992,
+        "code": "181",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2400,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "64600",
+              "nameDisplay": "Thalita Ramadhani WIRYAWAN",
+              "nameType": 0,
+              "firstName": "Thalita Ramadhani",
+              "lastName": "WIRYAWAN",
+              "initials": "TW",
+              "nameShort": "T WIRYAWAN",
+              "nameShort2": "WIRYAWAN",
+              "slug": "thalita-ramadhani-wiryawan",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Thalita Ramadhani WIRYAWAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2345,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "70930",
+              "nameDisplay": "KIM Ga Eun",
+              "nameType": 1,
+              "firstName": "Ga Eun",
+              "lastName": "KIM",
+              "initials": "KG",
+              "nameShort": "KIM G E ",
+              "nameShort2": "KIM",
+              "slug": "ga-eun-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ga Eun KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895484/assets/players/thumbnail/70930.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 10:00:00",
+        "matchTimeUtc": "2026-02-07 02:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 22,
+        "time": "00:22",
+        "matchOrder": 1,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 5,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 4,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500995,
+        "code": "184",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2400,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "94567",
+              "nameDisplay": "Rachel Allessya ROSE",
+              "nameType": 0,
+              "firstName": "Rachel Allessya",
+              "lastName": "ROSE",
+              "initials": "RR",
+              "nameShort": "R ROSE",
+              "nameShort2": "ROSE",
+              "slug": "rachel-allessya-rose",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Rachel Allessya ROSE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667177307/assets/players/thumbnail/94567.png"
+              }
+            },
+            {
+              "id": "55481",
+              "nameDisplay": "Febi SETIANINGRUM",
+              "nameType": 0,
+              "firstName": "Febi",
+              "lastName": "SETIANINGRUM",
+              "initials": "FS",
+              "nameShort": "F SETIANINGRUM",
+              "nameShort2": "SETIANINGRUM",
+              "slug": "febi-setianingrum",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Febi SETIANINGRUM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2345,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "56706",
+              "nameDisplay": "BAEK Ha Na",
+              "nameType": 1,
+              "firstName": "Ha Na",
+              "lastName": "BAEK",
+              "initials": "BH",
+              "nameShort": "BAEK H N ",
+              "nameShort2": "BAEK",
+              "slug": "ha-na-baek",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ha Na BAEK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897799/assets/players/thumbnail/56706.jpg"
+              }
+            },
+            {
+              "id": "83419",
+              "nameDisplay": "KIM Hye Jeong",
+              "nameType": 1,
+              "firstName": "Hye Jeong",
+              "lastName": "KIM",
+              "initials": "KH",
+              "nameShort": "KIM H J ",
+              "nameShort2": "KIM",
+              "slug": "hye-jeong-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hye Jeong KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1657778970/assets/players/thumbnail/83419.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 10:35:00",
+        "matchTimeUtc": "2026-02-07 02:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 54,
+        "time": "00:54",
+        "matchOrder": 2,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 14,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 10,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500993,
+        "code": "182",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2400,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "92444",
+              "nameDisplay": "Ni Kadek Dhinda Amartya PRATIWI",
+              "nameType": 0,
+              "firstName": "Ni Kadek Dhinda Amartya",
+              "lastName": "PRATIWI",
+              "initials": "NP",
+              "nameShort": "N PRATIWI",
+              "nameShort2": "PRATIWI",
+              "slug": "ni-kadek-dhinda-amartya-pratiwi",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Ni Kadek Dhinda Amartya PRATIWI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2345,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "66485",
+              "nameDisplay": "PARK Ga Eun",
+              "nameType": 1,
+              "firstName": "Ga Eun",
+              "lastName": "PARK",
+              "initials": "PG",
+              "nameShort": "PARK G E ",
+              "nameShort2": "PARK",
+              "slug": "ga-eun-park",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ga Eun PARK",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896432/assets/players/thumbnail/66485.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 11:40:00",
+        "matchTimeUtc": "2026-02-07 03:40:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 45,
+        "time": "00:45",
+        "matchOrder": 3,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 14,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500996,
+        "code": "185",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2400,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "67761",
+              "nameDisplay": "Amallia Cahaya PRATIWI",
+              "nameType": 0,
+              "firstName": "Amallia Cahaya",
+              "lastName": "PRATIWI",
+              "initials": "AP",
+              "nameShort": "A PRATIWI",
+              "nameShort2": "PRATIWI",
+              "slug": "amallia-cahaya-pratiwi",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Amallia Cahaya PRATIWI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897780/assets/players/thumbnail/67761.jpg"
+              }
+            },
+            {
+              "id": "88097",
+              "nameDisplay": "Siti Fadia Silva RAMADHANTI",
+              "nameType": 0,
+              "firstName": "Siti Fadia Silva",
+              "lastName": "RAMADHANTI",
+              "initials": "SR",
+              "nameShort": "S RAMADHANTI",
+              "nameShort2": "RAMADHANTI",
+              "slug": "siti-fadia-silva-ramadhanti",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Siti Fadia Silva RAMADHANTI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1636509375/assets/players/thumbnail/88097.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2345,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "57281",
+              "nameDisplay": "LEE Seo Jin",
+              "nameType": 1,
+              "firstName": "Seo Jin",
+              "lastName": "LEE",
+              "initials": "LS",
+              "nameShort": "LEE S J ",
+              "nameShort2": "LEE",
+              "slug": "seo-jin-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Seo Jin LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            },
+            {
+              "id": "80005",
+              "nameDisplay": "LEE Yeon Woo",
+              "nameType": 1,
+              "firstName": "Yeon Woo",
+              "lastName": "LEE",
+              "initials": "LY",
+              "nameShort": "LEE Y W ",
+              "nameShort2": "LEE",
+              "slug": "yeon-woo-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yeon Woo LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 12:35:00",
+        "matchTimeUtc": "2026-02-07 04:35:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 64,
+        "time": "01:04",
+        "matchOrder": 4,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500994,
+        "code": "183",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2400,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "85048",
+              "nameDisplay": "Ester Nurumi Tri WARDOYO",
+              "nameType": 0,
+              "firstName": "Ester Nurumi Tri",
+              "lastName": "WARDOYO",
+              "initials": "EW",
+              "nameShort": "E WARDOYO",
+              "nameShort2": "WARDOYO",
+              "slug": "ester-nurumi-tri-wardoyo",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Ester Nurumi Tri WARDOYO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1667175393/assets/players/thumbnail/85048.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": 2345,
+          "teamName": "Korea",
+          "players": [
+            {
+              "id": "75513",
+              "nameDisplay": "KIM Min Ji",
+              "nameType": 1,
+              "firstName": "Min Ji",
+              "lastName": "KIM",
+              "initials": "KM",
+              "nameShort": "KIM M J ",
+              "nameShort2": "KIM",
+              "slug": "min-ji-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Min Ji KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 13:05:00",
+        "matchTimeUtc": "2026-02-07 05:05:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Women's Team",
+        "roundName": "SF",
+        "drawName": "Women's Team - Team Championships Women's Team",
+        "drawCode": "10",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  },
+  {
+    "id": 1500889,
+    "code": "39",
+    "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+    "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "JPN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+      "teamId": 2291,
+      "teamName": "Japan",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "INA",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+      "teamId": 2399,
+      "teamName": "Indonesia",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2026-02-07 17:00:00",
+    "matchTimeUtc": "2026-02-07 09:00:00",
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": 1,
+    "eventName": "Men's Team",
+    "roundName": "SF",
+    "drawName": "Men's Team - Team Championships Men's Team",
+    "drawCode": "5",
+    "courtName": "Court 2",
+    "courtCode": "2",
+    "courtIndex": 1,
+    "locationName": "Qingdao Conson Gymnasium",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 1500890,
+        "code": "86",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 2291,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "85394",
+              "nameDisplay": "Kenta NISHIMOTO",
+              "nameType": 0,
+              "firstName": "Kenta",
+              "lastName": "NISHIMOTO",
+              "initials": "KN",
+              "nameShort": "K NISHIMOTO",
+              "nameShort2": "NISHIMOTO",
+              "slug": "kenta-nishimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kenta NISHIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604897462/assets/players/thumbnail/85394.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2399,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "60321",
+              "nameDisplay": "Moh. Zaki UBAIDILLAH",
+              "nameType": 0,
+              "firstName": "Moh. Zaki",
+              "lastName": "UBAIDILLAH",
+              "initials": "MU",
+              "nameShort": "M UBAIDILLAH",
+              "nameShort2": "UBAIDILLAH",
+              "slug": "moh-zaki-ubaidillah",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Moh. Zaki UBAIDILLAH",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728452162/assets/players/thumbnail/60321.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 17:00:00",
+        "matchTimeUtc": "2026-02-07 09:00:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 1,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 57,
+        "time": "00:57",
+        "matchOrder": 1,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 1,
+        "reliability": 0,
+        "score": [
+          {
+            "set": 1,
+            "home": 20,
+            "away": 22,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 16,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500893,
+        "code": "89",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 2291,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "79906",
+              "nameDisplay": "Kakeru KUMAGAI",
+              "nameType": 0,
+              "firstName": "Kakeru",
+              "lastName": "KUMAGAI",
+              "initials": "KK",
+              "nameShort": "K KUMAGAI",
+              "nameShort2": "KUMAGAI",
+              "slug": "kakeru-kumagai",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Kakeru KUMAGAI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "63530",
+              "nameDisplay": "Hiroki NISHI",
+              "nameType": 0,
+              "firstName": "Hiroki",
+              "lastName": "NISHI",
+              "initials": "HN",
+              "nameShort": "H NISHI",
+              "nameShort2": "NISHI",
+              "slug": "hiroki-nishi",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Hiroki NISHI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2399,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "91130",
+              "nameDisplay": "Muhammad Rian ARDIANTO",
+              "nameType": 0,
+              "firstName": "Muhammad Rian",
+              "lastName": "ARDIANTO",
+              "initials": "MA",
+              "nameShort": "M ARDIANTO",
+              "nameShort2": "ARDIANTO",
+              "slug": "muhammad-rian-ardianto",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Muhammad Rian ARDIANTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1690160931/assets/players/thumbnail/91130.jpg"
+              }
+            },
+            {
+              "id": "68633",
+              "nameDisplay": "Leo Rolly CARNANDO",
+              "nameType": 0,
+              "firstName": "Leo Rolly",
+              "lastName": "CARNANDO",
+              "initials": "LC",
+              "nameShort": "L CARNANDO",
+              "nameShort2": "CARNANDO",
+              "slug": "leo-rolly-carnando",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Leo Rolly CARNANDO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896458/assets/players/thumbnail/68633.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 18:05:00",
+        "matchTimeUtc": "2026-02-07 10:05:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 41,
+        "time": "00:41",
+        "matchOrder": 2,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 1,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 16,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500891,
+        "code": "87",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 2291,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "86672",
+              "nameDisplay": "Yushi TANAKA",
+              "nameType": 0,
+              "firstName": "Yushi",
+              "lastName": "TANAKA",
+              "initials": "YT",
+              "nameShort": "Y TANAKA",
+              "nameShort2": "TANAKA",
+              "slug": "yushi-tanaka",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yushi TANAKA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2399,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "59614",
+              "nameDisplay": "Prahdiska Bagas SHUJIWO",
+              "nameType": 0,
+              "firstName": "Prahdiska Bagas",
+              "lastName": "SHUJIWO",
+              "initials": "PS",
+              "nameShort": "P SHUJIWO",
+              "nameShort2": "SHUJIWO",
+              "slug": "prahdiska-bagas-shujiwo",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Prahdiska Bagas SHUJIWO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 18:55:00",
+        "matchTimeUtc": "2026-02-07 10:55:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 3,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 11,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500894,
+        "code": "90",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 2291,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "78839",
+              "nameDisplay": "Takumi NOMURA",
+              "nameType": 0,
+              "firstName": "Takumi",
+              "lastName": "NOMURA",
+              "initials": "TN",
+              "nameShort": "T NOMURA",
+              "nameShort2": "NOMURA",
+              "slug": "takumi-nomura",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Takumi NOMURA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "79501",
+              "nameDisplay": "Yuichi SHIMOGAMI",
+              "nameType": 0,
+              "firstName": "Yuichi",
+              "lastName": "SHIMOGAMI",
+              "initials": "YS",
+              "nameShort": "Y SHIMOGAMI",
+              "nameShort2": "SHIMOGAMI",
+              "slug": "yuichi-shimogami",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yuichi SHIMOGAMI",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2399,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "99781",
+              "nameDisplay": "Raymond INDRA",
+              "nameType": 0,
+              "firstName": "Raymond",
+              "lastName": "INDRA",
+              "initials": "RI",
+              "nameShort": "R INDRA",
+              "nameShort2": "INDRA",
+              "slug": "raymond-indra",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Raymond INDRA",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            },
+            {
+              "id": "55669",
+              "nameDisplay": "Nikolaus JOAQUIN",
+              "nameType": 0,
+              "firstName": "Nikolaus",
+              "lastName": "JOAQUIN",
+              "initials": "NJ",
+              "nameShort": "N JOAQUIN",
+              "nameShort2": "JOAQUIN",
+              "slug": "nikolaus-joaquin",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Nikolaus JOAQUIN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 19:50:00",
+        "matchTimeUtc": "2026-02-07 11:50:00",
+        "matchStatus": "F",
+        "matchStatusValue": "Finished",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": 43,
+        "time": "00:43",
+        "matchOrder": 4,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": 2,
+        "reliability": 1,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 1500892,
+        "code": "88",
+        "tournamentCode": "2289A1EB-D46E-475D-B775-4528DC6E6E98",
+        "tournamentName": "TSINGTAO Badminton Asia Team Championships 2026",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "JPN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+          "teamId": 2291,
+          "teamName": "Japan",
+          "players": [
+            {
+              "id": "90735",
+              "nameDisplay": "Yudai OKIMOTO",
+              "nameType": 0,
+              "firstName": "Yudai",
+              "lastName": "OKIMOTO",
+              "initials": "YO",
+              "nameShort": "Y OKIMOTO",
+              "nameShort2": "OKIMOTO",
+              "slug": "yudai-okimoto",
+              "countryCode": "JPN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/JPN.png",
+              "avatar": {
+                "title": "Yudai OKIMOTO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "INA",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+          "teamId": 2399,
+          "teamName": "Indonesia",
+          "players": [
+            {
+              "id": "89808",
+              "nameDisplay": "Richie Duta RICHARDO",
+              "nameType": 0,
+              "firstName": "Richie Duta",
+              "lastName": "RICHARDO",
+              "initials": "RR",
+              "nameShort": "R RICHARDO",
+              "nameShort2": "RICHARDO",
+              "slug": "richie-duta-richardo",
+              "countryCode": "INA",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/INA.png",
+              "avatar": {
+                "title": "Richie Duta RICHARDO",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1728626833/assets/players/thumbnail/89808.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2026-02-07 20:20:00",
+        "matchTimeUtc": "2026-02-07 12:20:00",
+        "matchStatus": "N",
+        "matchStatusValue": "none",
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": 0,
+        "eventName": "Men's Team",
+        "roundName": "SF",
+        "drawName": "Men's Team - Team Championships Men's Team",
+        "drawCode": "5",
+        "courtName": "Court 2",
+        "courtCode": "2",
+        "courtIndex": 1,
+        "locationName": "Qingdao Conson Gymnasium",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": 3,
+        "reliability": 1,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

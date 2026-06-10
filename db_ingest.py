@@ -24,6 +24,7 @@ def init_db(DB_PATH):
             is_valid_for_rating BOOLEAN,
             winner_side INTEGER,
             raw_hash TEXT,
+            duration INTEGER,
             FOREIGN KEY (tournament_id) REFERENCES tournaments(tournament_id)
         );
     """)

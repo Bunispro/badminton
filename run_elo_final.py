@@ -1,5 +1,6 @@
 import sqlite3
 import json
+import os
 from datetime import datetime
 
 from elo_engine_1_0 import run_elo
@@ -87,3 +88,19 @@ finally:
     core_conn.close()
     test_conn.close()
     print("Database connections closed.")
+
+# --- Rebuild API Cache ---
+if os.environ.get("SKIP_CACHE_REBUILD") != "1":
+    try:
+        print("\nRebuilding API cache...")
+        import sys
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        backend_dir = os.path.join(base_dir, "web", "backend")
+        sys.path.append(backend_dir)
+        from build_cache import build_cache
+        build_cache()
+        print("API cache rebuilt successfully!")
+    except Exception as cache_err:
+        print(f"Warning: Failed to rebuild API cache: {cache_err}")
+else:
+    print("\nSkipping cache rebuild as requested by the pipeline orchestrator.")

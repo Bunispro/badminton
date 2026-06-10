@@ -1,0 +1,688 @@
+[
+  {
+    "id": 436436,
+    "code": "145",
+    "tournamentCode": "E46D7BA5-2474-4488-99EE-F96C40A92712",
+    "tournamentName": "SCG Badminton Asia Junior Championships 2016 ( Mixed Team Event )",
+    "isTeamMatch": true,
+    "scoreStatus": 0,
+    "scoreStatusValue": "Normal",
+    "winner": 1,
+    "team1": {
+      "countryCode": "CHN",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+      "teamId": 1,
+      "teamName": "China",
+      "players": [],
+      "linkName": null
+    },
+    "team2": {
+      "countryCode": "KOR",
+      "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+      "teamId": 2,
+      "teamName": "Korea",
+      "players": [],
+      "linkName": null
+    },
+    "team1seed": null,
+    "team2seed": null,
+    "matchTime": "2016-07-12 12:00:00",
+    "matchTimeUtc": null,
+    "matchStatus": "F",
+    "matchStatusValue": "Finished",
+    "oopRound": null,
+    "oopText": null,
+    "oopTypeId": null,
+    "eventName": "Mixed Team",
+    "roundName": "Final",
+    "drawName": "Mixed Team - Knock Out",
+    "drawCode": "7",
+    "courtName": "Court 1",
+    "courtCode": "1",
+    "courtIndex": 0,
+    "locationName": "CPB Badminton Center",
+    "duration": null,
+    "time": "00:00",
+    "matchOrder": null,
+    "matchTypeId": null,
+    "matchTypeValue": null,
+    "matchTypeNo": null,
+    "reliability": null,
+    "score": [
+      {
+        "set": null,
+        "home": 3,
+        "away": 1,
+        "lastPointWinner": null,
+        "serve": null
+      }
+    ],
+    "matches": [
+      {
+        "id": 436437,
+        "code": "385",
+        "tournamentCode": "E46D7BA5-2474-4488-99EE-F96C40A92712",
+        "tournamentName": "SCG Badminton Asia Junior Championships 2016 ( Mixed Team Event )",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "65984",
+              "nameDisplay": "DU Yue",
+              "nameType": 1,
+              "firstName": "Yue",
+              "lastName": "DU",
+              "initials": "DY",
+              "nameShort": "DU Y",
+              "nameShort2": "DU",
+              "slug": "yue-du",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yue DU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1590501426/assets/players/thumbnail/65984.jpg"
+              }
+            },
+            {
+              "id": "59673",
+              "nameDisplay": "HE Ji Ting",
+              "nameType": 1,
+              "firstName": "Ji Ting",
+              "lastName": "HE",
+              "initials": "HJ",
+              "nameShort": "HE J T ",
+              "nameShort2": "HE",
+              "slug": "ji-ting-he",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Ji Ting HE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1633594425/assets/players/thumbnail/59673.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "61444",
+              "nameDisplay": "KIM Won Ho",
+              "nameType": 1,
+              "firstName": "Won Ho",
+              "lastName": "KIM",
+              "initials": "KW",
+              "nameShort": "KIM W H ",
+              "nameShort2": "KIM",
+              "slug": "won-ho-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Won Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895351/assets/players/thumbnail/61444.jpg"
+              }
+            },
+            {
+              "id": "66115",
+              "nameDisplay": "LEE Yu Lim",
+              "nameType": 1,
+              "firstName": "Yu Lim",
+              "lastName": "LEE",
+              "initials": "LY",
+              "nameShort": "LEE Y L ",
+              "nameShort2": "LEE",
+              "slug": "yu-lim-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Yu Lim LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895900/assets/players/thumbnail/66115.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-07-12 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team - Knock Out",
+        "drawCode": "7",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "CPB Badminton Center",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 1,
+        "matchTypeId": 5,
+        "matchTypeValue": "Mixed Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 17,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 19,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 436438,
+        "code": "381",
+        "tournamentCode": "E46D7BA5-2474-4488-99EE-F96C40A92712",
+        "tournamentName": "SCG Badminton Asia Junior Championships 2016 ( Mixed Team Event )",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "57762",
+              "nameDisplay": "SUN Fei Xiang",
+              "nameType": 1,
+              "firstName": "Fei Xiang",
+              "lastName": "SUN",
+              "initials": "SF",
+              "nameShort": "SUN F X ",
+              "nameShort2": "SUN",
+              "slug": "fei-xiang-sun",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Fei Xiang SUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896358/assets/players/thumbnail/57762.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "90711",
+              "nameDisplay": "Jung Soo BYUN",
+              "nameType": 0,
+              "firstName": "Jung Soo",
+              "lastName": "BYUN",
+              "initials": "JB",
+              "nameShort": "J BYUN",
+              "nameShort2": "BYUN",
+              "slug": "jung-soo-byun",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Jung Soo BYUN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_male.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-07-12 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team - Knock Out",
+        "drawCode": "7",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "CPB Badminton Center",
+        "duration": 34,
+        "time": "00:34",
+        "matchOrder": 2,
+        "matchTypeId": 1,
+        "matchTypeValue": "Men's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 8,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 436439,
+        "code": "383",
+        "tournamentCode": "E46D7BA5-2474-4488-99EE-F96C40A92712",
+        "tournamentName": "SCG Badminton Asia Junior Championships 2016 ( Mixed Team Event )",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 2,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "66491",
+              "nameDisplay": "HAN Cheng Kai",
+              "nameType": 1,
+              "firstName": "Cheng Kai",
+              "lastName": "HAN",
+              "initials": "HC",
+              "nameShort": "HAN C K ",
+              "nameShort2": "HAN",
+              "slug": "cheng-kai-han",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Cheng Kai HAN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895416/assets/players/thumbnail/66491.jpg"
+              }
+            },
+            {
+              "id": "61160",
+              "nameDisplay": "ZHOU Hao Dong",
+              "nameType": 1,
+              "firstName": "Hao Dong",
+              "lastName": "ZHOU",
+              "initials": "ZH",
+              "nameShort": "ZHOU H D ",
+              "nameShort2": "ZHOU",
+              "slug": "hao-dong-zhou",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Hao Dong ZHOU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895349/assets/players/thumbnail/61160.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "77262",
+              "nameDisplay": "KANG Min Hyuk",
+              "nameType": 1,
+              "firstName": "Min Hyuk",
+              "lastName": "KANG",
+              "initials": "KM",
+              "nameShort": "KANG M H ",
+              "nameShort2": "KANG",
+              "slug": "kang-min-hyuk",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "KANG Min Hyuk",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896028/assets/players/thumbnail/77262.jpg"
+              }
+            },
+            {
+              "id": "61444",
+              "nameDisplay": "KIM Won Ho",
+              "nameType": 1,
+              "firstName": "Won Ho",
+              "lastName": "KIM",
+              "initials": "KW",
+              "nameShort": "KIM W H ",
+              "nameShort2": "KIM",
+              "slug": "won-ho-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Won Ho KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895351/assets/players/thumbnail/61444.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-07-12 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team - Knock Out",
+        "drawCode": "7",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "CPB Badminton Center",
+        "duration": 60,
+        "time": "01:00",
+        "matchOrder": 3,
+        "matchTypeId": 3,
+        "matchTypeValue": "Men's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 22,
+            "away": 24,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 12,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 3,
+            "home": 19,
+            "away": 21,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 436440,
+        "code": "382",
+        "tournamentCode": "E46D7BA5-2474-4488-99EE-F96C40A92712",
+        "tournamentName": "SCG Badminton Asia Junior Championships 2016 ( Mixed Team Event )",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 1,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "78778",
+              "nameDisplay": "CHEN Yu Fei",
+              "nameType": 1,
+              "firstName": "Yu Fei",
+              "lastName": "CHEN",
+              "initials": "CY",
+              "nameShort": "CHEN Y F ",
+              "nameShort2": "CHEN",
+              "slug": "yu-fei-chen",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yu Fei CHEN",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1689647649/assets/players/thumbnail/78778.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "81749",
+              "nameDisplay": "Hyang Im KIM",
+              "nameType": 0,
+              "firstName": "Hyang Im",
+              "lastName": "KIM",
+              "initials": "HK",
+              "nameShort": "H KIM",
+              "nameShort2": "KIM",
+              "slug": "hyang-im-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Hyang Im KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896090/assets/players/thumbnail/81749.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-07-12 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team - Knock Out",
+        "drawCode": "7",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "CPB Badminton Center",
+        "duration": 36,
+        "time": "00:36",
+        "matchOrder": 4,
+        "matchTypeId": 2,
+        "matchTypeValue": "Women's Singles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [
+          {
+            "set": 1,
+            "home": 21,
+            "away": 13,
+            "lastPointWinner": null,
+            "serve": null
+          },
+          {
+            "set": 2,
+            "home": 21,
+            "away": 15,
+            "lastPointWinner": null,
+            "serve": null
+          }
+        ],
+        "matches": []
+      },
+      {
+        "id": 436441,
+        "code": "384",
+        "tournamentCode": "E46D7BA5-2474-4488-99EE-F96C40A92712",
+        "tournamentName": "SCG Badminton Asia Junior Championships 2016 ( Mixed Team Event )",
+        "isTeamMatch": false,
+        "scoreStatus": 0,
+        "scoreStatusValue": "Normal",
+        "winner": 0,
+        "team1": {
+          "countryCode": "CHN",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "65984",
+              "nameDisplay": "DU Yue",
+              "nameType": 1,
+              "firstName": "Yue",
+              "lastName": "DU",
+              "initials": "DY",
+              "nameShort": "DU Y",
+              "nameShort2": "DU",
+              "slug": "yue-du",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "Yue DU",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1590501426/assets/players/thumbnail/65984.jpg"
+              }
+            },
+            {
+              "id": "67270",
+              "nameDisplay": "XU Ya",
+              "nameType": 1,
+              "firstName": "Ya",
+              "lastName": "XU",
+              "initials": "XY",
+              "nameShort": "XU Y",
+              "nameShort2": "XU",
+              "slug": "xu-ya",
+              "countryCode": "CHN",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/CHN.png",
+              "avatar": {
+                "title": "XU Ya",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604896004/assets/players/thumbnail/67270.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team2": {
+          "countryCode": "KOR",
+          "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+          "teamId": null,
+          "teamName": null,
+          "players": [
+            {
+              "id": "70930",
+              "nameDisplay": "KIM Ga Eun",
+              "nameType": 1,
+              "firstName": "Ga Eun",
+              "lastName": "KIM",
+              "initials": "KG",
+              "nameShort": "KIM G E ",
+              "nameShort2": "KIM",
+              "slug": "ga-eun-kim",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ga Eun KIM",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/v1604895484/assets/players/thumbnail/70930.jpg"
+              }
+            },
+            {
+              "id": "80534",
+              "nameDisplay": "Ye Na LEE",
+              "nameType": 0,
+              "firstName": "Ye Na",
+              "lastName": "LEE",
+              "initials": "YL",
+              "nameShort": "Y LEE",
+              "nameShort2": "LEE",
+              "slug": "ye-na-lee",
+              "countryCode": "KOR",
+              "countryName": null,
+              "countryFlagUrl": "https://img.bwfbadminton.com/image/upload/v2/assets/flag-circle-svg-custom/KOR.png",
+              "avatar": {
+                "title": "Ye Na LEE",
+                "thumbnailUrl": "https://img.bwfbadminton.com/image/upload/assets/players/thumbnail/profile_female.jpg"
+              }
+            }
+          ],
+          "linkName": null
+        },
+        "team1seed": null,
+        "team2seed": null,
+        "matchTime": "2016-07-12 12:00:00",
+        "matchTimeUtc": null,
+        "matchStatus": null,
+        "matchStatusValue": null,
+        "oopRound": null,
+        "oopText": null,
+        "oopTypeId": null,
+        "eventName": "Mixed Team",
+        "roundName": "Final",
+        "drawName": "Mixed Team - Knock Out",
+        "drawCode": "7",
+        "courtName": "Court 1",
+        "courtCode": "1",
+        "courtIndex": 0,
+        "locationName": "CPB Badminton Center",
+        "duration": null,
+        "time": "00:00",
+        "matchOrder": 5,
+        "matchTypeId": 4,
+        "matchTypeValue": "Women's Doubles",
+        "matchTypeNo": null,
+        "reliability": null,
+        "score": [],
+        "matches": []
+      }
+    ]
+  }
+]

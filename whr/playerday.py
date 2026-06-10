@@ -106,7 +106,13 @@ class PlayerDay:
         result = 0.0
         for _, _, c, d, w in self.won_game_terms() + self.lost_game_terms():
             result += w * (c * d) / ((c * self.gamma() + d) ** 2.0)
-        return -1 * self.gamma() * result
+        d2 = -1 * self.gamma() * result - self.player.whr_l2_reg
+        lambda_team = self.player.whr_teammate_l2_reg
+        if lambda_team > 0.0:
+            for g in self.won_games + self.lost_games:
+                if len(g.side_a_players) == 2:
+                    d2 -= lambda_team * g.weight
+        return d2
 
     def log_likelihood_derivative(self) -> float:
         """Calculates the derivative of the log likelihood of the player's rating.
@@ -120,7 +126,19 @@ class PlayerDay:
             tally += w * c / (c * self.gamma() + d)
         for _, _, _, _, w in self.won_game_terms():
             w_sum += w
-        return w_sum - self.gamma() * tally
+        d1 = w_sum - self.gamma() * tally - (self.player.whr_l2_reg * self.r)
+        lambda_team = self.player.whr_teammate_l2_reg
+        if lambda_team > 0.0:
+            for g in self.won_games + self.lost_games:
+                if len(g.side_a_players) == 2:
+                    if self.player in g.side_a_players:
+                        partner = g.side_a_players[1] if g.side_a_players[0] == self.player else g.side_a_players[0]
+                    else:
+                        partner = g.side_b_players[1] if g.side_b_players[0] == self.player else g.side_b_players[0]
+                    partner_pday = g.player_days.get(partner)
+                    if partner_pday is not None:
+                        d1 -= lambda_team * g.weight * (self.r - partner_pday.r)
+        return d1
 
     def log_likelihood(self) -> float:
         """Calculates the log likelihood of the player's rating based on games played.
@@ -135,7 +153,19 @@ class PlayerDay:
         for a, b, c, d, w in self.lost_game_terms():
             tally += w * math.log(b)
             tally -= w * math.log(c * self.gamma() + d)
-        return tally
+        ll = tally - 0.5 * self.player.whr_l2_reg * (self.r ** 2)
+        lambda_team = self.player.whr_teammate_l2_reg
+        if lambda_team > 0.0:
+            for g in self.won_games + self.lost_games:
+                if len(g.side_a_players) == 2:
+                    if self.player in g.side_a_players:
+                        partner = g.side_a_players[1] if g.side_a_players[0] == self.player else g.side_a_players[0]
+                    else:
+                        partner = g.side_b_players[1] if g.side_b_players[0] == self.player else g.side_b_players[0]
+                    partner_pday = g.player_days.get(partner)
+                    if partner_pday is not None:
+                        ll -= 0.5 * lambda_team * g.weight * ((self.r - partner_pday.r) ** 2)
+        return ll
 
     def add_game(self, game: G.Game) -> None:
         """Adds a game to this player's record, categorizing it as won or lost.
