@@ -14,6 +14,7 @@ This document is the authoritative reference for the Badminton App frontend ("Ph
 - **Body Text**: `text-zinc-400`.
 - **Monospace Data**: All ratings, scores, dates, ranks, and KPI values use `font-mono`.
 - **Micro Labels**: `text-[9px] md:text-[10px] text-zinc-500 uppercase tracking-widest font-bold`.
+- **Text Wrapping for Names**: Long player names in dashboards, cards (e.g. Giant Slayer, Global Top Mover), and tables should wrap onto multiple lines using class combinations such as `break-words whitespace-normal leading-tight line-clamp-2` instead of clipping or truncating. Associated country flags should be scaled down accordingly (e.g., `scale-[0.35]`) to prevent layout clipping.
 
 ### 1.2 Color Palette
 
@@ -48,6 +49,12 @@ Applied via `getDesaturatedBorderColor()`:
 - **#4–10 (Top 10)**: Dark Green `rgba(6, 78, 59, α)`
 - **#11–20 (Top 20)**: Dark Amber `rgba(180, 83, 9, α)`
 - **#21+**: Standard Zinc `rgba(39, 39, 42, α)`
+
+### 1.5 Active/Inactive Player Policy & BWF Column
+- **Activity Grace Period**: Players are considered active if their last played match was within the past **8 months** (240 days).
+- **Leaderboards**: Inactive players must be completely hidden from the seasonal view leaderboard, but displayed with active/inactive indicators on player profiles and leaderboard quickview cards.
+- **BWF Rank Integration**: Leaderboards (ELO and WHR models) must display a `BWF Rank` column in both seasonal and all-time views, resolved dynamically from the BWF database mappings.
+
 
 ---
 
@@ -284,11 +291,12 @@ Defined in `globals.css` for 3D card flipping:
 - **Search**: cmdk (Command Palette)
 - **Icons**: @hugeicons/react
 - **Flags**: react-flagpack / custom `<Flag>` wrapper
+- **API Resolution**: All frontend fetch queries must reference `API_BASE_URL` imported from `@/lib/api`. Do NOT hardcode the backend URL (which runs on port `8001` locally, rather than the default `8000`).
 
 ### 7.2 Data Flow
 ```mermaid
 graph TD
-    DB[(SQLite DB)] -->|Query| BE[FastAPI Backend]
+    DB[(SQLite DB)] -->|Query| BE[FastAPI Backend: Port 8001]
     BE -->|JSON Response| FE[Next.js Frontend]
     FE -->|Render| UI[User Interface]
 ```

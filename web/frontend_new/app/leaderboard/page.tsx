@@ -14,6 +14,7 @@ import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { AreaChart, Area, XAxis, YAxis, Tooltip as RechartsTooltip, ResponsiveContainer, CartesianGrid } from 'recharts';
 import { useWindowVirtualizer } from '@tanstack/react-virtual';
+import { useThrottledCallback } from '@/hooks/use-throttled-callback';
 
 interface HistoryPoint {
   rating: number;
@@ -28,6 +29,7 @@ interface LeaderboardPlayer {
   change: number;
   winrate?: number;
   rank_at_peak?: number;
+  bwf_rank?: number;
   date: string;
   history?: HistoryPoint[];
   synergy_partner?: {
@@ -53,8 +55,7 @@ const PlayerCard = React.memo(({
   isExpanded,
   hideForm,
   mode,
-  setExpandedPlayerId,
-  fetchPlayerHistory,
+  onToggleExpand,
   measureElement,
   scrollMargin
 }: {
@@ -64,8 +65,7 @@ const PlayerCard = React.memo(({
   isExpanded: boolean;
   hideForm: boolean;
   mode: string;
-  setExpandedPlayerId: (id: string | null) => void;
-  fetchPlayerHistory: (id: string) => void;
+  onToggleExpand: (id: string) => void;
   measureElement: (element: HTMLElement | null) => void;
   scrollMargin: number;
 }) => {
@@ -102,12 +102,7 @@ const PlayerCard = React.memo(({
       <motion.div 
         className={`relative overflow-hidden hover:bg-zinc-800/40 transition-all cursor-pointer group border-b border-zinc-800/60 px-4 py-3 ${isExpanded ? 'bg-zinc-800/50 shadow-[inset_0_0_20px_rgba(56,189,248,0.05)]' : ''}`}
         onClick={() => {
-          if (isExpanded) {
-            setExpandedPlayerId(null);
-          } else {
-            setExpandedPlayerId(player.player_id);
-            fetchPlayerHistory(player.player_id);
-          }
+          onToggleExpand(player.player_id);
         }}
       >
         <div className="grid grid-cols-12 gap-4 items-center z-10 relative">
@@ -119,21 +114,37 @@ const PlayerCard = React.memo(({
           </div>
 
           {/* Column 2: Player Identity */}
-          <div className={`${hideForm ? 'col-span-5' : 'col-span-4'} flex items-center gap-4`}>
-            {playerCountryCode && (
-              <div className="flex-shrink-0 grayscale-[0.2] opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all w-8 h-6 overflow-hidden rounded-sm flex items-center justify-center bg-zinc-800">
-                <Flag code={playerCountryCode} className="w-full h-full" />
-              </div>
-            )}
-            <div className="min-w-0">
-              <div className="font-bold text-zinc-100 text-lg truncate flex items-center gap-2">
-                {player.name}
-              </div>
-              <div className="text-[10px] text-zinc-500 uppercase tracking-[0.2em] font-black font-mono">
-                {player.country}
-              </div>
-            </div>
-          </div>
+          {(() => {
+            const isSeasonalWHRorElo = mode === 'seasonal' && model !== 'bwf';
+            return (
+              <>
+                <div className={`${hideForm ? (isSeasonalWHRorElo ? 'col-span-4' : 'col-span-5') : (isSeasonalWHRorElo ? 'col-span-3' : 'col-span-4')} flex items-center gap-4`}>
+                  {playerCountryCode && (
+                    <div className="flex-shrink-0 grayscale-[0.2] opacity-80 group-hover:grayscale-0 group-hover:opacity-100 transition-all w-8 h-6 overflow-hidden rounded-sm flex items-center justify-center bg-zinc-800">
+                      <Flag code={playerCountryCode} className="w-full h-full" />
+                    </div>
+                  )}
+                  <div className="min-w-0">
+                    <div className="font-bold text-zinc-100 text-lg break-words whitespace-normal line-clamp-2 flex items-center gap-2">
+                      {player.name}
+                    </div>
+                    <div className="text-[10px] text-zinc-500 uppercase tracking-[0.2em] font-black font-mono">
+                      {player.country}
+                    </div>
+                  </div>
+                </div>
+
+                {/* Column 2.5: BWF Rank (Seasonal WHR/Elo only) */}
+                {isSeasonalWHRorElo && (
+                  <div className="col-span-1 text-center">
+                    <span className="font-mono text-zinc-300 font-bold text-lg">
+                      {player.bwf_rank ? `#${player.bwf_rank}` : '--'}
+                    </span>
+                  </div>
+                )}
+              </>
+            );
+          })()}
 
           <div className="col-span-2 text-center">
             <div className="text-xl font-bold text-sky-400 tracking-tight">
@@ -237,6 +248,67 @@ function LeaderboardContent() {
   const [activeCountries, setActiveCountries] = useState<Record<string, number>>({});
   const [scrollMargin, setScrollMargin] = useState(0);
   const [inactivityThreshold, setInactivityThreshold] = useState(180);
+
+  const throttledSetEvent = useThrottledCallback((ev: string) => {
+    setEvent(ev);
+    setLeaderboard([]);
+    setOffset(0);
+    setHasMore(true);
+    setExpandedPlayerId(null);
+  }, 200);
+
+  const throttledSetMode = useThrottledCallback((targetMode: string) => {
+    const params = new URLSearchParams(searchParams.toString());
+    params.set('mode', targetMode);
+    if (targetMode === 'historical') {
+      params.set('model', 'whr');
+    } else {
+      params.set('model', 'elo');
+    }
+    router.push(`?${params.toString()}`);
+    setLeaderboard([]);
+    setOffset(0);
+    setHasMore(true);
+    setExpandedPlayerId(null);
+  }, 200);
+
+  const throttledJumpToRank = useThrottledCallback((rank: number) => {
+    jumpToRank(rank);
+  }, 200);
+
+  const throttledTogglePlayerExpand = useThrottledCallback((player_id: string) => {
+    if (expandedPlayerId === player_id) {
+      setExpandedPlayerId(null);
+    } else {
+      setExpandedPlayerId(player_id);
+      fetchPlayerHistory(player_id);
+    }
+  }, 200);
+
+  const throttledSetContinent = useThrottledCallback((cont: string | null) => {
+    setSelectedContinent(cont);
+    setSelectedCountries([]);
+    setLeaderboard([]);
+    setOffset(0);
+    setHasMore(true);
+    setContinentOpen(false);
+  }, 200);
+
+  const throttledAddCountry = useThrottledCallback((code: string) => {
+    if (selectedCountries.length < 5) {
+      setSelectedCountries(prev => [...prev, code]);
+      setLeaderboard([]);
+      setOffset(0);
+      setHasMore(true);
+    }
+  }, 200);
+
+  const throttledRemoveCountry = useThrottledCallback((code: string) => {
+    setSelectedCountries(prev => prev.filter(c => c !== code));
+    setLeaderboard([]);
+    setOffset(0);
+    setHasMore(true);
+  }, 200);
   
   const popoverRef = React.useRef<HTMLDivElement>(null);
 
@@ -556,7 +628,7 @@ function LeaderboardContent() {
           {["MS", "WS", "MD", "WD", "XD"].map((ev) => (
             <button
               key={ev}
-              onClick={() => setEvent(ev)}
+              onClick={() => throttledSetEvent(ev)}
               className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${event === ev
                   ? "bg-zinc-100 text-zinc-900 font-bold"
                   : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"
@@ -600,14 +672,7 @@ function LeaderboardContent() {
                 >
                   <div
                     className="p-1.5 text-xs text-zinc-100 hover:bg-zinc-800 rounded-md cursor-pointer"
-                    onClick={() => {
-                      setSelectedContinent(null);
-                      setSelectedCountries([]);
-                      setLeaderboard([]);
-                      setOffset(0);
-                      setHasMore(true);
-                      setContinentOpen(false);
-                    }}
+                    onClick={() => throttledSetContinent(null)}
                   >
                     All Continents
                   </div>
@@ -615,14 +680,7 @@ function LeaderboardContent() {
                     <div
                       key={cont}
                       className="p-1.5 text-xs text-zinc-100 hover:bg-zinc-800 rounded-md cursor-pointer"
-                      onClick={() => {
-                        setSelectedContinent(cont);
-                        setSelectedCountries([]);
-                        setLeaderboard([]);
-                        setOffset(0);
-                        setHasMore(true);
-                        setContinentOpen(false);
-                      }}
+                      onClick={() => throttledSetContinent(cont)}
                     >
                       {cont}
                     </div>
@@ -651,12 +709,7 @@ function LeaderboardContent() {
                         <Flag code={code.toUpperCase()} size="S" />
                         <span>{name}</span>
                         <button
-                          onClick={() => {
-                            setSelectedCountries(prev => prev.filter(c => c !== code));
-                            setLeaderboard([]);
-                            setOffset(0);
-                            setHasMore(true);
-                          }}
+                          onClick={() => throttledRemoveCountry(code)}
                           className="ml-1 text-zinc-400 hover:text-zinc-100"
                         >
                           &times;
@@ -734,14 +787,7 @@ function LeaderboardContent() {
                       <Command.Item
                         key={code}
                         onMouseDown={(e) => e.preventDefault()}
-                        onSelect={() => {
-                          if (selectedCountries.length < 5) {
-                            setSelectedCountries(prev => [...prev, code]);
-                            setLeaderboard([]);
-                            setOffset(0);
-                            setHasMore(true);
-                          }
-                        }}
+                        onSelect={() => throttledAddCountry(code)}
                         className="flex items-center gap-2 p-1.5 text-xs text-zinc-100 hover:bg-zinc-800 rounded-md cursor-pointer"
                       >
                         <Flag code={code.toUpperCase()} size="S" />
@@ -760,12 +806,7 @@ function LeaderboardContent() {
           {/* Mode Buttons */}
           <div className="flex gap-2">
             <button
-              onClick={() => {
-                const params = new URLSearchParams(searchParams.toString());
-                params.set('mode', 'seasonal');
-                params.set('model', 'elo');
-                router.push(`?${params.toString()}`);
-              }}
+              onClick={() => throttledSetMode('seasonal')}
               className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${mode === 'seasonal'
                   ? "bg-zinc-100 text-zinc-900 font-bold"
                   : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"
@@ -780,12 +821,7 @@ function LeaderboardContent() {
               <span className="relative z-10">Seasonal View</span>
             </button>
             <button
-              onClick={() => {
-                const params = new URLSearchParams(searchParams.toString());
-                params.set('mode', 'historical');
-                params.set('model', 'whr');
-                router.push(`?${params.toString()}`);
-              }}
+              onClick={() => throttledSetMode('historical')}
               className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${mode === 'historical'
                   ? "bg-zinc-100 text-zinc-900 font-bold"
                   : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"
@@ -814,7 +850,7 @@ function LeaderboardContent() {
                 if (e.key === 'Enter') {
                   const val = (e.target as HTMLInputElement).value;
                   if (/^\d+$/.test(val)) {
-                    jumpToRank(parseInt(val));
+                    throttledJumpToRank(parseInt(val));
                   }
                 }
               }}
@@ -831,7 +867,7 @@ function LeaderboardContent() {
               onClick={() => {
                 const input = document.querySelector('input[placeholder="Jump to rank"]') as HTMLInputElement;
                 if (input && /^\d+$/.test(input.value)) {
-                  jumpToRank(parseInt(input.value));
+                  throttledJumpToRank(parseInt(input.value));
                 }
               }}
               className="px-3 py-1.5 text-xs font-semibold bg-zinc-950/40 text-zinc-400 border border-zinc-800/80 rounded-md hover:bg-zinc-800/80 hover:text-zinc-100 transition-all"
@@ -863,22 +899,49 @@ function LeaderboardContent() {
       <div className="w-full max-w-7xl mx-auto px-4 z-10">
         <div className="bg-zinc-900/50 backdrop-blur-sm border border-zinc-800/50 rounded-lg">
           {loading ? (
-            <div className="p-12 text-center text-zinc-400 font-mono text-xs uppercase tracking-widest flex items-center justify-center">
-              Loading leaderboard
-              <span className="inline-flex w-5 text-left ml-1">
-                <motion.span
-                  animate={{ opacity: [0, 1, 1, 0] }}
-                  transition={{ duration: 2, repeat: Infinity, times: [0, 0.2, 0.8, 1] }}
-                >.</motion.span>
-                <motion.span
-                  animate={{ opacity: [0, 0, 1, 0] }}
-                  transition={{ duration: 2, repeat: Infinity, times: [0, 0.4, 0.8, 1] }}
-                >.</motion.span>
-                <motion.span
-                  animate={{ opacity: [0, 0, 0, 1] }}
-                  transition={{ duration: 2, repeat: Infinity, times: [0, 0.6, 0.8, 1] }}
-                >.</motion.span>
-              </span>
+            <div className="divide-y divide-zinc-800/60">
+              <div className="grid grid-cols-12 gap-4 px-4 py-4 text-[10px] font-black text-zinc-500 uppercase tracking-[0.3em] border-b border-zinc-800/80 bg-zinc-900/80 backdrop-blur-md sticky top-0 z-50">
+                <div className="col-span-1 text-center">Rank</div>
+                <div className={`${hideForm ? (mode === 'seasonal' && model !== 'bwf' ? 'col-span-4' : 'col-span-5') : (mode === 'seasonal' && model !== 'bwf' ? 'col-span-3' : 'col-span-4')} pl-4`}>Player Profile</div>
+                {mode === 'seasonal' && model !== 'bwf' && <div className="col-span-1 text-center">BWF Rank</div>}
+                <div className="col-span-2 text-center">{model === 'bwf' ? 'Points' : 'Rating'}</div>
+                <div className="col-span-2 text-center">{mode === 'seasonal' ? 'Trend (3M)' : 'Win Rate'}</div>
+                {!hideForm && <div className="col-span-1 text-center">{mode === 'seasonal' ? 'Form (3M)' : 'Peak Global Rank'}</div>}
+                <div className="col-span-2 text-center">{mode === 'seasonal' ? 'Last Played' : 'Date Achieved'}</div>
+              </div>
+              {Array.from({ length: 10 }).map((_, i) => (
+                <div key={i} className="grid grid-cols-12 gap-4 items-center px-4 py-4 border-b border-zinc-800/40 animate-pulse">
+                  <div className="col-span-1 flex items-center justify-center">
+                    <div className="h-5 w-4 bg-zinc-800/60 rounded" />
+                  </div>
+                  <div className={`${hideForm ? (mode === 'seasonal' && model !== 'bwf' ? 'col-span-4' : 'col-span-5') : (mode === 'seasonal' && model !== 'bwf' ? 'col-span-3' : 'col-span-4')} flex items-center gap-4`}>
+                    <div className="w-8 h-6 bg-zinc-800/60 rounded-sm" />
+                    <div className="space-y-1.5 flex-1">
+                      <div className="h-4 bg-zinc-800/60 rounded w-2/3" />
+                      <div className="h-3 bg-zinc-800/40 rounded w-1/3" />
+                    </div>
+                  </div>
+                  {mode === 'seasonal' && model !== 'bwf' && (
+                    <div className="col-span-1 flex justify-center">
+                      <div className="h-5 w-8 bg-zinc-800/60 rounded" />
+                    </div>
+                  )}
+                  <div className="col-span-2 flex justify-center">
+                    <div className="h-6 w-12 bg-zinc-800/60 rounded" />
+                  </div>
+                  <div className="col-span-2 flex justify-center">
+                    <div className="h-5 w-10 bg-zinc-800/60 rounded" />
+                  </div>
+                  {!hideForm && (
+                    <div className="col-span-1 flex justify-center">
+                      <div className="h-5 w-12 bg-zinc-800/60 rounded" />
+                    </div>
+                  )}
+                  <div className="col-span-2 flex justify-center">
+                    <div className="h-4 w-16 bg-zinc-800/60 rounded" />
+                  </div>
+                </div>
+              ))}
             </div>
           ) : leaderboard.length === 0 ? (
             <div className="p-12 text-center text-zinc-400 font-mono text-xs uppercase tracking-widest">No player info</div>
@@ -886,7 +949,8 @@ function LeaderboardContent() {
             <div>
               <div className="grid grid-cols-12 gap-4 px-4 py-4 text-[10px] font-black text-zinc-500 uppercase tracking-[0.3em] border-b border-zinc-800/80 bg-zinc-900/80 backdrop-blur-md sticky top-0 z-50">
                 <div className="col-span-1 text-center">Rank</div>
-                <div className={`${hideForm ? 'col-span-5' : 'col-span-4'} pl-4`}>Player Profile</div>
+                <div className={`${hideForm ? (mode === 'seasonal' && model !== 'bwf' ? 'col-span-4' : 'col-span-5') : (mode === 'seasonal' && model !== 'bwf' ? 'col-span-3' : 'col-span-4')} pl-4`}>Player Profile</div>
+                {mode === 'seasonal' && model !== 'bwf' && <div className="col-span-1 text-center">BWF Rank</div>}
                 <div className="col-span-2 text-center">{model === 'bwf' ? 'Points' : 'Rating'}</div>
                 <div className="col-span-2 text-center">{mode === 'seasonal' ? 'Trend (3M)' : 'Win Rate'}</div>
                 {!hideForm && <div className="col-span-1 text-center">{mode === 'seasonal' ? 'Form (3M)' : 'Peak Global Rank'}</div>}
@@ -913,8 +977,7 @@ function LeaderboardContent() {
                         isExpanded={expandedPlayerId === player.player_id}
                         hideForm={hideForm}
                         mode={mode}
-                        setExpandedPlayerId={setExpandedPlayerId}
-                        fetchPlayerHistory={fetchPlayerHistory}
+                        onToggleExpand={throttledTogglePlayerExpand}
                         measureElement={rowVirtualizer.measureElement}
                         scrollMargin={scrollMargin}
                       />

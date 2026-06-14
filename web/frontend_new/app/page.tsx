@@ -10,7 +10,7 @@ import {
   DisciplineHeatCard, 
   TrendingPlayersCard, 
   LeaderboardPreviewCard, 
-  MostSearchedCard, 
+  OverallShapCard, 
   UpsetAlertCard,
   EngineStatusCard
 } from '@/components/bento-cards';
@@ -55,16 +55,16 @@ export default function Home() {
           </BentoCard>
 
           {/* Row 4 */}
-          <BentoCard className="md:col-span-1">
+          <BentoCard className="md:col-span-1 h-[260px]">
             <DisciplineHeatCard />
           </BentoCard>
 
-          <BentoCard className="md:col-span-1 border-emerald-500/10">
+          <BentoCard className="md:col-span-1 border-emerald-500/10 h-[260px]">
             <EngineStatusCard />
           </BentoCard>
 
-          <BentoCard className="md:col-span-1">
-            <MostSearchedCard />
+          <BentoCard className="md:col-span-1 h-[260px]">
+            <OverallShapCard />
           </BentoCard>
         </BentoGrid>
       </section>

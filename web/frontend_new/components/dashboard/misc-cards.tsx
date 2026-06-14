@@ -8,6 +8,7 @@ import { NumberTicker } from '@/components/magicui/number-ticker';
 import { Trophy, Timer } from 'lucide-react';
 import { API_BASE_URL } from '@/lib/api';
 import { getCountryCode } from './utils';
+import { useThrottledCallback } from '@/hooks/use-throttled-callback';
 
 interface PopularPlayer {
   player_id: string;
@@ -102,8 +103,12 @@ export function UpsetAlertCard() {
   const [loading, setLoading] = useState(true);
   const events = ['MS', 'WS', 'MD', 'WD', 'XD'];
 
-  const winnerFontSize = match && match.winner.length > 28 ? 'text-lg md:text-xl' : match && match.winner.length > 18 ? 'text-2xl' : 'text-3xl';
-  const loserFontSize = match && match.loser.length > 28 ? 'text-[11px] md:text-xs' : match && match.loser.length > 18 ? 'text-sm' : 'text-base';
+  const throttledSetActiveEvent = useThrottledCallback((ev: string) => {
+    setActiveEvent(ev);
+  }, 200);
+
+  const winnerFontSize = match && match.winner.length > 28 ? 'text-base md:text-lg' : match && match.winner.length > 18 ? 'text-xl' : 'text-2xl';
+  const loserFontSize = match && match.loser.length > 28 ? 'text-[10px] md:text-xs' : match && match.loser.length > 18 ? 'text-xs' : 'text-sm';
 
   useEffect(() => {
     let active = true;
@@ -137,7 +142,7 @@ export function UpsetAlertCard() {
              {events.map(ev => (
                <button 
                  key={ev} 
-                 onClick={() => setActiveEvent(ev)} 
+                 onClick={() => throttledSetActiveEvent(ev)} 
                  className={`px-1.5 py-0.5 text-[8.5px] font-black rounded transition-all ${activeEvent === ev ? 'bg-amber-500/20 text-amber-400 font-bold' : 'text-zinc-600 hover:text-zinc-400'}`}
                >
                  {ev}
@@ -178,23 +183,20 @@ export function UpsetAlertCard() {
                 </div>
               </div>
 
-              <div className="my-auto flex flex-col justify-center py-0.5">
+              <div className="flex-grow flex flex-col justify-center py-1 min-h-0">
                 <div className="flex flex-col gap-0.5">
-                  <div className="flex items-center gap-2 flex-wrap">
+                  <div className="flex items-center gap-2 flex-wrap min-w-0">
                     <Link 
                       href={`/player/${match.winner_id}`}
-                      className={`font-black tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-white via-zinc-300 to-zinc-500 uppercase italic drop-shadow-[0_4px_8px_rgba(0,0,0,0.8)] hover:from-amber-200 hover:to-amber-500 transition-all duration-300 ${winnerFontSize}`}
+                      className={`font-black tracking-tight text-transparent bg-clip-text bg-gradient-to-b from-white via-zinc-300 to-zinc-500 uppercase italic drop-shadow-[0_4px_8px_rgba(0,0,0,0.8)] hover:from-amber-200 hover:to-amber-500 transition-all duration-300 break-words whitespace-normal leading-tight line-clamp-2 pr-2 pb-0.5 ${winnerFontSize}`}
                     >
                       {match.winner}
                     </Link>
-                    <span className="rounded bg-zinc-800 px-1.5 py-0.5 text-[9px] font-black text-zinc-400 border border-zinc-700 uppercase shrink-0">
-                      {match.discipline}
-                    </span>
                   </div>
                   
                   <div className="flex items-center gap-1.5 my-0.5">
                      <div className="h-[1px] w-4 bg-zinc-800" />
-                     <span className="text-[9px] text-zinc-600 font-black uppercase tracking-widest italic">
+                     <span className="text-[9px] text-zinc-600 font-black uppercase tracking-widest italic shrink-0">
                        defeats
                      </span>
                      <div className="h-[1px] flex-grow bg-zinc-800" />
@@ -202,7 +204,7 @@ export function UpsetAlertCard() {
                   
                   <Link 
                     href={`/player/${match.loser_id}`}
-                    className={`font-bold uppercase tracking-tight opacity-60 hover:opacity-100 hover:text-zinc-300 transition-all ${loserFontSize}`}
+                    className={`font-bold text-zinc-400 uppercase italic hover:text-amber-500 transition-colors break-words whitespace-normal leading-tight line-clamp-2 pr-2 pb-0.5 ${loserFontSize}`}
                   >
                     {match.loser}
                   </Link>

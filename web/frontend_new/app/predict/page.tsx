@@ -11,6 +11,7 @@ import countryCodes from '@/lib/countryCodes.json';
 import { BorderBeam } from '@/components/magicui/border-beam';
 import { AnimatedBeam } from '@/components/magicui/animated-beam';
 import { API_BASE_URL } from '@/lib/api';
+import { useThrottledCallback } from '@/hooks/use-throttled-callback';
 
 const getCountryCode = (countryName: string) => {
   return (countryCodes as Record<string, string>)[countryName] || countryName || null;
@@ -20,6 +21,7 @@ interface ContenderSide {
   p1: SelectablePlayer | null;
   p2: SelectablePlayer | null;
   year: number;
+  month: number;
 }
 
 const SelectionPanel = ({ 
@@ -62,17 +64,38 @@ const SelectionPanel = ({
       )}
     </div>
 
-    <div className="mt-8 relative z-10">
-      <div className="flex justify-between items-center mb-4">
-        <span className="text-[10px] font-black text-zinc-500 uppercase tracking-widest">Active Era</span>
-        <span className="text-xl font-black text-white font-mono">{side.year}</span>
+    <div className="mt-6 relative z-10">
+      <div className="text-[10px] font-black text-zinc-500 uppercase tracking-widest mb-3">Active Era / Match Date</div>
+      <div className="grid grid-cols-2 gap-3">
+        {/* Month Selector */}
+        <div className="relative">
+          <select 
+            value={side.month}
+            onChange={(e) => setSide({ ...side, month: parseInt(e.target.value) })}
+            className="w-full bg-zinc-950/60 text-zinc-100 border border-zinc-800/80 rounded-xl px-3 py-2.5 text-xs font-mono focus:outline-none focus:ring-1 focus:ring-cyan-500/50 focus:border-cyan-500/50 transition-all cursor-pointer appearance-none bg-[url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%2371717a%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E')] bg-[length:10px_10px] bg-[right_12px_center] bg-no-repeat pr-8"
+          >
+            {Array.from({ length: 12 }, (_, i) => {
+              const m = i + 1;
+              const name = new Date(2000, i, 1).toLocaleString('en-US', { month: 'short' }).toUpperCase();
+              return <option key={m} value={m} className="bg-zinc-900 text-zinc-100">{name}</option>;
+            })}
+          </select>
+        </div>
+
+        {/* Year Selector */}
+        <div className="relative">
+          <select 
+            value={side.year}
+            onChange={(e) => setSide({ ...side, year: parseInt(e.target.value) })}
+            className="w-full bg-zinc-950/60 text-zinc-100 border border-zinc-800/80 rounded-xl px-3 py-2.5 text-xs font-mono focus:outline-none focus:ring-1 focus:ring-cyan-500/50 focus:border-cyan-500/50 transition-all cursor-pointer appearance-none bg-[url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%2371717a%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E')] bg-[length:10px_10px] bg-[right_12px_center] bg-no-repeat pr-8"
+          >
+            {Array.from({ length: currentYear - 2008 + 1 }, (_, i) => {
+              const y = currentYear - i;
+              return <option key={y} value={y} className="bg-zinc-900 text-zinc-100">{y}</option>;
+            })}
+          </select>
+        </div>
       </div>
-      <input 
-        type="range" min="2008" max={currentYear} step="1"
-        value={side.year}
-        onChange={(e) => setSide({ ...side, year: parseInt(e.target.value) })}
-        className="w-full h-1.5 bg-zinc-800 rounded-lg appearance-none cursor-pointer accent-cyan-500"
-      />
     </div>
 
     <div className="flex gap-2 relative z-10">
@@ -117,8 +140,8 @@ interface PredictionResult {
 export default function PredictPage() {
   const [event, setEvent] = useState('MS');
   const [model, setModel] = useState('whr');
-  const [side1, setSide1] = useState<ContenderSide>({ p1: null, p2: null, year: 2024 });
-  const [side2, setSide2] = useState<ContenderSide>({ p1: null, p2: null, year: 2024 });
+  const [side1, setSide1] = useState<ContenderSide>({ p1: null, p2: null, year: 2024, month: 12 });
+  const [side2, setSide2] = useState<ContenderSide>({ p1: null, p2: null, year: 2024, month: 12 });
   const [prediction, setPrediction] = useState<PredictionResult | null>(null);
   const [loading, setLoading] = useState(false);
 
@@ -129,11 +152,17 @@ export default function PredictPage() {
     if (!side1.p1 || !side2.p1) return;
     
     setLoading(true);
+    const lastDay1 = new Date(side1.year, side1.month, 0).getDate();
+    const date1Str = `${side1.year}-${side1.month.toString().padStart(2, '0')}-${lastDay1.toString().padStart(2, '0')}`;
+    
+    const lastDay2 = new Date(side2.year, side2.month, 0).getDate();
+    const date2Str = `${side2.year}-${side2.month.toString().padStart(2, '0')}-${lastDay2.toString().padStart(2, '0')}`;
+
     const params = new URLSearchParams({
       side1_p1: side1.p1.player_id,
       side2_p1: side2.p1.player_id,
-      date1: `${side1.year}-12-31`,
-      date2: `${side2.year}-12-31`,
+      date1: date1Str,
+      date2: date2Str,
       event: event,
       model: model,
     });
@@ -151,6 +180,18 @@ export default function PredictPage() {
       setLoading(false);
     }
   };
+
+  const throttledSetModel = useThrottledCallback((m: string) => {
+    setModel(m);
+    setPrediction(null);
+  }, 200);
+
+  const throttledSetEvent = useThrottledCallback((ev: string) => {
+    setEvent(ev);
+    setPrediction(null);
+  }, 200);
+
+  const throttledPredict = useThrottledCallback(handlePredict, 200);
 
   const getBeamSettings = (synergy: number) => {
     const duration = Math.max(0.4, 2.5 - (synergy / 150));
@@ -171,9 +212,9 @@ export default function PredictPage() {
         <header className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-16">
           <div>
             <h1 className="text-5xl md:text-7xl font-black italic tracking-tighter uppercase leading-none drop-shadow-2xl">
-              ERA <span className="text-cyan-500">BATTLE</span>
+              MATCHUP <span className="text-cyan-500">SIMULATOR</span>
             </h1>
-            <p className="text-zinc-500 text-xs font-mono uppercase tracking-[0.4em] mt-4 ml-1">Analytical Cross-Time Prediction Engine v1.2</p>
+            <p className="text-zinc-500 text-xs font-mono uppercase tracking-[0.4em] mt-4 ml-1">Analytical Cross-Time Matchup Simulator v2.0</p>
           </div>
 
           <div className="flex flex-col md:flex-row gap-4">
@@ -182,10 +223,7 @@ export default function PredictPage() {
               {['elo', 'whr', 'bwf'].map(m => (
                 <button
                   key={m}
-                  onClick={() => {
-                    setModel(m);
-                    setPrediction(null);
-                  }}
+                  onClick={() => throttledSetModel(m)}
                   className={`px-4 py-2 text-xs font-black rounded-xl transition-all uppercase ${
                     model === m ? 'bg-zinc-100 text-black shadow-md' : 'text-zinc-500 hover:text-white'
                   }`}
@@ -200,10 +238,7 @@ export default function PredictPage() {
               {['MS', 'WS', 'MD', 'WD', 'XD'].map(ev => (
                 <button
                   key={ev}
-                  onClick={() => {
-                    setEvent(ev);
-                    setPrediction(null);
-                  }}
+                  onClick={() => throttledSetEvent(ev)}
                   className={`px-6 py-2.5 text-xs font-black rounded-xl transition-all ${
                     event === ev ? 'bg-cyan-500 text-black shadow-lg shadow-cyan-500/20' : 'text-zinc-500 hover:text-white'
                   }`}
@@ -224,7 +259,7 @@ export default function PredictPage() {
           <div className="lg:col-span-1 flex flex-col items-center gap-8 py-8">
              <div className="w-16 h-16 rounded-full bg-zinc-900 border border-zinc-800 flex items-center justify-center text-xl font-black italic text-zinc-600">VS</div>
              <button 
-               onClick={handlePredict}
+               onClick={throttledPredict}
                disabled={!side1.p1 || !side2.p1 || loading}
                className="group relative px-8 py-4 bg-white text-black font-black uppercase text-xs tracking-[0.2em] rounded-2xl disabled:opacity-20 disabled:cursor-not-allowed hover:bg-cyan-400 hover:scale-105 transition-all shadow-[0_0_40px_rgba(255,255,255,0.1)]"
              >
@@ -303,7 +338,13 @@ export default function PredictPage() {
                     <div className="w-2 h-2 rounded-full bg-emerald-500 shadow-[0_0_10px_rgba(16,185,129,0.5)]" />
                     <span className="text-[10px] font-black text-zinc-400 uppercase tracking-widest">Model: {prediction.model || "WHR"}</span>
                  </div>
-                 <div className="text-[10px] font-mono text-zinc-600">ERA-DIF: {Math.abs(parseInt(prediction.meta.date1.split('-')[0], 10) - parseInt(prediction.meta.date2.split('-')[0], 10))}Y</div>
+                 <div className="text-[10px] font-mono text-zinc-600">
+                   ERA-DIF: {(() => {
+                     const d1 = new Date(prediction.meta.date1);
+                     const d2 = new Date(prediction.meta.date2);
+                     return (Math.abs(d2.getTime() - d1.getTime()) / (1000 * 60 * 60 * 24 * 365.25)).toFixed(1);
+                   })()}Y
+                 </div>
                  <div className="flex items-center gap-2 px-4 py-2 bg-zinc-950/80 rounded-xl border border-zinc-800">
                     <span className="text-[9px] font-black text-zinc-500 uppercase">Engine ID:</span>
                     <span className="text-[9px] font-mono text-zinc-300 truncate max-w-[150px]">{prediction.meta.run_id}</span>

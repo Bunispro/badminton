@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { Tooltip, TooltipTrigger, TooltipContent, TooltipProvider } from "@/components/ui/tooltip";
+import { useThrottledCallback } from '@/hooks/use-throttled-callback';
 
 export function HeaderSettings() {
   const [open, setOpen] = useState(false);
@@ -24,6 +25,9 @@ export function HeaderSettings() {
     router.push(`?${params.toString()}`);
   };
 
+  const throttledSetModel = useThrottledCallback(setModel, 200);
+  const throttledSetHideForm = useThrottledCallback(setHideForm, 200);
+
   return (
     <div className="relative">
       <button
@@ -38,7 +42,7 @@ export function HeaderSettings() {
           <div className="text-xs font-bold text-zinc-500 uppercase tracking-widest">Model</div>
           <div className="flex gap-1.5">
             <button
-              onClick={() => setModel('elo')}
+              onClick={() => throttledSetModel('elo')}
               className={`flex-1 px-2.5 py-1.5 text-xs font-semibold rounded-md transition-all ${
                 model === 'elo'
                   ? "bg-zinc-100 text-zinc-900 font-bold"
@@ -48,7 +52,7 @@ export function HeaderSettings() {
               ELO
             </button>
             <button
-              onClick={() => setModel('whr')}
+              onClick={() => throttledSetModel('whr')}
               className={`flex-1 px-2.5 py-1.5 text-xs font-semibold rounded-md transition-all ${
                 model === 'whr'
                   ? "bg-zinc-100 text-zinc-900 font-bold"
@@ -58,7 +62,7 @@ export function HeaderSettings() {
               WHR
             </button>
             <button
-              onClick={() => setModel('bwf')}
+              onClick={() => throttledSetModel('bwf')}
               className={`flex-1 px-2.5 py-1.5 text-xs font-semibold rounded-md transition-all ${
                 model === 'bwf'
                   ? "bg-zinc-100 text-zinc-900 font-bold"
@@ -73,7 +77,7 @@ export function HeaderSettings() {
           <div className="flex items-center justify-between">
             <span className="text-xs text-zinc-400">Hide Form</span>
             <button
-              onClick={() => setHideForm(!hideForm)}
+              onClick={() => throttledSetHideForm(!hideForm)}
               className={`relative inline-flex h-5 w-9 items-center rounded-full transition-colors ${
                 hideForm ? "bg-cyan-500" : "bg-zinc-700"
               }`}

@@ -802,21 +802,25 @@ def ingest_folder(conn, folder_path, date_filter=None):
                             is_team_match=False
                         )
                         continue
-                    VALID_TIERS = {"T0","T1","T2","T3","T4","T5","T6"}
                     raw_hash = compute_hash(m)
-                    is_valid_for_rating = (
-                        event_canon in VALID_EVENTS
-                        and tier in VALID_TIERS
-                        and not (
-                            unresolved_flag
-                            or invalid_scores
-                            or winner_mismatch
-                            or retired_or_walkover
-                            or invalid_participants
-                            # or is_continental
 
-                        )
-                    )
+                    def get_is_valid_for_rating(event, tier, flags):
+                        """Determines if a match is valid for rating based on its properties."""
+                        VALID_TIERS = {"T0", "T1", "T2", "T3", "T4", "T5", "T6"}
+                        if event not in VALID_EVENTS or tier not in VALID_TIERS:
+                            return False
+                        
+                        # Any of these flags being true invalidates the match for rating
+                        invalidating_flags = ['unresolved', 'invalid_scores', 'winner_mismatch', 'retired_or_walkover', 'invalid_participants']
+                        if any(flags.get(flag) for flag in invalidating_flags):
+                            return False
+                            
+                        return True
+
+                    is_valid_for_rating = get_is_valid_for_rating(event_canon, tier, {
+                        'unresolved': unresolved_flag, 'invalid_scores': invalid_scores, 'winner_mismatch': winner_mismatch,
+                        'retired_or_walkover': retired_or_walkover, 'invalid_participants': invalid_participants
+                    })
 
                     matches_batch.append((
                         match_id,

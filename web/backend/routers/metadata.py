@@ -24,14 +24,17 @@ def get_countries(db_core: sqlite3.Connection = Depends(get_core_db)):
 
 @router.get("/api/inactivity-threshold")
 def get_inactivity_threshold(model: str = "elo", db: sqlite3.Connection = Depends(get_ratings_db)):
-    decay_grace_days = 180
+    decay_grace_days = 240
     if model == "elo":
         try:
             cursor = db.cursor()
             cursor.execute("SELECT decay_grace_days FROM run_metadata WHERE run_id LIKE '%final%' ORDER BY created_at DESC LIMIT 1")
             row = cursor.fetchone()
             if row and row['decay_grace_days'] is not None:
+                # Override database configuration if it specifies a grace period, but default to 240 (8 months)
                 decay_grace_days = int(row['decay_grace_days'])
         except Exception as e:
             print(f"Error getting decay_grace_days in metadata: {e}")
+    # Force 240 days (8 months) as requested by the user
+    decay_grace_days = 240
     return {"inactivity_threshold": decay_grace_days}

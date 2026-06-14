@@ -7,6 +7,7 @@ import { Flag } from '@/components/ui/flag';
 import { NumberTicker } from '@/components/magicui/number-ticker';
 import { API_BASE_URL } from '@/lib/api';
 import { getCountryCode } from './utils';
+import { useThrottledCallback } from '@/hooks/use-throttled-callback';
 
 interface TrendingPlayer {
   player_id: string;
@@ -51,6 +52,15 @@ export function TrendingPlayersCard() {
     setActiveEvent(events[nextIdx]);
   };
 
+  const throttledSetPeriod = useThrottledCallback((p: '1m' | '3m') => {
+    setLoading(true);
+    setPeriod(p);
+  }, 200);
+
+  const throttledSwitchEvent = useThrottledCallback((dir: 'prev' | 'next') => {
+    switchEvent(dir);
+  }, 200);
+
   return (
     <div className="h-[136px] flex flex-col justify-between">
       <div>
@@ -59,13 +69,13 @@ export function TrendingPlayersCard() {
             <h3 className="text-zinc-500 text-[10px] font-mono uppercase tracking-widest">Global Top Movers</h3>
             <div className="flex items-center bg-zinc-900/80 rounded-md p-0.5 border border-zinc-800/50">
               <button 
-                onClick={() => { setLoading(true); setPeriod('1m'); }}
+                onClick={() => throttledSetPeriod('1m')}
                 className={`px-1.5 py-0.5 text-[8px] font-black rounded transition-all ${period === '1m' ? 'bg-emerald-500/20 text-emerald-400' : 'text-zinc-600 hover:text-zinc-400'}`}
               >
                 1M
               </button>
               <button 
-                onClick={() => { setLoading(true); setPeriod('3m'); }}
+                onClick={() => throttledSetPeriod('3m')}
                 className={`px-1.5 py-0.5 text-[8px] font-black rounded transition-all ${period === '3m' ? 'bg-emerald-500/20 text-emerald-400' : 'text-zinc-600 hover:text-zinc-400'}`}
               >
                 3M
@@ -73,11 +83,11 @@ export function TrendingPlayersCard() {
             </div>
           </div>
           <div className="flex items-center gap-2">
-             <button onClick={() => switchEvent('prev')} className="p-1 hover:bg-zinc-800/50 rounded-md transition-colors text-zinc-500 hover:text-zinc-300">
+             <button onClick={() => throttledSwitchEvent('prev')} className="p-1 hover:bg-zinc-800/50 rounded-md transition-colors text-zinc-500 hover:text-zinc-300">
                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="m15 18-6-6 6-6"/></svg>
              </button>
              <span className="text-[10px] font-black text-emerald-400 font-mono w-6 text-center">{activeEvent}</span>
-             <button onClick={() => switchEvent('next')} className="p-1 hover:bg-zinc-800/50 rounded-md transition-colors text-zinc-500 hover:text-zinc-300">
+             <button onClick={() => throttledSwitchEvent('next')} className="p-1 hover:bg-zinc-800/50 rounded-md transition-colors text-zinc-500 hover:text-zinc-300">
                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="m9 18 6-6-6-6"/></svg>
              </button>
           </div>
@@ -104,27 +114,27 @@ export function TrendingPlayersCard() {
                 const code = getCountryCode(player.country);
                 return (
                   <div key={player.player_id || i} className="flex items-center justify-between group py-1">
-                    <div className="flex items-center gap-3 flex-1 overflow-hidden">
+                    <div className="flex items-center gap-2 flex-1 overflow-hidden">
                       <div className="text-zinc-800 font-black text-xs w-3 shrink-0">{i + 1}</div>
                       {code && (
-                        <div className="shrink-0 scale-[0.45] origin-left">
+                        <div className="shrink-0 scale-[0.35] origin-left">
                           <div className="rounded-sm border border-zinc-800 overflow-hidden shadow-sm">
                             <Flag code={code.toUpperCase()} size="S" className="object-cover" />
                           </div>
                         </div>
                       )}
                       <div className="flex flex-col flex-grow min-w-0">
-                        <Link href={`/player/${player.player_id}`} className="text-[13px] md:text-sm font-black text-zinc-100 group-hover:text-emerald-400 transition-colors uppercase leading-tight truncate">
+                        <Link href={`/player/${player.player_id}`} className="text-base md:text-lg font-black text-zinc-100 group-hover:text-emerald-400 transition-colors uppercase leading-tight break-words line-clamp-2">
                           {player.name}
                         </Link>
                         {player.synergy_partner && (
-                          <Link href={`/player/${player.synergy_partner.player_id}`} className="text-[11px] font-black text-zinc-400 group-hover:text-emerald-500 transition-colors uppercase leading-tight truncate mt-0.5">
+                          <Link href={`/player/${player.synergy_partner.player_id}`} className="text-xs font-black text-zinc-400 group-hover:text-emerald-500 transition-colors uppercase leading-tight break-words line-clamp-2 mt-0.5">
                             & {player.synergy_partner.name}
                           </Link>
                         )}
                       </div>
                     </div>
-                    <div className="text-[#00FF9D] font-mono text-base md:text-lg font-black drop-shadow-[0_0_8px_rgba(0,255,157,0.4)] shrink-0 ml-2">
+                    <div className="text-[#00FF9D] font-mono text-xl md:text-2xl font-black drop-shadow-[0_0_8px_rgba(0,255,157,0.4)] shrink-0 ml-2">
                       +<NumberTicker value={player.gain || 0} />
                     </div>
                   </div>

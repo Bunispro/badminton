@@ -83,7 +83,7 @@ export const RatingGraph = React.memo(({ chartData, isSharpView, matches, histor
     if (isPeak) {
       dotColor = "#38bdf8"; // Peak dot is ALWAYS a unique premium sky blue
       dotRadius = 6.5; // stand out prominently
-    } else if (isSmallDot && match) {
+    } else if (isSmallDot && match && model !== 'bwf') {
       isMatchDot = true;
       const isPlayerInSide1 = match.side1?.some((p: Participant) => p.id === id);
       won = (isPlayerInSide1 && match.winner_side === 1) || (!isPlayerInSide1 && match.winner_side === 2);

@@ -44,6 +44,10 @@ def main():
     parser.add_argument("--skip-train", action="store_true", help="Skip retraining the XGBoost expectation model.")
     parser.add_argument("--skip-predict", action="store_true", help="Skip generating and logging XGBoost predictions.")
     parser.add_argument("--skip-cache", action="store_true", help="Skip rebuilding the API cache.")
+    parser.add_argument("--scrape", action="store_true", help="Run the scraping phase first.")
+    parser.add_argument("--scrape-mode", choices=["matches", "failed", "rankings-download", "rankings-parse", "all"], default="matches", help="Select which scraping mode to execute (default: matches).")
+    parser.add_argument("--scrape-start-date", default="2026-01-01", help="Start date (YYYY-MM-DD) for matches scraping.")
+    parser.add_argument("--scrape-headless", action="store_true", default=False, help="Run Selenium in headless mode.")
     
     args = parser.parse_args()
     
@@ -53,6 +57,13 @@ def main():
     pipeline_start = time.time()
     times = {}
     
+    # Step 0: Run Scrapers
+    if args.scrape:
+        scrape_command = [sys.executable, "run_scrapers.py", "--mode", args.scrape_mode, "--start-date", args.scrape_start_date]
+        if args.scrape_headless:
+            scrape_command.append("--headless")
+        times["Scraping Phase"] = run_step(f"Scraping ({args.scrape_mode})", scrape_command)
+        
     # Step 1: Ingest Match Data
     if not args.skip_ingest:
         times["Ingestion"] = run_step("Data Ingestion", [sys.executable, "Run_ingest.py"])

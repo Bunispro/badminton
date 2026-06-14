@@ -5,4 +5,5 @@ export { ModelAccuracyCard } from './dashboard/model-accuracy';
 export { DisciplineHeatCard } from './dashboard/discipline-heat';
 export { TrendingPlayersCard } from './dashboard/trending-players';
 export { LeaderboardPreviewCard } from './dashboard/leaderboard-preview';
-export { MostSearchedCard, UpsetAlertCard, EngineStatusCard } from './dashboard/misc-cards';
+export { UpsetAlertCard, EngineStatusCard } from './dashboard/misc-cards';
+export { OverallShapCard } from './dashboard/overall-shap';

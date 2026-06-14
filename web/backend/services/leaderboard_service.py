@@ -84,6 +84,9 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
             elif period == "6m": change_col = "change_6m"
             elif period == "1y": change_col = "change_6m" # Fallback for now
  
+            latest_dt = datetime.strptime(latest_date, "%Y-%m-%d")
+            eight_months_date = (latest_dt - timedelta(days=240)).strftime("%Y-%m-%d")
+
             if country:
                 codes = [c.strip().lower() for c in country.split(',')]
                 countries = []
@@ -98,20 +101,36 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
                     JOIN core.players p ON ps.player_id = p.player_id
                     WHERE ps.event = ? AND ps.model = ? AND ps.mode = ? AND ps.snapshot_date = (SELECT MAX(snapshot_date) FROM player_stats)
                       AND p.country_code IN ({placeholders})
-                    ORDER BY ps.global_rank ASC
-                    LIMIT ? OFFSET ?
                 """
-                cursor.execute(query, [event, model, mode] + countries + [limit, offset])
+                if mode == "current":
+                    query += " AND ps.last_played_date >= ?"
+                    query += "\n                    ORDER BY ps.global_rank ASC\n                    LIMIT ? OFFSET ?"
+                    cursor.execute(query, [event, model, mode] + countries + [eight_months_date, limit, offset])
+                else:
+                    query += "\n                    ORDER BY ps.global_rank ASC\n                    LIMIT ? OFFSET ?"
+                    cursor.execute(query, [event, model, mode] + countries + [limit, offset])
             else:
-                cursor.execute(f"""
-                    SELECT player_id, rating, 
-                           CASE WHEN mode = 'peak' THEN rating_date ELSE last_played_date END as rating_date,
-                           winrate, rank_at_peak, {change_col} as change
-                    FROM player_stats
-                    WHERE event = ? AND model = ? AND mode = ? AND snapshot_date = (SELECT MAX(snapshot_date) FROM player_stats)
-                    ORDER BY global_rank ASC
-                    LIMIT ? OFFSET ?
-                """, (event, model, mode, limit, offset))
+                if mode == "current":
+                    cursor.execute(f"""
+                        SELECT player_id, rating, 
+                               CASE WHEN mode = 'peak' THEN rating_date ELSE last_played_date END as rating_date,
+                               winrate, rank_at_peak, {change_col} as change
+                        FROM player_stats
+                        WHERE event = ? AND model = ? AND mode = ? AND snapshot_date = (SELECT MAX(snapshot_date) FROM player_stats)
+                          AND last_played_date >= ?
+                        ORDER BY global_rank ASC
+                        LIMIT ? OFFSET ?
+                    """, (event, model, mode, eight_months_date, limit, offset))
+                else:
+                    cursor.execute(f"""
+                        SELECT player_id, rating, 
+                               CASE WHEN mode = 'peak' THEN rating_date ELSE last_played_date END as rating_date,
+                               winrate, rank_at_peak, {change_col} as change
+                        FROM player_stats
+                        WHERE event = ? AND model = ? AND mode = ? AND snapshot_date = (SELECT MAX(snapshot_date) FROM player_stats)
+                        ORDER BY global_rank ASC
+                        LIMIT ? OFFSET ?
+                    """, (event, model, mode, limit, offset))
             rows = cursor.fetchall()
             
         else:
@@ -138,7 +157,7 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
                         """
                         cursor.execute(query, [run_id, event] + countries + [limit, offset])
                     else:
-                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=547)).strftime("%Y-%m-%d")
+                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=240)).strftime("%Y-%m-%d")
                         query = f"""
                             WITH ranked AS (
                                 SELECT rh.player_id, rh.rating, rh.rating_date,
@@ -166,7 +185,7 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
                         """
                         cursor.execute(query, (run_id, event, limit, offset))
                     else:
-                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=547)).strftime("%Y-%m-%d")
+                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=240)).strftime("%Y-%m-%d")
                         query = """
                             WITH ranked AS (
                                 SELECT player_id, rating, rating_date,
@@ -204,7 +223,7 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
                         """
                         cursor.execute(query, [run_id, event] + countries + [limit, offset])
                     else:
-                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=547)).strftime("%Y-%m-%d")
+                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=240)).strftime("%Y-%m-%d")
                         query = f"""
                             WITH ranked AS (
                                 SELECT rh.player_id, rh.rating, rh.rating_date,
@@ -232,7 +251,7 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
                         """
                         cursor.execute(query, (run_id, event, limit, offset))
                     else:
-                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=547)).strftime("%Y-%m-%d")
+                        two_years_ago = (datetime.strptime(latest_date, "%Y-%m-%d") - timedelta(days=240)).strftime("%Y-%m-%d")
                         query = """
                             WITH ranked AS (
                                 SELECT player_id, rating, rating_date,
@@ -468,6 +487,26 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
                 "rating": round(hr['rating'], 1)
             })
             
+        # Fetch BWF ranks for the players if we are in elo/whr models
+        bwf_rank_map = {}
+        if model != "bwf" and pids:
+            try:
+                cursor.execute("SELECT MAX(rank_date) FROM bwf_historical_rankings WHERE event = ?", (event,))
+                latest_bwf_date_row = cursor.fetchone()
+                if latest_bwf_date_row and latest_bwf_date_row[0]:
+                    latest_bwf_date = latest_bwf_date_row[0]
+                    pids_param = [int(x) if str(x).isdigit() else x for x in pids]
+                    placeholders_bwf = ",".join(["?"] * len(pids_param))
+                    cursor.execute(f"""
+                        SELECT player_id, rank
+                        FROM bwf_historical_rankings
+                        WHERE event = ? AND rank_date = ? AND player_id IN ({placeholders_bwf})
+                    """, [event, latest_bwf_date] + pids_param)
+                    for row in cursor.fetchall():
+                        bwf_rank_map[str(row[0])] = row[1]
+            except Exception as e:
+                print(f"Error fetching BWF ranks: {e}")
+
         results = []
         for r in rows:
             pid = r['player_id']
@@ -490,7 +529,8 @@ def fetch_leaderboard_data(db_ratings: sqlite3.Connection, db_core: sqlite3.Conn
                 "recent_matches": [matches_data[mid] for mid in player_matches_map.get(pid, []) if mid in matches_data],
                 "history": player_history_map.get(pid, []),
                 "winrate": r['winrate'] if use_stats_table else winrate_map.get(pid, None),
-                "rank_at_peak": r['rank_at_peak'] if use_stats_table else rank_at_peak_map.get(str(pid), rank_at_peak_map.get(pid, None))
+                "rank_at_peak": r['rank_at_peak'] if use_stats_table else rank_at_peak_map.get(str(pid), rank_at_peak_map.get(pid, None)),
+                "bwf_rank": bwf_rank_map.get(str(pid), bwf_rank_map.get(int(pid) if str(pid).isdigit() else pid, None))
             })
             
         return results

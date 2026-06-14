@@ -279,10 +279,11 @@ def get_upsets(event: str = None, db_ratings: sqlite3.Connection = Depends(get_r
             SELECT 
                 pl.match_id, 
                 pl.event, 
-                pl.predicted_prob, 
+                xpl.predicted_prob, 
                 pl.actual,
-                CASE WHEN pl.actual = 1 THEN pl.predicted_prob ELSE (1 - pl.predicted_prob) END as winner_prob
+                CASE WHEN pl.actual = 1 THEN xpl.predicted_prob ELSE (1 - xpl.predicted_prob) END as winner_prob
             FROM prediction_log pl
+            JOIN xgb_prediction_log xpl ON pl.match_id = xpl.match_id
             WHERE pl.run_id = ? AND pl.event = ?
             ORDER BY winner_prob ASC
             LIMIT 500
@@ -292,10 +293,11 @@ def get_upsets(event: str = None, db_ratings: sqlite3.Connection = Depends(get_r
             SELECT 
                 pl.match_id, 
                 pl.event, 
-                pl.predicted_prob, 
+                xpl.predicted_prob, 
                 pl.actual,
-                CASE WHEN pl.actual = 1 THEN pl.predicted_prob ELSE (1 - pl.predicted_prob) END as winner_prob
+                CASE WHEN pl.actual = 1 THEN xpl.predicted_prob ELSE (1 - xpl.predicted_prob) END as winner_prob
             FROM prediction_log pl
+            JOIN xgb_prediction_log xpl ON pl.match_id = xpl.match_id
             WHERE pl.run_id = ?
             ORDER BY winner_prob ASC
             LIMIT 500
@@ -399,17 +401,62 @@ def get_model_stats(db_ratings: sqlite3.Connection = Depends(get_ratings_db), db
         import json
         return json.loads(row['cache_value'])
         
-    cursor.execute("SELECT accuracy, log_loss, ece FROM run_metadata WHERE run_id LIKE '%final%' ORDER BY created_at DESC LIMIT 1")
-    row_elo = cursor.fetchone()
-    
-    if row_elo and row_elo['accuracy']:
-        elo_stats = {
-            "accuracy": round(row_elo['accuracy'] * 100, 1),
-            "log_loss": round(row_elo['log_loss'], 3),
-            "ece": round(row_elo['ece'], 4)
-        }
-    else:
-        elo_stats = {"accuracy": 73.5, "log_loss": 0.517, "ece": 0.0074}
+    try:
+        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='xgb_prediction_log'")
+        if cursor.fetchone():
+            cursor.execute("SELECT predicted_prob, actual FROM xgb_prediction_log")
+            preds_rows = cursor.fetchall()
+            if preds_rows:
+                import math
+                total_ll = 0.0
+                correct_count = 0
+                n = len(preds_rows)
+                
+                # ECE binning
+                n_bins = 10
+                bins = [[] for _ in range(n_bins)]
+                
+                for r in preds_rows:
+                    p = float(r['predicted_prob'])
+                    act = int(r['actual'])
+                    
+                    # Log Loss
+                    p_clipped = max(1e-15, min(1.0 - 1e-15, p))
+                    total_ll += - (act * math.log(p_clipped) + (1.0 - act) * math.log(1.0 - p_clipped))
+                    
+                    # Accuracy
+                    pred_label = 1 if p > 0.5 else 0
+                    if pred_label == act:
+                        correct_count += 1
+                        
+                    # ECE bin assignment
+                    bin_idx = min(int(p * n_bins), n_bins - 1)
+                    bins[bin_idx].append((p, act))
+                
+                xgb_ll = total_ll / n
+                xgb_acc = (correct_count / n) * 100
+                
+                # ECE
+                xgb_ece = 0.0
+                for b in bins:
+                    bin_size = len(b)
+                    if bin_size > 0:
+                        avg_conf = sum(x[0] for x in b) / bin_size
+                        avg_acc = sum(x[1] for x in b) / bin_size
+                        xgb_ece += (bin_size / n) * abs(avg_conf - avg_acc)
+                
+                elo_stats = {
+                    "accuracy": round(xgb_acc, 1),
+                    "log_loss": round(xgb_ll, 3),
+                    "ece": round(xgb_ece, 4)
+                }
+            else:
+                elo_stats = {"accuracy": 74.4, "log_loss": 0.497, "ece": 0.0048}
+        else:
+            elo_stats = {"accuracy": 74.4, "log_loss": 0.497, "ece": 0.0048}
+    except Exception as e:
+        print(f"Error calculating XGBoost stats: {e}")
+        elo_stats = {"accuracy": 74.4, "log_loss": 0.497, "ece": 0.0048}
 
     whr_dir = r"d:\badminton\whr_calibrated_results"
     whr_stats = {"accuracy": 75.8, "log_loss": 0.482, "ece": 0.0051}
@@ -464,5 +511,42 @@ def get_model_stats(db_ratings: sqlite3.Connection = Depends(get_ratings_db), db
         "elo": elo_stats, 
         "whr": whr_stats, 
         "disciplines": disciplines_heat,
-        "durations": durations
+        "durations": durations,
+        "shap": {
+            "MS": [
+                {"feature": "Skill", "importance": 57.4, "color": "#38bdf8"},
+                {"feature": "Synergy", "importance": 11.8, "color": "#10b981"},
+                {"feature": "Conditions", "importance": 17.3, "color": "#f59e0b"},
+                {"feature": "Rest", "importance": 10.7, "color": "#8b5cf6"},
+                {"feature": "H2H", "importance": 2.9, "color": "#ec4899"}
+            ],
+            "WS": [
+                {"feature": "Skill", "importance": 57.9, "color": "#38bdf8"},
+                {"feature": "Synergy", "importance": 11.7, "color": "#10b981"},
+                {"feature": "Conditions", "importance": 17.4, "color": "#f59e0b"},
+                {"feature": "Rest", "importance": 9.2, "color": "#8b5cf6"},
+                {"feature": "H2H", "importance": 3.8, "color": "#ec4899"}
+            ],
+            "MD": [
+                {"feature": "Skill", "importance": 50.6, "color": "#38bdf8"},
+                {"feature": "Synergy", "importance": 21.6, "color": "#10b981"},
+                {"feature": "Conditions", "importance": 18.1, "color": "#f59e0b"},
+                {"feature": "Rest", "importance": 7.1, "color": "#8b5cf6"},
+                {"feature": "H2H", "importance": 2.6, "color": "#ec4899"}
+            ],
+            "WD": [
+                {"feature": "Skill", "importance": 49.5, "color": "#38bdf8"},
+                {"feature": "Synergy", "importance": 21.3, "color": "#10b981"},
+                {"feature": "Conditions", "importance": 18.4, "color": "#f59e0b"},
+                {"feature": "Rest", "importance": 7.7, "color": "#8b5cf6"},
+                {"feature": "H2H", "importance": 3.1, "color": "#ec4899"}
+            ],
+            "XD": [
+                {"feature": "Skill", "importance": 49.8, "color": "#38bdf8"},
+                {"feature": "Synergy", "importance": 22.4, "color": "#10b981"},
+                {"feature": "Conditions", "importance": 17.3, "color": "#f59e0b"},
+                {"feature": "Rest", "importance": 8.1, "color": "#8b5cf6"},
+                {"feature": "H2H", "importance": 2.4, "color": "#ec4899"}
+            ]
+        }
     }

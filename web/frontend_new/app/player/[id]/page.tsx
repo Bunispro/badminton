@@ -5,6 +5,7 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { RatingGraph } from '@/components/charts/rating-graph';
 import { API_BASE_URL } from '@/lib/api';
+import { useThrottledCallback } from '@/hooks/use-throttled-callback';
 
 // Extracted Components
 import { getCountryCode } from './utils';
@@ -27,6 +28,10 @@ interface PlayerStats {
   total_matches?: number;
   dominance_score?: number;
   inactivity_threshold?: number;
+  bwf_rank?: number | null;
+  bwf_points?: number | null;
+  first_match_date?: string | null;
+  last_match_date?: string | null;
   synergy_list?: {
     partner_id: string;
     partner_name: string;
@@ -81,12 +86,30 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
   const [loading, setLoading] = useState(true);
   const [loadingMore, setLoadingMore] = useState(false);
   const [event, setEvent] = useState('MS');
+  const [hasSetDefaultEvent, setHasSetDefaultEvent] = useState(false);
   const [model, setModel] = useState('elo');
   const [offset, setOffset] = useState(0);
   const [hasMore, setHasMore] = useState(true);
   const [startDate, setStartDate] = useState('');
   const [endDate, setEndDate] = useState('');
   const [historyPeriod, setHistoryPeriod] = useState('all');
+
+  const handleSetEvent = useThrottledCallback((ev: string) => setEvent(ev), 200);
+  const handleSetModel = useThrottledCallback((m: string) => setModel(m), 200);
+  const handleSetHistoryPeriod = useThrottledCallback((p: string) => {
+    setHistoryPeriod(p);
+    setStartDate('');
+    setEndDate('');
+  }, 200);
+  const handleClearDates = useThrottledCallback(() => {
+    setStartDate('');
+    setEndDate('');
+  }, 200);
+
+  // Reset default event flag when player ID changes
+  useEffect(() => {
+    setHasSetDefaultEvent(false);
+  }, [id]);
 
   // Clear manual date filters when event or model changes to prevent mismatched bounds
   useEffect(() => {
@@ -96,6 +119,14 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
     }, 0);
     return () => clearTimeout(timer);
   }, [event, model]);
+
+  // Auto-select first available discipline with most matches when player data loads
+  useEffect(() => {
+    if (player?.disciplines && player.disciplines.length > 0 && !hasSetDefaultEvent) {
+      setEvent(player.disciplines[0]);
+      setHasSetDefaultEvent(true);
+    }
+  }, [player, hasSetDefaultEvent]);
 
   // Auto-select first available discipline if current selection is not valid for this player
   useEffect(() => {
@@ -296,18 +327,15 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
           Back to Leaderboard
         </Link>
 
-        {loading && !player ? (
-          <div className="p-12 text-center text-zinc-500 font-mono text-xs uppercase tracking-widest">Loading profile...</div>
-        ) : (
           <div className="space-y-8">
-            <PlayerHeader player={player} stats={stats} countryCode={countryCode} daysSinceLastMatch={daysSinceLastMatch} />
+            <PlayerHeader player={player} stats={stats} countryCode={countryCode} daysSinceLastMatch={daysSinceLastMatch} loading={loading && !player} />
 
             <div className="w-full flex flex-wrap gap-4 items-center justify-between bg-zinc-900/50 p-4 rounded-lg border border-zinc-800/50 backdrop-blur-sm">
               <div className="flex gap-2">
                 {player?.disciplines?.map((ev: string) => (
                   <button
                     key={ev}
-                    onClick={() => setEvent(ev)}
+                    onClick={() => handleSetEvent(ev)}
                     className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${event === ev ? "bg-zinc-100 text-zinc-900 font-bold" : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"}`}
                   >
                     <motion.span className="absolute inset-0 w-full h-full bg-gradient-to-r from-transparent via-white/40 to-transparent" initial={{ x: '-100%' }} whileHover={{ x: '100%' }} transition={{ duration: 0.5, ease: 'easeInOut' }} />
@@ -317,19 +345,19 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
               </div>
 
               <div className="flex gap-2">
-                <button onClick={() => setModel('elo')} className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${model === 'elo' ? "bg-zinc-100 text-zinc-900 font-bold" : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"}`}>
+                <button onClick={() => handleSetModel('elo')} className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${model === 'elo' ? "bg-zinc-100 text-zinc-900 font-bold" : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"}`}>
                   <span className="relative z-10">Elo Model</span>
                 </button>
-                <button onClick={() => setModel('whr')} className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${model === 'whr' ? "bg-zinc-100 text-zinc-900 font-bold" : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"}`}>
+                <button onClick={() => handleSetModel('whr')} className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${model === 'whr' ? "bg-zinc-100 text-zinc-900 font-bold" : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"}`}>
                   <span className="relative z-10">WHR Model</span>
                 </button>
-                <button onClick={() => setModel('bwf')} className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${model === 'bwf' ? "bg-zinc-100 text-zinc-900 font-bold" : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"}`}>
+                <button onClick={() => handleSetModel('bwf')} className={`px-3 py-1.5 text-xs font-semibold rounded-md transition-all relative overflow-hidden group ${model === 'bwf' ? "bg-zinc-100 text-zinc-900 font-bold" : "bg-zinc-800 text-zinc-400 border border-zinc-700 hover:bg-zinc-700 hover:text-zinc-100"}`}>
                   <span className="relative z-10">Official BWF</span>
                 </button>
               </div>
             </div>
  
-            <StatsSection stats={stats} winStreak={winStreak} daysSinceLastMatch={daysSinceLastMatch} model={model} event={event} />
+            <StatsSection stats={stats} winStreak={winStreak} daysSinceLastMatch={daysSinceLastMatch} model={model} event={event} loading={loading} />
  
             <div className="bg-zinc-900/50 backdrop-blur-sm border border-zinc-800/50 rounded-lg p-6">
               <div className="flex justify-between items-center mb-4">
@@ -338,11 +366,7 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
                   {['1m', '3m', '6m', '1y', 'all'].map(p => (
                     <button 
                       key={p} 
-                      onClick={() => {
-                        setHistoryPeriod(p);
-                        setStartDate('');
-                        setEndDate('');
-                      }}
+                      onClick={() => handleSetHistoryPeriod(p)}
                       className={`px-2.5 py-1 text-[10px] rounded transition-all font-semibold uppercase tracking-wider ${historyPeriod === p ? 'bg-sky-500 text-white shadow-lg shadow-sky-500/20' : 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700 hover:text-white'}`}
                     >
                       {p}
@@ -351,7 +375,13 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
                 </div>
               </div>
               <div className="h-64 w-full">
-                <RatingGraph chartData={chartData} isSharpView={isSharpView} matches={allMatches} history={filteredHistory} id={id} model={model} />
+                {loading && history.length === 0 ? (
+                  <div className="h-full w-full bg-zinc-950/40 rounded-lg flex items-center justify-center animate-pulse border border-zinc-800/30">
+                    <div className="text-[10px] text-zinc-600 font-mono uppercase tracking-widest">Loading Rating History...</div>
+                  </div>
+                ) : (
+                  <RatingGraph chartData={chartData} isSharpView={isSharpView} matches={allMatches} history={filteredHistory} id={id} model={model} />
+                )}
               </div>
             </div>
 
@@ -387,7 +417,7 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
                   </div>
                   {(startDate || endDate) && (
                     <button 
-                      onClick={() => { setStartDate(''); setEndDate(''); }}
+                      onClick={handleClearDates}
                       className="px-2.5 py-1.5 text-xs font-semibold bg-rose-500/10 hover:bg-rose-500/20 text-rose-400 border border-rose-500/20 rounded-md transition-colors"
                     >
                       Clear
@@ -396,7 +426,13 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
                 </div>
               </div>
               
-              {matches.length > 0 ? (
+              {loading && matches.length === 0 ? (
+                <div className="p-4 pb-12 space-y-3">
+                  {Array.from({ length: 5 }).map((_, i) => (
+                    <div key={i} className="h-24 w-full bg-zinc-900/30 border border-zinc-800/40 rounded-xl animate-pulse" />
+                  ))}
+                </div>
+              ) : matches.length > 0 ? (
                 <div className="p-4 pb-12 space-y-3">
                   {matches.map((match) => {
                     const isSide1 = match.side1?.some((p: MatchParticipant) => p.id === id);
@@ -411,7 +447,6 @@ export default function PlayerPage({ params }: { params: Promise<{ id: string }>
               )}
             </div>
           </div>
-        )}
       </div>
     </div>
   );

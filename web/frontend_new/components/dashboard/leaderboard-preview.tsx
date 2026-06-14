@@ -7,6 +7,7 @@ import { Flag } from '@/components/ui/flag';
 import { NumberTicker } from '@/components/magicui/number-ticker';
 import { API_BASE_URL } from '@/lib/api';
 import { getCountryCode, formatEliteName, LightningStrike } from './utils';
+import { useThrottledCallback } from '@/hooks/use-throttled-callback';
 
 interface DisciplineTheme {
   bg: string;
@@ -119,6 +120,15 @@ export function LeaderboardPreviewCard() {
   const [activeModel, setActiveModel] = useState('elo');
   const events = ["MS", "WS", "MD", "WD", "XD"];
   const theme = DISCIPLINE_THEMES[activeEvent];
+
+  const throttledSetActiveEvent = useThrottledCallback((ev: string) => {
+    setActiveEvent(ev);
+  }, 200);
+
+  const throttledSetActiveModel = useThrottledCallback((m: string) => {
+    setData(null);
+    setActiveModel(m);
+  }, 200);
 
   const wsPetals = React.useMemo(() => {
     return Array.from({ length: 15 }, (_, i) => ({
@@ -237,10 +247,7 @@ export function LeaderboardPreviewCard() {
             {["elo", "whr", "bwf"].map(m => (
               <button 
                 key={m} 
-                onClick={() => {
-                  setData(null);
-                  setActiveModel(m);
-                }} 
+                onClick={() => throttledSetActiveModel(m)} 
                 className={`px-2 py-0.5 text-[8px] font-black rounded-md transition-all uppercase ${activeModel === m ? 'bg-zinc-100 text-black shadow-sm font-bold' : 'text-zinc-500 hover:text-white'}`}
               >
                 {m}
@@ -251,7 +258,7 @@ export function LeaderboardPreviewCard() {
         
         <div className="flex bg-black/40 p-1 rounded-xl border border-white/5 backdrop-blur-md">
            {events.map(ev => (
-             <button key={ev} onClick={() => setActiveEvent(ev)} className={`px-3 py-1.5 text-[10px] font-black rounded-lg transition-all ${activeEvent === ev ? 'bg-zinc-100 text-black shadow-lg' : 'text-zinc-500 hover:text-white'}`}>{ev}</button>
+             <button key={ev} onClick={() => throttledSetActiveEvent(ev)} className={`px-3 py-1.5 text-[10px] font-black rounded-lg transition-all ${activeEvent === ev ? 'bg-zinc-100 text-black shadow-lg' : 'text-zinc-500 hover:text-white'}`}>{ev}</button>
            ))}
         </div>
       </div>

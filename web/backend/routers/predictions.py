@@ -9,6 +9,7 @@ from datetime import datetime, date, timedelta
 
 from database import get_core_db, get_ratings_db
 from services.player_service import get_latest_rating
+from config import RATINGS_DB_PATH
 
 router = APIRouter()
 
@@ -16,10 +17,39 @@ router = APIRouter()
 xgb_model = None
 shap_explainer = None
 
+XGB_TIERS = ['T0', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6']
+XGB_ROUNDS = ['', '3/4', '5/6', 'Cons. QF', 'Cons. R16', 'Cons. SF', 'Cons. final', 'Final', 'QF', 'Qual. F', 'Qual. QF', 'Qual. R128', 'Qual. R16', 'Qual. R32', 'Qual. R64', 'Qual. SF', 'R1', 'R128', 'R16', 'R2', 'R256', 'R3', 'R32', 'R4', 'R5', 'R6', 'R64', 'R7', 'SF']
+XGB_EVENTS = ['MD', 'MS', 'WD', 'WS', 'XD']
+
+def scale_shap_contributions(shap_raw: dict, predicted_prob: float):
+    """
+    Scales raw log-odds SHAP values to represent exact probability shifts
+    summing up to predicted_prob - base_prob using a mathematically consistent
+    local baseline probability.
+    """
+    total_logit_shift = sum(shap_raw.values())
+    
+    # Clip predicted_prob to prevent division by zero in logit
+    prob_clipped = np.clip(predicted_prob, 1e-15, 1.0 - 1e-15)
+    logit_prob = np.log(prob_clipped / (1.0 - prob_clipped))
+    
+    # Define a consistent base probability for this specific prediction
+    true_base_logit = logit_prob - total_logit_shift
+    true_base_prob = 1.0 / (1.0 + np.exp(-true_base_logit))
+    total_prob_shift = predicted_prob - true_base_prob
+    
+    if abs(total_logit_shift) > 1e-5:
+        k = total_prob_shift / total_logit_shift
+    else:
+        k = prob_clipped * (1.0 - prob_clipped)
+        
+    scaled = {key: round(float(val * k), 4) for key, val in shap_raw.items()}
+    return scaled
+
 try:
     import pickle
     # Connect directly to ratings DB to fetch the model
-    conn = sqlite3.connect("elo_ratings.sqlite")
+    conn = sqlite3.connect(RATINGS_DB_PATH)
     cursor = conn.cursor()
     # Check if table exists first
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='ml_models'")
@@ -38,10 +68,13 @@ try:
 except Exception as e:
     print(f"Backend Warning: Could not load XGBoost model from database: {e}")
 
-def get_player_rest(cursor_core, player_id):
-    """Computes rest days relative to today clamped to 90"""
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    today = datetime.now().date()
+def get_player_rest(cursor_core, player_id, ref_date_str=None):
+    """Computes rest days relative to ref_date_str clamped to 90"""
+    if ref_date_str is None:
+        ref_date_str = datetime.now().strftime("%Y-%m-%d")
+        ref_date = datetime.now().date()
+    else:
+        ref_date = datetime.strptime(ref_date_str, "%Y-%m-%d").date()
     
     # Rest days
     cursor_core.execute("""
@@ -49,26 +82,32 @@ def get_player_rest(cursor_core, player_id):
         FROM matches m
         JOIN match_participants mp ON m.match_id = mp.match_id
         WHERE mp.player_id = ? AND m.is_valid_for_rating = 1 AND m.match_date <= ?
-    """, (player_id, today_str))
+    """, (player_id, ref_date_str))
     
     last_date_row = cursor_core.fetchone()
     last_date_str = last_date_row[0] if last_date_row else None
     if last_date_str:
-        rest_days = (today - datetime.strptime(last_date_str, "%Y-%m-%d").date()).days
+        rest_days = (ref_date - datetime.strptime(last_date_str, "%Y-%m-%d").date()).days
         rest_days = min(90, rest_days)
     else:
         rest_days = 90
         
     return rest_days
 
-def get_h2h_rate(cursor_core, side1_ids, side2_ids):
-    """Fetches head-to-head winrate for the matchup, capped at the last 2 years"""
+def get_h2h_rate(cursor_core, side1_ids, side2_ids, ref_date_str=None):
+    """Fetches head-to-head winrate for the matchup, capped at the last 2 years relative to ref_date_str"""
+    if ref_date_str is None:
+        ref_date = datetime.now()
+        ref_date_str = ref_date.strftime("%Y-%m-%d")
+    else:
+        ref_date = datetime.strptime(ref_date_str, "%Y-%m-%d")
+        
     team_a = "+".join(sorted(side1_ids))
     team_b = "+".join(sorted(side2_ids))
     m_key = tuple(sorted([team_a, team_b]))
     
-    # Calculate cutoff date for 2 years ago
-    two_years_ago_str = (datetime.now() - timedelta(days=730)).strftime("%Y-%m-%d")
+    # Calculate cutoff date for 2 years ago relative to ref_date
+    two_years_ago_str = (ref_date - timedelta(days=730)).strftime("%Y-%m-%d")
     
     # Find candidate matches in the last 2 years where at least one of these players played
     all_players = list(set(side1_ids + side2_ids))
@@ -78,8 +117,8 @@ def get_h2h_rate(cursor_core, side1_ids, side2_ids):
         SELECT DISTINCT mp.match_id
         FROM match_participants mp
         JOIN matches m ON mp.match_id = m.match_id
-        WHERE mp.player_id IN ({placeholders}) AND m.is_valid_for_rating = 1 AND m.match_date >= ?
-    """, all_players + [two_years_ago_str])
+        WHERE mp.player_id IN ({placeholders}) AND m.is_valid_for_rating = 1 AND m.match_date >= ? AND m.match_date <= ?
+    """, all_players + [two_years_ago_str, ref_date_str])
     
     candidate_match_ids = [r[0] for r in cursor_core.fetchall()]
     if not candidate_match_ids:
@@ -128,10 +167,23 @@ def predict_match(request: Request,
                   p2: str = Query(..., max_length=10), 
                   event: str = "MS", 
                   model: str = "whr",
-                  db: sqlite3.Connection = Depends(get_ratings_db)):
+                  db: sqlite3.Connection = Depends(get_ratings_db),
+                  db_core: sqlite3.Connection = Depends(get_core_db)):
         
     cursor = db.cursor()
     
+    if model == "elo":
+        res = predict_match_v2(request, side1=p1, side2=p2, event=event, model=model, db_ratings=db, db_core=db_core)
+        return {
+            "p1": p1,
+            "p2": p2,
+            "prob_p1": res["prob_side1"],
+            "prob_p2": res["prob_side2"],
+            "r1": res["r1"],
+            "r2": res["r2"],
+            "shap_contributions": res.get("shap_contributions")
+        }
+        
     r1 = get_latest_rating(cursor, p1, event, model)
     r2 = get_latest_rating(cursor, p2, event, model)
     
@@ -222,9 +274,9 @@ def predict_match_v2(request: Request,
                 'synergy_a': [syn1],
                 'synergy_b': [syn2],
                 'duration': [35.0], # Default imputed median
-                'tier': pd.Categorical(['T3'], categories=['T0', 'T1', 'T2', 'T3', 'T4', 'T5', 'T6']),
-                'round': pd.Categorical(['Last 32'], categories=['Final', 'Semi-Finals', 'Quarter-Finals', 'Last 16', 'Last 32', 'Last 64', 'Group Stage']),
-                'event': pd.Categorical([event], categories=['MS', 'WS', 'MD', 'WD', 'XD']),
+                'tier': pd.Categorical(['T3'], categories=XGB_TIERS),
+                'round': pd.Categorical(['R32'], categories=XGB_ROUNDS),
+                'event': pd.Categorical([event], categories=XGB_EVENTS),
                 'rest_diff': [avg_rest_a - avg_rest_b],
                 'h2h_rate': [h2h_rate]
             }
@@ -236,13 +288,14 @@ def predict_match_v2(request: Request,
             # 4. Extract SHAP contributions if explainer is active
             if shap_explainer is not None:
                 shap_res = shap_explainer(X)[0]
-                shap_contributions = {
-                    "Baseline Skill Gap": round(float(shap_res.values[0]), 3), # elo_diff
-                    "Doubles Chemistry": round(float(shap_res.values[1] + shap_res.values[2]), 3),  # synergy_a + synergy_b
-                    "Fatigue & Rest Gap": round(float(shap_res.values[7]), 3), # rest_diff
-                    "H2H Record": round(float(shap_res.values[8]), 3), # h2h_rate
-                    "Match Context": round(float(shap_res.values[3] + shap_res.values[4] + shap_res.values[5] + shap_res.values[6]), 3) # duration + tier + round + event
+                raw_contributions = {
+                    "Baseline Skill Gap": float(shap_res.values[0]), # elo_diff
+                    "Doubles Chemistry": float(shap_res.values[1] + shap_res.values[2]),  # synergy_a + synergy_b
+                    "Fatigue & Rest Gap": float(shap_res.values[7]), # rest_diff
+                    "H2H Record": float(shap_res.values[8]), # h2h_rate
+                    "Match Context": float(shap_res.values[3] + shap_res.values[4] + shap_res.values[5] + shap_res.values[6]) # duration + tier + round + event
                 }
+                shap_contributions = scale_shap_contributions(raw_contributions, prob)
         except Exception as ex:
             print(f"Prediction fallback due to error: {ex}")
             # Fallback to classical probability already calculated
@@ -471,14 +524,68 @@ def get_matchup_prediction(
     strength1 = r1a + r1b
     strength2 = r2a + r2b
     
-    if model == "bwf":
-        if strength1 > 0:
-            prob1 = 1.0 / (1.0 + (strength2 / strength1) ** 0.1987)
+    prob1 = None
+    
+    # Use XGBoost for Elo model if available
+    if model == "elo" and xgb_model is not None:
+        try:
+            p1_ids = [side1_p1]
+            if side1_p2: p1_ids.append(side1_p2)
+            p2_ids = [side2_p1]
+            if side2_p2: p2_ids.append(side2_p2)
+            
+            # 1. Fetch synergies
+            syn1 = 0.0
+            syn2 = 0.0
+            cursor_r = db_ratings.cursor()
+            if len(p1_ids) == 2:
+                cursor_r.execute("SELECT synergy FROM pair_synergy_current WHERE (player1_id=? AND player2_id=?) OR (player1_id=? AND player2_id=?)", (p1_ids[0], p1_ids[1], p1_ids[1], p1_ids[0]))
+                row = cursor_r.fetchone()
+                if row: syn1 = row[0]
+            if len(p2_ids) == 2:
+                cursor_r.execute("SELECT synergy FROM pair_synergy_current WHERE (player1_id=? AND player2_id=?) OR (player1_id=? AND player2_id=?)", (p2_ids[0], p2_ids[1], p2_ids[1], p2_ids[0]))
+                row = cursor_r.fetchone()
+                if row: syn2 = row[0]
+                
+            # 2. Fetch rest days relative to target dates
+            rest_1_list = [get_player_rest(db_core.cursor(), pid, date1) for pid in p1_ids]
+            rest_2_list = [get_player_rest(db_core.cursor(), pid, date2) for pid in p2_ids]
+            
+            avg_rest_a = np.mean(rest_1_list)
+            avg_rest_b = np.mean(rest_2_list)
+            
+            # Use date1 as the matchup target date reference
+            h2h_rate = get_h2h_rate(db_core.cursor(), p1_ids, p2_ids, date1)
+            
+            # 3. Construct Match Feature DataFrame (9 features)
+            feature_data = {
+                'elo_diff': [strength1 - strength2], # Side 1 - Side 2
+                'synergy_a': [syn1],
+                'synergy_b': [syn2],
+                'duration': [35.0],
+                'tier': pd.Categorical(['T3'], categories=XGB_TIERS),
+                'round': pd.Categorical(['R32'], categories=XGB_ROUNDS),
+                'event': pd.Categorical([event], categories=XGB_EVENTS),
+                'rest_diff': [avg_rest_a - avg_rest_b],
+                'h2h_rate': [h2h_rate]
+            }
+            X = pd.DataFrame(feature_data)
+            
+            # Predict win probability using XGBoost (for Side 1)
+            prob1 = float(xgb_model.predict_proba(X)[0, 1])
+        except Exception as ex:
+            print(f"Matchup prediction fallback due to error: {ex}")
+            prob1 = None
+            
+    if prob1 is None:
+        if model == "bwf":
+            if strength1 > 0:
+                prob1 = 1.0 / (1.0 + (strength2 / strength1) ** 0.1987)
+            else:
+                prob1 = 0.5
         else:
-            prob1 = 0.5
-    else:
-        diff = (strength2 - strength1) / 400.0
-        prob1 = 1.0 / (1.0 + 10**diff)
+            diff = (strength2 - strength1) / 400.0
+            prob1 = 1.0 / (1.0 + 10**diff)
     
     cursor_c = db_core.cursor()
     def get_player_info(p_id):
@@ -534,3 +641,57 @@ def get_matchup_prediction(
             "date2": date2
         }
     }
+
+@router.get("/api/predictions/match/{match_id}/shap")
+def get_match_shap(match_id: str, ratings_db: sqlite3.Connection = Depends(get_ratings_db)):
+    if shap_explainer is None:
+        raise HTTPException(status_code=503, detail="SHAP explainer is not active or loaded.")
+        
+    cursor = ratings_db.cursor()
+    cursor.execute("""
+        SELECT elo_diff, synergy_a, synergy_b, duration, tier, round, event, rest_diff, h2h_rate
+        FROM ml_match_features
+        WHERE match_id = ?
+    """, (match_id,))
+    row = cursor.fetchone()
+    if not row:
+        raise HTTPException(status_code=404, detail="Features not found for this match.")
+        
+    # sqlite3.Row supports sequence unpacking
+    elo_diff, synergy_a, synergy_b, duration, tier, match_round, event, rest_diff, h2h_rate = row
+    
+    try:
+        # Construct Match Feature DataFrame (9 features matching training configuration)
+        feature_data = {
+            'elo_diff': [elo_diff],
+            'synergy_a': [synergy_a],
+            'synergy_b': [synergy_b],
+            'duration': [duration if duration is not None else 35.0],
+            'tier': pd.Categorical([tier], categories=XGB_TIERS),
+            'round': pd.Categorical([match_round], categories=XGB_ROUNDS),
+            'event': pd.Categorical([event], categories=XGB_EVENTS),
+            'rest_diff': [rest_diff],
+            'h2h_rate': [h2h_rate]
+        }
+        X = pd.DataFrame(feature_data)
+        
+        prob = float(xgb_model.predict_proba(X)[0, 1])
+        shap_res = shap_explainer(X)[0]
+        
+        raw_contributions = {
+            "Baseline Skill Gap": float(shap_res.values[0]), # elo_diff
+            "Doubles Chemistry": float(shap_res.values[1] + shap_res.values[2]),  # synergy_a + synergy_b
+            "Fatigue & Rest Gap": float(shap_res.values[7]), # rest_diff
+            "H2H Record": float(shap_res.values[8]), # h2h_rate
+            "Match Context": float(shap_res.values[3] + shap_res.values[4] + shap_res.values[5] + shap_res.values[6]) # duration + tier + round + event
+        }
+        
+        shap_contributions = scale_shap_contributions(raw_contributions, prob)
+        
+        return {
+            "match_id": match_id,
+            "shap_contributions": shap_contributions
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to calculate SHAP values: {e}")
+

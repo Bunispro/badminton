@@ -80,14 +80,17 @@ def get_player_details(id: str = Path(..., max_length=10), db_core: sqlite3.Conn
         raise HTTPException(status_code=404, detail="Player not found")
         
     cursor_core.execute("""
-        SELECT DISTINCT event_canon 
+        SELECT event_canon, COUNT(*) as match_count
         FROM matches m
         JOIN match_participants mp ON m.match_id = mp.match_id
-        WHERE mp.player_id = ? AND m.is_valid_for_rating = 1
+        WHERE mp.player_id = ? AND m.is_valid_for_rating = 1 AND m.event_canon IS NOT NULL AND m.event_canon != ''
+        GROUP BY event_canon
+        ORDER BY match_count DESC
     """, (id,))
-    events = [r['event_canon'] for r in cursor_core.fetchall() if r['event_canon']]
+    events = [r['event_canon'] for r in cursor_core.fetchall()]
     
     return {"id": id, "name": row['name_display'] or row['name_normalized'], "country": row['country_code'], "disciplines": events}
+
 
 @router.get("/api/player/{id}/history")
 def get_player_history(id: str = Path(..., max_length=10), 
@@ -316,6 +319,20 @@ def get_player_matches(id: str = Path(...),
             conn_ratings.row_factory = sqlite3.Row
             cursor_ratings = conn_ratings.cursor()
             
+            xgb_predictions = {}
+            if model == "elo":
+                try:
+                    placeholders_mids = ",".join(["?"] * len(match_ids))
+                    cursor_ratings.execute(f"""
+                        SELECT match_id, predicted_prob
+                        FROM xgb_prediction_log
+                        WHERE match_id IN ({placeholders_mids})
+                    """, [str(mid) for mid in match_ids])
+                    for row_p in cursor_ratings.fetchall():
+                        xgb_predictions[str(row_p["match_id"])] = float(row_p["predicted_prob"])
+                except Exception as e:
+                    print(f"Warning: could not fetch from xgb_prediction_log: {e}")
+            
             if model == "whr":
                 cursor_ratings.execute("SELECT run_id FROM whr_run_metadata WHERE run_id LIKE ? ORDER BY created_at DESC LIMIT 1", (f"%_{event}",))
                 row = cursor_ratings.fetchone()
@@ -387,14 +404,17 @@ def get_player_matches(id: str = Path(...),
                             p["rank"] = None
                             p["rating_change"] = None
                             
-                s1_ratings = [p["rating"] for p in m["side1"] if p["rating"] is not None]
-                s2_ratings = [p["rating"] for p in m["side2"] if p["rating"] is not None]
-                if s1_ratings and s2_ratings:
-                    avg_s1 = sum(s1_ratings) / len(s1_ratings)
-                    avg_s2 = sum(s2_ratings) / len(s2_ratings)
-                    m["predicted_win_rate"] = 1 / (1 + 10**((avg_s2 - avg_s1) / 400))
+                if model == "elo" and str(mid) in xgb_predictions:
+                    m["predicted_win_rate"] = xgb_predictions[str(mid)]
                 else:
-                    m["predicted_win_rate"] = None
+                    s1_ratings = [p["rating"] for p in m["side1"] if p["rating"] is not None]
+                    s2_ratings = [p["rating"] for p in m["side2"] if p["rating"] is not None]
+                    if s1_ratings and s2_ratings:
+                        avg_s1 = sum(s1_ratings) / len(s1_ratings)
+                        avg_s2 = sum(s2_ratings) / len(s2_ratings)
+                        m["predicted_win_rate"] = 1 / (1 + 10**((avg_s2 - avg_s1) / 400))
+                    else:
+                        m["predicted_win_rate"] = None
     else:
         for mid, m in matches.items():
             for side in ["side1", "side2"]:
@@ -688,7 +708,7 @@ def get_player_stats(id: str = Path(...),
             SELECT rank, points
             FROM bwf_historical_rankings
             WHERE event = ? AND player_id = ?
-            ORDER BY rank_date DESC
+            ORDER BY rank_date DESC, rank ASC
             LIMIT 1
         """, (event, id))
         bwf_row = cursor_ratings.fetchone()
@@ -803,7 +823,7 @@ def get_player_stats(id: str = Path(...),
         if total_sets > 0:
             dominance_score = round(total_diff / total_sets, 2)
 
-    decay_grace_days = 180
+    decay_grace_days = 240
     try:
         if model == "elo":
             cursor_ratings.execute("SELECT decay_grace_days FROM run_metadata WHERE run_id LIKE '%final%' ORDER BY created_at DESC LIMIT 1")
@@ -812,6 +832,28 @@ def get_player_stats(id: str = Path(...),
                 decay_grace_days = int(meta_row['decay_grace_days'])
     except Exception as e:
         print(f"Error getting decay_grace_days: {e}")
+    # Force 240 days (8 months) as requested by user
+    # BWF rank & points and Circuit longevity query
+    cursor_core.execute("""
+        SELECT MIN(m.match_date) as first_match, MAX(m.match_date) as last_match
+        FROM matches m
+        JOIN match_participants mp ON m.match_id = mp.match_id AND mp.player_id = ?
+        WHERE m.event_canon = ? AND m.is_valid_for_rating = 1
+    """, (id, event))
+    span_row = cursor_core.fetchone()
+    first_match = span_row['first_match'] if span_row else None
+    last_match = span_row['last_match'] if span_row else None
+
+    cursor_ratings.execute("""
+        SELECT rank, points
+        FROM bwf_historical_rankings
+        WHERE event = ? AND player_id = ?
+        ORDER BY rank_date DESC, rank ASC
+        LIMIT 1
+    """, (event, id))
+    bwf_row = cursor_ratings.fetchone()
+    bwf_rank = bwf_row['rank'] if bwf_row else None
+    bwf_points = bwf_row['points'] if bwf_row else None
 
     return {
         "player_id": id,
@@ -828,7 +870,11 @@ def get_player_stats(id: str = Path(...),
         "current_rating": current_rating,
         "current_rank": current_rank,
         "dominance_score": dominance_score,
-        "inactivity_threshold": decay_grace_days
+        "inactivity_threshold": decay_grace_days,
+        "bwf_rank": bwf_rank,
+        "bwf_points": bwf_points,
+        "first_match_date": first_match,
+        "last_match_date": last_match
     }
 
 @router.get("/api/player/{id}/uncertainty")
@@ -890,7 +936,7 @@ def get_player_bwf_history(id: str = Path(..., max_length=10),
                            db: sqlite3.Connection = Depends(get_ratings_db)):
     cursor = db.cursor()
     query = """
-        SELECT rank_date, week, event, rank, points, country
+        SELECT rank_date, week, event, MIN(rank) as rank, points, country
         FROM bwf_historical_rankings
         WHERE player_id = ?
     """
@@ -898,7 +944,7 @@ def get_player_bwf_history(id: str = Path(..., max_length=10),
     if event:
         query += " AND event = ?"
         params.append(event)
-    query += " ORDER BY rank_date ASC"
+    query += " GROUP BY rank_date, event ORDER BY rank_date ASC"
     
     cursor.execute(query, params)
     rows = cursor.fetchall()
